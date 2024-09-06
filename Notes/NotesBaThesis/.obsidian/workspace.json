@@ -54,9 +54,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "910522f69e490445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd3466c1789e0f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Ziele und Projektplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c7c5fbd77ccb1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95b6c3a4a01128fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Cultivating Gratitude with a Chatbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ce21ca6687a0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Cultivating Gratitude with a Chatbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3719f34d0010298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/CBT mit Chatbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -122,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-06.md",
+                "file": "Papers/CBT mit Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-06.md",
+                "file": "Papers/CBT mit Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-06.md"
+                "file": "Papers/CBT mit Chatbot.md"
               }
             }
           }
@@ -183,13 +255,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e94ee955010f26f",
+  "active": "c3719f34d0010298",
   "lastOpenFiles": [
+    "Papers/Cultivating Gratitude with a Chatbot.md",
+    "Papers/CBT mit Chatbot.md",
+    "Templates/Paper.md",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
-    "2024-09-06.md",
-    "Standards.md",
-    "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
     "Papers/Papers.md",
+    "2024-09-06.md",
+    "Orga/Ziele und Projektplan.md",
+    "Orga/Standards.md",
+    "Templates",
+    "Orga/Mögliche Themen.md",
+    "Orga/Recherchieren.md",
+    "Orga",
+    "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
     "Papers"
   ]
 }

@@ -1,5 +1,7 @@
 Übersicht über alle Papers mit einer kurzen Zusammenfassung (+Einordnung)
 
+[[Standards | Standardheader für Papernotizen]]
+
 
  [[Purchase intentions in a chatbot environment - An examination of the effects of customer experience | Purchase intentions chatbot]] #hci #purchaseintentions
 
