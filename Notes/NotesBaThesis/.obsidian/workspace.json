@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Mögliche Themen.md",
+                "file": "Papers/CBT mit Chatbot.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Mögliche Themen.md",
+                "file": "Papers/CBT mit Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Mögliche Themen.md",
+                "file": "Papers/CBT mit Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Mögliche Themen.md"
+                "file": "Papers/CBT mit Chatbot.md"
               }
             }
           }
@@ -257,19 +257,19 @@
   },
   "active": "c3719f34d0010298",
   "lastOpenFiles": [
-    "Orga/Recherchieren.md",
-    "Orga/Ziele und Projektplan.md",
-    "Papers/CBT mit Chatbot.md",
-    "Papers/Cultivating Gratitude with a Chatbot.md",
-    "Templates/Paper.md",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
+    "Papers/CBT mit Chatbot.md",
+    "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
     "Papers/Papers.md",
+    "Papers/Cultivating Gratitude with a Chatbot.md",
+    "Orga/Ziele und Projektplan.md",
+    "Orga/Recherchieren.md",
+    "Orga/Mögliche Themen.md",
+    "Templates/Paper.md",
     "2024-09-06.md",
     "Orga/Standards.md",
     "Templates",
-    "Orga/Mögliche Themen.md",
     "Orga",
-    "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
     "Papers"
   ]
 }
