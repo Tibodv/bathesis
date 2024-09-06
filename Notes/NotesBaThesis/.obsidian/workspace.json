@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/CBT mit Chatbot.md",
+                "file": "Orga/Mögliche Themen.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/CBT mit Chatbot.md",
+                "file": "Orga/Mögliche Themen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/CBT mit Chatbot.md",
+                "file": "Orga/Mögliche Themen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/CBT mit Chatbot.md"
+                "file": "Orga/Mögliche Themen.md"
               }
             }
           }
@@ -257,17 +257,17 @@
   },
   "active": "c3719f34d0010298",
   "lastOpenFiles": [
-    "Papers/Cultivating Gratitude with a Chatbot.md",
+    "Orga/Recherchieren.md",
+    "Orga/Ziele und Projektplan.md",
     "Papers/CBT mit Chatbot.md",
+    "Papers/Cultivating Gratitude with a Chatbot.md",
     "Templates/Paper.md",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
     "Papers/Papers.md",
     "2024-09-06.md",
-    "Orga/Ziele und Projektplan.md",
     "Orga/Standards.md",
     "Templates",
     "Orga/Mögliche Themen.md",
-    "Orga/Recherchieren.md",
     "Orga",
     "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
     "Papers"
