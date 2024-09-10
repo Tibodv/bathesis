@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39c7c5fbd77ccb1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c12497e7a58d27b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neue Test Notiz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95b6c3a4a01128fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Cultivating Gratitude with a Chatbot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19ce21ca6687a0ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Cultivating Gratitude with a Chatbot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3719f34d0010298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/CBT mit Chatbot.md",
+                "file": "Orga/Mögliche Themen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neue Test Notiz.md",
+                "file": "Orga/Mögliche Themen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neue Test Notiz.md",
+                "file": "Orga/Mögliche Themen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neue Test Notiz.md"
+                "file": "Orga/Mögliche Themen.md"
               }
             }
           }
@@ -195,19 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c12497e7a58d27b",
+  "active": "c3719f34d0010298",
   "lastOpenFiles": [
+    "Orga/Standards.md",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
+    "Papers/CBT mit Chatbot.md",
+    "Papers/Cultivating Gratitude with a Chatbot.md",
     "Neue Test Notiz.md",
     "Papers/Papers.md",
     "Orga/Mögliche Themen.md",
     "Orga/Ziele und Projektplan.md",
-    "Orga/Standards.md",
     "Orga/Recherchieren.md",
     "2024-09-06.md",
-    "Papers/CBT mit Chatbot.md",
     "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
-    "Papers/Cultivating Gratitude with a Chatbot.md",
     "Templates/Paper.md",
     "Templates",
     "Orga",
