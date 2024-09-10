@@ -6,6 +6,8 @@
 
 
 
+
+
 # Ai & Gratitude
 
 ## Single gratitude exercises w/ chatbot 
