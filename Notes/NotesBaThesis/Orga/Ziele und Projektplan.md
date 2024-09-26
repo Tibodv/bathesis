@@ -8,10 +8,12 @@
 
 ## Ziele Momentan: 
 
-- [ ] Filesystem einrichten
-- [ ] Für ein [[Mögliche Themen| Thema]] entscheiden
+- [x] Filesystem einrichten
+- [x] Für ein [[Mögliche Themen| Thema]] entscheiden
 - [ ] [[Papers]] lesen und eintragen
-- [ ] Weg finden, ein Netz aus Papers zu erstellen um Übersicht über die relevanten Spaces zu bekommen.
+- [ ] Plan für Mock up erstellen
+- [ ] Modelle für Technology Acceptance lesen, abwägen und verstehen. 
+- [ ] 
 - [ ] Word vs LaTeX recherchieren und abwägen.
 
 ## Ziele Mid-Term

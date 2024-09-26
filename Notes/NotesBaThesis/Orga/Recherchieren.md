@@ -1,7 +1,6 @@
 - [ ] statistical power
-- [ ] Welche Genderstereotype gibt es in Bewerbungsprozessen ? 
 - [ ] Wann wird eine KI als Menschlich wahrgenommen ?
-- [ ] Was macht aus als welches Geschlecht eine KI wahrgenommen wird ? 
-- [ ] Übertragen sich die Genderstereotype die in echten Bewerbungsprozessen angenommen werden auf KI ?
 - [ ] FRED D DAVIS !! (technology acceptance model)
 - [ ] Welche Einflussfaktoren gibt es auf PEOU bei KI ? 
+- [ ] Partial Least Squares
+- [ ] SmartPLS Software
