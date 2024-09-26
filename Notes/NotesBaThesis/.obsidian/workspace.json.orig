@@ -8,31 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d0e8df6ce14f484",
+<<<<<<< HEAD
+=======
+            "id": "39c7c5fbd77ccb1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Exposé.md",
+                "file": "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d70a2c43618d03d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mock-Up/Mock-Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6ba2488f585d594",
+            "id": "7c12497e7a58d27b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,8 +32,86 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0e4b6b97765a5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Factors for AI Acceptance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb5d407fa1084d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d0e8df6ce14f484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Recherchieren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95b6c3a4a01128fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Cultivating Gratitude with a Chatbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ce21ca6687a0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Cultivating Gratitude with a Chatbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+>>>>>>> e0e267e9f6ed6460613c0c5dc8524977e89c778e
+            "id": "c3719f34d0010298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Mögliche Themen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
+<<<<<<< HEAD
         ]
+=======
+        ],
+        "currentTab": 4
+>>>>>>> e0e267e9f6ed6460613c0c5dc8524977e89c778e
       }
     ],
     "direction": "vertical"
@@ -109,7 +177,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Exposé.md",
+<<<<<<< HEAD
+                "file": "Orga/Mögliche Themen.md",
+=======
+                "file": "Orga/Recherchieren.md",
+>>>>>>> e0e267e9f6ed6460613c0c5dc8524977e89c778e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +198,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Exposé.md",
+<<<<<<< HEAD
+                "file": "Orga/Mögliche Themen.md",
+=======
+                "file": "Orga/Recherchieren.md",
+>>>>>>> e0e267e9f6ed6460613c0c5dc8524977e89c778e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +225,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Exposé.md"
+<<<<<<< HEAD
+                "file": "Orga/Mögliche Themen.md"
+=======
+                "file": "Orga/Recherchieren.md"
+>>>>>>> e0e267e9f6ed6460613c0c5dc8524977e89c778e
               }
             }
           }
@@ -170,27 +250,33 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+  "active": "c3719f34d0010298",
+  "lastOpenFiles": [
+    "Orga/Standards.md",
+=======
   "active": "0d0e8df6ce14f484",
   "lastOpenFiles": [
-    "Mock-Up/Mock-Up.md",
+    "Papers/Einführung TAM.md",
     "Papers/Papers.md",
     "Papers/Factors for AI Acceptance.md",
-    "Papers/Einführung TAM.md",
-    "Papers/CBT mit Chatbot.md",
-    "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
-    "Orga/Ziele und Projektplan.md",
-    "Erhebung/Variablen.md",
-    "Erhebung",
-    "Mock-Up",
-    "Orga/Exposé.md",
-    "Orga/Mögliche Themen.md",
-    "Orga/Recherchieren.md",
     "Glossar.md",
+    "Orga/Recherchieren.md",
+    "Orga/Exposé.md",
+>>>>>>> e0e267e9f6ed6460613c0c5dc8524977e89c778e
+    "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
+    "Papers/CBT mit Chatbot.md",
+    "Papers/Cultivating Gratitude with a Chatbot.md",
     "Neue Test Notiz.md",
+    "Orga/Mögliche Themen.md",
+    "Orga/Ziele und Projektplan.md",
+<<<<<<< HEAD
+    "Orga/Recherchieren.md",
+=======
     "Orga/Standards.md",
+>>>>>>> e0e267e9f6ed6460613c0c5dc8524977e89c778e
     "2024-09-06.md",
     "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
-    "Papers/Cultivating Gratitude with a Chatbot.md",
     "Templates/Paper.md",
     "Templates",
     "Orga",
