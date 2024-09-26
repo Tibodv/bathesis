@@ -1,4 +1,6 @@
 Übersicht über alle Papers mit einer kurzen Zusammenfassung (+Einordnung)
+[[Glossar]]
+
 
 [[Standards | Standardheader für Papernotizen]]
 
