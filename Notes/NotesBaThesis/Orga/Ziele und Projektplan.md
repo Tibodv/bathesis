@@ -11,6 +11,8 @@
 - [x] Filesystem einrichten
 - [x] Für ein [[Mögliche Themen| Thema]] entscheiden
 - [ ] [[Papers]] lesen und eintragen
+- [ ] Zotero ansehen, installieren und in gh einbinden
+- [ ] notizen aus dem notizbuch hier nachtragen (eintrag vom 17.10.)
 - [ ] Plan für Mock up erstellen
 - [ ] Modelle für Technology Acceptance lesen, abwägen und verstehen. 
 - [ ] Word vs LaTeX recherchieren und abwägen.

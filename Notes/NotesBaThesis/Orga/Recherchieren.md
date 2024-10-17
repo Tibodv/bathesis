@@ -1,4 +1,5 @@
 - [ ] statistical power
+- [ ] klassifizierung between subjects etc
 - [ ] Wann wird eine KI als Menschlich wahrgenommen ?
 - [x] FRED D DAVIS !! (technology acceptance model)
 - [ ] Welche Einflussfaktoren gibt es auf PEOU bei KI ? 

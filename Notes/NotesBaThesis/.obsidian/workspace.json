@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Recherchieren.md",
+                "file": "Orga/Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recherchieren"
+              "title": "Ziele und Projektplan"
             }
           }
         ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Recherchieren.md",
+                "file": "Orga/Ziele und Projektplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recherchieren"
+              "title": "Backlinks for Ziele und Projektplan"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Recherchieren.md",
+                "file": "Orga/Ziele und Projektplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recherchieren"
+              "title": "Outgoing links from Ziele und Projektplan"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Recherchieren.md"
+                "file": "Orga/Ziele und Projektplan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Recherchieren"
+              "title": "Outline of Ziele und Projektplan"
             }
           }
         ]
@@ -221,27 +221,29 @@
   },
   "active": "18ad1a67d57832a1",
   "lastOpenFiles": [
-    "Orga/Exposé.md",
     "Erhebung/Technology Acceptance Models.md",
-    "Untitled.canvas",
-    "Orga/Mögliche Themen.md",
-    "Orga/Recherchieren.md",
-    "2024-09-06.md",
-    "Orga/Ziele und Projektplan.md",
-    "Standards.md",
-    "Papers/Papers.md",
-    "Neue Test Notiz.md",
-    "Orga/Standards.md",
-    "Erhebung/Hypothesen.md",
-    "Erhebung/Variablen.md",
-    "Templates/fragen.md",
-    "Mock-Up/Mock-Up.md",
     "Papers/UTAUT2.md",
-    "Pasted image 20240926151644.png",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
     "Papers/CBT mit Chatbot.md",
     "Papers/Cultivating Gratitude with a Chatbot.md",
     "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
+    "Papers/Factors for AI Acceptance.md",
+    "Papers/Papers.md",
+    "Papers/Einführung TAM.md",
+    "Orga/Recherchieren.md",
+    "Orga/Mögliche Themen.md",
+    "Orga/Exposé.md",
+    "Pasted image 20240926151644.png",
+    "Erhebung/Hypothesen.md",
+    "Orga/Ziele und Projektplan.md",
+    "Untitled.canvas",
+    "2024-09-06.md",
+    "Standards.md",
+    "Neue Test Notiz.md",
+    "Orga/Standards.md",
+    "Erhebung/Variablen.md",
+    "Templates/fragen.md",
+    "Mock-Up/Mock-Up.md",
     "Templates/Paper.md",
     "Templates",
     "Orga",
