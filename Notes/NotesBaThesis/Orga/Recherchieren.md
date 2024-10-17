@@ -1,6 +1,7 @@
 - [ ] statistical power
 - [ ] Wann wird eine KI als Menschlich wahrgenommen ?
-- [ ] FRED D DAVIS !! (technology acceptance model)
+- [x] FRED D DAVIS !! (technology acceptance model)
 - [ ] Welche Einflussfaktoren gibt es auf PEOU bei KI ? 
 - [ ] Partial Least Squares
 - [ ] SmartPLS Software
+- [ ] Person-Job-Fit Theory

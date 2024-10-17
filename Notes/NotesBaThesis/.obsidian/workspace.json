@@ -16,7 +16,9 @@
                 "file": "Orga/Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ziele und Projektplan"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Erhebung/Technology Acceptance Models.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Technology Acceptance Models"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Erhebung/Technology Acceptance Models.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Technology Acceptance Models"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Orga/Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ziele und Projektplan"
             }
           },
           {
@@ -61,10 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erhebung/Technology Acceptance Models.md",
+                "file": "Orga/Recherchieren.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Recherchieren"
             }
           }
         ],
@@ -88,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -134,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Erhebung/Technology Acceptance Models.md",
+                "file": "Orga/Recherchieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Recherchieren"
             }
           },
           {
@@ -151,10 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Erhebung/Technology Acceptance Models.md",
+                "file": "Orga/Recherchieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Recherchieren"
             }
           },
           {
@@ -165,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -174,8 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Erhebung/Technology Acceptance Models.md"
-              }
+                "file": "Orga/Recherchieren.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Recherchieren"
             }
           }
         ]
@@ -197,20 +221,21 @@
   },
   "active": "18ad1a67d57832a1",
   "lastOpenFiles": [
+    "Orga/Exposé.md",
+    "Erhebung/Technology Acceptance Models.md",
+    "Untitled.canvas",
+    "Orga/Mögliche Themen.md",
+    "Orga/Recherchieren.md",
     "2024-09-06.md",
     "Orga/Ziele und Projektplan.md",
-    "Orga/Recherchieren.md",
     "Standards.md",
     "Papers/Papers.md",
     "Neue Test Notiz.md",
     "Orga/Standards.md",
-    "Orga/Mögliche Themen.md",
-    "Orga/Exposé.md",
     "Erhebung/Hypothesen.md",
     "Erhebung/Variablen.md",
     "Templates/fragen.md",
     "Mock-Up/Mock-Up.md",
-    "Erhebung/Technology Acceptance Models.md",
     "Papers/UTAUT2.md",
     "Pasted image 20240926151644.png",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
