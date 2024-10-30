@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Ziele und Projektplan"
             }
+          },
+          {
+            "id": "5a90a21449e672fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mock-Up/Fragen Talentfokus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fragen Talentfokus"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,8 +233,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18ad1a67d57832a1",
+  "active": "5a90a21449e672fa",
   "lastOpenFiles": [
+    "Orga/Ziele und Projektplan.md",
+    "Talentfokus.md",
+    "Orga/Exposé.md",
+    "Orga/Mögliche Themen.md",
+    "Orga/Recherchieren.md",
+    "Mock-Up/Fragen Talentfokus.md",
     "Erhebung/Technology Acceptance Models.md",
     "Papers/UTAUT2.md",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
@@ -230,12 +250,8 @@
     "Papers/Factors for AI Acceptance.md",
     "Papers/Papers.md",
     "Papers/Einführung TAM.md",
-    "Orga/Recherchieren.md",
-    "Orga/Mögliche Themen.md",
-    "Orga/Exposé.md",
     "Pasted image 20240926151644.png",
     "Erhebung/Hypothesen.md",
-    "Orga/Ziele und Projektplan.md",
     "Untitled.canvas",
     "2024-09-06.md",
     "Standards.md",

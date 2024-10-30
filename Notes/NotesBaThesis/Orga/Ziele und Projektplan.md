@@ -13,6 +13,8 @@
 - [ ] [[Papers]] lesen und eintragen
 - [ ] Zotero ansehen, installieren und in gh einbinden
 - [ ] notizen aus dem notizbuch hier nachtragen (eintrag vom 17.10.)
+- [x] Talentfokus kontaktiert
+- [ ] Gespräch mit [[Fragen Talentfokus|Talentfokus|]] gehabt
 - [ ] Plan für Mock up erstellen
 - [ ] Modelle für Technology Acceptance lesen, abwägen und verstehen. 
 - [ ] Word vs LaTeX recherchieren und abwägen.
