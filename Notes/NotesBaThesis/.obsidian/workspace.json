@@ -16,9 +16,7 @@
                 "file": "Orga/Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ziele und Projektplan"
+              }
             }
           },
           {
@@ -30,9 +28,7 @@
                 "file": "Erhebung/Technology Acceptance Models.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technology Acceptance Models"
+              }
             }
           },
           {
@@ -44,9 +40,7 @@
                 "file": "Erhebung/Technology Acceptance Models.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technology Acceptance Models"
+              }
             }
           },
           {
@@ -58,9 +52,7 @@
                 "file": "Orga/Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ziele und Projektplan"
+              }
             }
           },
           {
@@ -72,9 +64,7 @@
                 "file": "Orga/Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ziele und Projektplan"
+              }
             }
           },
           {
@@ -86,9 +76,7 @@
                 "file": "Mock-Up/Fragen Talentfokus.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fragen Talentfokus"
+              }
             }
           }
         ],
@@ -112,9 +100,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -129,9 +115,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -139,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -164,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Ziele und Projektplan.md",
+                "file": "Mock-Up/Fragen Talentfokus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,9 +154,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Ziele und Projektplan"
+              }
             }
           },
           {
@@ -183,12 +163,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Ziele und Projektplan.md",
+                "file": "Mock-Up/Fragen Talentfokus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Ziele und Projektplan"
+              }
             }
           },
           {
@@ -199,9 +177,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -210,10 +186,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Ziele und Projektplan.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Ziele und Projektplan"
+                "file": "Mock-Up/Fragen Talentfokus.md"
+              }
             }
           }
         ]
