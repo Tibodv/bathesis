@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Ziele und Projektplan.md",
+                "file": "Orga/01 - Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01 - Ziele und Projektplan"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Erhebung/Technology Acceptance Models.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Technology Acceptance Models"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erhebung/Technology Acceptance Models.md",
+                "file": "Orga/Exposé.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Exposé"
             }
           },
           {
@@ -49,38 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Ziele und Projektplan.md",
+                "file": "Orga/01 - Ziele und Projektplan.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01 - Ziele und Projektplan"
             }
           },
           {
-            "id": "18ad1a67d57832a1",
+            "id": "b55970a444100f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Ziele und Projektplan.md",
+                "file": "Orga/02 - Zeitplan.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5a90a21449e672fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga/Exposé.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "02 - Zeitplan"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -115,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -154,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Exposé"
             }
           },
           {
@@ -166,7 +172,9 @@
                 "file": "Orga/Exposé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Exposé"
             }
           },
           {
@@ -177,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -187,15 +197,17 @@
               "type": "outline",
               "state": {
                 "file": "Orga/Exposé.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Exposé"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,34 +219,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a90a21449e672fa",
+  "active": "f548161cb3d6229d",
   "lastOpenFiles": [
-    "Erhebung/Technology Acceptance Models.md",
-    "Papers/UTAUT2.md",
-    "Mock-Up/Fragen Talentfokus.md",
-    "Orga/Ziele und Projektplan.md",
-    "Talentfokus.md",
+    "Erhebung/Hypothesen.md",
     "Orga/Exposé.md",
     "Orga/Mögliche Themen.md",
     "Orga/Recherchieren.md",
-    "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
+    "Orga/02 - Zeitplan.md",
+    "Orga/01 - Ziele und Projektplan.md",
+    "Mock-Up/Mock-Up.md",
+    "Erhebung/Technology Acceptance Models.md",
+    "Papers/Factors for AI Acceptance.md",
     "Papers/CBT mit Chatbot.md",
     "Papers/Cultivating Gratitude with a Chatbot.md",
     "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
-    "Papers/Factors for AI Acceptance.md",
-    "Papers/Papers.md",
     "Papers/Einführung TAM.md",
+    "Papers/Papers.md",
+    "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
+    "Templates/Paper.md",
+    "Templates/fragen.md",
+    "Mock-Up/Fragen Talentfokus.md",
+    "Papers/Leseliste - könnte interessant sein.md",
+    "Erhebung/Variablen.md",
+    "Papers/UTAUT2.md",
+    "Talentfokus.md",
     "Pasted image 20240926151644.png",
-    "Erhebung/Hypothesen.md",
     "Untitled.canvas",
     "2024-09-06.md",
     "Standards.md",
     "Neue Test Notiz.md",
     "Orga/Standards.md",
-    "Erhebung/Variablen.md",
-    "Templates/fragen.md",
-    "Mock-Up/Mock-Up.md",
-    "Templates/Paper.md",
     "Templates",
     "Orga",
     "Papers"

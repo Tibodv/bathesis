@@ -10,4 +10,3 @@ Zitierung: doi: 10.2196/mental.7785
 --
 
 
-Hallo Welt 

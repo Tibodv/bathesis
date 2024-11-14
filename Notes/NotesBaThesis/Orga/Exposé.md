@@ -11,6 +11,8 @@ Die theoretische Grundlage dieser Arbeit basiert hauptsächlich auf dem **UTAUT2
 
 Darüber hinaus spielen psychologische Theorien zum **Vertrauen in Künstliche Intelligenz** eine Rolle. KI-gestützte Funktionen, wie z.B. die sofortige Lebenslaufbewertung oder Rollenspiele zur Simulation beruflicher Situationen, könnten das Vertrauen der Bewerber erhöhen, aber auch eine algorithmische Aversion erzeugen. Weitere theoretische Bausteine sind die **Anziehungskraft von Interaktivität**, die eine erhöhte Nutzerbindung bewirken kann, sowie der Effekt von **sofortigem Feedback**, das für die Selbstwirksamkeit der Bewerber eine Rolle spielt.
 
+__**TIAT ?**__
+
 Zusätzlich werden die **Self-Determination Theory (SDT)** und die **Kognitive Dissonanztheorie** als theoretische Grundlagen hinzugezogen:
 
 - Die **Self-Determination Theory (SDT)** von Deci und Ryan erklärt, wie die Grundbedürfnisse der Bewerber nach **Autonomie**, **Kompetenzerleben** und **sozialer Eingebundenheit** durch den Einsatz von KI im Recruiting beeinflusst werden. Insbesondere könnte die KI-gestützte Lebenslaufbewertung als Einschränkung der Autonomie wahrgenommen werden, was eine algorithmische Aversion hervorrufen könnte. Gleichzeitig könnte die Möglichkeit, die eigenen Fähigkeiten in einem Rollenspiel zu präsentieren, das Kompetenzerleben positiv beeinflussen und somit zu einer höheren Zufriedenheit mit dem Bewerbungsprozess führen.
@@ -18,7 +20,7 @@ Zusätzlich werden die **Self-Determination Theory (SDT)** und die **Kognitive D
 - Die **Kognitive Dissonanztheorie** hilft dabei, zu verstehen, wie Bewerber mit ihrer Skepsis gegenüber der Nutzung von KI im Bewerbungsprozess umgehen. Falls Bewerber zunächst eine ablehnende Haltung gegenüber der KI haben, diese jedoch während der Nutzung als hilfreich empfinden, könnte eine kognitive Dissonanz auftreten. Bewerber könnten ihre Einstellung zur Technologie ändern, um das erlebte positive Feedback und ihre ursprüngliche Skepsis in Einklang zu bringen.
     
 
-**Hypothesen:**
+**[[Hypothesen]]:**
 
 1. **H2**: Die Bewerbungsrate ist bei Recruiting-Funnel-Seiten mit KI-gestützter Interaktion (z.B. Lebenslaufbewertung oder Rollenspiel) höher als bei Seiten ohne KI.
     
@@ -56,13 +58,13 @@ Die **Erhebungsmethode** umfasst eine Kombination aus Verhaltensdaten (Bewerbung
 
 
 
-| Kalenderwoche | Meilenstein                           |
-|---------------|---------------------------------------|
-| KW 47 - KW 48 | Theoretische Recherche                |
-| KW 49 - KW 50 | Prototypenentwicklung (Entwicklung der zwei Webseiten) |
-| KW 51 - KW 52 | Fragebogenerstellung und Pretest      |
+| Kalenderwoche | Meilenstein                                                                  |
+| ------------- | ---------------------------------------------------------------------------- |
+| KW 47 - KW 48 | Theoretische Recherche                                                       |
+| KW 49 - KW 50 | Prototypenentwicklung (Entwicklung der zwei Webseiten)                       |
+| KW 51 - KW 52 | Fragebogenerstellung und Pretest                                             |
 | KW 1 - KW 4   | Datenerhebung (Rekrutierung der Teilnehmer und Durchführung des Experiments) |
-| KW 5 - KW 7   | Datenanalyse (Statistische Analyse der Fragebogendaten und Verhaltensdaten) |
-| KW 8 - KW 11  | Schreiben der Bachelorarbeit (Fertigstellung aller Kapitel) |
-| KW 12 - KW 13 | Feedback und Korrektur (Feedback einholen und Überarbeitung) |
-| KW 14         | Abgabe (Endgültige Fertigstellung und Abgabe) |
+| KW 5 - KW 7   | Datenanalyse (Statistische Analyse der Fragebogendaten und Verhaltensdaten)  |
+| KW 8 - KW 11  | Schreiben der Bachelorarbeit (Fertigstellung aller Kapitel)                  |
+| KW 12 - KW 13 | Feedback und Korrektur (Feedback einholen und Überarbeitung)                 |
+| KW 14         | Abgabe (Endgültige Fertigstellung und Abgabe)                                |

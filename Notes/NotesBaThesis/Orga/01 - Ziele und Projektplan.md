@@ -15,18 +15,18 @@
 - [ ] notizen aus dem notizbuch hier nachtragen (eintrag vom 17.10.)
 - [x] Talentfokus kontaktiert
 - [ ] Gespräch mit [[Fragen Talentfokus|Talentfokus|]] gehabt
-- [ ] Plan für Mock up erstellen
-- [ ] Modelle für Technology Acceptance lesen, abwägen und verstehen. 
+- [x] Plan für Mock up erstellen
+- [x] Modelle für Technology Acceptance lesen, abwägen und verstehen. 
 - [ ] Word vs LaTeX recherchieren und abwägen.
 - [ ] Dinge [[Recherchieren]]
 
 
 ## Ziele Mid-Term
 
-- [ ] Zeitplan erstellen
-- [ ] Plan für Erhebung erstellen und mit Eßbach checken
-- [ ] [[Exposé]] schreiben
-- [ ] [[Mock-Up]] erstellen
-- [ ] [[Variablen]] auswählen
-- [ ] [[Hypothesen]] Aufstellen
+- [x] Zeitplan erstellen
+- [x] [[Exposé]] schreiben
+- [ ] [[Mock-Up]] erstellen & testen
+- [ ] Erhebung durchführen
+- [ ] Datenanalyse
+- [ ] Struktur Text planen
 - [ ] 
