@@ -1,70 +1,68 @@
-2-3 Seiten mit Zeilenabstand 1,5
+### Exposé: Der Einfluss von KI in Recruiting-Funnels auf die Bewerbungsrate
 
-1. Kurze Beschreibung des Themas
-2. Kurze Beschreibung von Zielen der Arbeit
-3. Grundsätzliche Überlegungen (Theorie, Modelle, Befunde)
-5. Kurze Beschreibung der Methoden der Arbeit (AV,UV, etc.)
-6. Zeitplan mit Meilensteinen
+**Thema:**  
+Diese Bachelorarbeit untersucht den Einfluss von großen Sprachmodellen (LLMs) auf die Interaktion von Bewerbern mit Recruiting-Funneln, also Webseiten, die spezifische Jobangebote bewerben. Der Fokus liegt darauf, herauszufinden, ob der Einsatz von KI-basierten Interaktionsmöglichkeiten die Bewerbungsrate erhöhen kann.
 
+**Ziele der Arbeit:**  
+Das Ziel dieser Arbeit ist es, zu untersuchen, ob die Integration von KI-gestützten Interaktionsmöglichkeiten, wie großen Sprachmodellen (LLMs), in Recruiting-Funnel-Webseiten die Bewerbungsrate erhöhen kann. Es soll analysiert werden, inwieweit psychologische Faktoren, die durch das UTAUT2-Modell beschrieben werden, die Interaktionsbereitschaft und die Bewerbungsentscheidung der Nutzer beeinflussen. Darüber hinaus soll untersucht werden, ob die Implementierung der KI-Interaktionen zu einer Verbesserung des Bewerbererlebnisses führt, insbesondere durch die Erhöhung von Transparenz und Interaktivität. Das Ziel ist es, praxisnahe Empfehlungen zu entwickeln, wie Recruiting-Funnels durch KI-Elemente attraktiver gestaltet werden können.
 
+**Theoretische Grundlagen:**  
+Die theoretische Grundlage dieser Arbeit basiert hauptsächlich auf dem **UTAUT2-Modell** (Unified Theory of Acceptance and Use of Technology 2). Dieses Modell ermöglicht es, die Akzeptanz und die Nutzung neuer Technologien aus einer psychologischen Perspektive zu bewerten. Die Dimensionen des Modells, wie Leistungserwartung, Aufwandserwartung, sozialer Einfluss und hedonistische Motivation, bieten eine Grundlage zur Untersuchung, inwieweit Bewerber mit KI-Interaktionsmöglichkeiten im Recruiting-Kontext umgehen.
 
-## Kurze Beschreibung des Themas
-Entwicklung eines Chatbot-basierten Situational Judgement Test Methode zur verbesserung des Recruitings in Detuschland angesichts des Fachkräftemangels
+Darüber hinaus spielen psychologische Theorien zum **Vertrauen in Künstliche Intelligenz** eine Rolle. KI-gestützte Funktionen, wie z.B. die sofortige Lebenslaufbewertung oder Rollenspiele zur Simulation beruflicher Situationen, könnten das Vertrauen der Bewerber erhöhen, aber auch eine algorithmische Aversion erzeugen. Weitere theoretische Bausteine sind die **Anziehungskraft von Interaktivität**, die eine erhöhte Nutzerbindung bewirken kann, sowie der Effekt von **sofortigem Feedback**, das für die Selbstwirksamkeit der Bewerber eine Rolle spielt.
 
-Ziel dieser Arbeit ist die Entwicklung und Evaluation eines Chatbots der in einen Online-Recruiting-Funnel integriert wird um potentielle Kandidaten einen ersten Eindruck zum Fit zur Rolle zu geben und sie gleichzeitig mehr an diesem Potentiellen Unternehmen zu interessieren.
-## Ziele der Arbeit
+Zusätzlich werden die **Self-Determination Theory (SDT)** und die **Kognitive Dissonanztheorie** als theoretische Grundlagen hinzugezogen:
 
-Primärziel: Entwicklung und Evaluierung eines Chatboot-tools, dass anhand gegebener Richtlinien den KSAO-fit eines Kandidaten evaluiert und somit den gegenseitigen fit verbessert.
-
-- Design eines Chatbots der Vorgegebene Szenarien simuliert und danach evaluiert.
-- Vergleich der "Candidate-Experience" mit oder ohne Chatbot
-- Abschätzung der änderung in der Effizienz des Recruiting-Prozesses mit diesem Tool
-
-## Grundsätzliche Überlegungen
-
-
-**Title: Exploring AI Solutions in the Hiring Process**
-
-**1. Introduction**
-
-Artificial Intelligence (AI) is becoming increasingly integrated into various facets of modern business operations, and the hiring process is no exception. This research focuses on exploring how AI solutions can transform recruitment practices. By leveraging AI, organizations aim to enhance efficiency, reduce biases, and streamline candidate selection processes. This study aims to understand both the benefits and challenges of using AI in hiring, including potential ethical concerns and impacts on fairness.
-
-**2. Timeline**
-
-- **Weeks 1-3**: Conduct an in-depth literature review of existing research on AI in recruitment, focusing on its benefits, drawbacks, and ethical implications.
+- Die **Self-Determination Theory (SDT)** von Deci und Ryan erklärt, wie die Grundbedürfnisse der Bewerber nach **Autonomie**, **Kompetenzerleben** und **sozialer Eingebundenheit** durch den Einsatz von KI im Recruiting beeinflusst werden. Insbesondere könnte die KI-gestützte Lebenslaufbewertung als Einschränkung der Autonomie wahrgenommen werden, was eine algorithmische Aversion hervorrufen könnte. Gleichzeitig könnte die Möglichkeit, die eigenen Fähigkeiten in einem Rollenspiel zu präsentieren, das Kompetenzerleben positiv beeinflussen und somit zu einer höheren Zufriedenheit mit dem Bewerbungsprozess führen.
     
-- **Weeks 4-5**: Develop research questions and hypotheses, and refine the scope based on insights from the literature.
-    
-- **Weeks 6-7**: Select the research methodology, design survey/interview questions (if applicable), and finalize the research approach.
-    
-- **Weeks 8-11**: Collect data through surveys, interviews, or secondary data sources.
-    
-- **Weeks 12-14**: Analyze collected data and draw insights based on the results.
-    
-- **Weeks 15-16**: Draft the main thesis document, incorporating all sections, including introduction, literature review, methodology, results, and discussion.
-    
-- **Weeks 17-18**: Revise, edit, and finalize the thesis based on feedback and self-review.
+- Die **Kognitive Dissonanztheorie** hilft dabei, zu verstehen, wie Bewerber mit ihrer Skepsis gegenüber der Nutzung von KI im Bewerbungsprozess umgehen. Falls Bewerber zunächst eine ablehnende Haltung gegenüber der KI haben, diese jedoch während der Nutzung als hilfreich empfinden, könnte eine kognitive Dissonanz auftreten. Bewerber könnten ihre Einstellung zur Technologie ändern, um das erlebte positive Feedback und ihre ursprüngliche Skepsis in Einklang zu bringen.
     
 
-**3. Research Questions/Objectives**
+**Hypothesen:**
 
-The key objectives of this thesis are to explore how AI solutions impact the efficiency and fairness of hiring processes, and to understand HR professionals' and candidates' perspectives on AI adoption. Specific research questions include:
-
-- How effective is AI in enhancing fairness during recruitment?
+1. **H2**: Die Bewerbungsrate ist bei Recruiting-Funnel-Seiten mit KI-gestützter Interaktion (z.B. Lebenslaufbewertung oder Rollenspiel) höher als bei Seiten ohne KI.
     
-- What challenges arise from the use of AI-driven solutions in hiring?
+2. **H4**: Die Nutzung von KI-basierten interaktiven Elementen auf Recruiting-Seiten führt zu einem erhöhten Vertrauen der Bewerber in die Objektivität und Qualität des Auswahlprozesses.
     
-- How do job applicants perceive AI in the recruitment process?
+3. **H1**: Bewerber, die eine Recruiting-Seite mit KI-gestützter Lebenslaufbewertung nutzen, berichten von einer höheren Entscheidungssicherheit im Vergleich zu Bewerbern, die eine Seite ohne KI nutzen.
+    
+4. **H3**: Bewerber, die mit der KI ein Rollenspiel als berufliche Simulation durchführen, bewerten die Qualität des Bewerbungsprozesses als höher im Vergleich zu einem klassischen, nicht interaktiven Bewerbungsprozess.
     
 
-**4. Literature Review**
+**Methodik:**  
+Für die Untersuchung wird ein **Between-Subjects Design** verwendet. Die Teilnehmer werden zufällig einer von zwei Gruppen zugeteilt: eine Gruppe nutzt eine Recruiting-Seite mit KI-Interaktionsmöglichkeiten, während die andere Gruppe eine klassische Seite ohne KI verwendet. Die **unabhängige Variable** ist die Art der Recruiting-Seite (mit KI vs. ohne KI). Die **abhängigen Variablen** sind die Bewerbungsrate, die Entscheidungssicherheit der Bewerber, das Vertrauen in den Prozess und die wahrgenommene Qualität des Bewerbungsprozesses.
 
-The literature review will explore existing research on AI-driven hiring processes. It will examine how AI tools are being implemented by companies to assist in candidate screening, reduce human biases, and enhance decision-making. The review will also delve into ethical considerations, such as transparency and accountability, as well as the impact of automation on diversity and inclusivity in hiring.
+Die **Erhebungsmethode** umfasst eine Kombination aus Verhaltensdaten (Bewerbungsentscheidung) und Fragebögen, die auf dem UTAUT2-Modell basieren. Nach dem Besuch der Webseite beantworten die Teilnehmer einen Fragebogen, der sowohl allgemeine Fragen zur Nutzererfahrung als auch spezifische Fragen zu ihrer Wahrnehmung der KI-Elemente (sofern vorhanden) enthält.
 
-**5. Methodology**
+**Erwartete Ergebnisse:** Es wird erwartet, dass die Gruppe, die die KI-gestützte Seite nutzt, eine höhere Entscheidungssicherheit, eine höhere Bewerbungsrate und eine positivere Bewertung des Bewerbungsprozesses aufweist. Bewerber, die mit der KI-gestützten Simulation interagieren, könnten ein gesteigertes Kompetenzerleben berichten. Allerdings wird auch erwartet, dass Teilnehmer mit einer hohen algorithmischen Aversion, die sich in ihrem Bedürfnis nach Autonomie eingeschränkt fühlen, die KI-basierte Seite negativer bewerten, selbst wenn objektiv betrachtet der Bewerbungsprozess effizienter ist.
 
-This study will utilize a mixed-method approach, combining both qualitative and quantitative data. Surveys will be conducted among job applicants to gather their perspectives on AI in hiring, while interviews with HR professionals will help understand practical implementation, challenges, and benefits. This dual approach ensures a comprehensive understanding of the research problem from multiple perspectives.
+**Zeitplan mit Meilensteinen:**
 
-**6. Expected Outcomes**
+1. **Theoretische Recherche** (KW 47 - KW 48)
+    
+2. **Prototypenentwicklung** (KW 49 - KW 50): Entwicklung der zwei Webseiten (eine mit KI, eine ohne).
+    
+3. **Fragebogenerstellung und Pretest** (KW 51 - KW 52): Entwicklung des Fragebogens und Pretest zur Überprüfung.
+    
+4. **Datenerhebung** (KW 1 - KW 4): Rekrutierung der Teilnehmer und Durchführung des Experiments.
+    
+5. **Datenanalyse** (KW 5 - KW 7): Statistische Analyse der Fragebogendaten und Verhaltensdaten.
+    
+6. **Schreiben der Bachelorarbeit** (KW 8 - KW 11): Fertigstellung aller Kapitel.
+    
+7. **Feedback und Korrektur** (KW 12 - KW 13): Feedback einholen und Überarbeitung.
+    
+8. **Abgabe** (KW 14): Endgültige Fertigstellung und Abgabe.
 
-The study aims to shed light on how AI solutions can both improve and complicate the hiring process. Expected outcomes include identifying specific ways in which AI can reduce bias and enhance fairness, along with the challenges and ethical concerns that companies face during AI implementation. The research will also provide insights into candidate perceptions, which are crucial for the widespread adoption of these technologies.
+
+
+| Kalenderwoche | Meilenstein                           |
+|---------------|---------------------------------------|
+| KW 47 - KW 48 | Theoretische Recherche                |
+| KW 49 - KW 50 | Prototypenentwicklung (Entwicklung der zwei Webseiten) |
+| KW 51 - KW 52 | Fragebogenerstellung und Pretest      |
+| KW 1 - KW 4   | Datenerhebung (Rekrutierung der Teilnehmer und Durchführung des Experiments) |
+| KW 5 - KW 7   | Datenanalyse (Statistische Analyse der Fragebogendaten und Verhaltensdaten) |
+| KW 8 - KW 11  | Schreiben der Bachelorarbeit (Fertigstellung aller Kapitel) |
+| KW 12 - KW 13 | Feedback und Korrektur (Feedback einholen und Überarbeitung) |
+| KW 14         | Abgabe (Endgültige Fertigstellung und Abgabe) |

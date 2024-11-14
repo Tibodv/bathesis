@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mock-Up/Fragen Talentfokus.md",
+                "file": "Orga/Exposé.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mock-Up/Fragen Talentfokus.md",
+                "file": "Orga/Exposé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mock-Up/Fragen Talentfokus.md",
+                "file": "Orga/Exposé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mock-Up/Fragen Talentfokus.md"
+                "file": "Orga/Exposé.md"
               }
             }
           }
@@ -209,14 +209,14 @@
   },
   "active": "5a90a21449e672fa",
   "lastOpenFiles": [
+    "Erhebung/Technology Acceptance Models.md",
+    "Papers/UTAUT2.md",
+    "Mock-Up/Fragen Talentfokus.md",
     "Orga/Ziele und Projektplan.md",
     "Talentfokus.md",
     "Orga/Exposé.md",
     "Orga/Mögliche Themen.md",
     "Orga/Recherchieren.md",
-    "Mock-Up/Fragen Talentfokus.md",
-    "Erhebung/Technology Acceptance Models.md",
-    "Papers/UTAUT2.md",
     "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
     "Papers/CBT mit Chatbot.md",
     "Papers/Cultivating Gratitude with a Chatbot.md",
