@@ -1,18 +1,18 @@
 {
 	"translatorID": "e7243cef-a709-4a46-ba46-1b1318051bec",
+	"translatorType": 1,
 	"label": "Citavi 5 XML",
 	"creator": "Philipp Zumstein, Tomasz Najdek",
 	"target": "xml",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
+	"inRepository": true,
 	"configOptions": {
 		"dataMode": "xml/dom",
 		"async": true
 	},
-	"inRepository": true,
-	"translatorType": 1,
-	"lastUpdated": "2022-08-18 11:23:00"
+	"lastUpdated": "2025-01-04 06:35:00"
 }
 
 /*
@@ -124,6 +124,7 @@ async function importItems({ references, doc, citaviVersion, rememberTags, itemI
 		item.numberOfVolumes = ZU.xpathText(references[i], './NumberOfVolumes');
 
 		addExtraLine(item, "PMID", ZU.xpathText(references[i], './PubMedID'));
+		addExtraLine(item, "Citation Key", ZU.xpathText(references[i], './BibTeXKey'));
 
 		item.pages = extractPages(ZU.xpathText(references[i], './PageRange'));
 		item.numPages = extractPages(ZU.xpathText(references[i], './PageCount'));

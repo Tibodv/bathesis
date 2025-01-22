@@ -1,0 +1,804 @@
+Intern. Journal of Profess. Bus. Review. |Miami, v. 8 | n. 6| p. 01-25 | e02089 | 2023. 1
+THE POWER OF ARTIFICIAL INTELLIGENCE IN RECRUITMENT: AN ANALYTICAL REVIEW OF CURRENT AI-BASED RECRUITMENT STRATEGIES
+Wael Abdulrahman AlbassamA
+ARTICLE INFO ABSTRACT
+Purpose: The aim of this study is to contribute to the understanding of the power of artificial intelligence (AI) in recruitment and to highlight the opportunities and challenges associated with its use.
+Theoretical framework: This paper provides a comprehensive analytical review of current AI-based recruitment strategies, drawing on both academic research and industry reports.
+Design/methodology/approach: The paper critically evaluates the potential benefits and drawbacks of using AI in recruitment and assesses the effectiveness of various AI-based recruitment strategies.
+Findings: The results indicate that AI-based recruitment strategies such as resume screening, candidate matching, video interviewing, chatbots, predictive analytics, gamification, virtual reality assessments, and social media screening offer significant potential benefits for organizations, including improved efficiency, cost savings, and better-quality hires. However, the use of AI in recruitment also raises ethical and legal concerns, including the potential for algorithmic bias and discrimination.
+Research, Practical & Social implications: The study concludes by emphasizing the need for further research and development to ensure that AI-based recruitment strategies are effective, unbiased, and aligned with ethical and legal standards.
+Originality/value: The value of the study lies in its comprehensive exploration of AI in recruitment, synthesizing insights from academic and industry perspectives, and assessing the balance of potential benefits against ethical and legal concerns.
+Doi: https://doi.org/10.26668/businessreview/2023.v8i6.2089
+Article history:
+Received 10 March 2023
+Accepted 08 June 2023
+Keywords:
+HRM Technology; Artificial Intelligence; Recruitment; AI-Based Recruitment Strategies; Resume Screening; Candidate Matching; Video Interviewing; Chatbots; Predictive Analytics; Gamification; Virtual Reality Assessments; Social Media Screening; Ethics; Legal Standards.
+O PODER DA INTELIGÊNCIA ARTIFICIAL NO RECRUTAMENTO: UMA REVISÃO ANALÍTICA DAS ATUAIS ESTRATÉGIAS DE RECRUTAMENTO BASEADAS EM IA
+RESUMO
+Objetivo: O objetivo deste estudo é contribuir para a compreensão do poder da inteligência artificial (IA) no recrutamento e destacar as oportunidades e os desafios associados ao seu uso. Estrutura teórica: Este documento oferece uma revisão analítica abrangente das atuais estratégias de recrutamento baseadas em IA, com base em pesquisas acadêmicas e relatórios do setor. Projeto/metodologia/abordagem: O artigo avalia criticamente os possíveis benefícios e desvantagens do uso da IA no recrutamento e avalia a eficácia de várias estratégias de recrutamento baseadas em IA.
+A Master in Business Administration. Free Lancer Consultant. E-mail: waelalbassam1@gmail.com Orcid: https://orcid.org/0009-0006-3434-9317
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 2
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Conclusões: Os resultados indicam que as estratégias de recrutamento baseadas em IA, como triagem de currículos, correspondência de candidatos, entrevistas por vídeo, chatbots, análise preditiva, gamificação, avaliações de realidade virtual e triagem de mídia social, oferecem benefícios potenciais significativos para as organizações, incluindo maior eficiência, economia de custos e contratações de melhor qualidade. No entanto, o uso da IA no recrutamento também levanta preocupações éticas e legais, incluindo o potencial de preconceito e discriminação algorítmica. Implicações sociais, práticas e de pesquisa: O estudo conclui enfatizando a necessidade de mais pesquisa e desenvolvimento para garantir que as estratégias de recrutamento baseadas em IA sejam eficazes, imparciais e alinhadas com os padrões éticos e legais. Originalidade/valor: O valor do estudo está em sua exploração abrangente da IA no recrutamento, sintetizando as percepções das perspectivas acadêmicas e do setor e avaliando o equilíbrio entre os possíveis benefícios e as preocupações éticas e legais.
+Palavras-chave: Tecnologia de Gestão de Recursos Humanos, Inteligência Artificial, Recrutamento, Estratégias de Recrutamento Baseadas em IA, Triagem de Currículos, Correspondência de Candidatos, Entrevistas por Vídeo, Chatbots, Análise Preditiva, Gamificação, Avaliações de Realidade Virtual, Triagem de Mídia Social, Ética, Normas Legais.
+EL PODER DE LA INTELIGENCIA ARTIFICIAL EN LA CONTRATACIÓN: UNA REVISIÓN ANALÍTICA DE LAS ACTUALES ESTRATEGIAS DE CONTRATACIÓN BASADAS EN LA IA
+RESUMEN
+Objetivo: El objetivo de este estudio es contribuir a la comprensión del poder de la inteligencia artificial (IA) en la contratación y poner de relieve las oportunidades y los retos asociados a su uso. Marco teórico: Este documento ofrece una revisión analítica exhaustiva de las actuales estrategias de contratación basadas en la IA, a partir de investigaciones académicas e informes de la industria. Diseño/metodología/enfoque: El documento evalúa de forma crítica los beneficios e inconvenientes potenciales del uso de la IA en la contratación y evalúa la eficacia de diversas estrategias de contratación basadas en la IA. Conclusiones: los resultados indican que las estrategias de contratación basadas en IA, como la selección de currículos, el emparejamiento de candidatos, las entrevistas por vídeo, los chatbots, el análisis predictivo, la gamificación, las evaluaciones de realidad virtual y la selección en redes sociales, ofrecen importantes beneficios potenciales a las organizaciones, como el aumento de la eficiencia, el ahorro de costes y la mejora de la calidad de las contrataciones. Sin embargo, el uso de la IA en la selección de personal también plantea problemas éticos y legales, como el potencial sesgo algorítmico y la discriminación.
+Repercusiones sociales, prácticas y de investigación: El estudio concluye subrayando la necesidad de seguir investigando y desarrollando para garantizar que las estrategias de contratación basadas en la IA sean eficaces, imparciales y acordes con las normas éticas y jurídicas. Originalidad/valor: El valor de este estudio radica en su análisis exhaustivo de la IA en la contratación, que sintetiza los puntos de vista del mundo académico y de la industria y evalúa el equilibrio entre los beneficios potenciales y las preocupaciones éticas y jurídicas.
+Palabras clave: Tecnología de Gestión de Recursos Humanos, Inteligencia Artificial, Contratación, Estrategias de Contratación Basadas en IA, Selección de Currículos, Emparejamiento de Candidatos, Entrevistas por Vídeo, Chatbots, Análisis Predictivo, Ludificación, Evaluaciones de Realidad Virtual, Selección en Redes Sociales, Ética, Normas Jurídicas.
+BACKGROUND
+Digital transformations, predominantly focused on creating and enlarging markets,
+stand at the forefront of devising innovative and adaptive economic business models. These
+transformations significantly influence an organization's competitive standing and guide the
+trajectory of market evolution. Connected to this, the application of information technology
+(IT) in recruitment serves as a prime example of such digital transformation. IT not only
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 3
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+expedites and streamlines the hiring process but also broadens the reach to potential candidates,
+ultimately making the recruitment process more efficient and competitive. Therefore, in today's
+digital age, integrating information technology in recruitment processes is an indispensable
+strategy for companies aiming to remain competitive and adaptive in the market (Ahmed et al.,
+2023).
+The use of artificial intelligence (AI) in recruitment has been on the rise in recent years,
+with many organizations adopting AI-based recruitment strategies to improve their hiring
+processes. AI is increasingly being used in various stages of the recruitment process, including
+job postings, resume screening, candidate assessments, and even onboarding (Budhwar et al.,
+2022; Ore & Sposato, 2021). The potential benefits of using AI in recruitment are significant,
+including increased efficiency, reduced bias, improved candidate experience, and better hiring
+outcomes. However, there are also potential drawbacks, such as the risk of algorithmic bias,
+ethical concerns, and the need for human oversight.
+Despite the growing interest in AI-based recruitment strategies, there is a research gap
+in understanding their effectiveness and limitations. While there is some research on the topic,
+much of it has focused on individual AI-based recruitment tools or techniques, rather than
+providing a comprehensive review of the current state of AI in recruitment. Therefore, there is
+a need for a critical review of the current AI-based recruitment strategies, which can provide
+insights into their strengths and weaknesses and help identify areas for future research and
+development.
+While there has been some research on AI-based recruitment strategies, there is still a
+lack of comprehensive reviews that can provide insights into their effectiveness and limitations.
+Some studies have focused on the development and validation of individual AI-based
+recruitment tools, such as machine learning algorithms for resume screening or chatbots for
+candidate engagement (Chen, 2022; Hogg, 2019; Kazim et al., 2021). While these studies
+provide valuable insights into the potential benefits of using AI in recruitment, they are limited
+in scope and do not provide a comprehensive overview of the current state of AI in recruitment.
+Other studies have focused on the ethical and legal concerns associated with using AI
+in recruitment, such as the risk of bias and discrimination, privacy violations, and the need for
+transparency and accountability (Hunkenschroer & Luetge, 2022; Tippins et al., 2021; Yam &
+Skorburg, 2021). While these studies highlight important concerns that need to be addressed
+when using AI in recruitment, they do not provide a comprehensive review of the concerns
+related to each of the AI-based recruitment strategies.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 4
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Therefore, there is a need for a critical review of the current AI-based recruitment
+strategies, which can provide insights into their strengths and weaknesses and help identify
+areas for future research and development. Such a review can help organizations make informed
+decisions about the use of AI in recruitment and ensure that they are using the most effective
+and ethical AI-based recruitment strategies.
+The aim of this paper is to provide a comprehensive analytical review of the current AI
+based recruitment strategies, drawing on both academic research and industry reports. This
+review will critically evaluate the potential benefits and drawbacks of using AI in recruitment
+and assess the effectiveness of various AI-based recruitment strategies. By doing so, this paper
+aims to contribute to the understanding of the power of AI in recruitment and highlight the
+opportunities and challenges associated with its use.
+SIGNIFICANCE AND PURPOSE
+The significance and purpose of this study are to provide a comprehensive analysis of
+the current use of AI in recruitment. The paper aims to critically evaluate the potential benefits
+and drawbacks of AI-based recruitment strategies, including chatbots, predictive analytics, and
+machine learning algorithms. By conducting this analysis, the study intends to contribute to the
+understanding of the power of AI in recruitment and highlight the opportunities and challenges
+associated with its use. The literature review of the study provides an overview of the various
+AI-based recruitment strategies and assesses their effectiveness in terms of recruitment
+outcomes, such as candidate quality, diversity, and retention. Additionally, the study explores
+ethical and legal considerations, including bias, privacy, and discrimination. Through a detailed
+analytical review, the study provides a comparative analysis of the most promising AI-based
+recruitment strategies, based on their strengths and weaknesses. The study also evaluates the
+challenges and limitations of using AI in recruitment, such as the need for human oversight, the
+risk of algorithmic bias, and the potential negative impact on candidate experience.
+LITERATURE REVIEW
+AI-based recruitment strategies offer the potential to streamline recruitment processes,
+reduce bias, and improve hiring outcomes (Johnson et al., 2020). However, the effectiveness of
+AI in recruitment depends on the specific techniques used and the context in which they are
+applied. This section provides a review of the existing literature on AI-based recruitment
+strategies, including their effectiveness, limitations, and ethical concerns.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 5
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+A BRIEF HISTORY
+AI has transformed many industries, and the world of human resources (HR) is no
+exception. AI-based recruitment strategies have become increasingly popular over the years,
+and are now used by many companies to streamline their hiring processes and improve the
+quality of their hires (Lee et al., 2019).
+The first signs of AI-based recruitment can be traced back to the 1990s when online job
+boards and applicant tracking systems (ATS) emerged. These technologies allowed companies
+to post job openings online and manage candidate applications digitally. However, these early
+systems were not truly AI-based, as they relied on simple algorithms to match candidates to job
+requirements based on keywords (Almajthoob et al., 2023).
+It was not until the early 2000s that true AI-based recruitment strategies began to
+emerge. One of the earliest examples was the use of predictive analytics to analyze candidate
+data and identify patterns that could help predict which candidates were most likely to succeed
+in a particular role (Cappelli et al., 2018). This approach was pioneered by companies like
+Google, who used data analysis to improve their hiring processes and reduce employee turnover
+(Singh et al., 2022).
+Another early use of AI in recruitment was the use of chatbots to screen and pre-qualify
+candidates. These bots would ask candidates a series of questions to determine whether they
+met the minimum qualifications for a job, and would then either recommend them for further
+consideration or reject them outright. This approach helped to automate the early stages of the
+hiring process and reduce the workload of human recruiters (Gupta & Mishra, 2022).
+Moreover, AI-based recruitment strategies have continued to evolve, with new
+technologies such as natural language processing (NLP) and machine learning (ML) being used
+to improve the accuracy and effectiveness of candidate screening and matching. For example,
+some companies are now using AI-powered video interviewing tools to analyze candidates'
+facial expressions, body language, and speech patterns to identify traits like confidence,
+communication skills, and emotional intelligence (Zimmermann et al., 2016).
+However, despite the many benefits of AI-based recruitment strategies, there are also
+some concerns about their potential impact on diversity and inclusion. Some experts worry that
+AI algorithms could inadvertently perpetuate biases and discrimination by favoring certain
+types of candidates over others. To address these concerns, many companies are now working
+to develop more transparent and ethical AI-based recruitment strategies that are designed to
+promote diversity and eliminate bias.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 6
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+TYPES OF AI-BASED RECRUITMENT STRATEGIES
+Chatbots
+Chatbots are a form of conversational AI that can interact with candidates and provide
+them with information about the job opening and the organization. Chatbots can be used to
+answer candidates' questions, schedule interviews, and provide feedback on their application.
+Chatbots are particularly useful for high-volume recruitment processes, as they can handle a
+large number of candidates simultaneously (Black & van Esch, 2020). Chatbots can also help
+recruiters save time and resources by automating routine tasks, such as responding to frequently
+asked questions (Zel & Kongar, 2020).
+The effectiveness of chatbots in recruitment has been studied by several researchers.
+For instance, Koivunen et al. (2022) conducted a study on the use of chatbots in the recruitment
+process of several types of companies. The study found that chatbots were effective in
+improving the candidate experience by providing quick and accurate responses to candidates'
+queries. The study also found that chatbots reduced the workload of recruiters, enabling them
+to focus on more complex tasks, such as candidate assessment and interviewing.
+However, the use of chatbots in recruitment also has its limitations. One major limitation
+is that chatbots may not be able to answer all of the candidates' questions or provide
+personalized responses, which can lead to a poor candidate experience. Another limitation is
+that chatbots may not be able to assess soft skills or other intangible factors that are important
+in the recruitment process.
+Predictive Analytics
+Predictive analytics involves using data mining and machine learning algorithms to
+identify patterns and predict future outcomes. In the context of recruitment, predictive analytics
+can be used to identify the most promising candidates based on their past behavior and
+performance. Predictive analytics can also be used to predict the likelihood of a candidate
+accepting a job offer or leaving the company within a certain period (Mehta et al., 2013).
+The effectiveness of predictive analytics in recruitment has been studied by several
+researchers. For instance, Mehta et al. (2013) introduced a decision support system designed to
+manage and optimize screening activities during the hiring process within large organizations.
+The system aims to prioritize the efforts of human resource practitioners by identifying
+candidates with a high likelihood of being of high quality, accepting a job offer, and remaining
+with the organization for the long term. To achieve this, the system uses a keyword matching
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 7
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+algorithm and several bipartite ranking algorithms with univariate loss trained on historical
+actions to individually rank candidates along several dimensions. The individual rankings are
+then aggregated to produce a single list, which is presented to the recruitment team through an
+interactive portal that supports multiple filters to facilitate effective candidate identification.
+The authors demonstrate the effectiveness of the system using data collected from a large
+organization over several years, with business value metrics showing greater hiring yield with
+fewer interviews. They also use historical pre-hire data to accurately identify candidates who
+are likely to leave the organization quickly. The system has been successfully deployed in a
+large, globally integrated enterprise.
+However, the use of predictive analytics in recruitment also has its limitations. One
+major limitation is that predictive analytics may not be able to account for all relevant factors
+that affect a candidate's job performance, such as organizational fit or the ability to work in a
+team. Another limitation is that predictive analytics may not be able to account for changes in
+the job market or the organization's needs.
+Machine Learning Algorithms
+Machine learning algorithms can be used to screen resumes and identify the most
+promising candidates based on specific criteria. Machine learning algorithms can be trained on
+a large dataset of resumes to identify patterns and make predictions about the suitability of a
+candidate for a particular job. Machine learning algorithms can also be used to identify potential
+biases in the recruitment process and reduce them (Roy et al., 2020).
+The effectiveness of machine learning algorithms in recruitment has been studied by
+several researchers. Schleder et al. (2019) aimed to explore how machine learning algorithms
+can be used to extract knowledge and insights from the massive amount of raw data generated
+by recent advances in experimental and computational methods. The study focused on the
+materials science field, where these methodologies are used to identify correlations and patterns
+from large amounts of complex data. The authors reviewed the logical sequence of density
+functional theory as the representative instance of electronic structure methods, followed by the
+high-throughput approach used to generate large amounts of data. They then discussed how
+data-driven strategies, including data mining, screening, and machine learning techniques, are
+employed to extract knowledge from the data generated. The study found that machine learning
+algorithms are effective in identifying patterns and correlations in large amounts of complex
+data in the materials science field. The approaches to modern computational materials science
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 8
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+can be used to uncover complexities and design novel materials with enhanced properties.
+However, the study also pointed out the present research problems, challenges, and potential
+future perspectives of this new and exciting field.
+EFFECTIVENESS OF AI-BASED RECRUITMENT STRATEGIES
+The effectiveness of AI-based recruitment strategies has been studied by several
+researchers. Johnson et al. (2020) aimed to explore the potential of electronic human resource
+management (eHRM) and AI in addressing workforce challenges faced by the hospitality and
+tourism industry. Specifically, the study aimed to discuss how e-recruiting, e-selection, and AI
+tools can help organizations in the industry improve recruiting and selection outcomes, increase
+individual retention rates, and decrease the time needed to replace employees. To achieve this,
+the authors applied research on eHRM, AI, employee recruitment, and employee selection to
+the hospitality and tourism industry. The study discussed how eHRM and AI can be applied to
+the industry and provided insights for improving recruiting and selection outcomes. The
+findings of the study suggest that eHRM and AI have the potential to transform the recruitment
+and selection processes in the hospitality and tourism industry. However, the study also
+highlights the importance of ensuring that the insights gained and decisions made using eHRM
+and AI are well-received by employees and lead to better employee and organizational
+outcomes.
+Mehrotra and Khanna (2022) aimed to explore the acceptance of automation in human
+resource management by employers and the extent to which recruiters can use AI to hire people.
+The study aimed to provide insights into the impact of digitization on human resource functions
+and processes in the ever-evolving and competitive business world. The study employed a
+thematic analysis approach and collected data from primary sources by conducting semi
+structured interviews with four experts working in IT organizations. The study aimed to provide
+useful insights for recruiters and HR managers to consider the fields of AI implementation and
+management to take advantage of cost-cutting technical developments. The results suggested
+that there is a growing acceptance of automation in human resource management by employers,
+and recruiters can use AI to hire people. The study highlights the impact of digitization on
+reshaping different human resource functions and processes, and the potential for AI to make
+these processes more effective and customer-friendly. Overall, the study provides valuable
+insights for recruiters and HR managers to consider the fields of AI implementation and
+management in the context of human resource management.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 9
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+The effectiveness of AI-based recruitment strategies, however, depends on several
+factors i.e., the effectiveness of predictive analytics may depend on the quality of the data used
+to train the algorithms. Predictive analytics involves the use of algorithms to analyze data and
+predict outcomes. In recruitment, predictive analytics can be used to identify candidates who
+are likely to perform well in a particular role. The quality of the data used to train the algorithms
+is crucial to the effectiveness of predictive analytics. If the data is of poor quality, the algorithms
+may produce inaccurate predictions, leading to poor hires.
+Similarly, the effectiveness of chatbots may depend on the design of the chatbot and the
+quality of the responses provided to candidates. Chatbots are computer programs designed to
+simulate human conversation. In recruitment, chatbots can be used to answer candidates'
+questions, schedule interviews, and provide feedback. The design of the chatbot is crucial to its
+effectiveness. If the chatbot is poorly designed, candidates may have difficulty using it, leading
+to frustration and a poor candidate experience. Similarly, the quality of the responses provided
+to candidates is crucial to the effectiveness of chatbots. If the responses are inaccurate or
+unhelpful, candidates may become frustrated, leading to a poor candidate experience.
+LIMITATIONS OF AI-BASED RECRUITMENT STRATEGIES
+Despite the potential benefits of AI-based recruitment strategies, there are also several
+limitations that need to be considered. One major limitation is that AI-based recruitment
+strategies may not be able to account for all relevant factors that affect a candidate's job
+performance, such as their cultural fit with the organization or their ability to work in a team.
+Another limitation is that AI-based recruitment strategies may perpetuate bias if they are trained
+on biased data.
+One of the major limitations of AI-based recruitment strategies is their inability to
+account for all relevant factors that affect a candidate's job performance. For example, AI
+algorithms may not be able to assess a candidate's cultural fit with the organization or their
+ability to work in a team. These factors are critical for job performance but are often difficult
+to quantify and measure accurately. Therefore, relying solely on AI-based recruitment
+strategies may lead to overlooking highly qualified candidates who do not meet the
+predetermined criteria set by the algorithm.
+Another significant limitation of AI-based recruitment strategies is the potential to
+perpetuate bias if they are trained on biased data. AI algorithms are only as unbiased as the data
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 10
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+they are trained on. If the data used to train the AI algorithm is biased, the algorithm will
+perpetuate the same biases when selecting candidates.
+Gupta et al. (2021) aimed to investigate the extent to which individuals question AI
+based recommendations when perceived as biased, specifically focusing on the effects of
+espoused national cultural values on AI questionability. This study was motivated by concerns
+about the devastating effects of recommender systems on society's vulnerable and marginalized
+communities, particularly with regards to perpetuating and exacerbating racial and gender
+biases. To address this gap in knowledge, the researchers collected data from 387 survey
+respondents in the United States and examined how cultural values associated with
+collectivism, masculinity, and uncertainty avoidance might influence individuals' tendency to
+question biased AI-based recommendations. The methodology employed in this study was a
+quantitative survey approach, which included questions about cultural values and AI
+questionability. The findings of this study suggest that individuals with espoused national
+cultural values associated with collectivism, masculinity, and uncertainty avoidance are more
+likely to question biased AI-based recommendations. These results contribute to the current
+academic discourse about the need to hold AI accountable and advance current understanding
+of how cultural values affect AI questionability due to perceived bias. Overall, this study sheds
+light on the complex interplay between cultural values and AI questionability and provides
+important insights for policymakers and developers in the AI industry.
+To prevent the perpetuation of bias, organizations need to ensure that the data used to
+train AI algorithms is diverse and representative of the population they wish to hire from.
+Additionally, they need to monitor the performance of AI-based recruitment strategies to ensure
+that they are not perpetuating bias.
+ETHICAL CONCERNS
+While AI-based recruitment strategies offer many benefits, organizations must be aware
+of the ethical concerns associated with their use. By taking proactive steps to ensure privacy
+and fairness, organizations can leverage AI technology to enhance their recruitment processes
+while minimizing potential risks and ethical concerns (Hunkenschroer & Luetge, 2022). AI
+based recruitment strategies often rely on collecting and analyzing large amounts of personal
+data, including candidates' names, addresses, work history, and other sensitive information.
+This data can be vulnerable to cyberattacks or misuse, and organizations must take measures to
+ensure that the data is securely stored and protected from unauthorized access (Du & Xie, 2020).
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 11
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Moreover, candidates have the right to know what information is being collected about
+them and how it is being used. Therefore, organizations must be transparent about their data
+collection processes and provide candidates with clear information about their privacy policies
+and data protection measures.
+Another ethical concern related to AI-based recruitment strategies is fairness. AI
+algorithms can be programmed with inherent biases that may perpetuate discrimination or
+unfairness against certain groups of candidates. For instance, if an AI algorithm is trained on
+data that contains biased information, such as past hiring decisions based on gender or ethnicity,
+the algorithm may replicate these biases in its hiring decisions (Wei & Zhou, 2022; Sari et al.,
+2023).
+To prevent these issues, organizations must ensure that their recruitment processes are
+fair and unbiased. This means that AI algorithms should be trained on diverse and representative
+data sets to avoid perpetuating biases, and the recruitment team should regularly review the
+algorithm's output to detect and correct any biases.
+Analysis of AI-based Recruitment Strategies
+AI-based recruitment strategies include a range of approaches that use machine learning
+algorithms and natural language processing to automate various stages of the recruitment
+process. These strategies aim to reduce bias, improve efficiency, and enhance the overall
+effectiveness of the recruitment process. Some of the most promising AI-based recruitment
+strategies are discussed below.
+RESUME SCREENING
+Resume screening is an essential part of the recruitment process that involves reviewing
+resumes and identifying potential candidates who possess the required qualifications and skills
+for a job. However, this can be a time-consuming and daunting task, especially for large
+organizations that receive hundreds or thousands of resumes for a single position (Derous &
+Ryan, 2018). To address this challenge, many companies are turning to AI-powered resume
+screening tools to automate the process and save time (Vedapradha et al., 2019).
+AI algorithms used for resume screening typically work by analyzing resumes against a
+set of predefined criteria such as job requirements, qualifications, and skills (Hunkenschroer &
+Luetge, 2022). These algorithms can quickly and accurately identify candidates who match the
+criteria, allowing recruiters to focus on the most suitable candidates and significantly reducing
+the time and effort required for manual screening.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 12
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Despite the many benefits of AI-based resume screening, there are also potential risks
+that need to be addressed. One of the most significant challenges is the potential for algorithmic
+bias, where the algorithm may unintentionally discriminate against certain candidates based on
+factors such as gender, race, or age (Fu et al., 2020; Yarger et al., 2019). For instance, if the
+algorithm is trained on biased data or criteria, it may wrongly exclude qualified candidates from
+the selection pool.
+To reduce the risk of algorithmic bias, it is crucial to ensure that the algorithm is
+designed and trained with unbiased data and criteria. This can be achieved by removing any
+potentially biased language or criteria from the job description and using diverse datasets that
+represent a range of backgrounds and experiences. Additionally, human oversight is essential
+to ensure fair and unbiased decision-making, and recruiters should regularly review and
+evaluate the algorithm's performance to detect and address any biases.
+CANDIDATE MATCHING
+Candidate matching refers to the use of machine learning algorithms to analyze large
+datasets and identify the best-suited candidates for a job based on their qualifications, skills,
+and experience (Cardoso et al., 2021). This approach aims to streamline the recruitment process
+by reducing the time and effort required to identify suitable candidates, and improve the
+accuracy of the selection process. Several types of candidates matching algorithms exist, each
+with its own strengths and limitations. For example, some algorithms use natural language
+processing (NLP) techniques to extract relevant information from resumes or job descriptions,
+while others use predictive analytics to identify high-potential candidates based on their past
+performance or other relevant data points (Soni et al., 2020).
+Despite the potential benefits of candidate matching, the quality of the data used to train
+the algorithm is crucial to ensure accurate results. Poor-quality data or biased training sets can
+lead to inaccurate candidate recommendations, which could ultimately harm the hiring process
+(Harsha et al., 2022). As a result, it is important to ensure that the algorithm is trained on diverse
+and representative datasets to minimize the risk of bias or discrimination. Moreover, there is a
+risk that the candidate matching algorithm may prioritize certain skills or qualifications over
+others, leading to bias and discrimination. For example, if the algorithm is trained to prioritize
+candidates who have attended prestigious universities or who have certain certifications, it may
+overlook candidates who have equivalent skills and qualifications but who do not fit these
+criteria.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 13
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+VIDEO INTERVIEW
+Video interview analysis is an AI-based recruitment technique that has gained
+increasing attention in recent years. The method involves analyzing video interviews of job
+candidates using natural language processing and facial recognition algorithms to evaluate their
+suitability for the job (Dunlop et al., 2022). One of the advantages of video interview analysis
+is that it provides valuable insights into a candidate's communication skills, personality, and
+cultural fit, which are difficult to assess through traditional interviews. For example, facial
+recognition algorithms can detect a candidate's emotional expressions, eye contact, and body
+language, providing recruiters with non-verbal cues that can help evaluate the candidate's
+communication skills (Hemamou et al., 2019). Similarly, natural language processing
+algorithms can evaluate the candidate's spoken responses and provide insights into their
+language proficiency, grammar, and vocabulary usage (Kadyan et al., 2021).
+However, the use of facial recognition technology raises significant privacy concerns.
+Some critics argue that the use of facial recognition in recruitment could lead to discrimination
+and bias against certain groups, such as people of color or those with disabilities (Andrejevic
+& Selwyn, 2019). Moreover, facial recognition technology is not always accurate, and it can be
+prone to errors and misidentification, leading to potential wrongful decisions (Wang et al.,
+2023).
+Another potential limitation of video interview analysis is that the accuracy of natural
+language processing algorithms can be affected by accent and dialect variations. This means
+that candidates who have a non-standard accent or dialect may be unfairly penalized, leading
+to potential bias and discrimination in the recruitment process.
+CHATBOTS
+AI-based chatbots have been widely used in recruitment to automate various aspects of
+the hiring process. They can assist recruiters in responding to candidates' queries in real-time,
+provide information about the job vacancies, and even guide candidates through the application
+process. Chatbots can be integrated with multiple communication channels such as messaging
+apps, emails, and social media platforms, which make it easier for candidates to connect with
+recruiters (Suen & Hung, 2023).
+The benefits of using chatbots in recruitment are numerous. Firstly, chatbots can provide
+24/7 support to candidates, which can significantly improve candidate engagement. This means
+that candidates can receive assistance at any time of the day, and they do not have to wait for
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 14
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+the recruiter to be available. Secondly, chatbots can reduce the workload of recruiters by
+automating repetitive tasks such as scheduling interviews and responding to frequently asked
+questions. This allows recruiters to focus on more critical tasks such as sourcing and evaluating
+candidates (Gigi & Gunaseeli, 2021).
+Moreover, chatbots can also help in the initial screening of candidates. By asking pre
+determined questions, chatbots can identify the most suitable candidates for the job and rank
+them accordingly. This can save recruiters a lot of time and effort in the initial stages of the
+recruitment process (Swapna & Arpana, 2021). However, it is important to note that chatbots
+are not a replacement for human recruiters. They are designed to assist recruiters and improve
+the candidate experience, but they cannot replace the human touch that is needed in recruitment.
+Candidates still value human interaction and personalized communication, especially during
+the later stages of the recruitment process.
+PREDICTIVE ANALYTICS
+Predictive analytics is a technique used in AI that involves the use of statistical
+algorithms and machine learning models to analyze data and make predictions about future
+outcomes. In the context of recruitment, predictive analytics can be used to analyze historical
+recruitment data to identify patterns and predict future hiring needs (Kakulapati et al., 2020).
+By analyzing past recruitment data, recruiters can gain insights into which sources have
+historically yielded the most qualified candidates, which can help them prioritize their
+recruitment efforts. For example, if past data shows that a particular job board consistently
+yields a high number of qualified candidates, recruiters can focus their advertising efforts on
+that job board to maximize their chances of finding the right candidate.
+Predictive analytics can also be used to predict future hiring needs. By analyzing past
+hiring patterns and business growth projections, recruiters can forecast the number of hires they
+will need to make in the future and plan their recruitment activities accordingly. This can help
+recruiters ensure that they have enough resources in place to manage the recruitment process
+and avoid being caught off guard by sudden hiring needs (IBM, 2022).
+One study conducted by The Society for Human Resource Management (SHRM) found
+that the use of predictive analytics in recruitment can significantly improve recruitment
+outcomes, including increased candidate quality and reduced time-to-fill positions. Another
+study conducted by HR Future found that predictive analytics can also help reduce recruitment
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 15
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+bias by focusing on objective data rather than subjective factors such as candidate age, gender,
+or ethnicity (Panayides, 2023).
+GAMIFICATION
+Gamification is a popular AI-based recruitment strategy that involves the use of game
+elements to enhance the recruitment process. According to the study conducted by Tansley et
+al. (2016), gamification has emerged as a powerful tool to improve candidate engagement and
+to provide insights into candidates' skills and abilities. The use of points, badges, and
+leaderboards in the recruitment process can create a sense of competition among candidates,
+which can motivate them to perform better. Moreover, gamification can help organizations to
+attract and retain top talent; can enhance user engagement and motivation, leading to a more
+positive user experience. In the context of recruitment, this can help organizations to create a
+positive brand image and attract more candidates (Ērgle & Ludviga, 2018).
+VIRTUAL REALITY (VR)
+Virtual Reality (VR) Assessments have emerged as a new tool in AI-based recruitment
+strategies, providing recruiters with an innovative and immersive way to evaluate job
+candidates' technical and practical skills. VR assessments use simulated environments to
+evaluate candidates' performance in various job-related tasks, enabling recruiters to measure
+candidates' abilities and aptitude in real-world scenarios (Guichet et al., 2022).
+According Guichet et al. (2022), more than half of the surveyed companies indicated
+that they were exploring VR assessments as a way to enhance their recruitment process. One
+of the key benefits of VR assessments is their ability to reduce the time and costs associated
+with traditional in-person assessments. For example, VR assessments can eliminate the need
+for expensive equipment, travel costs, and on-site testing facilities. Additionally, VR
+assessments can be accessed remotely, making it easier for recruiters to evaluate candidates
+from different locations.
+Nevertheless, there are some limitations to using VR assessments in recruitment. For
+example, candidates may not have access to the necessary equipment to participate in the
+assessment, or they may not be comfortable using VR technology. Additionally, VR
+assessments may not be suitable for all job roles and industries, such as those that require
+physical interaction or face-to-face communication.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 16
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+SOCIAL MEDIA SCREENING
+Social media screening involves analyzing candidates' social media profiles to identify
+their interests, personality, and values. Social media screening can provide valuable insights
+into candidates' suitability for a job and their cultural fit with the organization (Jeske & Shultz,
+2015). For example, if a candidate's social media profile indicates that they are passionate about
+a particular cause, it may suggest that they would be a good fit for a non-profit organization
+that shares that cause.
+In the same context, there are also risks associated with social media screening. Firstly,
+it can raise privacy concerns. Candidates may not be comfortable with their personal
+information being used to make hiring decisions. Secondly, social media screening can
+introduce bias into the recruitment process. If recruiters base their hiring decisions on factors
+such as a candidate's race, gender, or religion, it can lead to discrimination. To mitigate these
+risks, organizations should establish clear guidelines for social media screening. For example,
+they should only screen candidates' public social media profiles and not request login
+information. They should also ensure that the information they use to make hiring decisions is
+job-related and does not discriminate against protected classes. Additionally, organizations
+should provide candidates with the opportunity to review and dispute any information obtained
+through social media screening.
+Comparison of AI-Based Recruitment Techniques and their Suitability for Different
+Types of Organizations and Job Roles
+While each of the AI-based recruitment techniques discussed above offers unique
+advantages, their suitability varies depending on the organization's size, industry, and job roles
+(Table 1).
+Table 1. Comparison of AI-Based Recruitment Techniques and their Suitability for Different Types of Organizations and Job Roles Recruitment Technique
+Suitability for Large Organizations
+Suitability for Small
+Organizations Suitability for Different Job Roles
+Resume
+Screening High High Suitable for roles with clearly defined
+criteria and qualifications Candidate
+Matching High High Suitable for roles with high volume of
+applicants and data
+Video Interview High High
+Suitable for roles with strong communication and interpersonal skills Chatbots High High Suitable for roles with frequent
+communication with candidates Predictive
+Analytics High High Suitable for roles with clearly defined
+metrics and KPIs
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 17
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Gamification Moderate Moderate Suitable for roles with strong
+motivation and goal orientation Virtual Reality
+(VR) High High Suitable for technical and practical
+skills assessment
+Social Media
+Screening Moderate Moderate
+Suitable for roles with strong alignment with company culture and values Source: Prepared by the author (2023).
+Resume screening and candidate matching are two of the most common AI-based
+recruitment techniques used by organizations of all sizes and across all industries. These
+techniques are particularly suitable for organizations that receive a high volume of job
+applications or have large recruitment teams. Resume screening tools can significantly reduce
+the time and effort required for manual screening, enabling recruiters to focus on the most
+suitable candidates. Candidate matching algorithms can analyze vast datasets and identify the
+best-suited candidates for a job based on their qualifications, skills, and experience. These
+techniques are particularly useful for organizations with complex hiring needs, such as those in
+the technology or healthcare industries.
+Video interview analysis and virtual reality assessments are more advanced AI-based
+recruitment techniques that are suitable for organizations looking to enhance their candidate
+evaluation process. Video interview analysis provides valuable insights into a candidate's
+communication skills, personality, and cultural fit, while virtual reality assessments evaluate
+candidates' technical and practical skills in real-world scenarios. These techniques are
+particularly useful for organizations in industries that require specialized technical skills, such
+as engineering or software development.
+Chatbots are a popular AI-based recruitment technique that can provide 24/7 support to
+candidates, automate repetitive tasks, and assist with initial candidate screening. These tools
+are particularly useful for small to medium-sized organizations with limited recruitment
+resources or those looking to improve candidate engagement.
+Predictive analytics is an AI-based recruitment technique that is particularly suitable for
+large organizations with vast amounts of recruitment data. By analyzing past recruitment data,
+recruiters can gain insights into which sources have historically yielded the most qualified
+candidates, forecast future hiring needs, and plan recruitment activities accordingly. This
+technique is particularly useful for organizations in rapidly growing industries such as
+technology or healthcare.
+Gamification is an emerging AI-based recruitment technique that aims to improve
+candidate engagement and provide insights into candidates' skills and abilities. This technique
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 18
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+is particularly useful for organizations looking to attract and retain top talent, such as those in
+the creative or marketing industries. However, the use of gamification in recruitment should be
+approached with caution to prevent bias and discrimination.
+Social media screening is an AI-based recruitment technique that can provide valuable
+insights into a candidate's interests, personality, and values. However, the use of social media
+screening can raise privacy concerns and introduce bias into the recruitment process. This
+technique is particularly suitable for organizations in industries that require specific values or
+interests, such as non-profit organizations.
+The suitability of AI-based recruitment techniques varies depending on the
+organization's size, industry, and job roles. While each technique offers unique advantages, it's
+essential to approach their use with caution to prevent bias and discrimination. Organizations
+should carefully evaluate their recruitment needs and select the techniques that best meet those
+needs while ensuring fairness and inclusivity throughout the recruitment process.
+However, it is also essential to note that the use of AI-based recruitment techniques
+should not replace the human touch that is necessary for a successful recruitment process.
+Candidates still value human interaction and personalized communication, especially during
+the later stages of the recruitment process. Therefore, organizations should balance the use of
+AI-based recruitment techniques with personalized communication and human interaction to
+ensure that the recruitment process is fair, efficient, and effective.
+Moreover, it is important to consider the potential limitations and risks associated with
+each AI-based recruitment technique. For example, the use of facial recognition technology in
+video interview analysis can raise significant privacy concerns and potential bias against certain
+groups. Similarly, social media screening can introduce bias into the recruitment process if
+recruiters base their hiring decisions on factors such as a candidate's race, gender, or religion.
+Therefore, organizations should establish clear guidelines and best practices for the use of AI
+based recruitment techniques, such as only using job-related information and data and
+providing candidates with the opportunity to review and dispute any information obtained
+through social media screening.
+Additionally, organizations should regularly evaluate the performance of AI-based
+recruitment techniques and adjust them as needed to ensure that they meet their recruitment
+needs effectively. For example, if a candidate matching algorithm is prioritizing certain skills
+or qualifications over others, recruiters should adjust the algorithm to ensure that it doesn't
+inadvertently favor certain groups of candidates over others.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 19
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+In conclusion, while the use of AI-based recruitment techniques can streamline and
+enhance the recruitment process, organizations should approach their use with caution and
+ensure that they prioritize fairness, inclusivity, and human interaction. The suitability of each
+technique varies depending on the organization's size, industry, and job roles, and organizations
+should carefully evaluate their recruitment needs before selecting the techniques that best meet
+those needs. Additionally, organizations should regularly evaluate the performance of AI-based
+recruitment techniques and adjust them as needed to ensure that they meet their recruitment
+needs effectively while also promoting fairness and inclusivity in the recruitment process.
+CHALLENGES AND LIMITATIONS OF USING AI IN RECRUITMENT
+The use of AI in recruitment has the potential to revolutionize the hiring process by
+reducing bias, improving efficiency, and enhancing the overall effectiveness of the recruitment
+process. However, there are several challenges and limitations that organizations need to
+consider when implementing AI-based recruitment strategies. One of the most significant
+challenges is the need for human oversight. While AI can automate various stages of the
+recruitment process, it cannot replace the human touch that is needed to make final hiring
+decisions. Human oversight is essential to ensure that the AI algorithms are making fair and
+unbiased decisions and that candidates are being evaluated based on their qualifications and
+skills rather than subjective factors.
+Another challenge is the risk of algorithmic bias. AI algorithms are only as unbiased as
+the data and criteria used to train them. If the data or criteria used to train the algorithm are
+biased, it can lead to unfair and discriminatory hiring practices. Therefore, it is crucial to ensure
+that AI algorithms are designed and trained with unbiased data and criteria and that they are
+regularly reviewed and evaluated to detect and address any biases.
+Additionally, the use of AI in recruitment can potentially negatively impact the
+candidate experience. Candidates may feel that they are being evaluated solely based on their
+resume or social media profile and not given a fair chance to showcase their skills and abilities
+during the interview process. This can lead to a negative perception of the organization and
+may discourage qualified candidates from applying for future job openings.
+Furthermore, the use of AI in recruitment can raise significant privacy concerns,
+especially when using technologies such as facial recognition or social media screening.
+Candidates may not be comfortable with their personal information being used to make hiring
+decisions, and it can potentially lead to discrimination or bias.
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 20
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Finally, while AI-based recruitment strategies have the potential to transform the
+recruitment process, it is essential to use them carefully and thoughtfully to mitigate potential
+challenges and limitations. Organizations must ensure that they have human oversight in the
+hiring process, and that AI algorithms are designed and trained with unbiased data and criteria.
+Additionally, it is important to prioritize candidate experience and privacy to maintain a
+positive perception of the organization and attract top talent.
+CONCLUSION
+In recapitulating this study's objective, we sought to explore the power of AI in
+recruitment, emphasizing its potential benefits and drawbacks, particularly in the context of
+emerging AI-based recruitment strategies. This comprehensive analysis was carried out with
+the purpose of contributing to an understanding of AI's capabilities in recruitment and
+elucidating the opportunities and challenges inherent to its use.
+Our findings revealed that AI has the capacity to revolutionize recruitment processes.
+AI-based strategies such as resume screening, candidate matching, video interviewing,
+chatbots, predictive analytics, gamification, virtual reality assessments, and social media
+screening are not only innovating traditional approaches to recruitment but are also offering
+significant benefits. These include improved efficiency, cost savings, and higher-quality hires,
+which can tremendously enhance organizational effectiveness.
+However, this revolution is not without its challenges. The study identified the need for
+human oversight in the recruitment process to mitigate AI's limitations, especially regarding
+the risk of algorithmic bias. It also flagged privacy concerns and potential negative impacts on
+the candidate experience, which could be exacerbated by the use of AI.
+The limitations of the study primarily relate to its scope and the rapidly evolving nature
+of AI technology. Given the dynamic and complex nature of AI, it is essential to acknowledge
+that the effectiveness and potential issues associated with AI-based recruitment strategies are
+likely to change over time as technology advances. The rapid pace of change in AI technologies
+and the evolving legal and ethical landscape surrounding its use may also limit the longevity of
+some of the conclusions drawn in this study.
+In light of these findings and the identified limitations, future research is recommended
+in several areas. Firstly, as AI technologies continue to evolve and diversify, there is a need for
+ongoing research into their application in recruitment processes. This should include not only
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 21
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+the further investigation of existing AI-based recruitment strategies but also the exploration of
+emerging technologies and their potential impacts.
+Secondly, more in-depth investigation into the ethical and legal considerations of AI in
+recruitment is warranted. Future work should focus on developing strategies to minimize bias
+and discrimination in AI algorithms, while also exploring how to ensure candidate privacy is
+maintained and legal requirements are met.
+Thirdly, it will be beneficial to conduct empirical research into the impact of AI on the
+candidate experience. This would involve exploring candidate perceptions of AI in recruitment
+processes and investigating how AI might enhance rather than detract from the candidate
+experience.
+Lastly, future research should focus on the skills and competencies needed by HR
+professionals to leverage AI in recruitment. As AI continues to transform recruitment processes,
+it will be necessary for HR professionals to develop new knowledge and skills to effectively
+harness the power of these technologies.
+In conclusion, while AI holds great promise for the field of recruitment, it is essential
+to approach its adoption thoughtfully, considering both its potential benefits and associated
+challenges. With further research, development, and thoughtful implementation, AI could play
+a significant role in shaping the future of recruitment, helping organizations attract, engage, and
+hire top talent while ensuring fairness, inclusivity, and respect for candidate privacy.
+REFERENCES
+Ahmed, D. A., Ibrahim, M. A., & Saeed, Y. J. (2023). The Role of Information Management Systems in the Implementation of the Digital Economy Development Strategy. International Journal of Professional Business Review, 8(5), e01419–e01419. https://doi.org/10.26668/businessreview/2023.v8i5.1419
+Almajthoob, A. M. H., Hamdan, A., & Hakami, H. (2023). The Effectiveness of Applying Artificial Intelligence in Recruitment in Private Sectors. Digitalisation: Opportunities and Challenges for Business, 631–641. https://doi.org/10.1007/978-3-031-26953-0_58
+Andrejevic, M., & Selwyn, N. (2019). Facial recognition technology in schools: critical questions and concerns. Learning, Media and Technology, 45(2), 1–14. https://doi.org/10.1080/17439884.2020.1686014
+Black, J. S., & van Esch, P. (2020). AI-enabled recruiting: What is it and how should a manager use it? Business Horizons, 63(2), 215–226. https://doi.org/10.1016/j.bushor.2019.12.001
+Budhwar, P., Malik, A., De Silva, M. T. T., & Thevisuthan, P. (2022). Artificial intelligence challenges and opportunities for international HRM: a review and research agenda. The
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 22
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+International Journal of Human Resource Management, 33(6), 1065–1097. tandfonline. https://doi.org/10.1080/09585192.2022.2035161
+Cappelli, P., Tambe, P., & Yakubovich, V. (2018). Artificial Intelligence in Human Resources Management: Challenges and a Path Forward. SSRN Electronic Journal, 61(4). https://doi.org/10.2139/ssrn.3263878
+Cardoso, A., Mourão, F., & Rocha, L. (2021). The matching scarcity problem: When recommenders do not connect the edges in recruitment services. Expert Systems with Applications, 175, 114764. https://doi.org/10.1016/j.eswa.2021.114764
+Chen, Z. (2022). Collaboration among recruiters and artificial intelligence: removing human prejudices in employment. Cognition, Technology & Work. https://doi.org/10.1007/s10111022-00716-0
+Derous, E., & Ryan, A. M. (2018). When your resume is (not) turning you down: Modelling ethnic bias in resume screening. Human Resource Management Journal, 29(2), 113–130. https://doi.org/10.1111/1748-8583.12217
+Du, S., & Xie, C. (2020). Paradoxes of Artificial Intelligence in Consumer markets: Ethical Challenges and Opportunities. Journal of Business Research, 129. https://doi.org/10.1016/j.jbusres.2020.08.024
+Dunlop, P. D., Holtrop, D., & Wee, S. (2022). How asynchronous video interviews are used in practice: A study of an Australian‐based AVI vendor. International Journal of Selection and Assessment, 30(3). https://doi.org/10.1111/ijsa.12372
+Ērgle, D., & Ludviga, I. (2018). USE OF GAMIFICATION IN HUMAN RESOURCE MANAGEMENT: IMPACT ON ENGAGEMENT AND SATISFACTION. 10th International Scientific Conference “Business and Management 2018.” https://doi.org/10.3846/bm.2018.45
+Fu, R., Huang, Y., & Singh, P. V. (2020). Artificial Intelligence and Algorithmic Bias: Source, Detection, Mitigation, and Implications. Pushing the Boundaries: Frontiers in Impactful OR/OM Research, 39–63. https://doi.org/10.1287/educ.2020.0215
+Gigi, G., & Gunaseeli, P. (2021). HR Recruitment Through Chatbot- An Innovative Approach. Journal of Contemporary Issues in Business and Government, 26(02). https://doi.org/10.47750/cibg.2020.26.02.075
+Guichet, P. L., Huang, J., Zhan, C., Millet, A., Kulkarni, K., Chhor, C., Mercado, C., & Fefferman, N. (2022). Incorporation of a Social Virtual Reality Platform into the Residency Recruitment Season. Academic Radiology, 29(6), 935–942. https://doi.org/10.1016/j.acra.2021.05.024
+Gupta, A., & Mishra, M. (2022). Ethical Concerns While Using Artificial Intelligence in Recruitment of Employees. Business Ethics and Leadership, 6(2), 6–11. https://doi.org/10.21272/bel.6(2).6-11.2022
+Gupta, M., Parra, C. M., & Dennehy, D. (2021). Questioning Racial and Gender Bias in AIbased Recommendations: Do Espoused National Cultural Values Matter? Information Systems Frontiers. https://doi.org/10.1007/s10796-021-10156-2
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 23
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Harsha, T. M., Moukthika, G. S., Sai, D. S., Pravallika, M. N. R., Anamalamudi, S., & Enduri, M. (2022). Automated Resume Screener using Natural Language Processing(NLP). 2022 6th International Conference on Trends in Electronics and Informatics (ICOEI). https://doi.org/10.1109/icoei53556.2022.9777194
+Hemamou, L., Felhi, G., Martin, J.-C., & Clavel, C. (2019). Slices of Attention in Asynchronous Video Job Interviews. 2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII). https://doi.org/10.1109/acii.2019.8925439
+Hogg, P. (2019). Artificial intelligence: HR friend or foe? Strategic HR Review, 18(2), 47–51. https://doi.org/10.1108/shr-11-2018-0094
+Hunkenschroer, A. L., & Luetge, C. (2022). Ethics of AI-Enabled Recruiting and Selection: A Review and Research Agenda. Journal of Business Ethics, 178(4). https://doi.org/10.1007/s10551-022-05049-6
+IBM. (2022). What Is Predictive Analytics? | IBM. Www.ibm.com. https://www.ibm.com/topics/predictive-analytics
+Jeske, D., & Shultz, K. S. (2015). Using social media content for screening in recruitment and selection: pros and cons. Work, Employment and Society, 30(3), 535–546. https://doi.org/10.1177/0950017015613746
+Johnson, R. D., Stone, D. L., & Lukaszewski, K. M. (2020). The benefits of eHRM and AI for talent acquisition. Journal of Tourism Futures, ahead-of-print(ahead-of-print). https://doi.org/10.1108/jtf-02-2020-0013
+Kadyan, V., Singh, A., Mittal, M., & Abualigah, L. (2021). Deep Learning Approaches for Spoken and Natural Language Processing. Springer International Publishing : Imprint: Springer.
+Kakulapati, V., Chaitanya, K. K., Chaitanya, K. V. G., & Akshay, P. (2020). Predictive analytics of HR - A machine learning approach. Journal of Statistics and Management Systems, 23(6), 959–969. https://doi.org/10.1080/09720510.2020.1799497
+Kazim, E., Koshiyama, A. S., Hilliard, A., & Polle, R. (2021). Systematizing Audit in Algorithmic Recruitment. Journal of Intelligence, 9(3), 46. https://doi.org/10.3390/jintelligence9030046
+Koivunen, S., Ala-Luopa, S., Olsson, T., & Haapakorpi, A. (2022). The March of Chatbots into Recruitment: Recruiters’ Experiences, Expectations, and Design Opportunities. Computer Supported Cooperative Work (CSCW). https://doi.org/10.1007/s10606-022-09429-4
+Lee, J., Suh, T., Roy, D., & Baucus, M. (2019). Emerging Technology and Business Model Innovation: The Case of Artificial Intelligence. Journal of Open Innovation: Technology, Market, and Complexity, 5(3), 44. https://doi.org/10.3390/joitmc5030044
+Mehrotra, S., & Khanna, A. (2022). Recruitment Through AI in Selected Indian Companies. Metamorphosis: A Journal of Management Research, 097262252110662. https://doi.org/10.1177/09726225211066220
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 24
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Mehta, S., Pimplikar, R., Singh, A., Varshney, L. R., & Visweswariah, K. (2013). Efficient multifaceted screening of job applicants. Proceedings of the 16th International Conference on Extending Database Technology - EDBT ’13. https://doi.org/10.1145/2452376.2452453
+Ore, O., & Sposato, M. (2021). Opportunities and risks of artificial intelligence in recruitment and selection. International Journal of Organizational Analysis, 30(6). https://doi.org/10.1108/ijoa-07-2020-2291
+Panayides, J. (2023). How is Predictive Analytics Shaping the Future of HR? MyHRfuture. https://www.myhrfuture.com/blog/how-is-predictive-analytics-shaping-the-future-ofhr#:~:text=Predictive%20analytics%20can%20also%20help
+Roy, P. K., Chowdhary, S. S., & Bhatia, R. (2020). A Machine Learning approach for automation of Resume Recommendation system. Procedia Computer Science, 167, 23182327. https://doi.org/10.1016/j.procs.2020.03.284
+Sari, M. W., Aima, M. H., & Elfiswandi. (2023). The Effect of Creativity and Digital Literacy on Business Opportunities and Their Impact on Welfare Levels. International Journal of Professional Business Review, 8(5), e01675–e01675. https://doi.org/10.26668/businessreview/2023.v8i5.1675
+Schleder, G. R., Padilha, A. C. M., Acosta, C. M., Costa, M., & Fazzio, A. (2019). From DFT to machine learning: recent approaches to materials science–a review. Journal of Physics: Materials, 2(3), 032001. https://doi.org/10.1088/2515-7639/ab084b
+Singh, R., Sharma, P., Foropon, C., & Belal, H. M. (2022). The role of big data and predictive analytics in the employee retention: a resource-based view. International Journal of Manpower, ahead-of-print(ahead-of-print). https://doi.org/10.1108/ijm-03-2021-0197
+Soni, M., Gomathi, S., & Adhyaru, Y. (2020, July 1). Natural Language Processing for the Job Portal Enhancement. IEEE Xplore. https://doi.org/10.1109/ICSSS49621.2020.9202046
+Suen, H.-Y., & Hung, K.-E. (2023). Building trust in automatic video interviews using various AI interfaces: Tangibility, immediacy, and transparency. Computers in Human Behavior, 143, 107713. https://doi.org/10.1016/j.chb.2023.107713
+Swapna, H. R., & Arpana, D. (2021). Chatbots as a Game Changer in E-recruitment: An Analysis of Adaptation of Chatbots. Lecture Notes in Networks and Systems, 201, 61–69. https://doi.org/10.1007/978-981-16-0666-3_7
+Tansley, C., Hafermalz, E., & Dery, K. (2016). Talent development gamification in talent selection assessment centres. European Journal of Training and Development, 40(7), 490–512. https://doi.org/10.1108/ejtd-03-2016-0017
+Tippins, N., Oswald, F., & McPhail, S. M. (2021). Scientific, Legal, and Ethical Concerns About AI-Based Personnel Selection Tools: A Call to Action. Personnel Assessment and Decisions, 7(2). https://doi.org/10.25035/pad.2021.02.001
+Vedapradha, R., Hariharan, R., & Shivakami, R. (2019). Artificial Intelligence: A Technological Prototype in Recruitment. Journal of Service Science and Management, 12(03), 382–390. https://doi.org/10.4236/jssm.2019.123026
+
+
+Intern. Journal of Profess. Bus. Review. | Miami, v. 8 | n. 5 | p. 01-25 | e02089 | 2023. 25
+Albassam, W. A. (2023)
+The Power of Artificial Intelligence in Recruitment: An Analytical Review of Current AI-Based Recruitment Strategies
+Wang, Z., Huang, B., Wang, G., Yi, P., & Jiang, K. (2023). Masked Face Recognition Dataset and Application. IEEE Transactions on Biometrics, Behavior, and Identity Science, 1–1. https://doi.org/10.1109/tbiom.2023.3242085
+Wei, M., & Zhou, Z. (2022). AI Ethics Issues in Real World: Evidence from AI Incident Database. ArXiv:2206.07635 [Cs]. https://arxiv.org/abs/2206.07635
+Yam, J., & Skorburg, J. A. (2021). From human resources to human rights: Impact assessments for hiring algorithms. Ethics and Information Technology, 23. https://doi.org/10.1007/s10676021-09599-7
+Yarger, L., Cobb Payton, F., & Neupane, B. (2019). Algorithmic equity in the hiring of underrepresented IT job candidates. Online Information Review, 44(2), 383–395. https://doi.org/10.1108/oir-10-2018-0334
+Zel, S., & Kongar, E. (2020). Transforming Digital Employee Experience with Artificial Intelligence. 2020 IEEE / ITU International Conference on Artificial Intelligence for Good (AI4G). https://doi.org/10.1109/ai4g50087.2020.9311088
+Zimmermann, T., Kotschenreuther, L., & Schmidt, K. (2016). Data-driven HR - R\'esum\'e Analysis Based on Natural Language Processing and Machine Learning. ArXiv:1606.05611 [Cs], 1(2). https://arxiv.org/abs/1606.05611
