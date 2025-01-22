@@ -1,15 +1,15 @@
 {
 	"translatorID": "ecddda2e-4fc6-4aea-9f17-ef3b56d7377a",
+	"translatorType": 12,
 	"label": "arXiv.org",
 	"creator": "Sean Takats and Michael Berkowitz",
 	"target": "^https?://([^\\.]+\\.)?(arxiv\\.org|xxx\\.lanl\\.gov)/(search|find|catchup|list/\\w|abs/|pdf/)",
 	"minVersion": "6.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 12,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2024-10-22 16:12:31"
+	"lastUpdated": "2024-12-03 16:00:00"
 }
 
 /*
@@ -234,8 +234,7 @@ const arXivCategories = {
 };
 
 var version;
-var arxivDOI;
-// these variables will be set in doWeb and
+// this variable will be set in doWeb and
 // can be used then afterwards in the parseXML
 
 function detectSearch(item) {
@@ -244,7 +243,7 @@ function detectSearch(item) {
 
 async function doSearch(item) {
 	let url = `https://export.arxiv.org/api/query?id_list=${encodeURIComponent(item.arXiv)}&max_results=1`;
-	let doc = await requestDocument(url);
+	let doc = await requestAtom(url);
 	parseAtom(doc);
 }
 
@@ -324,7 +323,7 @@ async function doWeb(doc, url) {
 		let selectedItems = await Z.selectItems(items);
 		if (selectedItems) {
 			let apiURL = `https://export.arxiv.org/api/query?id_list=${encodeURIComponent(Object.keys(selectedItems).join(','))}`;
-			let document = await requestDocument(apiURL);
+			let document = await requestAtom(apiURL);
 			parseAtom(document);
 		}
 	}
@@ -334,7 +333,6 @@ async function doWeb(doc, url) {
 		if (versionMatch) {
 			version = versionMatch[1];
 		}
-		arxivDOI = text(doc, '.arxivdoi > a');
 
 		if (!id) { // Honestly not sure where this might still be needed
 			id = text(doc, 'span.arxivid > a');
@@ -345,8 +343,14 @@ async function doWeb(doc, url) {
 		//id = id.trim().replace(/^arxiv:\s*|v\d+|\s+.*$/ig, '');
 		id = id.trim().replace(/^arxiv:\s*|\s+.*$/ig, '');
 		let apiURL = `https://export.arxiv.org/api/query?id_list=${encodeURIComponent(id)}&max_results=1`;
-		await requestDocument(apiURL).then(parseAtom);
+		await requestAtom(apiURL).then(parseAtom);
 	}
+}
+
+// Temp workaround for https://github.com/zotero/zotero-connectors/issues/526
+async function requestAtom(url) {
+	let text = await requestText(url);
+	return new DOMParser().parseFromString(text, 'application/xml');
 }
 
 function parseAtom(doc) {
@@ -391,7 +395,7 @@ function parseSingleEntry(entry) {
 	}
 	newItem.url = arxivURL;
 
-	let articleID = arxivURL.replace(/https?:\/\/arxiv.org\/abs\//, ''); // Trim off http://arxiv.org/abs/
+	let articleID = arxivURL.match(/\/abs\/(.+)$/)[1];
 
 	let articleField = attr(entry, "primary_category", "term").replace(/^.+?:/, "").replace(/\..+?$/, "");
 	if (articleField) articleField = "[" + articleField + "]";
@@ -419,7 +423,7 @@ function parseSingleEntry(entry) {
 	// retrieve and supplement publication data for published articles via DOI
 	if (newItem.DOI) {
 		var translate = Zotero.loadTranslator("search");
-		// CrossRef
+		// DOI Content Negotiation
 		translate.setTranslator("b28d0d42-8549-4c6d-83fc-8382874a5cb9");
 
 		var item = { itemType: "journalArticle", DOI: newItem.DOI };
@@ -449,7 +453,8 @@ function parseSingleEntry(entry) {
 		if (version) {
 			newItem.extra += '\nversion: ' + version;
 		}
-		if (arxivDOI) newItem.DOI = ZU.cleanDOI(arxivDOI);
+		// https://blog.arxiv.org/2022/02/17/new-arxiv-articles-are-now-automatically-assigned-dois/
+		newItem.DOI = "10.48550/arXiv." + articleID;
 		newItem.archiveID = "arXiv:" + articleID;
 		newItem.complete();
 	}
@@ -717,6 +722,7 @@ var testCases = [
 					}
 				],
 				"date": "2014-02-06",
+				"DOI": "10.48550/arXiv.1402.1516",
 				"abstractNote": "We construct a dual pair associated to the Hamiltonian geometric formulation of perfect fluids with free boundaries. This dual pair is defined on the cotangent bundle of the space of volume preserving embeddings of a manifold with boundary into a boundaryless manifold of the same dimension. The dual pair properties are rigorously verified in the infinite dimensional Fr\\'echet manifold setting. It provides an example of a dual pair associated to actions that are not completely mutually orthogonal.",
 				"archiveID": "arXiv:1402.1516",
 				"extra": "arXiv:1402.1516 [math]",
@@ -984,6 +990,7 @@ var testCases = [
 					}
 				],
 				"date": "2002-11-11",
+				"DOI": "10.48550/arXiv.math/0211159",
 				"abstractNote": "We present a monotonic expression for the Ricci flow, valid in all dimensions and without curvature assumptions. It is interpreted as an entropy for a certain canonical ensemble. Several geometric applications are given. In particular, (1) Ricci flow, considered on the space of riemannian metrics modulo diffeomorphism and scaling, has no nontrivial periodic orbits (that is, other than fixed points); (2) In a region, where singularity is forming in finite time, the injectivity radius is controlled by the curvature; (3) Ricci flow can not quickly turn an almost euclidean region into a very curved one, no matter what happens far away. We also verify several assertions related to Richard Hamilton's program for the proof of Thurston geometrization conjecture for closed three-manifolds, and give a sketch of an eclectic proof of this conjecture, making use of earlier results on collapsing with local lower curvature bound.",
 				"archiveID": "arXiv:math/0211159",
 				"extra": "arXiv:math/0211159",
