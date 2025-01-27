@@ -1,0 +1,1639 @@
+1
+Living and Working with Service Robots: A TCCM Analysis and Considerations for
+Future Research
+Arne DE KEYSER EDHEC Business School
+Werner KUNZ University of Massachusetts Boston
+Please cite this work as:
+De Keyser, A. and Kunz, W. H. (2022), “Living and Working with Service Robots: A TCCM Analysis and Considerations for Future Research”, Journal of Service Management, forthcoming.
+Arne DE KEYSER (contact author) is Associate Professor of Marketing at the Department of Marketing, EDHEC Business School, France. Contact information: 24 Avenue Gustave Delory, CS 50411, 59057 Roubaix Cedex 1, France, Tel: (+32) 494-23-34-93, Email: arne.dekeyser@edhec.edu
+Werner H. KUNZ is Professor of Marketing at the University of Massachusetts Boston, 100 Morrissey Boulevard, Boston, MA, 02125, USA, Email: werner.kunz@umb.edu
+Keywords: Service robots, robotics, AI, artificial intelligence, service encounter, chatbot,
+conversational agent
+Paper type: literature review
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+2
+Living and Working with Service Robots: A TCCM Analysis and Considerations for
+Future Research
+Abstract
+Purpose – Service robots are now an integral part of our living and working environment,
+making them one of the hot topics for service researchers today. Against this background, this
+paper reviews the recent service robot literature following a Theory-Context-Characteristics
+Methodology (TCCM) approach to capture the state-of-art of the field. In addition, building
+on qualitative input from researchers active in this field, we highlight where opportunities for
+further development and growth lie.
+Design/methodology/approach – This paper identifies and analyzes 88 manuscripts
+(featuring 173 individual studies) published in academic journals featured on the SERVSIG
+literature alert. In addition, qualitative input gathered from 79 researchers active in the
+service field and doing research on service robots is infused throughout the manuscript.
+Findings – The key research foci of the service robot literature to date include comparing
+service robots with humans, the role of service robots’ look & feel, consumer attitudes toward
+service robots, and the role of service robot conversational skills & behaviors. From a TCCM
+view, we discern dominant theories (anthropomorphism theory), contexts (retail/healthcare,
+U.S. samples, B2C settings, and customer-focused), study characteristics (robot type:
+chatbots, not embodied, and text/voice-based; outcome: customer intentions), and
+methodologies (experimental, picture-based scenarios).
+Originality/value – This paper is the first to analyze the service robot literature from a
+TCCM perspective. Doing so, this study gives (1) a comprehensive picture of the field to date
+and (2) highlights key pathways to inspire future work.
+Keywords: Service robots, robotics, AI, artificial intelligence, service encounter, chatbot,
+conversational agent
+Paper type: literature review
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+3
+1. Introduction
+Service robots are omnipresent today. Their infusion with artificial intelligence (AI) and
+increasingly cost-efficient and scalable nature allows service robots to be used to enhance
+customer experience, service quality, and productivity, all at the same time (Wirtz et al.,
+2021; Xiao and Kumar, 2021). Many people already interact daily with service robots in their
+living (e.g., Siri, Amazon Alexa) and working (e.g., Pepper robot as co-worker)
+environments. A recent report from the International Federation of Robotics (IFR, 2021)
+shows the market for professional (primarily physical) service robots reached a turnover of
+6.7 billion U.S. dollars worldwide. Top applications include delivery, cleaning, disinfection,
+medical, social, and automated restaurant robots produced by over 1,000 suppliers
+worldwide. Meanwhile, the global market for virtual assistants – e.g., Messenger chatbots,
+Alexa, and Siri – was valued at 5 billion U.S. dollars in 2020 (Verified Market Research,
+2020), with key players like Baidu, Google, Apple, IBM, Facebook, and Microsoft
+dominating this space.
+In this paper, we follow Wirtz et al. (2018) and consider service robots as system
+based autonomous and adaptable interfaces that interact, communicate, and deliver service
+to customers, employees and/or other (service) robots. This definition encompasses the wide
+variety of service robot definitions and descriptions put forth to date (see Appendix A),
+recognizing (1) the embeddedness of service robots within a network or broader system (e.g.,
+connection to external databases, CRM cloud, etc. – see also Pitardi et al., this issue), (2) the
+role of AI to enable service robot autonomy and adaptability (e.g., usage of emotion
+recognition algorithms to adapt responses to customer queries), and (3) service robots’ ability
+to interact with a variety of actors through various formats (i.e., interfaces), be they virtually
+or physically (De Keyser et al., 2019).
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+4
+Service robot research has grown extensively in the last years. Against this
+background, this article seeks to paint a comprehensive picture of the state-of-art of service
+robot research published in the area of service research. Building on 88 service robot articles
+featured in the SERVSIG literature alert, we discern (1) key research foci and perform a
+TCCM analysis (Paul & Rosado-Serrano, 2019) to uncover the (2) dominant theories, (3)
+contexts, (4) study characteristics and (5) methodologies used to date. In addition, for each of
+these five components, we discuss where future research may go building on qualitative input
+of 79 expert scholars active in the service research area. Doing so, we hope this article may
+act as a source of inspiration for the growing community of service robot scholars and
+provide a foundation to develop strong and meaningful scholarly work.
+2. Methodology
+To select relevant academic papers, we sourced articles from academic journals
+covered by the SERVSIG literature alert as these are recognized to be key outlets for service
+related work (Kunz, 2022). The resulting list of journals includes: Journal of Service
+Research, Journal of Service Management, Journal of Services Marketing, Journal of Service
+Theory and Practice, Service Industries Journal, Cornell Hospitality Quarterly, Service
+Science, Journal of Marketing, Journal of Marketing Research, Journal of Consumer
+Research, Marketing Science, Journal of the Academy of Marketing Science, International
+Journal of Research in Marketing, Journal of Interactive Marketing, Journal of
+Retailing, Industrial Marketing Management, Marketing Letters, Psychology &
+Marketing, Journal of Business Research, Business Horizons, Academy of Management
+Journal, Academy of Management Review, Strategic Management Journal, Management
+Science, Journal of Management, Journal of Management Studies, Journal of Product
+Innovation Management, MIS Quarterly, Information Systems Research, Journal of
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+5
+Management Information Systems, Journal of Operations Management, International
+Journal of Operations & Production Management, Manufacturing & Service Operations
+Management, Production & Operations Management. Our selection covered work published
+in the period 2016- summer 2021.
+We identified relevant articles based on a series of keywords, including ‘technology,
+‘robot’, ‘chatbot’, ‘digital assistant’, ‘AI’, ‘artificial intelligence’, and ‘intelligence’. This
+initial search resulted in a set of 2,145 articles. In a next step, all articles were manually
+screened to see if service robots were the study's core focus. Papers with a generic focus on
+AI and technology were kept out of the final set. In case of unclarity, the full text of the
+article was consulted. This procedure resulted in a final set of 88 articles. All articles (and the
+173 individual studies of which they are composed) were then coded following a TCCM
+procedure (Paul & Rosado-Serrano, 2019) to extract their key theories, contexts, study
+characteristics and methodologies used. In addition, we also coded the different research foci
+to understand what major topics have been considered so far. Web Appendix A provides the
+full references of the articles included in our analyses. Figure 1 provides insights into the
+spread of articles across our timeframe.
+Insert Figure 1 around here
+In the following, we systematically discuss the various components – research foci
+and TCMM factors – coded and complement these insights with a discussion on how service
+robot research might move forward. We reached out to the 227 authors1 responsible for the
+88 coded articles to fuel this discussion. Of this set, 79 service scholars responded – see
+Appendix B for an overview of contributors who agreed to be acknowledged for their input 
+resulting in a response rate of 34.80%. We contacted the authors by means of an email that
+1 The total set of authors was comprised of 241 people. We could not find contact information for 12 people in this set. In addition, as co-authors of this paper, we excluded ourselves from the mailing list.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+6
+provided an overview of this article’s objective and included the 12 tables featured next in
+this article. Through an online survey, we then asked our respondents a series of questions
+about the opportunities and/or challenges regarding the identified service robot research foci,
+theories, study contexts, the robot types considered, study outcomes, and methodologies. In
+addition, we closed the survey with an open question allowing respondents to share any
+additional considerations and comments. The specific questions of the survey can be found in
+Appendix C.
+3. Research Foci
+Several distinct research foci could be uncovered in the coding process (see Table 1 for an
+overview – we use the 173 studies as the basis for the count and relative frequencies).
+Insert Table 1 around here
+The principal stream of service robot research (48 studies – 27.75%) focuses on
+comparing service robots with their human counterparts, be they employees or customers
+(hereafter, ‘humans’ refers to customers and employees in general). For instance, Mende et
+al. (2019) find that consumers may display compensatory responses when interacting with a
+humanoid service robot rather than a human employee. Pitardi et al. (this issue), on the other
+hand, find that service robots may in fact be preferred over a human frontline in case of
+embarrassing encounters. Given the dominance of work opposing service robots and humans,
+several experts raise the need to rather focus on the collaboration (instead of the contrast)
+between humans and service robots in the service process. The following quotes illustrate
+this:
+“I think that the future challenges and opportunities lie in developing and understanding how companies can implement a smooth "omni actor interaction", that is, customers switching from a human to a non-human frontline employee (FLE) without having the feeling that one type of interaction is much better or much different than another. What are human and non-human FLE features and characteristics and
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+7
+processes that allow a smooth and seamless transition from non-human to human FLE - customer interactions?” (Chiara Orsingher, University of Bologna)
+“The dominant research focus so far seems to be the comparison between robots and humans. I feel the key opportunity to move forward would be to study the collaboration between robots and humans, rather than focusing on the differences. I expect that in the near future these actors work in a team, or at least in collaboration and it would be important to understand what the effect of this new type of actor is on service encounters and service experiences.” (Gaby Odekerken-Schröder, Maastricht University)
+“I think there is an overemphasis on research trying to contrast robots versus humans. What we need is more research about robots WITH humans. How can robots and humans better collaborate? This is a really interesting question.” (Linda Alkire, Texas State University)
+Therefore, future work may want to consider answering the following research questions:
+How can we best nurture the collaboration between service robots and humans? How can
+service robots be integrated within human-led practices? And under what circumstances are
+service robots best fit to collaborate vs. substitute their human counterparts?
+A second group of studies focuses on the impact of service robots’ visual look and
+feel (27 studies – 15.61%). Of particular interest here is the extent to which a service robot
+appears human. Letheren et al. (2021), for instance, find higher levels of humanness in a
+service robot to increase consumer liking. Contrarily, Kim et al. (2016) find humanized
+digital helpers to have a negative impact on consumer enjoyment in a gaming context through
+reduced feelings of autonomy. Given these contrasting findings, several experts call for more
+research to understand when humanizing service robots is recommended (and when not) and
+to map the relevant boundary conditions. Also, more research is needed to understand how
+different humanized robot features (e.g., the inclusion of hands, eyes, mouth, legs) impact
+human expectations differently.
+“A challenging issue that must be addressed is whether robots should, or should not, be more human. In general, we tend to think that they should be more human. But maybe robots have to be machine-like, and not talk and behave as do humans, because they are different in nature.” (Daniel Belanche, University of Zaragoza)
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+8
+“In many papers there seems to be the explicit or implicit assumption that the more human-like a robot the better. This might be myopic as sometimes people might not prefer human-like robots with a high social presence” (Maik Hammerschmidt, University of Goettingen)
+“Robot appearance also generates expectancy, which should be carefully managed. E.g., robot Pepper has hands. So, people expect that it can use them, while their practical use is in fact very limited.” (Bram Vanderborght, Vrije Universiteit Brussel – Brubotics)
+A third stream of research focuses on consumer attitudes and perceptions toward service
+robots (24 studies – 13.87%). Moriuchi (2021), for instance, finds performance expectation,
+perceived risk, effort expectation, and social influence to drive service robot experience. Butt
+et al. (2021) show how robot perceived ease of use and usefulness drive consumer attitudes
+toward AI-powered avatars. Several experts express the need to investigate human attitudes
+further and compare how attitudes change over time as service robots become more
+integrated and common within society.
+“In my thought, the "consumer attitudes & perception" are a key topic. Human-robot interaction analysis requires a different approach that recognizes that humans' relationship with technologies is multifaceted and context-dependent. Most technology mediates between the user and their worlds.” (Tiziana Russo Spena, University of Naples Federico II)
+“It is more relevant than ever to investigate human-robot interactions to signify the constitutive entanglement of the social and the material in everyday life. Subject and object constitute each other. It is not only a question of the interpretation of the humantechnology relations, but of engagement with the artifacts, the context of artifacts, and what the artifacts make available.” (Tiziana Russo Spena and Cristina Mele, University of Naples Federico II)
+Further, 18 studies (10.40% of our sample) look at service robot conversational skills and
+behavior. Gelbrich et al. (2021), for instance, show that emotional support offered by a digital
+assistant may increase customer satisfaction and persistence in using technology-mediated
+services. However, other experts raise the concern that service robots may not be ready to
+deliver conversational skills at the desired level, leading to human disappointment. Therefore,
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+9
+more work is needed to understand how customers/employees deal with failing robot
+conversational skills.
+“I think that the top challenge remains the robot's conversational skills and behaviour. Erratic behavior is what irritates consumers, impacting on consumer attitudes and perceptions towards robots, thanks to reputation.” (Emanuel Said, University of Malta)
+Similarly, additional research may be needed to understand what humans are looking for in a
+service robot, as well as to understand the boundary factors that drive their preference for one
+set of robotic skills above the other.
+“I don't think a robot vs. human comparison will be that informative in the future, but rather robot A vs. robot B comparisons. Robots will increasingly take over certain functions in service settings, therefore understanding what consumers need/want in robots will become increasingly important.” (Stephanie Noble, the University of Tennessee Knoxville)
+“We need to find out how robots need to be equipped to be effective.” (Katja Gelbrich, Catholic University of Eichstätt-Ingolstadt)
+Another set of 9 studies (5.20%) focuses on service robot identification, which relates to
+human actors’ (lack of) awareness of the artificial nature of a service robot during their
+interactions. Luo et al. (2019), for instance, find evidence for a negative disclosure effect
+leading to lower customers purchase rates in a financial services setting. This topic raised
+particular interest with several of the experts:
+“By now, the category "robot vs. human," has become overused. Conceptually, the more interesting and fundamental question seems to be, "What if robots can't be distinguished from humans but you know it is a robot. How will you evaluate the robot?” (Bernd Schmitt, Columbia University)
+Future work may investigate how humans deal with the uncertainty surrounding the artificial
+vs. human nature of the service frontline (e.g., Am I interacting with a human or a robot?)
+and consider the extent to which human actors feel ‘tricked’ when realizing they interacted
+with a service robot only after the service interaction took place.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+10
+Research also looks at the various roles service robots may perform (4 studies,
+2.31%). Tuomi et al. (2021), for instance, identify service robots to take on a supportive,
+substitution, differentiating, improving and upskilling role in a hospitality context, while Caíc
+et al. (2018) distinguish six roles – enabler, intruder, ally, replacement, extended self,
+deactivator – for socially assistive robots. Again, several experts note the need to develop a
+better understanding of service robot roles and those of humans. For instance, while research
+already considered changing employee roles – the employee as an innovator, differentiator,
+enabler or coordinator (Larivière et al., 2017) – in a tech-dominant society, we know little
+about how and whether customers take on new roles within service robot-dominated service
+encounters.
+“Recently, many studies have been conducted comparing how our perceptions change when various services are not provided by other persons, but by robots. Undoubtedly, these comparisons are very appealing. However, in my view, future studies should focus on identifying more specifically the roles, functions and the specific situations in which robots can provide a better service than humans or alternative technologies” (Carlos Flavián, University of Zaragoza)
+“A key opportunity to move the field forward is to further investigate not only robot roles, but also altered or new customer roles that result from a robotic service agent. The opportunities and at the same time limitations that robotic agents have in comparison to human employees, might lead to new customer roles to be performed. Where service from human staff might be consumed in a rather reactive way because the human service provider takes the lead, I can imagine that more proactive customer roles could be essential in fully enjoying the service delivered by a service robot.” (Mark Steins, Maastricht University)
+Our experts are also surprised by the lack of studies comparing service robots with other
+service technologies (3 studies, 1,73%):
+“It is remarkable that only so few studies have considered the contrast between robots and other technologies. Given that robots could be considered an upgrade from selfservice technologies, this would be quite an important area to dig deeper into.” (Jeroen Schepers, Eindhoven University of Technology)
+“A key challenge lies in integrating service robots with other technological innovations and understanding their respective (dis)advantages and complementarities.” (Alexander Henkel, Open University)
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+11
+As such, future work may want to focus on the differences between and/or interaction of
+service robots with other service technologies that are rapidly gaining traction, such as smart
+service systems (e.g., Henkens et al., 2021), augmented reality (e.g., Heller et al., 2021), and
+virtual reality (e.g., Wedel et al., 2020); as well as how service robots relate to and lift
+‘dumb’ self-service technologies (SST) to a next level. Here, Brengman et al. (2020) provide
+some initial contrasting insights in a retail context, demonstrating a humanoid service robot
+elicits 26 times more service interactions compared to a tablet-based service kiosk, resulting
+in more unique customer transactions and spending behavior.
+Finally, several other areas in need of research emerge from our expert panel. A first
+topic is that of robot agency, relating to the level of autonomy and freedom service robots
+(and AI systems in general) get to make decisions in name of their human counterparts.
+“Another challenge is how people integrate robots into their lives. To what extent are customers able to live with robots at home, or let AI or robots take important decisions (e.g., about university admissions) or actions (e.g., conducting operations in a hospital)?”
+(Daniel Belanche, University of Zaragoza)
+The work of Huang and Rust (this issue) raises several interesting research venues, including:
+Under what conditions do humans grant control to service robots/AI? And in what ways can
+humans benefit from being substituted by service robots?
+Another theme that surfaced is that of service robot ethics, with many experts raising
+the need to carefully reflect upon the ethical challenges that arise from the implementation of
+service robots:
+“Humans should consider ethical issues as we literally begin to live with robots.” (Sungjun (Steven) Park, National Chengchi University)
+“Zuboff's Surveillance Capitalism is a big concern with digital assistants in the home, but this also applies to services (e.g., therapy bots).” (Russell Belk, York University)
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+12
+Initial work by Belk (2021) discusses a variety of service robot ethical challenges
+related to social engineering, ubiquitous surveillance, military robots, sex robots, and
+transhumanism. Murtarelli et al. (2021), in turn, discuss ethical challenges linked to chatbots
+and discern three key risks: (1) a risk of asymmetrical distribution of informative power (i.e.,
+chatbots can collect and process information at a much faster pace), (2) a risk of unclarity
+surrounding the identity, mental models and intents of the interaction partner (i.e., unclarity
+about the interaction with an AI-entity), and (3) a risk of network security and users’ privacy.
+From this initial work, it becomes clear that service researchers have a responsibility to
+consider the various ethical challenges of service robots and providing more insights on how
+we can deal with these from a human, firm, and public policy perspective.
+A final theme is that of service robots in failure and recovery situations:
+“I believe a key challenge is to identify robots' efficacy in service recovery. Does the service recovery paradox also hold in the context of robot-driven service delivery?” (Welf Hermann Weiger, Alfaisal University)
+“How do robots and consumers react after a service failure caused by the robot?” (Sven Tuzovic, Queensland University of Technology)
+Initial work by Belanche et al. (2020) shows that, compared to human employees, service
+robots reduce customer perceptions of agent responsibility, especially in the case of service
+failure, and increase firm responsibility. Choi et al. (2021) further show that customers are
+more dissatisfied due to lack of warmth following a process failure caused by a humanoid
+service robot (vs. a nonhumanoid). However, humanoids (vs. nonhumanoids) may recover
+from failure via apology and explanation. Future work may look deeper into the roles service
+robots can play at various stages of the service recovery journey, as well as how prone
+service robots are to execute various service recovery responses such as apology, excuse,
+justification, empathy, compensation, facilitation, and follow-up (Van Vaerenbergh et al.,
+2019).
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+13
+4. Theory
+Current State
+We identified 55 different theories and models used in the coded article set, while 21 articles
+did not clearly specify a distinct theory or model as their foundation (see Table 2 for an
+overview).
+Insert Table 2 around here
+Among the most used theoretical frameworks are anthropomorphism theory (18
+articles, 20.45%), uncanny valley theory (9 articles, 10.23%), the stereotype content
+model/social cognition theory (9 articles, 10.23%), social response theory/computers-as
+social-actors (CASA) model (7 articles, 7.95%), social presence theory (5 articles, 5.68%),
+and various theories looking at technology acceptance (technology acceptance model – 5
+articles, 5.68%; service robot acceptance model – 4 articles, 4.55%%; unified theory of
+acceptance and use of technology I and II – 3 + 1 articles, 3.41% + 1.14%).
+Articles building on anthropomorphism theory investigate the extent to which people
+perceive service robots as humanlike and how this impacts their interaction (e.g., Borau et al,
+2021). In essence, anthropomorphism is a basic psychological process aimed at facilitating
+social interactions between humans and non-humans (Blut et al., 2021). This facilitation
+occurs through people assigning non-human entities with human characteristics. Service
+robots appear to be particularly prone to this, more so than any other technology (Duffy,
+2003). Anthropomorphizing service robots essentially helps satisfy two basic human needs: a
+need for social connection and a need to control and understand one’s environment (Epley et
+al., 2008). Blut et al. (2021), in their meta-analysis, find that anthropomorphism exerts a
+strong and positive influence on customer intentions to use a robot.
+The uncanny valley theory is widely used in robotics literature (Mori et al., 2012). In
+essence, it suggests that service robots reaching a point where their human resemblance is
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+14
+high but not quite perfect can make people feel uncomfortable, especially in comparison with
+service robots that are more machine-like (De Keyser et al., 2019). While empirical findings
+around the uncanny valley effect vary, Mende et al. (2019) find support that consumers may
+react more favorably to service robots that are less human-like; this in contrast to Blut et al.
+(2021) who posit anthropomorphism theory to better explain customer reactions to service
+robots.
+The stereotype content model (equally referred to as social cognition theory) suggests
+there are two key dimensions to social cognition: warmth and competence (Fiske et al.,
+2002). In other words, when people interact with another person for the first time, they assess
+whether the other person has good intentions (i.e., warmth – being friendly, honest, sincere)
+and whether this person can act upon these intentions (i.e., competence – being creative,
+efficient, knowledgeable). According to Fiske et al. (2007), “warmth and competence from
+basic dimensions that, together, account almost entirely for how people characterize others”
+(p. 77). These two dimensions, in turn, may be equally used to explain the relation between a
+human actor and a service robot (Yoganathan et al., 2021). Kull et al. (2021), for instance,
+find that chatbots interacting through warm (vs. competent) messages lead to higher customer
+engagement. Kim et al. (2019) find that anthropomorphism may increase perceived warmth
+but ultimately decrease consumer attitudes through uncanniness, while competence
+judgments are less impacted and exert a positive impact on robot liking.
+Social response theory (Moon 2000) and the related computers-as-social-actors
+(CASA) paradigm (Nass et al., 1994) hold that people tend to treat computers (and service
+robots) as social actors, even knowing these do not possess feelings, selves and human
+motivations (Nass & Moon 2000). In such a way, people use similar social rules such as
+politeness, self-disclosure, and trust to interact with a robot (McLean et al., 2021). Tsai et al.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+15
+(2021), for instance, confirm that people intuitively react similarly to chatbots as they do with
+people.
+The algorithm aversion model holds that humans may be negatively biased toward
+AI-driven input (despite an often objectively better performance than human input) and show
+aversion to it (Dietvorst et al., 2015). Longoni and Cian (2022), for example, find evidence
+for a “word-of-machine” effect where consumers show resistance toward AI
+recommendations in hedonic contexts, while AI recommenders are considered more
+competent than humans in utilitarian settings. Furthermore, in a medical setting, Longoni et
+al. (2019) find consumers to be reluctant to utilize AI-driven healthcare driven by a concern
+that AI may not account for consumers’ unique characteristics and circumstances.
+Social presence theory stems from communication literature and relates to the ability
+of a medium/channel to facilitate a sense of connection with another individual (Fulk et al.,
+1990). Within a service robot context, the concept of social presence is mainly looked at to
+understand the connection service robots may create with people (Schuetzler et al., 2020).
+van Doorn et al. (2017) refer to this as automated social presence, reflecting the extent to
+which robots (and other technologies) make people feel they are in the company of another
+social entity (McLean et al., 2021). Schuetzler et al. (2020), for instance, find that increased
+conversational skills, like a robot’s ability to tailor responses, may enhance feelings of social
+presence. Odekerken-Schröder et al. (this issue) find anthropomorphism to positively impact
+social presence, which then drives a service robot's utilitarian and hedonic value.
+Furthermore, various models focused on technology acceptance may be found. The
+most popular model is the technology acceptance model (TAM) introduced by Davis (1989).
+This model, applied in a service robot context, essentially focuses on perceived ease of use
+and perceived usefulness as two key factors driving users’ acceptance of service robots (e.g.,
+Butt et al., 2021). The service robot acceptance model (SRAM – Wirtz et al., 2018) serves as
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+16
+an extension of TAM into a service robot context and accounts for a variety of functional
+(i.e., perceived ease of use, perceived usefulness, subjective social norms), social (i.e.,
+perceived humanness, perceived social interactivity, perceived social presence) and relational
+(i.e., trust, rapport) elements driving service robot acceptance (e.g., Fernandes & Oliveira,
+2021). Finally, papers building on the unified theory of acceptance and use of technology
+(UTAUT – Venkatesh et al., 2003) as well as its later extension UTUAT2 (Venkatesh et al.,
+2012) are building on a (sub-)set of key factors, including performance expectancy, effort
+expectancy, social influence, and facilitating conditions (UTAUT) and hedonic motivation,
+price value, and habit (UTAUT2) to predict intentions toward and usage of service robots
+(e.g., Moriuchi, 2021). We note, however, that most studies in our sample adopt a mix-and
+match approach and may only opt for a subset of the relevant drivers identified through these
+theories and/or combine them with other variables.
+Considering the wide variety of theories and models used, several experts in our panel
+view this as a sign of service robot research being in its early stages. As such, there is a
+strong need to discern what perspectives are most insightful and how the field may move
+toward an integrated theoretical model. This highlights the need for meta-analytical studies
+(e.g., Blut et al., 2021) to integrate current, sometimes dispersed, findings and perspectives.
+“Wow - what an amazing portfolio of theories! I actually believe it would be interesting to see which of these theories are most insightful; that is, systematic reviews and metaanalyses would be important next steps in my opinion.” (Martin Mende, Florida State University)
+“As service robotics is still an emergent field and is primarily applying the theory of other relevant fields at the moment (with the exception of some specific theories, such as the SRAM). I have no doubt that more theory will emerge as the field grows and evolves, particularly theory that merges traditional service frameworks/models with the nuances of humanised technologies such as service robots.” (Kate Letheren, Queensland University of Technology)
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+17
+At the same time, an extensive list of extra theoretical perspectives was put forth by our
+expert panel. Among the most mentioned theories and models are theory of mind (Banks,
+2019), consumer culture theory (Arnould & Thompson, 2005), the job demands-resources
+model (Bakker & Demerouti, 2007), robot intelligence levels theory (Huang & Rust, 2018),
+self-determination theory (Deci & Ryan, 1985), speciesism theory (Schmitt, 2020), service
+dominant logic (Vargo & Lusch, 2004), construal level theory (Trope & Liberman, 2010),
+actor network theory (Latour, 2007), and regulatory focus theory (Higgins, 1998). Recent
+work by Mariana et al. (2022) and Schepers & Streukens (this issue) outline several service
+robots and AI-related research avenues in relation to most of these theories.
+5. Context
+Tables 3, 4, 5, and 6 summarize the contextual factors discerned in the identified service
+robot articles. The results (count and relative frequency) should be interpreted in relation to
+the 173 individual studies reported in our set of 88 articles.
+Insert Table 3 around here
+Concerning industries (see Table 3), retail (22 studies – 12.72%) is most prevalent
+(e.g., Brengman et al., 2021; Schanke et al., 2021) in our sample. This popularity is likely
+explained by the wide adoption of virtual recommendation agents (especially in online
+environments) and the introduction of physical robots in stores to help customer with simple
+questions (e.g., Pepper Robot) and assist employees with such practices as inventory
+monitoring. An equal number of studies focus on the healthcare industry (22 studies 
+12.72%) and investigate topics like service robot-assisted medical diagnoses (e.g., Longoni et
+al., 2019), health marketing communication (e.g., Tsai et al., 2021) and eldery care (Caíc et
+al., 2019). Other widely considered settings are financial services (18 studies – 10.40%; e.g.,
+Ge et al., 2021) and restaurant/food delivery (17 studies – 9.83%; e.g., Odekerken-Schröder
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+18
+et al., this issue). Finally, the use of service robots in the home environment is receiving
+increasing attention (12 studies – 6.94%; e.g., Letheren et al., 2021). This is not surprising
+given the wide adoption of service robots that help with activities like cleaning, organizing
+one’s agenda, booking meetings, and purchasing replenishments.
+From our expert sample, various industries surface that may provide a fertile
+environment for service robot research. These include education, childcare, sex work,
+professional services, security, community services, as well as service robots in one’s home
+environment. Moreover, future work may also consider the adoption of service robots in the
+luxury industry, where the adoption of service technologies is slow but of undeniable
+importance for new generations of digitally native consumers (Holmqvist et al., 2020).
+“Sex work, childcare, elder care, banking, stock trading, military, education are important settings to consider” (Russell Belk, York University)
+“A key setting overlooked in my view is higher education. In the pandemic most higher education institutions made a big leap forward in technology adoption to deliver their education, so exploring the role of robots in education is an emerging opportunity.” (Gaby Odekerken-Schröder, Maastricht University)
+“I believe the luxury industry is missing, where the reluctance to use AI is based upon managerial perceptions rather than from the client side. The latter clearly demanding AI-led services.” (Phil Klaus, International University of Monaco)
+When looking at countries (see Table 4), most studies are conducted in the United States (78
+studies – 45.09%). The absence of Asian countries is unexpected given the wide adoption of
+service robots in countries like China, Singapore, and Japan. However, we note that some
+studies report having taken place in an Asian setting (e.g., Luo et al., 2019, 2021; Tong et al.,
+2021) without specifying the country. Moreover, work in a European context appears to be
+low in number (e.g., UK – 5 studies, 2.89%; the Netherlands – 4 studies, 2.31%), while
+African or South American studies are entirely missing entirely in our study set.
+Insert Table 4 around here
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+19
+Building on these insights and our expert input, we posit that service researchers should
+explore Asian contexts to investigate more developed and mature robotic markets. Similarly,
+research is needed to understand service robots' (possible) deployment in bottom of the
+pyramid regions. In addition, research on cross-cultural differences of human attitudes toward
+and relations with service robots is of interest to advance our field.
+“One of the key issues is that marketing robot studies seem to be conducted in the US and with US consumers mostly, while innovation and usage of robots — and the robot frontier — is in Asia." (Bernd Schmitt, Columbia University)
+“I would expect to see also more papers in countries like South Korea, Japan and Singapore where the technology is more adopted and evolved that in the rest of Western Countries (like Europe and UK)” (Eleonora Pantano, University of Bristol)
+“Developing countries are of interest, where robots might be used to avert local difficulties, such as lack of schools, healthcare, transportation.” (Luisa H. Pinto, University of Porto)
+“Widening the countries that provide the sample respondents would also allow to investigate any cultural factors that may influence responses to service robots. This may be an interesting avenue for future research.” (Jeroen Schepers, Eindhoven University of Technology)
+“To study the 'novelty effect' of robots, it may be an idea to compare regions where robots are already much further advanced in their lifecycle and much more adopted by and common to customers, to regions where this is not yet the case.” (Kim Willems, Vrije Universiteit Brussel – Brubotics)
+B2C settings have been considered most (165 studies, 95.38%), with only a limited number
+of B2B focused studies (5 studies, 2.89% - e.g., Figueiredo & Pinto, 2021; Mukherjee &
+Sinha, 2020; Sowa et al., 2021) – see Table 5. In response, our expert panel calls for more
+research papers focusing on service robots in a B2B setting (as opposed to industrial robots,
+which have been looked at frequently in B2B studies). Moreover, several experts also noted
+the importance of research in customer-to-customer (C2C) and government-to-citizen (G2C)
+settings.
+“I believe that the coming generation of service robots will first be used in workplaces by professionals rather than by consumers (e.g., in their homes), so more studies are
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+20
+needed of robots providing B2B-related services (e.g., in offices and as support for decision-makers).” (Magnus Söderlund, Stockholm School of Economics)
+“There is a need to focus more on B2B interactions and evaluate potential differences between B2C and B2B interactions.” (Luis V. Casaló, University of Zaragoza)
+“What about C2C, and G2C services? Both could clearly benefit from an appropriate application of AI. I believe the use of AI to enhance the citizenship experience is underdeveloped. Given that most of us do interaction with government services, the emphasis should be on investigating this context in great detail. The impact for service researchers highlighting the advantages and guide governments towards 'best practice' of AI applications could be tremendous.” (Phil Klaus, International University of Monaco)
+Insert Table 5 around here
+Finally, we find that most studies are focused on the customer (155 studies – 89.60%), with
+only 10 studies (5.78%) taking an employee perspective (e.g., Henkel et al., 2020; Paluch et
+al., this issue; Tong et al., 2021) – see Table 6. The latter is surprising as frontline service
+employees are often found in a collaborative partnership with their robot counterparts (De
+Keyser et al., 2019). Even fewer studies take a firm perspective (3 studies – 1,73% - e.g.,
+Mukherjee & Sinha, 2017) to consider how the adoption of service robots impacts such
+things as internal processes and culture. In accordance, several of the experts stress the need
+to consider the employee-side to understand how human employees react to and may develop
+strong working relations with service robots. Furthermore, we believe that research is needed
+to understand how internal firm processes should be adapted when integrating service robots,
+how service robots impact the organizational culture, and what internal and external enablers
+vs. barriers are driving/hindering their successful implementation.
+“Although I fully share the excitement about customer-robot interactions, I believe there is a considerable potential and need to examine employee-robot interactions at the frontline as well as the 'backstage' where human service employees collaborate with robots.” (Martin Mende, Florida State University)
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+21
+“I think much more attention should be paid to the employee. Their role will be dramatically affected by technologies such as service robots and much is to be learned about what is needed in terms of skills of the employee to perform well in this new role. What tasks will disappear and where can the employee still make a difference?” (Sandra Streukens, Hasselt University)
+“Research on "cobots" will need a fresh impulse in the service discipline. Collaboration with robots is an important field of study, which can benefit from the extant literature in the service domain. The emergence of "cobots" will most likely more strongly affect B2B services, but not exclusively.” (Martin Wetzels, EDHEC Business School)
+Insert Table 6 around here
+6. Characteristics
+In relation to study characteristics, we focus on service robot characteristics (see Tables 7, 8,
+and 9) and study outcome variables (see Table 10).
+Insert Tables 7, 8 and 9 around here
+Looking into robot characteristics, we code information related to robot type (is a study
+focused on a virtual or physical service robot?), robot embodiment (is the service robot
+represented by a bodily instantiation?), and robot modality (what is the means of
+communication of the service robot?). When looking at robot type (see Table 7), we note a
+dominant interest in virtual service robots (103 studies, 59.54%), encompassing both chatbots
+(e.g., Schanke et al., 2021) and virtual assistants like Siri and Alexa (e.g., Hasan et al., 2021).
+Physical service robots like Pepper (e.g., Brengman et al., 2021) or Vector (e.g., Odekerken
+Schröder et al., this issue) have been looked at to a lesser extent (42 studies, 24.28%). Next,
+in relation to robot embodiment (see Table 8), most studies focus on disembodied service
+robots (73 studies, 42.20%), which relates to interactions where the service robot is not given
+a physical or virtual bodily representation (e.g., Luo et al., 2019; Mozafari et al., this issue).
+56 studies (32.37%), in turn, focus on embodied service robots (e.g., Mende et al., 2019;
+Jörling et al., 2019). This embodiment is almost exclusively human-like. Finally, in relation
+to robot modalities (see Table 9), text (57 studies, 33.95% – e.g., Sidaoui et al., 2020) and
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+22
+voice (49 studies, 28.32% – e.g., Whang & Im, 2021) are the dominant means of
+communication considered.
+Here, our experts raise the need for further research with a particular focus on
+understanding under what circumstances different types of service robots may be most
+impactful: When are voice (vs. text) interactions preferred from virtual (vs. physical) service
+robots? Under what conditions do humans prefer embodied (vs. disembodied) robots? And
+more specifically, what is the impact of varying service robot communication styles (e.g.,
+formal vs informal tone) and linguistic features on customer and employee perceptions and
+behavior, and does this differ between voice and text-based interactions?
+“In understanding how people react to different robots, the types (physical vs. virtual) and modalities (text vs. voice etc.) are critical factors. People contact different robots for different purposes and with different motivations. While currently, a common motivation to use text- or voice-based bots is convenience (utilitarian motivation), there are some other factors that come into play, e.g., using voice-based bots out of enjoyment / hedonic motivation (this factor may wear of in the future as the technologies become more established). Furthermore, I can use virtual robots from the comfort of my own home, while most service interactions with physical robots will take place in-store / on-site. These contextual factors should be considered when comparing results of studies on robots with different modalities / different forms of representations.” (Nika Mozafari, University of Goettingen)
+“Which robots work best in what service contexts? What (physical) form and skills do
+these robots need to have?” (Bernd Schmitt, Columbia University)
+Further, our experts are urging for more substantial insights on how different modalities
+affect humans differently. Specifically, several experts point to a need for research on ‘touch’
+and ‘movement/mobility’ as two underrepresented modalities of service robots. These may be
+particularly important in service settings like healthcare (touch) and the military (movement).
+“I am excited to see these overviews. I believe one inspiring approach is to examine how embodied robots move -- humans make numerous inferences about others based on their behaviors and movements; I am inspired by the idea of studying how aspects such as body posture, head and arm movements, etc. might affect service interactions. Similarly, I believe the idea of robots touching humans is interesting (e.g., in healthcare settings).”
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+23
+(Martin Mende, Florida State University)
+“Missing here is robot mobility (e.g., Boston Dynamics robots). I think this will have more importance than the modalities categorized already. Research in this area is needed as these robots begin to proliferate.” (Russell Belk, York University)
+When looking at the outcome or dependent variables (DVs), we restrict our study set
+to 140 studies that specify a clear DV or set of DVs (see Table 10). Our review shows that
+most studies focus on customer-related variables. Among these, customer behavioral
+intentions are dominant (52 studies – 37.14%), and include such outcomes as usage intentions
+(e.g., Moriuchi, 2021), (re-)purchase intentions (e.g., Hasan et al., 2021), and intention to
+follow robot advice (e.g., Longoni et al., 2019). Actual customer behaviors are measured less
+frequently (14 studies – 10%). Luo et al. (2019), for instance, consider actual customer
+purchases as their core DV.
+Insert Table 10 around here
+Our expert panel raises the need to focus on actual customer behaviors and consider
+outcomes like service robot adoption, continued use, and purchase rates. In addition, financial
+and market-based metrics may be highly informative and enable to determine the long-term
+return-on-investment of service robots. Researchers may think of abnormal returns, stock
+market performance, and market share before vs. after implementing service robots as
+potential DVs.
+“I feel that we need more research examining actual consumer behavior as related to service robots. That is, actual adoption, use, continued use, buying from, interacting with, time spent with, etc. should receive more attention.” (Jochen Wirtz, National University of Singapore)
+Some type of actual purchasing data would be interesting. Do sales increase/decrease when a robot is present/serves you in a service/retail setting? I'd be most interested in actual purchasing data. (Stephanie Noble, the University of Tennessee Knoxville)
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+24
+Furthermore, outcomes related to customer satisfaction/value (20 studies – 14.29% - e.g.,
+Chung et al., 2020), customer attitudes toward service robots (17 studies – 12.14% - e.g.,
+Borau et al., 2021), and customer preferences for human vs. robotic providers (12 studies 
+8.57% - e.g., Longoni & Cian, 2022) are also prevalent. Customer trust (5 studies – 3.57% 
+e.g., van Pinxteren et al., 2019), well-being (3 studies – 2.14% - e.g., Henkel et al., 2020),
+and experience (3 studies – 2.14% - e.g., McLeay et al., 2021) are considered to a lesser
+extent. Here, several experts highlight the need to focus on societally relevant outcomes, with
+a particular focus on well/ill-being outcomes like perceived privacy intrusion and mental
+well-being in relation to service robots.
+“We need to include more societally relevant outcomes” (Dominik Mahr, Maastricht University)
+“Investigations of well-being and trust have been overlooked in this research area. These are important outcomes to be emphasized in future research as they ensure the sustainability of business and society.” (Rajibul Hasan, Maynooth University)
+Finally, several experts – in line with the low availability of employee-specific research 
+emphasize a need for employee-focused outcomes:
+“I miss the focus on employee related outcomes. Services sectors are facing labor shortages. Service robots can be a promising part of the solution to this by assisting human employees in certain processes or taking over some tasks entirely. However, what does this do with the employee experience, satisfaction and well-being? If the implementation of service robots has negative effects on the employee experience, it may crowd out even more human employees, further amplifying the labor shortages in services sectors where the human touch remains highly important.” (Kars Mennens, Maastricht University)
+7. Methodology
+From a methodological viewpoint, we code the methodologies2 used in the service robot
+studies (see Table 11) and the way respondents interact with service robots (see Table 12).
+Insert Table 11 around here
+2 We adopted the coding approach of Khamitov et al. (2020) and De Keyser et al. (2020).
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+25
+When looking at quantitative methodologies, the experimental method is by far the
+dominant method used (110 studies – 63.58%). Here, scenario-based online experiments
+conducted through platforms like MTurk and Prolific are leading (74 studies, 42.77% - e.g,
+Pitardi et al., this issue), followed by lab experiments (22 studies, 12.72% - e.g., von Walter
+et al., 2021). This popularity is not surprising given the ease by which experimental setups
+can be used to consider how various robot configurations may impact human perceptions.
+Field experiments are rarer, but still account for 12 studies (6.94% - e.g., Tong et al., 2021).
+In addition, we find that 19 studies make use of a survey-based method (10.98% - e.g., Butt et
+al., 2021). Together, several of our experts call for experimental work to take place in the
+field. While scenario-based experiments have value to test causal effects and processes, they
+may also lack ecological validity and generalizability (Willems et al., 2021).
+“Field experiments would be valuable as they show actual behaviors. Theories can be tested in natural settings.” (Jochen Wirtz, National University of Singapore)
+“Field experiments with randomized control trials and real human-robot interactions are needed more.” (Carlos J.S. Lourenço, University of Lisbon)
+Qualitative research, on the other hand, is less prevalent overall, with only 13 studies using an
+interview-based method (7.51% - e.g., Amelia et al., this issue; Paluch et al., this issue).
+Many experts in our panel therefore strongly stress the need to adopt qualitative methods to
+develop a deeper grounding of human interactions with service robots. Here, researchers may
+consider in-depth interviews, observations, discourse analysis, laddering techniques,
+ethnography, case studies, and qualitative comparative analysis (QCA) as highly interesting
+methodologies to adopt.
+“Ethnography (which is more than just qualitative interviews and netnography) is sorely needed. More conceptual work is also needed.” (Russell Belk, York University)
+“More usage of qualitative methods (including interviews and observations) would allow to explore more in depth the interaction between humans and robots”
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+26
+(Eleonora Pantano, University of Bristol)
+“Qualitative Comparative Analysis (QCA), because of its features, could be particularly valuable in this domain for adding some new insights.” (Daniele Scarpi, University of Bologna)
+“I'd like to see wider use of narrative studies and case theory: a scientific narrative concerned with how social actors produce, represent, and contextualise experiences. By merging explicit and tacit knowledge, researchers can draft non-linear narratives to grasp complexity as a way to generate theory. Narratives reveal the individual's retrospective sense-making of human experiences” (Cristina Mele, University of Naples Federico II)
+Conceptual work is quite popular with 15 studies (8.67%) in this category (e.g., Huang &
+Rust, this issue; Schepers & Streukens, this issue; Thomaz et al., 2020). Yet, more conceptual
+work that supports the further development of a general theoretical framework underlying
+‘service robots/human’ interactions would be of significant value to the field as pointed out
+above.
+The need for longitudinal work in a service robot context becomes evident and may
+help overcome the drawback of the static view that is dominant in service robot work today:
+“I think we need more studies looking at actual behavior towards a robot. What is furthermore needed is longitudinal research on how consumers change their behavior towards a robot over time.” (Jenny van Doorn, University of Groningen)
+“A key research topic will the different embodiments and modalities of robots across the different touchpoints of the customer journey. This will require novel data collection approaches, such as eye tracking, text analysis, computer vision, voice analysis, facial expressions, EEG, and also new analytical techniques incorporating the unstructured and dynamic nature of the data. This will require looking across the boundaries of our discipline.” (Martin Wetzels, EDHEC Business School)
+More complicated data, however, will also result in the need to use more advanced analytical
+techniques like growth, hierarchical linear, and econometric models, allowing researchers to
+move beyond the current dominance of ANOVAs, structural equation modeling and
+moderated regression models. In this regard, much opportunity may lie in novel methods like
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+27
+text, video, and audio mining (Grewal et al., 2021) to analyze the variety of data captured
+through service robots.
+“Novel analysis techniques such as neuroscientific and voice/text analysis could be valuable tools to tap into consumers' more deeply rooted processes. These insights could of course be equally important for virtual service robots, where the same methods could be deployed.” (Ruud Wetzels, Radboud University)
+“Neuroscientific measurements seem an interesting avenue for further research in
+combination with the internal interaction logs of service robots.”
+(Malaika Brengman, Vrije Universiteit Brussel – Brubotics)
+Equally important is to consider how respondents in a specific study interact with the robot(s)
+under investigation. The dominant form is a picture-based format (50 studies, 28.90%), where
+participants get acquainted with a service robot through a visual representation that is
+typically supported by some explanatory text (e.g., Mende et al., 2019). Some studies go a
+step further and make use of videos to aid respondents in imagining interacting with a service
+robot (15 studies, 8.67% - e.g., Söderlund, 2021), while others make use of simple text-based
+scenarios without any supporting visual information (19 studies, 10.98% - e.g., Longoni et
+al., 2019). The latter is mostly the case for studies looking into disembodied chatbot
+interactions. Interestingly, many studies also gather insights from respondents having actual
+interactions with service robots (22 studies, 12.72%). Brengman et al. (2021), for instance,
+employ an observational study design comparing the impact of a service robot versus a tablet
+service kiosk on the point-of-sale conversion funnel. Also, several studies develop highly
+realistic simulations of service robot interactions (24 studies, 13.87%). For instance, in one of
+their studies, Kim et al. (2016) develop a short memory game where a helper robot appears if
+respondents request help. Finally, 24 studies (13.87%) build on respondents reflecting on
+their previous interactions with (specific types of) service robots in general (e.g., Fernandes
+& Oliveira, 2021).
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+28
+While all these options may be of value, real robot-human interactions inherently hold
+the highest value. This is especially because it may still be hard for respondents of
+experiments and surveys, for instance, to imagine their dealings with a service robot.
+“Not all participants may have experienced these technologies in sufficient depth to rely on recollected/imagined experiences during research.” (Daniela Castillo, University of Malta)
+Insert Table 12 around here
+8. Conclusion
+Taken together, and building on 88 service research articles published in academic journals
+featured on the SERVSIG literature alert, we uncovered the key research foci to date 
+robot/human comparison, the impact of robot look & feel, consumer attitudes toward robots,
+the impact of robot conversational skills & behaviors – as well as the dominant theories
+(anthropomorphism theory), contexts (retail/healthcare, U.S. samples, B2C settings, and
+customer-focused), study characteristics (robot type: chatbots, not embodied, and text/voice
+based; outcome: customer intentions), and methodologies (experimental, picture-based).
+Moreover, following the input of 79 academic experts, we outlined several guidelines that
+may support the further development of this burgeoning area. Table 13 provides a summary
+of the key insights gathered.
+Insert Table 13 around here
+Moving forward, we see two additional challenges service scholars will be facing. A
+first one is that of a short-term overpromise of service robot capabilities. Several of our
+experts note that while the future looks bright, we need to be careful in overestimating what
+robots can already do today and at what pace they will evolve and be implemented in
+practice.
+“Robots still speak to the imagination, but while in imagination, the sky can be the limit, reality is still far from there... When doing field studies, we often noticed passersby interacting with a robot and expecting more than what the robot is actually already
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+29
+capable of doing (e.g., voice-input in a noisy environment, real-time appropriate output on the spot, ...).” (Kim Willems, Vrije Universiteit Brussel – Brubotics)
+A second challenge is that of interdisciplinarity. To make a lasting impact on service robot
+practice, we need to connect to other disciplines like robotics, computer sciences, and
+engineering and learn from their standards and methods. Again, this will require lenient
+thinking from service scholarship, as some of our experts outline.
+“A key challenge is to be able to integrate knowledge from other disciplines, like computer science and engineering. This is hindered by the academic standards that we use in assessing our publications in academic journals. Typical approaches from other disciplines are overruled by our own academic standards. We should be more lenient and try to think according to the other discipline's academic standards.” (Jos Lemmink, Maastricht University)
+“A big challenge for the field is the valid operationalization of the robot/technology interaction. I think interdisciplinary research groups may overcome such issues better.” (Moritz Jörling, Emlyon Business School)
+Hence, the service research field needs to open to reading work published in journals outside
+their typical realm as this may provide new perspectives and insights (e.g., Computers in
+Human Behavior, International Journal of Humanoid Robotics, International Journal of
+Artificial Intelligence Tools, International Journal of Social Robotics, Journal of Human
+Robot Interaction). Future work may consider expanding our analysis and include service
+robot work considered in these (and other) journals.
+The future for service robot scholars is a bright and challenging one. It is our hope
+that this article may offer a small contribution in the development of this field.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+30
+References
+Amelia, A., Mathies, C. and Patterson, P.G. (2021), “Customer acceptance of frontline
+service robots in retail banking: A qualitative approach”, Journal of Service
+Management, this issue.
+Arnould, E.J. and Thompson, C.J. (2005), “Consumer Culture Theory (CCT): Twenty Years
+of Research”, Journal of Consumer Research, Vol. 31 No. 4, pp. 868–882.
+Bakker, A.B. and Demerouti, E. (2007), “The Job Demands‐Resources model: state of the
+art”, Journal of Managerial Psychology, Vol. 22 No. 3, pp. 309–328.
+Balakrishnan, J. and Dwivedi, Y.K. (2021), “Role of cognitive absorption in building user
+trust and experience”, Psychology & Marketing, Vol. 38 No. 4, pp. 643–668.
+Banks, J. (2020), “Theory of Mind in Social Robots: Replication of Five Established Human
+Tests”, International Journal of Social Robotics, Vol. 12 No. 2, pp. 403–414.
+Belanche, D., Casaló, L.V., Flavián, C. and Schepers, J. (2020), “Robots or frontline
+employees? Exploring customers’ attributions of responsibility and stability after
+service failure or success”, Journal of Service Management, Vol. 31 No. 2, pp. 267
+289.
+Belk, R. (2021), “Ethical issues in service robotics and artificial intelligence”, The Service
+Industries Journal, Vol. 41 No. 13–14, pp. 860–876.
+Blut, M., Wang, C., Wünderlich, N.V. and Brock, C. (2021), “Understanding
+anthropomorphism in service provision: a meta-analysis of physical robots, chatbots,
+and other AI”, Journal of the Academy of Marketing Science, Vol. 49 No. 4, pp. 632
+658.
+Borau, S., Otterbring, T., Laporte, S. and Fosso Wamba, S. (2021), “The most human bot:
+Female gendering increases humanness perceptions of bots and acceptance of AI”,
+Psychology & Marketing, Vol. 38 No. 7, pp. 1052–1068.
+Brengman, M., De Gauquier, L., Willems, K. and Vanderborght, B. (2021), “From stopping
+to shopping: An observational study comparing a humanoid service robot with a tablet
+service kiosk to attract and convert shoppers”, Journal of Business Research, Vol. 134,
+pp. 263–274.
+Butt, A.H., Ahmad, H., Goraya, M.A.S., Akram, M.S. and Shafique, M.N. (2021), “Let’s
+play: Me and my AI‐powered avatar as one team”, Psychology & Marketing, Vol. 38
+No. 6, pp. 1014–1025.
+Čaić, M., Mahr, D. and Oderkerken-Schröder, G. (2019), “Value of social robots in services:
+social cognition perspective”, Journal of Services Marketing, Vol. 33 No. 4, pp. 463
+478.
+Čaić, M., Odekerken-Schröder, G. and Mahr, D. (2018), “Service robots: value co-creation
+and co-destruction in elderly care networks”, Journal of Service Management, Vol. 29
+No. 2, pp. 178–205.
+Choi, S., Mattila, A.S. and Bolton, L.E. (2021), “To Err Is Human(-oid): How Do Consumers
+React to Robot Service Failure and Recovery?”, Journal of Service Research, Vol. 24
+No. 3, pp. 354–371.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+31
+Chung, M., Ko, E., Joung, H. and Kim, S.J. (2020), “Chatbot e-service and customer
+satisfaction regarding luxury brands”, Journal of Business Research, Vol. 117, pp. 587
+595.
+Davis, F.D. (1989), “Perceived Usefulness, Perceived Ease of Use, and User Acceptance of
+Information Technology”, MIS Quarterly, Vol. 13 No. 3, p. 319.
+Deci, E. L. and Ryan, R. M. (1985), Intrinsic Motivation and Self-Determination in Human
+Behavior, Plenum, New York, NY.
+De Keyser, A., Köcher, S., Alkire (née Nasr), L., Verbeeck, C. and Kandampully, J. (2019),
+“Frontline Service Technology infusion: conceptual archetypes and future research
+directions”, Journal of Service Management, Vol. 30 No. 1, pp. 156–183.
+De Keyser, A., Verleye, K., Lemon, K. N., Keiningham, T. L. and Klaus, P. (2020), "Moving
+the Customer Experience Field Forward: Introducing the Touchpoints, Context,
+Qualities (TCQ) Nomenclature", Journal of Service Research, Vol. 23 No. 4, pp. 433
+455.
+Dietvorst, B.J., Simmons, J.P. and Massey, C. (2015), “Algorithm aversion: People
+erroneously avoid algorithms after seeing them err.”, Journal of Experimental
+Psychology: General, Vol. 144 No. 1, pp. 114–126.
+Epley, N., Waytz, A., Akalis, S. and Cacioppo, J.T. (2008), “When We Need A Human:
+Motivational Determinants of Anthropomorphism”, Social Cognition, Vol. 26 No. 2,
+pp. 143–155.
+Fernandes, T. and Oliveira, E. (2021), “Understanding consumers’ acceptance of automated
+technologies in service encounters: Drivers of digital voice assistants adoption”,
+Journal of Business Research, Vol. 122, pp. 180–191.
+Figueiredo, A.S. and Pinto, L.H. (2020), “Robotizing shared service centres: key challenges
+and outcomes”, Journal of Service Theory and Practice, Vol. 31 No. 1, pp. 157–178.
+Fiske, S.T., Cuddy, A.J.C. and Glick, P. (2007), “Universal dimensions of social cognition:
+warmth and competence”, Trends in Cognitive Sciences, Vol. 11 No. 2, pp. 77–83.
+Fiske, S.T., Cuddy, A.J.C., Glick, P. and Xu, J. (2002), “A model of (often mixed) stereotype
+content: Competence and warmth respectively follow from perceived status and
+competition.”, Journal of Personality and Social Psychology, Vol. 82 No. 6, pp. 878
+902.
+Fulk, J., Schmitz, J. and Steinfield, C. (1990), “A Social Influence Model of Technology
+use”, Organizations and Communication Technology, SAGE Publications, Inc., 2455
+Teller Road, Thousand Oaks California 91320 United States, pp. 117–140.
+Ge, R., Zheng, Z. (Eric), Tian, X. and Liao, L. (2021), “Human–Robot Interaction: When
+Investors Adjust the Usage of Robo-Advisors in Peer-to-Peer Lending”, Information
+Systems Research, Vol. 32 No. 3, pp. 774–785.
+Gelbrich, K., Hagel, J. and Orsingher, C. (2021), “Emotional support from a digital assistant
+in technology-mediated services: Effects on customer satisfaction and behavioral
+persistence”, International Journal of Research in Marketing, Vol. 38 No. 1, pp. 176
+193.
+Grewal, R., Gupta, S. and Hamilton, R. (2021), “Marketing Insights from Multimedia Data:
+Text, Image, Audio, and Video”, Journal of Marketing Research, Vol. 58 No. 6, pp.
+1025–1033.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+32
+Hasan, R., Shams, R. and Rahman, M. (2021), “Consumer trust and perceived risk for voice
+controlled artificial intelligence: The case of Siri”, Journal of Business Research, Vol.
+131, pp. 591–597.
+Heller, J., Chylinski, M., de Ruyter, K., Keeling, D.I., Hilken, T. and Mahr, D. (2021),
+“Tangible Service Automation: Decomposing the Technology-Enabled Engagement
+Process (TEEP) for Augmented Reality”, Journal of Service Research, Vol. 24 No. 1,
+pp. 84–103.
+Henkel, A.P., Bromuri, S., Iren, D. and Urovi, V. (2020), “Half human, half machine 
+augmenting service employees with AI for interpersonal emotion regulation”, Journal
+of Service Management, Vol. 31 No. 2, pp. 247–265.
+Henkens, B., Verleye, K. and Larivière, B. (2021), “The smarter, the better?! Customer well
+being, engagement, and perceptions in smart service systems”, International Journal of
+Research in Marketing, Vol. 38 No. 2, pp. 425–447.
+Hernandez‐Ortega, B. and Ferreira, I. (2021), “How smart experiences build service loyalty:
+The importance of consumer love for smart voice assistants”, Psychology & Marketing,
+Vol. 38 No. 7, pp. 1122–1139.
+Higgins, E.T. (1998), “Promotion and Prevention: Regulatory Focus as A Motivational
+Principle”, Advances in Experimental Social Psychology, Vol. 30, Elsevier, pp. 1–46.
+Holmqvist, J., Wirtz, J. and Fritze, M.P. (2020), “Luxury in the digital age: A multi-actor
+service encounter perspective”, Journal of Business Research, Vol. 121, pp. 747–756.
+Huang, Y.-S. (Sandy) and Kao, W.-K. (2021), “Chatbot service usage during a pandemic:
+fear and social distancing”, The Service Industries Journal, Vol. 41 No. 13–14, pp.
+964–984.
+Huang, M.-H. and Rust, R.T. (2018), “Artificial Intelligence in Service”, Journal of Service
+Research, Vol. 21 No. 2, pp. 155–172.
+Huang, M.-H. and Rust, R.T. (this issue), "AI as customer", Journal of Service Management,
+this issue.
+International Federation of Robotics (2021), "World Robotics 2021 - Service Robots report
+released", available at: https://ifr.org/ifr-press-releases/news/service-robots-hit-double
+digit-growth-worldwide (accessed 1 December 2021).
+Jörling, M., Böhm, R. and Paluch, S. (2019), “Service Robots: Drivers of Perceived
+Responsibility for Service Outcomes”, Journal of Service Research, Vol. 22 No. 4, pp.
+404–420.
+Khamitov, M., Grégoire, Y. and Suri, A. (2020), “A systematic review of brand
+transgression, service failure recovery and product-harm crisis: integration and guiding
+insights”, Journal of the Academy of Marketing Science, Vol. 48 No. 3, pp. 519–542.
+Kim, S., Chen, R.P. and Zhang, K. (2016), “Anthropomorphized Helpers Undermine
+Autonomy and Enjoyment in Computer Games”, Journal of Consumer Research, Vol.
+43 No. 2, pp. 282–302.
+Kim, S.Y., Schmitt, B.H. and Thalmann, N.M. (2019), “Eliza in the uncanny valley:
+anthropomorphizing consumer robots increases their perceived warmth but decreases
+liking”, Marketing Letters, Vol. 30 No. 1, pp. 1–12.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+33
+Kull, A.J., Romero, M. and Monahan, L. (2021), “How may I help you? Driving brand
+engagement through the warmth of an initial chatbot message”, Journal of Business
+Research, Vol. 135, pp. 840–850.
+Kunz, W. H. (2022), "Service literature alert system", available at:
+www.servsig.org/wordpress/service-literature-alert-system/ (accessed 4 January
+2022).
+Larivière, B., Bowen, D., Andreassen, T.W., Kunz, W., Sirianni, N.J., Voss, C., Wünderlich,
+N.V., et al. (2017), “‘Service Encounter 2.0’: An investigation into the roles of
+technology, employees and customers”, Journal of Business Research, Vol. 79, pp.
+238–246.
+Latour, B. (2007), Reassembling the social: An introduction to actor-network theory, Oxford
+University Press, Oxford.
+Letheren, K., Jetten, J., Roberts, J. and Donovan, J. (2021), “Robots should be seen and not
+heard...sometimes: Anthropomorphism and AI service robot interactions”, Psychology
+& Marketing, Vol. 38 No. 12, pp. 2393–2406.
+Lin, Y.-T., Doong, H.-S. and Eisingerich, A.B. (2021), “Avatar Design of Virtual
+Salespeople: Mitigation of Recommendation Conflicts”, Journal of Service Research,
+Vol. 24 No. 1, pp. 141–159.
+Longoni, C., Bonezzi, A. and Morewedge, C.K. (2019), “Resistance to Medical Artificial
+Intelligence”, Journal of Consumer Research, Vol. 46 No. 4, pp. 629–650.
+Longoni, C. and Cian, L. (2022), “Artificial Intelligence in Utilitarian vs. Hedonic Contexts:
+The ‘Word-of-Machine’ Effect”, Journal of Marketing, Vol. 86 No. 1, pp. 91–108.
+Luo, X., Qin, M.S., Fang, Z. and Qu, Z. (2021), “Artificial Intelligence Coaches for Sales
+Agents: Caveats and Solutions”, Journal of Marketing, Vol. 85 No. 2, pp. 14–32.
+Luo, X., Tong, S., Fang, Z. and Qu, Z. (2019), “Frontiers: Machines vs. Humans: The Impact
+of Artificial Intelligence Chatbot Disclosure on Customer Purchases”, Marketing
+Science, p. mksc.2019.1192.
+Mariani, M., Perez-Vega, R. and Wirtz, J. (2022), "AI in Marketing, Consumer Research &
+Psychology: A Systematic Literature Review and Research Agenda", Psychology &
+Marketing, forthcoming.
+McLean, G., Osei-Frimpong, K. and Barhorst, J. (2021), “Alexa, do voice assistants influence
+consumer brand engagement? – Examining the role of AI powered voice assistants in
+influencing consumer brand engagement”, Journal of Business Research, Vol. 124, pp.
+312–328.
+McLeay, F., Osburg, V.S., Yoganathan, V. and Patterson, A. (2021), “Replaced by a Robot:
+Service Implications in the Age of the Machine”, Journal of Service Research, Vol. 24
+No. 1, pp. 104–121.
+Mele, C., Spena, T.R., Marzullo, M. and Ruggiero, A. (this issue), "Boundary work in value
+co-creation practices: the mediating role of cognitive assistants", Journal of Service
+Management, this issue.
+Mende, M., Scott, M.L., van Doorn, J., Grewal, D. and Shanks, I. (2019), “Service Robots
+Rising: How Humanoid Robots Influence Service Experiences and Elicit Compensatory
+Consumer Responses”, Journal of Marketing Research, Vol. 56 No. 4, pp. 535–556.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+34
+Moon, Y. (2000), “Intimate Exchanges: Using Computers to Elicit Self‐Disclosure From
+Consumers”, Journal of Consumer Research, Vol. 26 No. 4, pp. 323–339.
+Mori, M., MacDorman, K. F. and Kageki, N. (2012), "The Uncanny Valley", IEEE Robotics
+& Automation Magazine, pp. 98-100.
+Moriuchi, E. (2021), “An empirical study on anthropomorphism and engagement with
+disembodied AIs and consumers’ re‐use behavior”, Psychology & Marketing, Vol. 38
+No. 1, pp. 21–42.
+Mozafari, N., Weiger, W.H. and Hammerschmidt, M. (this issue), “Trust me, I’m a bot 
+repercussions of chatbot disclosure in different service frontline settings”, Journal of
+Service Management, this issue.
+Mukherjee, U.K. and Sinha, K.K. (2020), “Robot‐assisted surgical care delivery at a hospital:
+Policies for maximizing clinical outcome benefits and minimizing costs”, Journal of
+Operations Management, Vol. 66 No. 1–2, pp. 227–256.
+Murtarelli, G., Gregory, A. and Romenti, S. (2021), “A conversation-based perspective for
+shaping ethical human–machine interactions: The particular challenge of chatbots”,
+Journal of Business Research, Vol. 129, pp. 927–935.
+Nass, C. and Moon, Y. (2000), “Machines and Mindlessness: Social Responses to
+Computers”, Journal of Social Issues, Vol. 56 No. 1, pp. 81–103.
+Nass, C., Steuer, J. and Tauber, E. R. (1994), "Computers as Social Actors", Human Factors
+in Computing Systems, pp. 72-78.
+Odekerken-Schröder, G., Mennens, K., Steins, M. and Mahr, D. (this issue), “The service
+triad: an empirical study of service robots, customers and frontline employees”, Journal
+of Service Management, this issue.
+Paluch, S., Tuzovic, S., Holz, H.F., Kies, A. and Jörling, M. (this issue), “‘My colleague is a
+robot’ – exploring frontline employees’ willingness to work with collaborative service
+robots”, Journal of Service Management, this issue.
+Park, S.S., Tung, C.D. and Lee, H. (2021), “The adoption of AI service robots: A comparison
+between credence and experience service settings”, Psychology & Marketing, Vol. 38
+No. 4, pp. 691–703.
+Paul, J. and Rosado-Serrano, A. (2019), “Gradual Internationalization vs Born
+Global/International new venture models: A review and research agenda”, International
+Marketing Review, Vol. 36 No. 6, pp. 830–858.
+Pizzi, G., Scarpi, D. and Pantano, E. (2021), “Artificial intelligence and the new forms of
+interaction: Who has the control when interacting with a chatbot?”, Journal of Business
+Research, Vol. 129, pp. 878–890.
+Pitardi, V., Wirtz, J., Paluch, S. and Kunz, W.H. (this issue), “Service robots, agency and
+embarrassing service encounters”, Journal of Service Management, this issue.
+Przegalinska, A., Ciechanowski, L., Stroz, A., Gloor, P. and Mazurek, G. (2019), “In bot we
+trust: A new methodology of chatbot performance measures”, Business Horizons, Vol.
+62 No. 6, pp. 785–797.
+Rajaobelina, L., Prom Tep, S., Arcand, M. and Ricard, L. (2021), “Creepiness: Its
+antecedents and impact on loyalty when interacting with a chatbot”, Psychology &
+Marketing, Vol. 38 No. 12, pp. 2339–2356.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+35
+Sands, S., Ferraro, C., Campbell, C. and Tsao, H.-Y. (2020), “Managing the human–chatbot
+divide: how service scripts influence service experience”, Journal of Service
+Management, Vol. 32 No. 2, pp. 246–264.
+Schanke, S., Burtch, G. and Ray, G. (2021), “Estimating the Impact of ‘Humanizing’
+Customer Service Chatbots”, Information Systems Research, Vol. 32 No. 3, pp. 736
+751.
+Schepers, J. J. L. and Streukens, S. (this issue), "To serve and protect: A typology of service
+robots and their role in physically safe services", Journal of Service Management, this
+issue.
+Schmitt, B. (2020), “Speciesism: an obstacle to AI and robot adoption”, Marketing Letters,
+Vol. 31 No. 1, pp. 3–6.
+Schuetzler, R.M., Grimes, G.M. and Scott Giboney, J. (2020), “The impact of chatbot
+conversational skill on engagement and perceived humanness”, Journal of Management
+Information Systems, Vol. 37 No. 3, pp. 875–900.
+Sheehan, B., Jin, H.S. and Gottlieb, U. (2020), “Customer service chatbots:
+Anthropomorphism and adoption”, Journal of Business Research, Vol. 115, pp. 14–24.
+Sidaoui, K., Jaakkola, M. and Burton, J. (2020), “AI feel you: customer experience
+assessment via chatbot interviews”, Journal of Service Management, Vol. 31 No. 4, pp.
+745–766.
+Söderlund, M. (2021), “The robot-to-robot service encounter: an examination of the impact
+of inter-robot warmth”, Journal of Services Marketing, Vol. 35 No. 9, pp. 15–27.
+Sowa, K., Przegalinska, A. and Ciechanowski, L. (2021), “Cobots in knowledge work”,
+Journal of Business Research, Vol. 125, pp. 135–142.
+Thomaz, F., Salge, C., Karahanna, E. and Hulland, J. (2020), “Learning from the Dark Web:
+leveraging conversational agents in the era of hyper-privacy to enhance marketing”,
+Journal of the Academy of Marketing Science, Vol. 48 No. 1, pp. 43–63.
+Tong, S., Jia, N., Luo, X. and Fang, Z. (2021), “The Janus face of artificial intelligence
+feedback: Deployment versus disclosure effects on employee performance”, Strategic
+Management Journal, Vol. 42 No. 9, pp. 1600–1631.
+Trope, Y. and Liberman, N. (2010), “Construal-level theory of psychological distance.”,
+Psychological Review, Vol. 117 No. 2, pp. 440–463.
+Tsai, W.S., Lun, D., Carcioppolo, N. and Chuan, C. (2021), “Human versus chatbot:
+Understanding the role of emotion in health marketing communication for vaccines”,
+Psychology & Marketing, Vol. 38 No. 12, pp. 2377–2392.
+Tuomi, A., Tussyadiah, I.P. and Stienmetz, J. (2021), “Applications and Implications of
+Service Robots in Hospitality”, Cornell Hospitality Quarterly, Vol. 62 No. 2, pp. 232
+247.
+van Doorn, J., Mende, M., Noble, S.M., Hulland, J., Ostrom, A.L., Grewal, D. and Petersen,
+J.A. (2017), “Domo Arigato Mr. Roboto: Emergence of Automated Social Presence in
+Organizational Frontlines and Customers’ Service Experiences”, Journal of Service
+Research, Vol. 20 No. 1, pp. 43–58.
+van Pinxteren, M.M.E., Wetzels, R.W.H., Rüger, J., Pluymaekers, M. and Wetzels, M.
+(2019), “Trust in humanoid robots: implications for services marketing”, Journal of
+Services Marketing, Vol. 33 No. 4, pp. 507–518.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+36
+Van Vaerenbergh, Y., Varga, D., De Keyser, A. and Orsingher, C. (2019), “The Service
+Recovery Journey: Conceptualization, Integration, and Directions for Future Research”,
+Journal of Service Research, Vol. 22 No. 2, pp. 103–119.
+Vargo, S.L. and work(s):, R.F.L.R. (2004), “Evolving to a New Dominant Logic for
+Marketing”, Journal of Marketing, Vol. 68 No. 1, pp. 1–17.
+Venkatesh, Morris, Davis, and Davis. (2003), “User Acceptance of Information Technology:
+Toward a Unified View”, MIS Quarterly, Vol. 27 No. 3, p. 425.
+Venkatesh, Thong, and Xu. (2012), “Consumer Acceptance and Use of Information
+Technology: Extending the Unified Theory of Acceptance and Use of Technology”,
+MIS Quarterly, Vol. 36 No. 1, p. 157.
+Verified Market Research, "Intelligent Virtual Assistant Market Size and Forecast", available
+at: https://www.verifiedmarketresearch.com/product/intelligent-virtual-assistant
+market/ (accessed 10 December 2021).
+von Walter, B., Kremmel, D. and Jäger, B. (2021), “The impact of lay beliefs about AI on
+adoption of algorithmic advice”, Marketing Letters, available
+at:https://doi.org/10.1007/s11002-021-09589-1.
+Wedel, M., Bigné, E. and Zhang, J. (2020), “Virtual and augmented reality: Advancing
+research in consumer marketing”, International Journal of Research in Marketing, Vol.
+37 No. 3, pp. 443–465.
+Whang, C. and Im, H. (2021), “‘I Like Your Suggestion!’ the role of humanlikeness and
+parasocial relationship on the website versus voice shopper’s perception of
+recommendations”, Psychology & Marketing, Vol. 38 No. 4, pp. 581–595.
+Wien, A.H. and Peluso, A.M. (2021), “Influence of human versus AI recommenders: The
+roles of product type and cognitive processes”, Journal of Business Research, Vol. 137,
+pp. 13–27.
+Willems, K., Doucé, L. and Petermans, A. (2021), “Can a retail environment be simulated by
+photographs?”, Journal of Marketing Management, pp. 1–36.
+Wirtz, J., Kunz, W. and Paluch, S. (2021), "The Service Revolution, Intelligent Automation
+and Service Robots", The European Business Review, pp. 38-44.
+Wirtz, J., Patterson, P.G., Kunz, W.H., Gruber, T., Lu, V.N., Paluch, S. and Martins, A.
+(2018), “Brave new world: service robots in the frontline”, Journal of Service
+Management, Vol. 29 No. 5, pp. 907–931.
+Xiao, L. and Kumar, V. (2021), “Robotics for Customer Service: A Useful Complement or an
+Ultimate Substitute?”, Journal of Service Research, Vol. 24 No. 1, pp. 9–29.
+Yoganathan, V., Osburg, V.-S., Kunz, W.H., Toporowski, W. (2021), “Check-in at the Robodesk: Effects of automated social presence on social cognition and service implications”, Tourism Management, Vol. 85, February, pp.104309.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+37
+Figure 1: Number of articles per year
+212
+10
+18
+46
+9
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+2016 2017 2018 2019 2020 2021 this issue
+Articles per year
+Total
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+38
+Table 1: Research foci
+Research Focus (n=173)a
+# studies % studies
+Robot vs. human comparison 48 27.75%
+Robot look & feel 27 15.61%
+Consumer attitudes & perceptions toward robots 24 13.87%
+Robot conversational skills & behavior 18 10.40%
+Robot identification (transparent vs. hidden) 9 5.20%
+Robot roles and functions 4 2.31%
+Robot vs. other technologies comparison 3 1.73%
+Other 40 23.12%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+39
+Table 2: Theories used
+Theories Used (n=88) # articles % articles # articles % articles
+anthropomorphism theory 18 20.45% realism maximization theory 1 1.14%
+uncanny valley theory 9 10.23% role theory 1 1.14%
+stereotype content model/social cognition theory 9 10.23% self-completion theory 1 1.14%
+social response theory/computers as social actors paradigm 7 7.95% self-determination theory 1 1.14%
+social presence theory 5 5.68% social categorization theory 1 1.14%
+technology acceptance model theory 5 5.68% social impact theory 1 1.14%
+service robot acceptance model 4 4.55% task-technology fit theory 1 1.14%
+algorithm aversion theory 4 4.55% technology paradox theory 1 1.14%
+attribution theory 3 3.41% technology readiness model 1 1.14%
+unified theory of acceptance and use of technology 3 3.41% theory of reasoned action 1 1.14%
+flow theory 2 2.27% triangular theory of love 1 1.14%
+innovation diffusion theory 2 2.27% uniqueness theory 1 1.14%
+parasocial interaction theory 2 2.27% theory of power 1 1.14%
+service-dominant logic 2 2.27% cognitive appraisal theory 1 1.14%
+theory of mind 2 2.27% value theory 1 1.14%
+robot intelligence levels theory 2 2.27% brand congruency theory 1 1.14%
+absorption theory 1 1.14% hierarchy of needs theory 1 1.14%
+affective events theory 1 1.14% unified theory of acceptance and use of technology 2 1 1.14%
+agency theory 1 1.14% lay beliefs 1 1.14%
+attachment theory 1 1.14% institutional theory 1 1.14%
+behavioral reasoning theory 1 1.14% law of contagion 1 1.14%
+cognitive absorption theory 1 1.14% evolutionary human motives theory 1 1.14%
+evolution theory 1 1.14% perceived risk theory 1 1.14%
+experience economy framework 1 1.14% regulatory focus theory 1 1.14%
+information processing theory 1 1.14% job demands-resources model 1 1.14%
+POS conversion funnel theory 1 1.14% Schwartz theory of basic values 1 1.14%
+product level framework 1 1.14% speciesism theory 1 1.14%
+psychological ownership theory 1 1.14% no clearly specified underlying theory 21 23.86%
+reactance theory 1 1.14%
+Note: As 1 article may build on multiple theoretical perspectives, the number of articles amount to more than 88 articles. We use 88 articles as the basis to calculate the relative frequencies.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+40
+Table 3: Industries considered
+Industries considered (n=173)a
+# studies % studies
+Retail 22 12.72%
+Healthcare 22 12.72%
+Financial Services 18 10.40%
+Restaurant/Food Delivery 17 9.83%
+Varied or Self-Selected 16 9.25%
+Home usage 12 6.94%
+Game 8 4.62%
+Hotel 6 3.47%
+Travel (Airline/Railway) 4 2.31%
+Telco 1 0.58%
+Other 25 14.45%
+Not mentioned/not specified 4 2.31%
+N/A 18 10.40%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Table 4: Countries considered
+Countries considered (n=173)a
+# studies % studies
+US 78 45.09%
+Multi-Country 9 5.20%
+United Kingdom 5 2.89%
+the Netherlands 4 2.31%
+Switzerland 3 1.73%
+South Korea 2 1.16%
+Australia 1 0.58%
+Austria 1 0.58%
+Belgium 1 0.58%
+Canada 1 0.58%
+China 1 0.58%
+Italy 1 0.58%
+Malta 1 0.58%
+Poland 1 0.58%
+Portugal 1 0.58%
+Not mentioned/not specified 45 26.01%
+N/A 18 10.40%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+41
+Table 5: B2C vs. B2B focus
+B2C vs. B2B focus (n=173)a
+# studies % studies
+B2C 165 95.38%
+B2B 5 2.89%
+B2B and B2C 3 1.73%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Table 6: Focal actor/entity
+Focal actor/entity (n=173)a
+# studies % studies
+Customer 155 89.60%
+Employee 10 5.78%
+Firm 3 1.73%
+Mixed 5 2.89%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+42
+Table 7: Robot type
+Robot Type (n=173)a
+# studies % studies
+Chatbot/Virtual Assistant 103 59.54%
+Physical robot 42 24.28%
+Mixed 15 8.67%
+Not mentioned/not specified 13 7.51%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Table 8: Robot embodiment
+Robot Embodiment (n=173)a
+# studies % studies
+Not Embodied 73 42.20%
+Embodied 56 32.37%
+Mixed 23 13.29%
+Not mentioned/not specified 21 12.14%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Table 9: Robot modality
+Robot modality (n=173)a
+# studies % studies
+Text 57 32.95%
+Voice/Speech 49 28.32%
+Mixed 21 12.14%
+Touch 3 1.73%
+Visual 1 0.58%
+Not mentioned/not specified 42 24.28%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+43
+Table 10: Outcome variables
+Outcome Variables (n=140)a
+# studies % studies
+Customer behavioral intentions 52 37.14%
+Customer satisfaction & value 20 14.29%
+Attitude toward robot 17 12.14%
+Customer behavior 14 10.00%
+Customer preference for human/AI provider 12 8.57%
+Customer Trust 5 3.57%
+Well-being 3 2.14%
+Customer experience 3 2.14%
+Other 47 33.57%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study. Here, we purely focus on quantitative studies that specify a clear DV (n=140). Note: As 1 study may focus on multiple outcome variables, the number of articles amount to more than 140 studies. We use 140 studies as the basis to calculate the relative frequencies.
+Table 11: Methodologies used
+Methodologies Used (n=173)a
+# studies % studies Quantitative
+Experimental method 110 63.58% Online experiment (scenario) 74 42.77% Lab experiment (scenario) 22 12.72% Field experiment 12 6.94% Experiment (other) 2 1.16% Survey method 19 10.98% Online survey 14 8.09% Field survey 3 1.73% Other survey 2 1.16% Other quant methods 10 5.78% Panel/Database/... analysis 3 1.73% Conjoint analysis 1 0.58% Meta-analysis 1 0.58% Neuroscientific analysis 1 0.58% Voice/Text analysis 4 2.31% Qualitative
+Interview method 13 7.51% Case study method 1 0.58% Netnographic method 1 0.58% Other Conceptual work 15 8.67% Literature review 3 1.73% Implicit Association Test 1 0.58%
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+44
+Table 12: Respondent interaction with robot
+a While we systematically reviewed 88 articles, the numbers in this table refer to studies within these articles. That is, a single article may contain more than one study.
+Respondent interaction with robot (n=173)a Type of interaction # studies % studies
+Picture-based 50 28.90% Realistic simulation 24 13.87% Own experience 24 13.87% Real interaction 22 12.72% Text-based 19 10.98% Video-based 15 8.67% N/A 19 10.98%
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+45
+Table 13: Key Insights
+Overarching insights for service robot scholars 1. Research Foci
+• Service robot-human comparisons are the dominant research focus • Other popular streams include the role of service robots’ look & feel, consumer attitudes toward service robots, and the role of service robot conversational skills & behaviors
+• In need of research focused on: - Service robot-human collaboration - Service robot identification and transparency - Service robot roles and the changing roles of customers and employees - Service robot vs. other service technologies comparisons and view on their potential integration - Service robot agency - Service robot ethics
+- Service robot failure & recovery
+2. Theories
+• The dominant theories are anthropomorphism theory, the uncanny valley theory, the stereotype content model/social cognition theory, social response theory/computers as social actors paradigm, social presence theory, and various technology acceptance theories (TAM, SRAM, UTAUT, UTAUT2).
+• In need of: - theoretical integration and an overarching service robot model - meta-analytical insights to understand what theories/models have the highest value
+3. Contexts
+• The dominant industries are retail, healthcare, financial services, and restaurants/food delivery • The studies are primarily executed in a U.S. setting • B2C is the key focus • The customer perspective is central
+• In need of: - research on service robots in education, professional services, military services, home environment, and luxury settings. - research in Asian, European, South American, African, and Middle East countries - cross-cultural comparisons - B2B-focused work - research focusing on the impact of service robots on service employees and the firm
+4. Study Characteristics
+• Most research focuses on virtual service robots, with embodiment and text and/or voice modality • Customer behavioral intentions are the dominant type of dependent variable
+• In need of: - research comparing different types of service robots and understanding when they are deemed fitting - research looking into touch and movement as service robot modality - behavioral outcomes (e.g., adoption, continued use) - employee-level (e.g., collaboration happiness), firm-level (e.g., sales, ROI), and market-based (e.g., stock market performance) metrics - societally relevant outcomes (well/ill-being)
+5. Methodology
+• Most studies are experimental, making use of picture-based scenarios • Qualitative research is underdeveloped
+• In need of: - field experiments - qualitative work (e.g., in-depth interviews, observations, discourse analysis, laddering techniques, ethnography, case studies, and qualitative comparative analysis) - the adoption of more advanced quantitative tools to deal with text, voice, and video data captured through service robots - longitudinal designs - multi-method designs
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+46
+Appendix A – Service robot definitions/descriptions
+Author Year Service Robot Definition (only unique definitions are retained)
+Caic et al. 2018 A socially assistive robot is one that provides assistance through social interaction in a human-like manner as their main value proposition.
+Wirtz et al. 2018 Service robots are system-based autonomous and adaptable interfaces that interact, communicate and deliver service to an organization’s customers.
+Caic et al. 2019 Social robots are autonomous systems that can understand social cues through facial and voice recognition technology and can interact with users in human-like
+manners. De Keyser et al. 2019 A conversational agent can be considered as a physical or virtual autonomous technological entity capable of reactive and proactive behavior in its environment, with
+the ability to accept natural language as input and generate natural language as output in order to engage in a social conversation with its users. Jörling et al. 2019 Service robots are information technology in a physical embodiment, providing customized services by performing physical as well as nonphysical tasks with a high
+degree of autonomy. Longoni et al. 2019 Medical AI refers to any machine that uses any kind of algorithm or statistical model to perform perceptual, cognitive and conversational functions typical of the human
+mind, such as visual and speech recognition, reasoning, and problem solving.
+Luo et al. 2019 AI chatbots are computer programs that simulate human conversations through voice commands or text chats, and serve as virtual assistants to users.
+Przegalinska et
+al. 2019 Chatbots are interactive, virtual agents that engage in verbal interactions with humans.
+Belanche et al. 2020 Service robots refer to autonomous technology employed in frontline operations with some physical interface.
+Schuetzler et al. 2020 Conversational agents (CAs) - frequently operationalized as chatbots - are computer systems that leverage natural language processing to engage in conversations with
+human users.
+Sheehan et al. 2020 Chatbots are computer programs with natural language capabilities, which can be configured to converse with human users.
+Thomaz et al. 2020 Conversational agents (also called chatbots, conversational AI-bots, virtual assistants, and dialogue systems) are natural language computer programs designed to
+approximate human speech (written or oral) and interact with people via a digital interface. Van Pinxteren
+et al. 2020 Conversational agents are "systems that mimic human conversation" using communication channels such as speech, text, but also facial expressions and gestures.
+Balakrishnan &
+Dwivedi 2021 A chatbot is a computer program that conducts a conversation in natural language and sends a response based on business rules and data tuned by the organization.
+Blut et al. 2021 Service robots are defined as autonomous agents whose core purpose is to provide services to customers by performing physical and nonphysical tasks. They can be
+physically embodied or virtual. Brengman et al. 2021 Service robots are defined as robots which operate semi- or fully autonomously to perform services useful to the well-being of humans and equipment, excluding
+manufacturing operations.
+Butt et al. 2021 An AI-powered avatar is defined as a human-like avatar that thinks, acts, and interacts with the gamer during the gameplay to augment the game performance.
+Figueiredo &
+Pinto 2021 A robot equals software that mirrors human actions on a screen using a mouse and a keyboard.
+HernandezOrtega & Ferreira
+2021 Smart voice assistants are software agents that employ natural language processing and machine learning to assimilate, understand, and respond to the consumer's
+demands.
+Huang & Kao 2021 Virtual service agents refer to service agents who fulfill customers' needs via digital platforms.
+Lin et al. 2021 A virtual salesperson is a web-based software that offers personalized suggestions and recommendations to online customers.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+47
+Author Year Service Robot Definition (only unique definitions are retained)
+Murtarelli et al. 2021 Chatbots are machine conversation systems that interact with human users via natural conversational language.
+Park et al. 2021 Service robots are programmed entities with a degree of autonomy to perform intended tasks in a service industry.
+Pitardi &
+Marriott 2021 Virtual assistants are Internet-enabled devices that provide daily technical, administrative, and social assistance to their users, including activities from setting alarms
+and playing music to communicating with other users. Pizzi et al. 2021 Conversational agents are computer-generated graphically displayed entities that represent either imaginary characters or real humans controlled by artificial
+intelligence. Rajaobelina et
+al. 2021 Chatbots are systems aimed at communicating with users using natural language based on AI; they are designed to imitate human speech in approximating written txt or
+vocal speech as best as possible to interact with people via a digital interface.
+Sands et al. 2021 Chatbots are artificial intelligence (AI)-enabled service agents that can conduct 'natural' conversations with consumers and given them individual information.
+Schanke et al. 2021
+Chatbots are autonomous software agents that support text-based exchanges with human users, drawing on tools and techniques from the domain of natural language processing. Chatbots have the potential to automate basic, repeatable, standardized customer service interactions, relieving the need for those interactions to be handled by human employees.
+Sowa et al. 2021 Cobots (also known as collaborative robots) are robots intended to interact with humans in a shared space.
+Tsai et al. 2021 A chatbot is an AI-powered, automated, yet personalized, virtual assistant.
+Whang & Im 2021 Voice assistants (also referred to as smart speaker or AI speakers) are voice-controlled smart devices designed to provide personal assistance for users' daily activities.
+Wien & Peluso 2021 An AI recommender refers to any type of autonomous system that uses algorithms to produce recommendations for consumers.
+Xiao & Kumar 2021 Robots are mechanical machines or intangible computer programs that perform rule-based work, and tend to be configurable with basic features like authentication,
+security, auditing, logging, and exception handling. Amelia et al. this issue Frontline service robots refer to social humanoid robots that perform frontline service tasks and interact and co-create value with customers through their cognitive and
+social capabilities. Flavian et al. this issue Robo-advisors are digital platforms comprising interactive and intelligent user assistance components that use information technology to guide customers through an
+automated investment advisory process.
+Mele et al. this issue Cognitive assistants are computers that help actors understand what is going on around them.
+Mozafari et al. this issue Chatbots are text-based virtual robots that emulate human-to-human conversation through natural language processing.
+Paluch et al. this issue Collaborative service robots embodied machines equipped with some degree of artificial intelligence (AI) and functional autonomy that are designed to work alongside
+frontline service employees (FSEs) and perform similar service roles as their counterparts.
+this paper this issue Service robots are system-based autonomous and adaptable interfaces that interact, communicate, and deliver service to customers, employees and/or other (service)
+robots.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+48
+Appendix B – List of contributors
+1. Alkire Linda 2. Belanche Daniel 3. Belk Russell 4. Blaurock Marah 5. Blut Markus 6. Borau Sylvie 7. Brengman Malaika 8. Brock Christian 9. Burtch Gordon 10. Butt Asad Hassan 11. Caíc Martina 12. Casaló Luis V. 13. Castillo Daniela 14. Choi Sungwoo 15. Fan Alei 16. Fernandes Teresa 17. Figueiredo Alcídio 18. Flavián Carlos 19. Gelbrich Katja 20. Gottlieb Udo 21. Hammerschmidt Maik 22. Hasan Rajibul 23. Henkel Alexander P. 24. Hernandez-Ortega Blanca 25. Jörling Moritz 26. Klaus Phil 27. Lemmink Jos 28. Letheren Kate 29. Lourenço Carlos J.S. 30. Ma Emily 31. Mahr Dominik 32. Marzullo Marialuisa 33. Mathies Christine 34. Mele Cristina 35. Mende Martin 36. Mennens Kars 37. Mozafari Nika 38. Noble Stephanie 39. Odekerken-Schröder Gaby 40. Okan Mehmet 41. Orsingher Chiara 42. Pantano Eleonora 43. Park Sungjun (Steven) 44. Pérez-Rueda Alfredo 45. Pinto Luisa H. 46. Pluymaekers Mark 47. Pozharliev Rumen
+48. Roy Rajat 49. Ruggiero Andrea 50. Russo Spena Tiziana 51. Rust Roland 52. Said Emanuel 53. Scarpi Daniele 54. Schepers Jeroen 55. Schmitt Bernd 56. Sheehan Ben 57. Söderlund Magnus 58. Steins Mark 59. Streukens Sandra 60. Tep Sandrine Prom 61. Tuzovic Sven 62. van Doorn Jenny 63. Vanderborght Bram 64. von Walter Benjamin 65. WeigerWelf Hermann 66. Wetzels Martin 67. Wetzels Ruud 68. Willems Kim 69. Wirtz Jochen 70. Yun Jin Ho 71. Zaichkowsky Judy
+We further like to acknowledge 8 experts who preferred not to be included in this list.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+49
+Appendix C – Survey Questions
+The relevant tables mentioned in the questions can be found in the article.
+1. The table below outlines the key research foci found in the coded articles. When considering this, what do you feel to be key challenges/opportunities to move the field forward?
+2. Looking at the robots considered in the coded articles, we have established the below 3 tables. Table xx focuses on robot type (i.e., a physical or virtual robot?), table xxx on robot embodiment (i.e., is the robot represented by a physical instantiation?), and table xxx on robot modality (i.e., what is the means of communication?). When considering this, what do you feel to be key challenges/opportunities to move the field forward?
+3. A variety of theories has been used in (service) robots research. When considering the below overview, would you think of any missing theories? Or theories that have not been considered sufficiently?
+4. A variety of outcomes variables have been considered in research so far. We have found the following major categories. When considering this, what do you feel to be key outcomes (categories) to be the overlooked?
+5. When considering research industries and countries, we coded the below information. When considering this, what do you feel to be key settings to be the overlooked?
+6. We find the below statistics for B2C/B2B-focus and the focal entity (i.e., customer, employee, firm) considered. When considering this, what do you feel to be key challenges/opportunities to move the field forward?
+7. Finally, we coded the following 2 overviews in relation to the methods used. Table xxx displays the various methodologies applied. Table xxx outlines how respondents in every study interacted with a robot, ranging from purely picture-based to real interactions happening in a real-life context (i.e., original) or through a simulation. Where do you feel opportunities reside? What method(s) should be introduced or further developed?
+8. Do you have other considerations you would like to share?
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+50
+Web Appendix A: Structured Literature Review References
+1. Amelia, A., Mathies, C. and Patterson, P.G. (this issue), “Customer acceptance of
+frontline service robots in retail banking: A qualitative approach”, Journal of Service
+Management, this issue.
+2. Balakrishnan, J. and Dwivedi, Y.K. (2021), “Role of cognitive absorption in building
+user trust and experience”, Psychology & Marketing, Vol. 38 No. 4, pp. 643–668.
+3. Belanche, D., Casaló, L.V., Flavián, C. and Schepers, J. (2020a), “Robots or frontline
+employees? Exploring customers’ attributions of responsibility and stability after service
+failure or success”, Journal of Service Management, Vol. 31 No. 2, pp. 267–289.
+4. Belanche, D., Casaló, L.V., Flavián, C. and Schepers, J. (2020b), “Service robot
+implementation: a theoretical framework and research agenda”, The Service Industries
+Journal, Vol. 40 No. 3–4, pp. 203–225.
+5. Belanche, D., Casaló, L.V., Schepers, J. and Flavián, C. (2021), “Examining the effects
+of robots’ physical appearance, warmth, and competence in frontline services: The
+Humanness‐Value‐Loyalty model”, Psychology & Marketing, Vol. 38 No. 12, pp. 2357
+2376.
+6. Belk, R. (2021), “Ethical issues in service robotics and artificial intelligence”, The
+Service Industries Journal, Vol. 41 No. 13–14, pp. 860–876.
+7. Blut, M., Wang, C., Wünderlich, N.V. and Brock, C. (2021), “Understanding
+anthropomorphism in service provision: a meta-analysis of physical robots, chatbots, and
+other AI”, Journal of the Academy of Marketing Science, Vol. 49 No. 4, pp. 632–658.
+8. Borau, S., Otterbring, T., Laporte, S. and Fosso Wamba, S. (2021), “The most human
+bot: Female gendering increases humanness perceptions of bots and acceptance of AI”,
+Psychology & Marketing, Vol. 38 No. 7, pp. 1052–1068.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+51
+9. Brengman, M., De Gauquier, L., Willems, K. and Vanderborght, B. (2021), “From
+stopping to shopping: An observational study comparing a humanoid service robot with a
+tablet service kiosk to attract and convert shoppers”, Journal of Business Research, Vol.
+134, pp. 263–274.
+10. Butt, A.H., Ahmad, H., Goraya, M.A.S., Akram, M.S. and Shafique, M.N. (2021), “Let’s
+play: Me and my AI‐powered avatar as one team”, Psychology & Marketing, Vol. 38 No.
+6, pp. 1014–1025.
+11. Čaić, M., Mahr, D. and Oderkerken-Schröder, G. (2019), “Value of social robots in
+services: social cognition perspective”, Journal of Services Marketing, Vol. 33 No. 4, pp.
+463–478.
+12. Čaić, M., Odekerken-Schröder, G. and Mahr, D. (2018), “Service robots: value co
+creation and co-destruction in elderly care networks”, Journal of Service Management,
+Vol. 29 No. 2, pp. 178–205.
+13. Castillo, D., Canhoto, A.I. and Said, E. (2021), “The dark side of AI-powered service
+interactions: exploring the process of co-destruction from the customer perspective”, The
+Service Industries Journal, Vol. 41 No. 13–14, pp. 900–925.
+14. Choi, S., Mattila, A.S. and Bolton, L.E. (2021), “To Err Is Human(-oid): How Do
+Consumers React to Robot Service Failure and Recovery?”, Journal of Service Research,
+Vol. 24 No. 3, pp. 354–371.
+15. Chung, M., Ko, E., Joung, H. and Kim, S.J. (2020), “Chatbot e-service and customer
+satisfaction regarding luxury brands”, Journal of Business Research, Vol. 117, pp. 587
+595.
+16. De Keyser, A., Köcher, S., Alkire (née Nasr), L., Verbeeck, C. and Kandampully, J.
+(2019), “Frontline Service Technology infusion: conceptual archetypes and future
+research directions”, Journal of Service Management, Vol. 30 No. 1, pp. 156–183.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+52
+17. Dellaert, B.G.C., Shu, S.B., Arentze, T.A., Baker, T., Diehl, K., Donkers, B., Fast, N.J.,
+et al. (2020), “Consumer decisions with artificially intelligent voice assistants”,
+Marketing Letters, Vol. 31 No. 4, pp. 335–347.
+18. van Doorn, J., Mende, M., Noble, S.M., Hulland, J., Ostrom, A.L., Grewal, D. and
+Petersen, J.A. (2017), “Domo Arigato Mr. Roboto: Emergence of Automated Social
+Presence in Organizational Frontlines and Customers’ Service Experiences”, Journal of
+Service Research, Vol. 20 No. 1, pp. 43–58.
+19. Fan, A., Wu, L. (Laurie) and Mattila, A.S. (2016), “Does anthropomorphism influence
+customers’ switching intentions in the self-service technology failure context?”, Journal
+of Services Marketing, Vol. 30 No. 7, pp. 713–723.
+20. Fernandes, T. and Oliveira, E. (2021), “Understanding consumers’ acceptance of
+automated technologies in service encounters: Drivers of digital voice assistants
+adoption”, Journal of Business Research, Vol. 122, pp. 180–191.
+21. Figueiredo, A.S. and Pinto, L.H. (2020), “Robotizing shared service centres: key
+challenges and outcomes”, Journal of Service Theory and Practice, Vol. 31 No. 1, pp.
+157–178.
+22. Flavián, C., Pérez-Rueda, A., Belanche, D. and Casaló, L.V. (this issue), “Intention to
+use analytical artificial intelligence (AI) in services – the effect of technology readiness
+and awareness”, Journal of Service Management, this issue.
+23. Ge, R., Zheng, Z. (Eric), Tian, X. and Liao, L. (2021), “Human–Robot Interaction: When
+Investors Adjust the Usage of Robo-Advisors in Peer-to-Peer Lending”, Information
+Systems Research, Vol. 32 No. 3, pp. 774–785.
+24. Gelbrich, K., Hagel, J. and Orsingher, C. (2021), “Emotional support from a digital
+assistant in technology-mediated services: Effects on customer satisfaction and
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+53
+behavioral persistence”, International Journal of Research in Marketing, Vol. 38 No. 1,
+pp. 176–193.
+25. Hasan, R., Shams, R. and Rahman, M. (2021), “Consumer trust and perceived risk for
+voice-controlled artificial intelligence: The case of Siri”, Journal of Business Research,
+Vol. 131, pp. 591–597.
+26. Henkel, A.P., Bromuri, S., Iren, D. and Urovi, V. (2020), “Half human, half machine 
+augmenting service employees with AI for interpersonal emotion regulation”, Journal of
+Service Management, Vol. 31 No. 2, pp. 247–265.
+27. Henkel, A.P., Čaić, M., Blaurock, M. and Okan, M. (2020), “Robotic transformative
+service research: deploying social robots for consumer well-being during COVID-19 and
+beyond”, Journal of Service Management, Vol. 31 No. 6, pp. 1131–1148.
+28. Hernandez‐Ortega, B. and Ferreira, I. (2021), “How smart experiences build service
+loyalty: The importance of consumer love for smart voice assistants”, Psychology &
+Marketing, Vol. 38 No. 7, pp. 1122–1139.
+29. Huang, M.-H. and Rust, R.T. (this issue), "AI as customer", Journal of Service
+Management, this issue.
+30. Huang, Y.-S. (Sandy) and Kao, W.-K. (2021), “Chatbot service usage during a
+pandemic: fear and social distancing”, The Service Industries Journal, Vol. 41 No. 13
+14, pp. 964–984.
+31. Jörling, M., Böhm, R. and Paluch, S. (2019), “Service Robots: Drivers of Perceived
+Responsibility for Service Outcomes”, Journal of Service Research, Vol. 22 No. 4, pp.
+404–420.
+32. Kim, S., Chen, R.P. and Zhang, K. (2016), “Anthropomorphized Helpers Undermine
+Autonomy and Enjoyment in Computer Games”, Journal of Consumer Research, Vol. 43
+No. 2, pp. 282–302.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+54
+33. Kim, S.Y., Schmitt, B.H. and Thalmann, N.M. (2019), “Eliza in the uncanny valley:
+anthropomorphizing consumer robots increases their perceived warmth but decreases
+liking”, Marketing Letters, Vol. 30 No. 1, pp. 1–12.
+34. Klaus, P. and Zaichkowsky, J. (2020), “AI voice bots: a services marketing research
+agenda”, Journal of Services Marketing, Vol. 34 No. 3, pp. 389–398.
+35. Kull, A.J., Romero, M. and Monahan, L. (2021), “How may I help you? Driving brand
+engagement through the warmth of an initial chatbot message”, Journal of Business
+Research, Vol. 135, pp. 840–850.
+36. Lalicic, L. and Weismayer, C. (2021), “Consumers’ reasons and perceived value co
+creation of using artificial intelligence-enabled travel service agents”, Journal of
+Business Research, Vol. 129, pp. 891–901.
+37. Letheren, K., Jetten, J., Roberts, J. and Donovan, J. (2021), “Robots should be seen and
+not heard...sometimes: Anthropomorphism and AI service robot interactions”,
+Psychology & Marketing, Vol. 38 No. 12, pp. 2393–2406.
+38. Lin, Y.-T., Doong, H.-S. and Eisingerich, A.B. (2021), “Avatar Design of Virtual
+Salespeople: Mitigation of Recommendation Conflicts”, Journal of Service Research,
+Vol. 24 No. 1, pp. 141–159.
+39. Longoni, C., Bonezzi, A. and Morewedge, C.K. (2019), “Resistance to Medical Artificial
+Intelligence”, Journal of Consumer Research, Vol. 46 No. 4, pp. 629–650.
+40. Longoni, C. and Cian, L. (2022), “Artificial Intelligence in Utilitarian vs. Hedonic
+Contexts: The ‘Word-of-Machine’ Effect”, Journal of Marketing, Vol. 86 No. 1, pp. 91
+108.
+41. Lourenço, C.J.S., Dellaert, B.G.C. and Donkers, B. (2020), “Whose Algorithm Says So:
+The Relationships Between Type of Firm, Perceptions of Trust and Expertise, and the
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+55
+Acceptance of Financial Robo-Advice”, Journal of Interactive Marketing, Vol. 49, pp.
+107–124.
+42. Lu, V.N., Wirtz, J., Kunz, W.H., Paluch, S., Gruber, T., Martins, A. and Patterson, P.G.
+(2020), “Service robots, customers and service employees: what can we learn from the
+academic literature and where are the gaps?”, Journal of Service Theory and Practice,
+Vol. 30 No. 3, pp. 361–391.
+43. Luo, X., Qin, M.S., Fang, Z. and Qu, Z. (2021), “Artificial Intelligence Coaches for Sales
+Agents: Caveats and Solutions”, Journal of Marketing, Vol. 85 No. 2, pp. 14–32.
+44. Luo, X., Tong, S., Fang, Z. and Qu, Z. (2019), “Frontiers: Machines vs. Humans: The
+Impact of Artificial Intelligence Chatbot Disclosure on Customer Purchases”, Marketing
+Science, p. mksc.2019.1192.
+45. Ma, E., Bao, Y., Huang, L., Wang, D. and Kim, M. (Sunny). (2021), “When a Robot
+Makes Your Dinner: A Comparative Analysis of Product Level and Customer
+Experience Between the U.S. and Chinese Robotic Restaurants”, Cornell Hospitality
+Quarterly, pp. 1-28.
+46. McLean, G., Osei-Frimpong, K. and Barhorst, J. (2021), “Alexa, do voice assistants
+influence consumer brand engagement? – Examining the role of AI powered voice
+assistants in influencing consumer brand engagement”, Journal of Business Research,
+Vol. 124, pp. 312–328.
+47. McLeay, F., Osburg, V.S., Yoganathan, V. and Patterson, A. (2021), “Replaced by a
+Robot: Service Implications in the Age of the Machine”, Journal of Service Research,
+Vol. 24 No. 1, pp. 104–121.
+48. Mele, C., Spena, T.R., Marzullo, M. and Ruggiero, A. (this issue), "Boundary work in
+value co-creation practices: the mediating role of cognitive assistants", Journal of
+Service Management, this issue.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+56
+49. Mende, M., Scott, M.L., van Doorn, J., Grewal, D. and Shanks, I. (2019), “Service
+Robots Rising: How Humanoid Robots Influence Service Experiences and Elicit
+Compensatory Consumer Responses”, Journal of Marketing Research, Vol. 56 No. 4,
+pp. 535–556.
+50. Moriuchi, E. (2019), “Okay, Google!: An empirical study on voice assistants on
+consumer engagement and loyalty”, Psychology & Marketing, Vol. 36 No. 5, pp. 489
+501.
+51. Moriuchi, E. (2021), “An empirical study on anthropomorphism and engagement with
+disembodied AIs and consumers’ re‐use behavior”, Psychology & Marketing, Vol. 38
+No. 1, pp. 21–42.
+52. Mozafari, N., Weiger, W.H. and Hammerschmidt, M. (this issue), “Trust me, I’m a bot 
+repercussions of chatbot disclosure in different service frontline settings”, Journal of
+Service Management, this issue.
+53. Mukherjee, U.K. and Sinha, K.K. (2020), “Robot‐assisted surgical care delivery at a
+hospital: Policies for maximizing clinical outcome benefits and minimizing costs”,
+Journal of Operations Management, Vol. 66 No. 1–2, pp. 227–256.
+54. Murtarelli, G., Gregory, A. and Romenti, S. (2021), “A conversation-based perspective
+for shaping ethical human–machine interactions: The particular challenge of chatbots”,
+Journal of Business Research, Vol. 129, pp. 927–935.
+55. Odekerken-Schröder, G., Mele, C., Russo-Spena, T., Mahr, D. and Ruggiero, A. (2020),
+“Mitigating loneliness with companion robots in the COVID-19 pandemic and beyond:
+an integrative framework and research agenda”, Journal of Service Management, Vol. 31
+No. 6, pp. 1149–1162.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+57
+56. Odekerken-Schröder, G., Mennens, K., Steins, M. and Mahr, D. (this issue), “The service
+triad: an empirical study of service robots, customers and frontline employees”, Journal
+of Service Management, this issue.
+57. Paluch, S., Tuzovic, S., Holz, H.F., Kies, A. and Jörling, M. (this issue), “‘My colleague
+is a robot’ – exploring frontline employees’ willingness to work with collaborative
+service robots”, Journal of Service Management, this issue.
+58. Park, S.S., Tung, C.D. and Lee, H. (2021), “The adoption of AI service robots: A
+comparison between credence and experience service settings”, Psychology &
+Marketing, Vol. 38 No. 4, pp. 691–703.
+59. van Pinxteren, M.M.E., Wetzels, R.W.H., Rüger, J., Pluymaekers, M. and Wetzels, M.
+(2019), “Trust in humanoid robots: implications for services marketing”, Journal of
+Services Marketing, Vol. 33 No. 4, pp. 507–518.
+60. Pitardi, V. and Marriott, H.R. (2021), “Alexa, she’s not human but... Unveiling the
+drivers of consumers’ trust in voice‐based artificial intelligence”, Psychology &
+Marketing, Vol. 38 No. 4, pp. 626–642.
+61. Pitardi, V., Wirtz, J., Paluch, S. and Kunz, W.H. (this issue), “Service robots, agency and
+embarrassing service encounters”, Journal of Service Management, this issue.
+62. Pizzi, G., Scarpi, D. and Pantano, E. (2021), “Artificial intelligence and the new forms of
+interaction: Who has the control when interacting with a chatbot?”, Journal of Business
+Research, Vol. 129, pp. 878–890.
+63. Pozharliev, R., De Angelis, M., Rossi, D., Romani, S., Verbeke, W. and Cherubino, P.
+(2021), “Attachment styles moderate customer responses to frontline service robots:
+Evidence from affective, attitudinal, and behavioral measures”, Psychology &
+Marketing, Vol. 38 No. 5, pp. 881–895.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+58
+64. Przegalinska, A., Ciechanowski, L., Stroz, A., Gloor, P. and Mazurek, G. (2019), “In bot
+we trust: A new methodology of chatbot performance measures”, Business Horizons,
+Vol. 62 No. 6, pp. 785–797.
+65. Rajaobelina, L., Prom Tep, S., Arcand, M. and Ricard, L. (2021), “Creepiness: Its
+antecedents and impact on loyalty when interacting with a chatbot”, Psychology &
+Marketing, Vol. 38 No. 12, pp. 2339–2356.
+66. Ramadan, Z., Farah, M. and El Essrawi, L. (2021), “From Amazon.com to Amazon.love:
+How Alexa is redefining companionship and interdependence for people with special
+needs”, Psychology & Marketing, Vol. 38 No. 4, pp. 596–609.
+67. Roy, R. and Naidoo, V. (2021), “Enhancing chatbot effectiveness: The role of
+anthropomorphic conversational styles and time orientation”, Journal of Business
+Research, Vol. 126, pp. 23–34.
+68. Sands, S., Ferraro, C., Campbell, C. and Tsao, H.-Y. (2020), “Managing the human
+chatbot divide: how service scripts influence service experience”, Journal of Service
+Management, Vol. 32 No. 2, pp. 246–264.
+69. Schanke, S., Burtch, G. and Ray, G. (2021), “Estimating the Impact of ‘Humanizing’
+Customer Service Chatbots”, Information Systems Research, Vol. 32 No. 3, pp. 736–751.
+70. Schuetzler, R.M., Grimes, G.M. and Scott Giboney, J. (2020), “The impact of chatbot
+conversational skill on engagement and perceived humanness”, Journal of Management
+Information Systems, Vol. 37 No. 3, pp. 875–900.
+71. Schmitt, B. (2020), “Speciesism: an obstacle to AI and robot adoption”, Marketing
+Letters, Vol. 31 No. 1, pp. 3–6.
+72. Sheehan, B., Jin, H.S. and Gottlieb, U. (2020), “Customer service chatbots:
+Anthropomorphism and adoption”, Journal of Business Research, Vol. 115, pp. 14–24.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+59
+73. Schepers, J. J. L. and Streukens, S. (this issue), "To serve and protect: A typology of
+service robots and their role in physically safe services", Journal of Service
+Management, this issue.
+74. Sidaoui, K., Jaakkola, M. and Burton, J. (2020), “AI feel you: customer experience
+assessment via chatbot interviews”, Journal of Service Management, Vol. 31 No. 4, pp.
+745–766.
+75. Söderlund, M. (2021), “The robot-to-robot service encounter: an examination of the
+impact of inter-robot warmth”, Journal of Services Marketing, Vol. 35 No. 9, pp. 15–27.
+76. Sowa, K., Przegalinska, A. and Ciechanowski, L. (2021), “Cobots in knowledge work”,
+Journal of Business Research, Vol. 125, pp. 135–142.
+77. Thomaz, F., Salge, C., Karahanna, E. and Hulland, J. (2020), “Learning from the Dark
+Web: leveraging conversational agents in the era of hyper-privacy to enhance
+marketing”, Journal of the Academy of Marketing Science, Vol. 48 No. 1, pp. 43–63.
+78. Tong, S., Jia, N., Luo, X. and Fang, Z. (2021), “The Janus face of artificial intelligence
+feedback: Deployment versus disclosure effects on employee performance”, Strategic
+Management Journal, Vol. 42 No. 9, pp. 1600–1631.
+79. Tsai, W.S., Lun, D., Carcioppolo, N. and Chuan, C. (2021), “Human versus chatbot:
+Understanding the role of emotion in health marketing communication for vaccines”,
+Psychology & Marketing, Vol. 38 No. 12, pp. 2377–2392.
+80. Tuomi, A., Tussyadiah, I.P. and Stienmetz, J. (2021), “Applications and Implications of
+Service Robots in Hospitality”, Cornell Hospitality Quarterly, Vol. 62 No. 2, pp. 232
+247.
+81. Van Pinxteren, M.M.E., Pluymaekers, M. and Lemmink, J.G.A.M. (2020), “Human-like
+communication in conversational agents: a literature review and research agenda”,
+Journal of Service Management, Vol. 31 No. 2, pp. 203–225.
+Electronic copy available at: https://ssrn.com/abstract=4035662
+
+
+60
+82. von Walter, B., Kremmel, D. and Jäger, B. (2021), “The impact of lay beliefs about AI
+on adoption of algorithmic advice”, Marketing Letters, available
+at:https://doi.org/10.1007/s11002-021-09589-1.
+83. Wexler, M.N. and Oberlander, J. (2021), “Robo-advisors (RAs): the programmed self
+service market for professional advice”, Journal of Service Theory and Practice, Vol. 31
+No. 3, pp. 351–365.
+84. Whang, C. and Im, H. (2021), “‘I Like Your Suggestion!’ the role of humanlikeness and
+parasocial relationship on the website versus voice shopper’s perception of
+recommendations”, Psychology & Marketing, Vol. 38 No. 4, pp. 581–595.
+85. Wien, A.H. and Peluso, A.M. (2021), “Influence of human versus AI recommenders:
+The roles of product type and cognitive processes”, Journal of Business Research, Vol.
+137, pp. 13–27.
+86. Wirtz, J., Patterson, P.G., Kunz, W.H., Gruber, T., Lu, V.N., Paluch, S. and Martins, A.
+(2018), “Brave new world: service robots in the frontline”, Journal of Service
+Management, Vol. 29 No. 5, pp. 907–931.
+87. Xiao, L. and Kumar, V. (2021), “Robotics for Customer Service: A Useful Complement
+or an Ultimate Substitute?”, Journal of Service Research, Vol. 24 No. 1, pp. 9–29.
+88. Yun, J.H., Lee, E. and Kim, D.H. (2021), “Behavioral and neural evidence on consumer
+responses to human doctors and medical artificial intelligence”, Psychology &
+Marketing, Vol. 38 No. 4, pp. 610–625.
+Electronic copy available at: https://ssrn.com/abstract=4035662
