@@ -1,0 +1,1 @@
+Was macht der Chatbot ? Fragt leute aus ? Beginnt ein Gespräch mit ihnen ?
