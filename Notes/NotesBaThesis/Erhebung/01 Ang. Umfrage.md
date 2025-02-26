@@ -31,6 +31,19 @@ XXA(n)-GA
 
 ### Erleichternde Bedingungen
 
-### Verhaltensabsicht
+- FC1-GA Ich habe die notwendigen Ressourcen zur Benutzung des Chatbots.
+- FC2-GA Ich habe das notwendige Wissen zur Benutzung des Chatbots.
+- FC3-GA Der Chatbot ist kompatibel mit anderen von mir benutzten Technologien und Anwendungen.
+- FC4-GA Ich kann Hilfe von anderen bekommen, wenn ich Schwierigkeiten bei der Nutzung des Chatbots habe.
 
-### Use î?
+### Verhaltensabsicht  -> noch anzupassen
+- BI1-GA Wenn ein Chatbot in zukünftigen Bewerbungsprozessen eingesetzt würde, habe ich vor ihn zu benutzen.
+- BI2-GA Wenn ein Chatbot in zukünftigen Bewerbungsprozessen eingesetzt würde, werde ich ihn benutzen
+- BI3-GA Wenn ein Chatbot in zukünftigen Bewerbungsprozessen eingesetzt würde, plane ich ihn zu benutzen.
+
+
+### Use Behavior 
+
+- UB1-GA Wie oft nutzen sie generell Chatbots ? (z.B. Google Gemini, ChatGPT, Deepseek oder Claude) 
+
+Da statt der OG skala einfach eine 5point likert ? 

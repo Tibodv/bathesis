@@ -59,7 +59,7 @@ HM3-G. Pokémon Go zu spielen ist sehr unterhaltsam.
 
 ### ~~(Price Value)~~
 
-### Facilitating Conditions/Erleichternde Bedingungen
+### ~~Facilitating Conditions/Erleichternde Bedingungen~~
 
 FC1-G. Ich habe die notwendigen Ressourcen zum Spielen von Pokémon Go.
 FC2-G. Ich habe das notwendige Wissen zum Spielen von Pokémon Go.

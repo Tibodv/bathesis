@@ -1,0 +1,528 @@
+Personal and Ubiquitous Computing (2024) 28:961–984 https://doi.org/10.1007/s00779-024-01826-4
+ORIGINAL PAPER
+Recruitment chatbot acceptance in a company: a mixed method study on human-centered technology acceptance model
+Sabina Akram1 · Paolo Buono1 · Rosa Lanzilotti1
+Received: 4 March 2024 / Accepted: 21 June 2024 / Published online: 4 July 2024 © The Author(s) 2024
+Abstract
+This study developed a Human-Centered Technology Acceptance Model (HC-TAM) for recruitment chatbots, integrating aspects of the traditional Technology Acceptance Model (TAM)(Davis in 1989) with a focus on human-centered factors such as transparency, personalization, efficiency, and ethical concerns, alongside the fundamental TAM constructs of perceived ease of use and perceived usefulness. The study shows that the intention to use technology is influenced by their perceptions of its usefulness and ease of use. By extending TAM to include human-centered considerations, this research aimed to capture the diverse factors that significantly influence users’ acceptance of chatbots in the recruitment process. A three-phase study has been carried out, each serving a distinct purpose. (a) Phase 1 focuses on defining primary themes through qualitative interviews with 10 participants, laying the foundation for subsequent research. (b)Building upon this foundation, Phase 2 engages 28 participants in a refined exploration of these themes, ending in a comprehensive landscape of user perspectives. (c) Finally, Phase 3 employs rigorous Structural Equation Modeling for theoretical framework examination, yielding critical constructs and hypotheses. Moreover, Phase 3 encompasses the thorough development of measurement instruments and extensive data collection, involving 146 participants through questionnaires, the study found that the acceptance of recruitment chatbots is significantly enhanced when these systems are designed to be transparent, provide personalized interactions, efficiently fulfill user needs, and address ethical concerns. These findings contribute to the broader understanding of technology acceptance in the context of recruitment, offering valuable insights for developers and designers to create chatbots that are not only technically advanced but also ethically sound, user-friendly, and effectively aligned with human needs and expectations in recruitment settings.
+Keywords Technology acceptance in recruitment · Human-centered chatbots · Recruitment chatbots · Extended TAM
+1 Introduction
+The landscape of modern recruitment is undergoing a profound transformation, driven by technological advancements that have introduced innovative solutions like chatbots powered by Artificial Intelligence (AI) and natural language processing [1]. These conversational agents offer an efficient means of engaging with candidates and streamlining
+B Sabina Akram sabina.akram@uniba.it
+Paolo Buono paolo.buono@uniba.it
+Rosa Lanzilotti rosa.lanzilotti@uniba.it
+1 Dipartimento di Informatica, Universitá degli Studi di Bari Aldo Moro, Via Orabona,4, Bari 70125, Italy
+various aspects of the job-seeking journey [2, 3]. Recognizing their potential, job seekers and recruiters are increasingly embracing chatbots to revolutionize traditional hiring practices, marking a paradigm shift toward a more tech-savvy and efficient recruitment ecosystem [4]. Despite the achievements of AI systems, there remains a need for them to acquire skills closer to human intuition and intellect for establishing dependable human–machine collaboration [5, 6]. HumanCentered AI (HCAI) solutions aim to ensure the effectiveness of AI systems while considering societal impacts, humanAI interaction, and ethical considerations [4, 7]. Companies encounter challenges in recruitment and Human Resources (HR) management practices due to factors like company performance, global competition, and the misalignment between skill demand and availability. Likewise, job seekers face difficulties in finding roles that align with their skills and experience [8].
+123
+
+
+962 Personal and Ubiquitous Computing (2024) 28:961–984
+Chatbot-based communication systems emerge as a promising area within AI capable of exhibiting empathy and enhancing human-AI interaction, ultimately boosting task productivity in knowledge work [9]. The future of chatbots in knowledge work requires collaborative approaches where humans and AI systems work closely together [1012]. However, concerns persist regarding the risk of AI systems making unpredictable decisions or predictions that may negatively impact the user experience (UX), including issues like unfair treatment, discrimination, and privacy violations [13]. HCAI solutions offer economic benefits by aligning with user needs and fostering acceptance. The Human-Computer Interaction (HCI) community is urged to develop a detailed HCAI solution that incorporates ethical considerations and technology, emphasizing the importance of explainable, understandable, useful, and usable AI to enhance people’s lives and contribute to a better future for society [14]. This study extends the original Technology Acceptance Model (TAM) [1] by incorporating human-centered (HC) factors, which have been identified as crucial through mixed methods in this research for the acceptability of technology, specifically recruitment chatbots. TAM serves as the foundation for this study. Initially developed by Davis in 1989, TAM is a widely recognized theoretical model in the field of information systems. The core elements of TAM are centered on perceived usefulness, signifying the belief that a system enhances job performance and perceived ease of use, indicating the perception that system usage requires minimal effort [15]. This improved model emphasizes the alignment of technology with user needs, greatly enhancing its acceptance. By integrating HC factors within the TAM research model, this
+Fig. 1 The structured study approach
+study provides a structured method to understand how individuals perceive and intend to use technology, focusing on AI and chatbots. This approach is fundamental to ensure that AI is explainable, useful, and adheres to ethical standards [16]. By including human-centered design in the development of chatbots, directing to creation of technology that resonates with user needs for long-term success. This study employs a multi-phased approach, blending qualitative and quantitative analyses, to thoroughly understand the dynamics of chatbot acceptance among job seekers and recruiters, thus providing a detailed understanding of technology acceptance in recruitment [8]. The structured approach of the research study, as depicted in Fig. 1, encompasses three main phases with specific objectives and methodologies (see Table 1). Section 2 delves into the theoretical background, laying the foundation by discussing recruitment chatbot acceptance in the global market and extending the TAM Framework. Section 3 describes the research methodology, detailing the
+Table 1 Phases of the multi-methods recruitment chatbot acceptance research
+Phase Aim Tools Analysis Outcomes and findings
+Phase 1 (pilot) Qualitative
+Defining main themes to structure and adjust the following interviews and questionnaires
+10 semi-structured in -depth interviews based on a topic guide
+Thematic content analysis Main themes for constructing the interviews’ topic guide and the questionnaires in phase 2
+Phase 2 Qualitative To further define and describe the main themes until saturation
+28 single semi-structured in-depth interviews representative citations focused on themes and chose quotes describing those themes
+Thematic content analysis with NVivo
+Main theme analysis
+Phase 3- HC-TA model development (3a) and quantitative (3b)study- comprehensive study of research model development
+Phase 3a (Research) Model development
+Investigate the theoretical framework (HC-TAM) and factors influencing
+Smart-PLS for structure equation Modeling
+Statistical analysis using Structural Equation Modeling (SEM), correlation analysis
+Key constructs and hypothesis
+Phase 3b Quantitative Measurement development, and data collection
+146 sectional research paired questionnaires
+Descriptive statistics, Cronbach’s alpha for Internal reliability
+Frequencies and percentages of quantitative variables
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 963
+study’s approach from qualitative analyses to the development of the Human-Centric Technology Acceptance Model (HC-TAM). Subsections elaborate on each methodology phase, from initial studies to model development. Section 4 discusses the implications, offering insights into theoretical and practical findings. Lastly, Section 5 addresses the study’s limitations and proposes directions for future research, highlighting the importance of further investigations into recruitment chatbots’ acceptance and effectiveness.
+2 Theoretical background
+This section discusses the shift from traditional recruitment practices to the integration of AI chatbots, highlighting the global market’s growing acceptance of these technologies. It further discusses the Technology Acceptance Model (TAM) as a foundational theory for evaluating the adoption and effectiveness of chatbots in enhancing recruitment processes, underscoring the importance of understanding user perceptions and the technological advancements that have shaped current recruitment strategies.
+2.1 From manual screening to AI chatbots: the evolution of recruitment practices
+In the early 20th century, recruitment was predominantly manual, with job seekers submitting typed resumes and recruiters conducting in-person interviews [17]. This localized process relied heavily on paper resumes and face-toface assessments [18]. Post-World War II, staffing agencies emerged, maintaining paper records to match candidates with jobs, though the process remained localized [19]. The digital revolution transformed recruitment from the 1960s to the 1980s, with the introduction of mainframes, databases, and applicant tracking systems (ATS), allowing for digital resume storage and keyword-based searches. This era marked a significant leap in productivity through the automation of basic screening questions [20, 21]. The 1990s internet era further revolutionized recruitment, with online job boards like Monster enabling a global search for candidates [22]. However, traditional screenings and interviews continued to play a vital role [23]. The advent of social media platforms like LinkedIn in the 2010s changed the game by facilitating connections with candidates and sourcing passive talent, highlighting the shift toward more interactive and widespread recruitment strategies [1]. Recent years have seen the rise of recruitment chatbots, beginning with early pioneers like FurstPerson’s (Now named as harver1), a virtual interviewer in 2006, aimed at automating candidate screening [24]. The development of
+1 https://harver.com
+chatbots, driven by advances in natural language processing (NLP), has seen significant milestones, such as Wade & Wendy2 in 2014, introducing AI chatbots for engaging and screening candidates, and Mya3 in 2016, with advanced conversational capabilities for scheduling interviews and automating tasks [25]. The evolution from basic automation to sophisticated AI-driven chatbots by the mid-2010s, exemplified by the introduction of specialized recruiting chatbots like Paradox’s Olivia,4 marks a significant transformation [26]. The 2020s have seen accelerated adoption, driven by the COVID-19 pandemic, with AI and NLP advancements enhancing chatbot capabilities, integrating seamlessly with ATS, and providing data-driven insights for talent acquisition [27]. Today, recruitment chatbots play a crucial role in engaging candidates, initial screening, and enhancing efficiency, marking a shift from manual processes to an era of sophisticated, AI-driven recruitment strategies [1]. This evolution underscores the ongoing pursuit of more efficient, effective ways to identify and select talent, with platforms like LinkedIn and advanced chatbots reshaping recruitment practices.
+2.2 Recruitment chatbot acceptance in the global market
+The recruitment chatbot encompasses the growing adoption and effectiveness of chatbots in the recruitment process across various global markets [1]. Chatbots, designed to simulate human conversation, have become integral in streamlining the recruitment process, significantly reducing the time taken to interact with and evaluate many applicants. The COVID-19 pandemic significantly accelerated the adoption of recruitment chatbots as universities, commercial enterprises, and governments sought efficient remote recruitment solutions [28, 29]. The demand for these chatbots is driven by their ability to integrate AI, IoT, and ML technologies, enhancing communication between job seekers and employers through conversational user interfaces via SMS and website [30, 31]. However, the lack of standardization in human interaction remains a challenge, hampering the market growth of recruitment chatbots. In the realm of chatbots, various solutions cater to specific business needs, ranging from chatbot frameworks for developing small-scale or bespoke solutions, like Chatbot4U and JobAI, to major international platforms, such as IBM Watson and Google’s Dialogflow. Stand-alone chatbot solutions are often standardized yet flexible, suitable for high-volume applications [29]. For instance, XOR’s5
+2 https://www.wadeandwendy.ai/
+3 https://www.thestepstonegroup.com/en/mya/
+4 https://olivia.paradox.ai/
+5 https://xor.ai/ai-chatbots/
+123
+
+
+964 Personal and Ubiquitous Computing (2024) 28:961–984
+recruiting chatbot significantly speeds up recruitment and screens more resumes efficiently. Mya Systems offers AI chatbots that streamline the recruitment process. As evidenced by a case study, it notably reduced interview times and recruiter costs [28]. Additionally, chatbot solutions are integrated into applicant tracking systems and those developed in-house by companies, providing a spectrum of options for businesses seeking to implement chatbot technology [32]. Given the significant role of chatbots in transforming the global recruitment landscape, our study aims to explore the acceptance of these chatbots among their primary user, job seekers, and recruiters [33]. By gathering insights from these groups, we aim to identify the factors influencing their acceptance or reluctance to use chatbots in recruitment. This approach will help identify and address potential gaps in the design and application of recruitment chatbots, ensuring their effectiveness and alignment with user needs and expectations in the recruitment process.
+2.3 Extending the TAM framework
+The Technology Acceptance Model (TAM), initially developed by Davis in 1985 and later revised in 1989, draws upon the Theory of Reasoned Action by Fishbein et al. in 1975. It suggests that external factors, including media exposure and social references, play a role in shaping individuals’ perceptions of the usefulness (perceived usefulness - PU) and ease of use (perceived ease of use - PEOU) of technology. These perceptions, in turn, influence their intentions to adopt the technology, ultimately affecting their actual usage patterns [15, 34]. PU refers to the extent to which users perceive technology as beneficial and relevant to their daily lives [15]. It is often a robust predictor of individuals’ intentions to embrace new technology [15, 35, 36]. Conversely, PEOU reflects users’ perceptions of the simplicity of using a technological device [15]. PEOU is generally considered to have a weaker impact on technology acceptance than PU, primarily because it is more relevant to the technical aspects of device usage, which has become less critical as users have become more familiar with technology in their daily routines [15, 34, 37]. However, some studies have indicated that PEOU may not significantly predict behavioral intentions in specific contexts, particularly when the technology is frequently used (e.g., mobile recommendation applications; [38]). Furthermore, researchers have extended the TAM by introducing additional variables, such as trust and knowledge, to enhance its predictive capacity [39]. While various research models exist, TAM’s reliability and track record make it a preferred choice for organizations aiming to enhance user experiences and streamline recruitment processes. The model’s adaptability and versatility
+are further evidenced by its frequent extension with additional variables, such as trust and knowledge, providing a comprehensive understanding of the dynamics involved in technology acceptance. However, the selection of TAM in the final phase of recruitment chatbot acceptance research stems from its proven effectiveness, user-centric approach, and adaptability to evolving technological landscapes. As organizations navigate the integration of chatbots into recruitment processes, TAM stands out as a valuable tool for gaining insights into user perceptions, driving informed decision-making, and ultimately facilitating the successful adoption of chatbot technology.
+3 Research methodology
+The study adopts a systematic methodology, illustrated in Fig. 1, where it unfolds sequentially. The initial phase builds upon a 2023 elicitation study that addressed the limited research on human-centered design in recruitment bot development, employing semi-structured interviews with 4 recruiters and 6 job seekers on acceptance of recruitment chatbots in the company [8]. The phase 1 initial interviews from that study precisely refine emerging themes, establishing a foundational exploration to ensure subsequent phases are deeply rooted in the real-life experiences and perspectives of participants. In the following phase, matched interviews are conducted to delve into specific themes and explore potential contradictions, enriching the depth of understanding. Subsequently, questionnaires are employed to quantify the broader acceptability of chatbots, extending insights to a larger and more diverse audience. The findings from these phases lay the foundation for the second part of the third phase, wherein the TAM is harnessed for a theoretical analysis of chatbot acceptance. By integrating identified factors, the aim is to transform TAM into a Human-Centric TAM. This systematic progression ensures an ongoing and iterative approach, with each phase contributing to a holistic comprehension of recruitment chatbot adoption. Specifically, human-centric factors influencing the acceptability of recruitment chatbots within companies will be identified to develop a human-centric technology acceptance (HC-TAM) research model that can serve as the basis for a HumanCentric framework for AI technology.
+3.1 Phase 1: a preliminary qualitative study
+The initial phase of this study employed semi-structured interviews, beginning with a specifically selected group of ten participants, composed of six job seekers and four experienced recruiters. These participants were chosen based on active engagement in job-seeking or recruitment. To enhance
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 965
+the diversity and relevance of the sample, snowball sampling was utilized, asking each initial participant to refer colleagues or peers who met the study criteria and might be interested in participating. This approach allowed us to leverage their professional networks to expand our participant pool dynamically. Job seekers, all currently employed, ranged from recent graduates to seasoned professionals, bringing diverse perspectives on the challenges and expectations of job searching via digital platforms. Recruiters, with 7 to 12 years of experience, were selected for their comprehensive understanding of recruitment processes, including candidate screening, job listing, and hiring. Each referral from the snowball sampling process was contacted via email. In these communications, the study’s objectives were explained, and the value of contributions toward developing a user-centered technological solution was highlighted. This method proved highly successful; every individual referred through snowball sampling agreed to participate, demonstrating strong engagement with the subject matter and a willingness to contribute to technological advancements in recruitment. The interviews began with questions about participants’ backgrounds and experiences and progressively focused on their use of recruitment technologies, especially the features they found beneficial or lacking. Follow-up questions delved into their interest in and
+expectations from the human-centered chatbot being studied (Script details are provided in Appendix A). The interviews were audio-recorded and transcribed to accurately capture the data, maintaining the privacy and confidentiality of all participants. This phase aimed to gather feedback to refine our chatbot design and enhance its performance, significantly influencing the subsequent phases of the study [8]. Thematic analysis revealed recurring patterns, resulting in 3 main themes and 16 subthemes, offering valuable insights into the impact and acceptability of recruitment chatbots from both job seekers and recruiters [8]. Table 2 presents the coded themes and subthemes derived from the data analysis. Discussion: The initial interviews were conducted to gather insights from users that are part of the real-life recruitment process and results emphasize the importance of adopting a balanced, human-centered approach, advocating for chatbots to complement rather than replace human capabilities in recruitment processes [40]. The thematic analysis from this phase of the study clarified a complex interplay of insights, perceived impacts, and acceptability. This analysis offers a comprehensive view of how chatbot technology connects with recruitment methods that prioritize human interaction and needs. Through the identification of three overarching themes and sixteen subthemes, the analysis shed
+Table 2 Data codes, themes, and subthemes emerged from the Phase 1 thematic analysis
+Codes Themes Subthemes
+Experience, challenges, platform usage
+Insights a) Leveraging networks and experience b) Overcoming challenges
+c) Importance of understanding needs
+d) Use of platforms and tools
+e) Close partnerships
+Recruitment chatbots, characteristics, influence, instances
+Perceived impact a) Chatbots as efficiency and timesaving tools
+b) Personalization
+c) Limitations in nuance and complexity
+d) Accuracy and programming of chatbots
+e) Data-driven screening as a benefit of chatbots
+f) Chatbots as user-friendly and costeffective tools
+h) Integration with other systems
+Acceptance, collaboration, future usage
+Acceptability a) Chatbots as a complement to human recruiters, not a replacement
+b) The potential usefulness of chatbots for pre-screening candidates or junior roles
+c) Best chatbot practices
+d) Chatbots’ ability to automate repetitive tasks and improve efficiency
+123
+
+
+966 Personal and Ubiquitous Computing (2024) 28:961–984
+light on the diverse interactions between job seekers and recruiters with chatbot technology. The theme of Insights foregrounds the criticality of leveraging personal networks and experiences, underscoring the required value of human connections and expertise in navigating the recruitment ecosystem. Also, the persistent challenges faced by both job seekers and recruiters, such as the alignment of job specifications with candidate profiles and the overarching need for a comprehensive understanding of recruitment needs were important aspects to look at. Furthermore Perceived Impact brings to the fore the potential efficiencies and enhancements chatbots could introduce to the recruitment process. It outlines the dual-edged nature of chatbot deployment-wherein lies the promise of streamlining administrative tasks and the peril of oversimplifying the nuanced, human-centric aspects of recruitment. This theme encapsulates the potential for chatbots to act as user-friendly, cost-effective tools while also acknowledging their limitations in handling the complexity and subtlety inherent in recruitment interactions. The Acceptability as a potential identified theme, probes the receptiveness toward chatbots among the recruitment stakeholders, reflecting a cautious optimism. This acceptance is dependent upon the chatbots’ ability to function as complements to, rather than replacements for, human recruiters, emphasizing the irreplaceable value of human judgment and interpersonal connections in the recruitment process. Together, these themes and their subthemes articulate a narrative that positions recruitment chatbots not as solutions but as compelling tools that, when cautiously integrated into recruitment practices, can enhance the efficacy and human-centeredness of the recruitment process. This refined understanding underscores the necessity of a balanced, ethical approach to the deployment of chatbots, ensuring that technological advancements in recruitment serve to augment human capabilities and enrich the overall recruitment experience. Overall, this phase set the stage for further research by establishing a detailed exploration emphasizing the need for chatbots to complement human interactions rather than replace them and underscoring the potential for chatbots to enhance the efficiency and effectiveness of recruitment processes when designed and implemented thoughtfully.
+3.2 Phase 2: interviews the matched qualitative thematic content analysis part of the study
+This phase approach is designed to refine and expand the understanding of chatbot acceptability and effectiveness, leveraging the foundational themes from Phase 1 to explore specific dynamics and contradictions that emerged, thereby contributing to the development of a comprehensive, HumanCentered Technology Acceptance Model. Participants for this phase were carefully selected to provide a broader and
+more diverse perspective on the use of recruitment chatbots, aiming for a wide representation of experiences and professional roles within the recruitment and job-seeking domains. Consistent with Phase 1, all participants were approached via email to maintain a formal communication channel. The emails detailed the study’s objectives and highlighted the importance of their contributions to developing a usercentered technological solution. Upon expressing interest, participants received a brief overview document to prepare them for the interview, ensuring they were well-informed about the topics discussed. Demographics: 28 semi-structured in-depth individual interviews, including 21 job seekers and 7 recruiters were recorded and subsequently transcribed by one author in this analysis of respondent demographics. The job seekers, ranging in age from 21 to 45 years and consisting of 12 females and 9 males, were all currently employed, encompassing a range of active job search experiences from recent graduates to seasoned professionals. This diversity provided a variety of perspectives on the challenges and expectations associated with job searching via digital platforms and job portals. Their professional experience varies widely, from 0 to 10 years. The job titles among these applicants are diverse: there are 3 interns, who are usually students or recent graduates in entrylevel, temporary positions for gaining practical experience; 2 Sales assistants, likely involved in retail or customer service, assisting with sales operations and customer interactions; 5 Software engineers, professionals skilled in computer science who develop and maintain software; 4 User experience experts, specialists focused on optimizing the usability and user experience of products or services; 6 Developers, who could refer to software developers or those in similar fields, responsible for creating and implementing software applications; and 1 sales supervisor, who likely oversees sales operations and teams. On the recruiter side, the participants are between 25 and 35 years of age, including 4 females and 3 males. They were selected for their comprehensive understanding of recruitment processes, including candidate screening, job listing, and hiring, due to their 5 to 15 years of experience. The recruiters are categorized into 4 talent acquisition managers, who are responsible for overseeing the recruitment process and strategy of an organization; 3 senior recruiters, experienced professionals in sourcing, interviewing, and selecting candidates; and 1 HR manager, a key role in overseeing various aspects of human resource management and policies within an organization. This array of roles highlights a broad spectrum of professional expertise and levels within the job market (shown in Table 3). Interview protocol: Interviews were constructed based on a script so that all concepts found in the first phase were referred to the first part of the interview included closed socio-demographic questions, and the second part
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 967
+Table 3 Respondents’
+information Respondent Basic information Personal information
+Job seeker Age: 21–45 years old Job titles:
+Gender: 12 females, 9 males - 3 Interns
+Experience: 0–10 years of experience - 2 Sales assistants
+- 5 Software engineers
+- 4 User experience experts
+- 6 Developers
+- 1 Sales supervisor
+Recruiter Age: 25–35 years old Job titles:
+Gender: 4 females, 3 males - 4 Talent acquisition managers
+Experience: 5–15years of experience - 3 Senior recruiter
+-1 HR manager
+open-ended questions dealing with the perceived impact and acceptability [8]. The protocol emphasized the importance of participants’ contributions, maintained privacy during the interview, and estimated a 30-minute duration (details are provided in Appendix B). It consisted of sections covering general discussion, background questions, focused research questions, using the HCAI Chatbot, and an overarching question about key factors for chatbot acceptability. The protocol aimed to efficiently gather valuable feedback and concluded by thanking participants for their contributions and inviting further input. Prompts were similar to what was used during the first phase. Additional questions emerging from the dialogue between interviewer and interviewee were added when necessary [41]. The primary themes identified in this updated phase of the study were wide-ranging. They included aspects such as the experiences and perceptions of job seekers and recruiters regarding recruitment chatbots, their levels of satisfaction with these AI tools, and their views on how chatbots could potentially enhance or impact the recruitment process. This phase thus provided a deeper, more nuanced understanding of the factors influencing the acceptance of recruitment chatbots across different company contexts, contributing significantly to developing a Human-Centered Technology Acceptance Research Model. Coding and analysis: Transcripts were subjected to a thematic analysis incrementally using the “Gioia methodology” [42]. This qualitative analysis methodology shows how the informants’ perspectives (first-order concepts) are considered by the researchers before being organized and transformed into theory-centric themes (second-order themes) and aggregated dimensions [42]. Accordingly, transcripts were subjected to two rounds of coding using Nvivo6 (12), a widely used computer-assisted qualitative analysis tool [43]. The first round consisted of coding words and phrases in
+6 https://www.gmsl.it/nvivo/
+the transcript, while the second round involved grouping the codes (captured as nodes) into themes and dimensions [42, 43]. To increase the accuracy of our findings, dimensions were triangulated against service quality dimensions in the extant literature (i.e., data triangulation) and among the different researchers in this study (i.e., investigator triangulation) [44]. As for reliability, the use of NVivo assisted in establishing a chain of evidence [45], as it was possible to efficiently trace our research findings and codes back to the source data interviews [46]. Through axial coding [47] several salient perceptions of recruitment chatbot acceptance emerged. Table 4 illustrates the frequency of the final codes captured in NVivo. Resulting themes: Table 5 elegantly organizes the qualitative data into themes and provides representative citations that underscore the key findings of the research. The analysis of the table reveals insights into the impact, acceptance, and challenges of using chatbots in recruitment. Recruitment chatbots are primarily valued for their efficiency and ability to automate repetitive tasks, enabling recruiters to focus on more strategic aspects of their roles [1]. They are also appreciated for their potential to personalize interactions and adapt to diverse cultural nuances, which is crucial in accurately
+Table 4 Frequency of nodes coded in NVivo
+Key factors analysis from themes(nodes)
+Job seekers Recruiters Frequencymentions
+Personalization 15 3 18
+Valuable tools 5 1 6
+Adaptability 1 2 3
+Technical challenges 2 5 7
+Ethical concerns 9 6 13
+Transparency 6 3 9
+Trust 7 2 8
+Efficiency 7 8 16
+123
+
+
+968 Personal and Ubiquitous Computing (2024) 28:961–984
+Table 5 Themes and representative citations for research questions
+Research question Theme Representative itation
+RQ 1: Impact of chatbots on recruiter experience
+- Positive impact on efficiency - Personalization
+“Chatbots automate repetitive tasks, focusing on strategic aspects.” - R 2 “Chatbots are valuable in streamlining recruitment, especially for diverse profiles.” R8
+“Personalization is key in tech for refined skills.” - JS6
+“Chatbots adapt to diverse cultural nuances.” - R8
+“Chatbots need to expertly assess complex skills.” - JS 2
+“Recruitment chatbots need to understand and assess unique needs and cultural fit to be successful.” - JS14
+RQ 2: Acceptance of Chatbots in recruitment
+Valuable tools complements To human recruiters
+“Chatbots augment pre-screening processes.” - R2 “Chatbots enhance efficiency in managing diverse talent pools.” R9 “Chatbots complement, not replace recruiters.” - JS7
+“Surely, I will adapt it, if it will work as a technical assistant for me.” - JS 22
+“I want chatbot to do the initial screening, not hire the candidate for me.” - R3
+RQ 3: Challenges in using chatbots
+-Technical challenges - Candidate experience
+“Technical integration and data security are key challenges.” - R4 “Training chatbots in industry-specific terminology.” - R6
+- Ethical concerns adaptability
+“Chatbots have the potential to enhance collaboration and networking opportunities.” - JS4
+“Chatbots perceived as impersonal.” - R5
+“Ethical use of chatbots in decision-making is a concern.” - R7
+“Fair and unbiased decisions by chatbots in hiring are a top ethical concern.” - R 12
+“Security of personal data is a significant concern when using recruitment chatbots.” - JS6
+“Data security is paramount in using chatbots for candidate information.” - R9
+“Ethical chatbots should be transparent and fair in evaluating candidates.” - JS 14
+“Addressing bias in chatbot algorithms is crucial for a level playing field.” - R6 “I worry about chatbots discriminating against candidates based on factors.” - JS 8
+“Ethical concerns in screening candidates.” - R5
+“Integration is a key.” - Recruiter 9 “Updating chatbot capabilities for evolving recruitment needs.” JS17
+Key Theme Acceptability factor “Chatbots are acceptable for their efficiency.” - R5
+“Chatbots accepted for efficiency without replacing humans.” R4
+“I value personalization and efficiency in chatbots.” - J3
+“Transparency is key for chatbot acceptance which can make it trustworthy.” - R 9
+“Efficiency is what I appreciate most in chatbots.” - J 7
+“Efficiency and personalization are crucial for acceptability.” - R5
+assessing candidates’ complex skills and fitting them into unique cultural contexts [27]. Regarding acceptance, chatbots are seen as valuable tools that augment pre-screening processes and manage diverse talent pools efficiently [8]. They are envisioned as complements to human recruiters rather than replacements, ideally handling initial screening without making final hiring decisions. However, using chatbots in recruitment is not without challenges [8]. Technical issues such as integration, data security, and training in industry-specific terminology are significant hurdles. The candidate experience is a concern, with chatbots sometimes perceived as impersonal. Ethical
+considerations are paramount, including the fair and unbiased decision-making process, security of personal data, transparency in evaluation, and addressing potential biases in algorithms. There is a consensus on the need for chatbots to evolve and adapt to changing recruitment needs to maintain relevance and effectiveness [1]. Table 5, a result of the total number of nodes coded in NVivo, effectively condenses the frequency of key themes from interviews with job seekers and recruiters, offering a streamlined view into the distribution of these themes and their significance. Frequency coding was utilized to achieve this, allowing for a systematic comparison and analysis of
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 969
+how frequently different themes were mentioned across various groups. Notably, personalization emerges as a dominant theme, particularly among job seekers, suggesting a high demand for customizable technology in recruitment. This is followed by themes like efficiency and trust, which are valued for their ability to streamline processes and build confidence in the technology’s reliability. The data also highlights the growing importance of ethical concerns and transparency, showing the need for clear and ethical technological practices. While technical challenges and adaptability are less frequently mentioned, they still signify crucial areas for technological improvement. The inclusion of valuable tools further underscores the need for practical and useful functionalities in recruitment technologies. This detailed analysis, pivoting on these key factors, is instrumental in guiding the development of a nuanced technology acceptance research model, that aligns closely with the real needs and preferences of both job seekers and recruiters. This approach not only ensures theoretical robustness but also guarantees practical relevance and wide acceptability among all stakeholders involved in the recruitment process. By uncovering key user-centric themes like “personalization,” “efficiency,” “trust,” “technical challenges,” and “ethical concerns,” the analysis ensures that the next phase of the study is grounded in the real needs and preferences of its users. Balancing perspectives from different stakeholders like recruiters and job seekers highlights critical areas for technological improvement and ethical practices. This approach not only enhances the theoretical robustness of the research model but also ensures its practical relevance and acceptability in real-world recruitment contexts, making it genuinely human-centered. Discussion The second phase of the study represents a pivotal step forward, as it not only builds upon the insights gained from the initial phase but also introduces a wealth of new data and perspectives. By expanding the participant base to include a broader spectrum of job seekers and recruiters, this phase captures a more diverse range of experiences and expectations regarding recruitment chatbots. Incorporating the updated structured script from the identified themes of Phase 1 and then NVivo analysis enhances the research’s empirical foundation, providing statistical evidence to support the prevalence and significance of various themes and factors. One of the key outcomes of this phase is the identification of factors that strongly influence chatbot acceptance in the context of recruitment. These factors, including personalization, efficiency, trust, technical challenges, ethical concerns, and transparency, emerge as critical determinants of chatbot success. With the rich data material collected, the research is poised to create a more human-centric technology acceptance research model. By incorporating these factors into the human-centered acceptance research model, it becomes theoretically robust, highly practical and relevant
+to the real needs and preferences of job seekers and recruiters. This data-driven approach ensures that the model is grounded in the lived experiences of stakeholders in the recruitment process. Overall, the combination of both phase’s methodologies underscores the study’s detailed approach. Phase 1, characterized by qualitative thematic analysis, delves into the narratives and experiences of participants, uncovering emergent themes without predefined categories. It provides in-depth insights into the human-centered aspects of chatbot acceptability. In contrast, Phase 2 adopts an extensive approach, utilizing structured interviews and statistical analysis to quantify relationships and validate themes identified in Phase 1 with the tool. This dual-method approach ensures a holistic understanding of the factors influencing chatbot acceptance, setting the stage for a research model that bridges theory and practice.
+3.3 Phase 3: HC-TAM theoretical framework and model development
+This phase progresses the study by integrating the qualitative insights from previous phases into a refined theoretical framework, focusing on enhancing the Technology Acceptance Model (TAM) with human-centric factors identified in the recruitment chatbot context. This phase aims to establish a Human-Centric Technology Acceptance Model (HC-TAM), offering a comprehensive model for understanding chatbot acceptance and effectiveness in recruitment processes.
+3.3.1 Theoretical framework
+In the theoretical framework of our study, we have chosen to employ the Technology Acceptance Model (TAM) as the foundational model rather than alternative models such as TAM2, TAM3, or UTAUT (Unified Theory of Acceptance and Use of Technology). This decision is rooted in TAM’s simplicity, adaptability, and extensive validation across various contexts, aligning seamlessly with our focus on the unique interactive and innovative aspects of human-centric chatbots in the recruitment process [15, 48]. While more recent models like the UTAUT offer a broader range of factors, TAM’s far-sighted approach permits a more concentrated analysis of the core determinants of technology usage [49]. This choice is particularly relevant to our study, where the objective is to understand the peculiarities of technology acceptance within the context of human-centric chatbots used for recruitment.
+3.3.2 Integrating human-centric factors into TAM
+To cater to the distinctive requirement of our research context, we extend the traditional TAM by incorporating five
+123
+
+
+970 Personal and Ubiquitous Computing (2024) 28:961–984
+pivotal human-centric factors, as emerged from the analysis conducted during Phases 1 and 2: transparency, trust, efficiency, ethical concerns, and personalization. These factors are instrumental in assessing the acceptability of chatbots in the area of recruitment, reflecting the unique prerequisites and interactions fundamental to this domain. In our adapted TAM framework for this study, we focus on two central dimensions: perceived ease of use (PEOU) and perceived usefulness (PU). Alongside these fundamental aspects, we incorporate the four identified human-centric factors. The exclusion of Attitude and Intention to Use in this study research model (shown in Fig. 2) is intentional and serves to streamline the analysis. In the context of recruitment chatbots, our focus is on immediate and tangible factors influencing user adoption. Concentrating on perceived ease of use, perceived usefulness, and key human-centric factors ensures a more efficient and targeted exploration, aligning with the unique dynamics of user interaction in professional recruitment. This deliberate exclusion allows for a nuanced understanding of the specific determinants impacting users’ acceptance of chatbots.
+3.3.3 Key constructs descriptions
+In the following, the key constructs are described.
+Perceived ease of use (PEOU) refers to the degree to which a person believes that using a particular system would be free of effort, representing the finite resources people can allocate to the activities they are dealing with [15].
+Perceived usefulness (PU) is defined as the degree to which a person believes that using a particular system would enhance their job performance [15]. Transparency (TR) refers to the degree to which the operations and decision-making processes are made clear and understandable to users. It involves providing users with
+insights into how the system functions, how it arrives at decisions, and the rationale behind its actions. Transparency enhances credibility by building trust in systems operations and fostering user confidence [50]. Trust (T) is a critical factor that defines the level of confidence and reliance that users place on the system. Users need to trust that the system can effectively assist them in required activities. Building trust is essential for users to feel comfortable and secure while interacting with the system [51]. Efficienc(E) is defined as its ability to swiftly and effectively perform tasks, providing a seamless and satisfying experience. It involves optimizing resource usage, minimizing delays, and ensuring an intuitive, user-friendly interface [52]. Personalization(PR) involves tailoring the user’s experience to meet the individual needs, preferences, and characteristics of each user. It goes beyond one-size-fits-all interactions and aims to provide users with customized recommendations and assistance. Personalization enhances user engagement and satisfaction by making the interaction with the system more relevant and user-centric [53]. Ethical concerns(EC) pertain to the potential ethical dilemmas and considerations that arise in the deployment within the system. These encompass issues such as fairness, non-discrimination, data privacy, and the ethical use of automated decision-making algorithms. Ethical concerns underscore the importance of maintaining ethical standards and ensuring that chatbots do not inadvertently perpetuate biases or harm users in any way [54].
+3.4 The Human-Centric Technology Acceptance Model (HC-TAM)
+By enriching the Technology Acceptance Model (TAM) with human-centric constructs, the study introduces the Human
+Fig. 2 Human-Centered TAM (HC-TAM) Model
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 971
+Centric Technology Acceptance Model (HC-TAM), which extends TAM [15]. The HC-TAM aims to provide a comprehensive understanding of factors significantly contributing to the acceptance and usability of chatbots in recruitment, capturing the detailed dynamics of human-chatbot interactions within the professional recruitment setting [55]. These factors such as transparency, trust, efficiency, ethical concerns, and personalization, emerged from qualitative analyses in Phases 1 and 2, reflecting the unique requirements and interactions fundamental to the recruitment domain. The inclusion of these factors offers deeper insights into the multifaceted nature of technology acceptance, particularly in the context of intelligent systems designed for human-centric applications like recruitment. This approach not only broadens the scope of the original TAM but also provides a tailored and robust framework for exploring the intricate landscape of technology adoption in the area of recruitment chatbots, ensuring the technology aligns with user needs and ethical standards.
+3.4.1 Hypotheses
+Figure 2 elaborates on the extended model on which we based our hypothesis. Building upon the defined factors of Transparency, Trust, Efficiency, and Personalization in the context of recruitment chatbots, we formulate a series of hypotheses that aim to uncover their significant roles in technology acceptance and are guided by specific research goals. They systematically probe connections between these human-centric factors and technology adoption, arising from insights in qualitative research phases and aligning with models like the Technology Acceptance Model. Addressing links of the factors, these hypotheses aim for a nuanced understanding of user perceptions in recruitment chatbots. In essence, this framework tests the impact of human-centric elements on technology acceptance in recruitment scenarios.
+Figure 3 visualizes the graphical representation of hypothesis development.
+• H1. Perceived ease of use is positively related to perceived usefulness. • H2. Perceived ease of use is positively related to personalization. • H3. Perceived Usefulness is positively related to personalization. • H4. Perceived Usefulness is positively related to ethical concerns. • H5. Transparency is positively related to perceived usefulness. • H6. Transparency is positively related to Personalization. • H7. Transparency is positively related to efficiency. • H8. Trust is positively related to personalization. • H9. Efficiency is positively related to personalization. • H10. Personalization in chatbots is positively related to ethical concerns.
+3.4.2 Measurement development, procedure, and data collection
+To rigorously evaluate the research hypotheses, a survey was designed to assess the constructs delineated within the research model, specifically focusing on seven key factors. This survey was strategically partitioned into two primary sections, each with a distinct purpose. The initial segment was tailored to gather demographic data and elicit insights regarding participants’ gender, age, familiarity with recruitment chatbots, and their past experiences in utilizing them. Subsequently, the second part of the survey focused on a series of statements intricately linked to the seven factors of interest. A thorough review of the current body of research literature was conducted to ensure the comprehensiveness and precision of the measurement items. The survey instrument employed
+Fig. 3 Hypotheses development of HC-TAM
+123
+
+
+972 Personal and Ubiquitous Computing (2024) 28:961–984
+a well-structured seven-point Likert scale, enabling participants to express their level of agreement or disagreement with each statement, spanning from “strongly disagree” (1) to “strongly agree” (7). A detailed inventory of these measurement items can be located in Appendix C. Data collection for this research endeavor was executed by distributing a Google Form link via email to a diverse pool of participants. Before their active participation, all respondents provided explicit consent, signifying their voluntary engagement in the study. Additionally, participants were probed about their familiarity with recruitment chatbots, their attitudes toward using them, and their expectations from such chatbots, thereby allowing them to provide responses aligned with their specific knowledge and preferences. Notably, out of the initial cohort of 172 participants who initiated the survey, a stringent criterion was applied, leading to the exclusion of 26 individuals. These exclusions were based on the criterion of having no familiarity whatsoever with recruitment chatbots. Consequently, the final sample consisted of 146 participants, characterized by an average age (M) of 24.06, with a standard deviation (SD) of 5.2. Within this sample, 89 participants identified as male (61%), while 57 identified as female (39%). The survey also provided valuable insights into respondents’ expectations, behaviors, and their prior interactions with chatbots, particularly within the domain of recruitment. Notably, a significant majority, constituting 63% of the respondents indicated engaging with recruitment chatbots less frequently than they do with traditional job portals and LinkedIn. Furthermore, 45.2% of the participants had never interacted with a chatbot. Among these individuals, 47.6% had not harnessed chatbots to hire candidates, and 79.3% had not utilized them for job searching via chatbot platforms. These statistics underscore the limited prevalence and adoption of chatbots for recruitment within the surveyed population, shedding light on potential areas for further exploration and development within this domain.
+3.5 Data analysis and results
+This section crucially bridges theoretical insights with empirical evidence, highlighting key findings that contribute to our understanding of technology acceptance in the context of recruitment chatbots. It details the process of validating the research model through reliability and validity assessments, followed by an analysis of the structural model to examine hypothesis relationships.
+3.5.1 Partial least square (PLS) path modeling
+In the present research, we employed Structural Equation Modeling (SEM), utilizing the Partial Least Square (PLS) technique, to examine the hypotheses. PLS-SEM has gained
+widespread acceptance across various academic domains, including HR, owing to its propensity for yielding fewer conflicting findings than traditional regression analysis, especially when identifying mediation effects [56]. Furthermore, when the research objective revolves around exploring theoretical extensions to well-established theories, PLS-SEM offers enhanced reliability in offering causal explanations. This approach effectively bridges the perceived gap between explanation and prediction, forming the foundation for developing practical managerial implications [57]. Our analysis of PLS involves a two-stage process: firstly, evaluating the reliability and validity of the measurement model, and secondly, interpreting the path coefficients within the structural model. Subsequent sections will delve into the outcomes of these two pivotal stages.
+3.5.2 Measurement model (assessment of construct validity)
+In our analysis, we thoroughly evaluated the measurement model with a keen focus on its psychometric properties, ensuring both validity and reliability. The validity assessment encompassed rigorous checks for convergent and discriminant validity. The numbered items (e.g., perceived ease of use (PEOU) 1, 2,... 6 or ethical concerns (EC) 1,2,..) correspond to specific questions posed to users in the questionnaire(details are in Appendix C). Convergent validity was initially assessed by scrutinizing the strength and significance of loadings. This scrutiny led us to identify four problematic items (specifically PEOU 3, PEOU 5, PU 2, and E 2) due to their low factor loadings. As a cautious step, these items were omitted from further analysis [58]. Consequently, the final outer model exhibited that all the remaining 23 indicators displayed loadings surpassing the satisfactory threshold greater than 0.7 [59] (see Appendix C for details). To further ensure that our measurements effectively covered the research inquiries, we conducted extensive reliability and validity tests. The assessment of item consistency for measuring a particular concept was conducted using Cronbach’s Alpha, following the guidelines recommended by [60]. Attaining a value of 0.7 or higher signified that the items within the scale effectively measured the same variable of interest. Our variables met the requirements for internal consistency, item loading, Average Variance Extracted (AVE), and Composite Reliability (as indicated in Table 6). The evaluation of discriminant validity was based on the Fornell-Larcker criterion, involving an examination of Latent Variable Correlations and Cross loadings (Discriminant Validity) [61]. In Table 7, the diagonal values represent the square roots of AVE, while the off-diagonal values represent correlations. Importantly, the diagonal values were consistently higher than the off- diagonal values, affirming
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 973
+Table 6 Construct validity assessment of the HC-TAM constructs
+Research Construct Item Item loading AVE CR α
+Perceived ease of use PEOU1 0.839 0.712 0.937 0.919
+PEOU2 0.828
+PEOU3 0.887
+PEOU4 0.791
+PEOU5 0.804
+PEOU6 0.908
+Perceived Usefulness PU1 0.907 0.797 0.959 0.949
+PU2 0.828
+PU3 0.885
+PU4 0.926
+PU5 0.878
+PU6 0.927
+Efficiency E1 0.955 0.907 0.967 0.949
+E2 0.955
+E3 0.947
+Trust T1 0.896 0.735 0.893 0.819
+T2 0.867
+T3 0.807
+Transparency TR1 0.924 0.855 0.947 0.916
+TR2 0.917
+TR3 0.933
+Personalization PR1 0.914 0.853 0.959 0.942
+PR2 0.941
+PR3 0.906
+PR4 0.932
+Ethical Concerns EC1 0.939 0.881 0.937 0.865
+EC2 0.938
+the presence of discriminant validity as per the FornellLarcker criterion. Furthermore, all item loadings (highlighted in bold in Table 8) exceeded the recommended threshold of 0.5 and were higher than all cross-loadings, providing additional confirmation of discriminant validity.
+Turning to the R2 values, illuminating the extent of explained variance, we gained insights into the model fit and predictive capabilities of the endogenous variables [57, 62]. Adhering to [57], individual R2 values were required to surpass the minimum acceptable level of 0.10. Figure 4 shows
+Table 7 Discriminant validity
+— latent variable correlations PEOU PU Efficiency Trust Transparency Personalization Ethical
+(E) (T) (TR) (PR) Concerns (EC)
+PEOU 0.844
+PU 0.663 0.893
+E 0.476 0.674 0.952
+T 0.476 0.432 0.504 0.857
+TR 0.507 0.638 0.742 0.572 0.925
+PR 0.608 0.757 0.809 0.615 0.776 0.924
+EC 0.495 .666 .727 0.571 0.837 0.822 0.9392
+123
+
+
+974 Personal and Ubiquitous Computing (2024) 28:961–984
+Table 8 Cross loadings (discriminant validity)
+PEOU PU E T TR PR EC
+PEOU1 0.839 0.507 0.338 0.387 0.385 0.461 0.359
+PEOU2 0.828 0.472 0.358 0.374 0.358 0.450 0.358
+PEOU3 0.887 0.596 0.355 0.389 0.396 0.483 0.374
+PEOU4 0.791 0.631 0.540 0.466 0.538 0.568 0.538
+PEOU5 0.804 0.530 0.388 0.374 0.443 0.523 0.440
+PEOU6 0.908 0.590 0.399 0.404 0.422 0.566 0.408
+PU1 0.669 0.907 0.558 0.340 0.542 0.661 0.568
+PU2 0.457 0.828 0.580 0.404 0.542 0.596 0.549
+PU3 0.605 0.885 0.580 0.381 0.521 0.657 0.545
+PU4 0.550 0.926 0.652 0.408 0.634 0.724 0.657
+PU5 0.633 0.878 0.561 0.337 0.516 0.615 0.553
+PU6 0.630 0.927 0.670 0.440 0.648 0.777 0.679
+E1 0.466 0.641 0.955 0.493 0.700 0.789 0.691
+E2 0.438 0.626 0.955 0.451 0.649 0.749 0.658
+E3 0.455 0.659 0.947 0.493 0.770 0.771 0.727
+T1 0.471 0.401 0.470 0.896 0.523 0.573 0.548
+T2 0.426 0.312 0.308 0.867 0.407 0.459 0.396
+T3 0.325 0.387 0.496 0.807 0.526 0.537 0.506
+TR1 0.504 0.646 0.729 0.557 0.924 0.749 0.759
+TR2 0.461 0.516 0.653 0.506 0.917 0.662 0.738
+TR3 0.443 0.602 0.675 0.522 0.933 0.737 0.822
+PR1 0.591 0.709 0.684 0.607 0.735 0.914 0.777
+PR2 0.560 0.713 0.775 0.595 0.752 0.941 0.810
+PR3 0.568 0.692 0.720 0.537 0.658 0.906 0.708
+PR4 0.527 0.681 0.809 0.530 0.718 0.932 0.737
+EC1 0.519 0.688 0.703 0.610 0.754 0.815 0.939
+EC2 0.409 0.562 0.661 0.460 0.818 0.727 0.938
+that the R2 values for all endogenous variables, including “perceived usefulness,” “personalization,” and “ethical concerns,” exceeded this threshold (56.2%, 79.8%, and 77.6%, respectively).
+3.5.3 Structural model
+After establishing the measurement model, we assessed the structural relationships. Before evaluating path coefficients, we checked for multicollinearity, and no issues were detected. The examination of Variance Inflation Factors (VIF) revealed values lower than the threshold of 5.0 [63]. As depicted in Table 9, the bootstrap procedure indicated a positive relationship between perceived ease of use (PEOU) and Perceived Usefulness (PU), albeit not a significant relationship with Personalization. In this case, we observed a slight tendency toward significance. PU was positively related to personalization but not to ethical concerns. Transparency showed positive relationships
+with PU, Personalization, and ethical concerns. Trust and personalization exhibited significant positive relationships, as did Efficiency and personalization. As expected, personalization was positively related to ethical concerns. Table 9 presents these hypotheses and displays the path coefficients among latent variables along with bootstrap critical ratios. To determine the stability of the estimates, we followed Hair et al.’s recommendation [62] and calculated bootstrap TStatistics at a 95% confidence interval using 5000 samples, with acceptable values above 1.96.
+4 Discussion and implications
+In the context of the increasing utilization of AI tools in the area of recruitment, this study offers a significant contribution to research studying human-chatbot interactions in the recruitment domain. This encompasses the engagement of both job seekers, who employ chatbots to facilitate their job search, and recruiters, who leverage these automated systems to identify suitable candidates. This research study builds upon the foundation laid by prior research that has harnessed the Technology Acceptance Model (TAM) to comprehend the acceptance of chatbots in recruitment scenarios, as evidenced in previous studies [1, 25, 27, 58]. This study focus involves human-centric factors and underscores the significance of practical and enjoyable attributes while introducing the concept of “transparency” as a pivotal determinant influencing users’ perceptions of chatbot utility and ease of use. By the Theory of Reasoned Action [64], this study’s findings unveil a notable linkage between ethical concerns related to chatbot usage in recruitment and the degree of personalization available to users. Furthermore, transparency put forth a robust and positive influence on users’ assessments of chatbot utility, their ability to personalize their interactions, and the ethical concerns they associate with chatbot usage. Curiously, transparency’s impact on ethical concerns transcends that of personalization, shedding light on the paramount importance of transparency in shaping users’ perceptions. From a practical standpoint, companies operating within the recruitment landscape must gain insights into how job seekers and human resource professionals perceive chatbots concerning their compatibility with individual preferences and requirements. Achieving this understanding entails collecting user data, allowing for tailoring chatbot functionalities to cater to specific user preferences. This personalization may involve adapting the chatbot’s communication style to align with user preferences or proactively suggesting job opportunities that align with individual interests. Consistent with previous research on software and technology adoption, our analysis validates the notion that users’ perception of recruitment chatbot usefulness significantly
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 975
+Fig. 4 PLS algorithm results with R2
+influences the extent to which they personalize their interactions. However, this study diverges from previous research by revealing that users do not necessarily connect the usefulness of chatbots directly with ethical considerations [58, 59]. Interestingly, this research observes that users’ beliefs regarding the extent to which chatbots can assist them in achieving their career goals do not significantly influence their behavior. This unexpected finding may be attributed to participants’ limited identification with the simulated job applications, leading to a reduced need to place trust in chatbots to advance their careers.
+On a contrasting note, this study underscores the pivotal role of perceived ease of use in shaping users’ perceptions of chatbot utility. When users perceive a chatbot as userfriendly and straightforward, they are more inclined to deem it valuable. Consequently, designing chatbots focusing on ease of use, aimed at reducing user stress and confusion, emerges as a critical factor in enhancing the overall user experience and fostering positive perceptions. This research also reveals that the relationship between ease of use and personalization is not particularly strong. This suggests that once users perceive a chatbot as sufficiently
+123
+
+
+976 Personal and Ubiquitous Computing (2024) 28:961–984
+Table 9 Structural relationships
+and hypotheses testing Hypothesis Path Path Standard T -statistics P-value Decision
+Coefficient Error
+H1 PEOU → PU 0.457 0.060 7.583 <0.001 Supported
+H2 PEOU → PR 0.084 0.057 1.473 0.095 NS
+H3 PU → PR 0.253 0.062 4.084 <0.001 Supported
+H4 PU → EC 0.044 0.045 0.982 0.163 NS
+H5 TR → PU 0.406 0.055 7.350 <0.001 Supported
+H6 TR → PR 0.212 0.062 3.410 <0.001 Supported
+H7 TR → EC 0.495 0.065 7.655 <0.001 Supported
+H8 T → PR 0.164 0.049 3.369 <0.001 Supported
+H9 E → PR 0.358 0.064 5.618 <0.001 Supported
+H10 PR → EC 0.404 0.070 5.798 <0.001 Supported
+easy to use, further improvements in ease of use may have a limited impact on the extent to which users personalize their interactions. In conclusion, this research provides valuable insights into the multifaceted dynamics of human-chatbot interactions in the context of recruitment. It emphasizes the importance of transparency, ease of use, and efficiency in shaping users’ perceptions of chatbot usefulness and ethical concerns. These findings can guide the design and implementation of chatbots in recruitment scenarios, to enhance the user experience and foster greater acceptance.
+4.1 Theoretical implications
+This study examines human-chatbot interactions within the specific context of online recruitment, utilizing the Technology Acceptance Model (TAM) as its foundational framework [15]. To address the limitations of the original model, we have extended it to human-centric TAM (HC-TAM) by incorporating additional constructs, thus enhancing its capacity to capture crucial determinants of chatbot adoption for online recruitment. Our research outcomes contribute to a thorough understanding of the interrelationships among the seven key constructs, shedding light on those variables that exert a significant influence on users’ inclination to embrace chatbot usage that will make it more human-centric. Notably, transparency, efficiency, and usefulness emerge as pivotal factors impacting users’ attitudes toward chatbot utilization, while personalization and ethical concerns are identified as influential determinants of user expectations during chatbot interactions. It is imperative to recognize that this study’s findings not only enrich the existing technology acceptance literature but also underscore the potential synergies between the TAM framework and supplementary factors such as trust, transparency, and efficiency in predicting users’ propensity to personalize their chatbot interactions and their concerns
+regarding ethical implications, particularly in the context of online recruitment [65, 66]. In a broader perspective, our research findings extend their relevance to the domain of company-driven utilization of AI tools, emphasizing the paramount importance of human-centric considerations. The findings underscore that chatbots displaying attributes that align with the expectations of both job candidates and hiring professionals, while effectively addressing aspects such as stress reduction, user engagement, and reliability, are more likely to yield positive results when deployed in the domain of online recruitment. This underscores the need for AI tools to prioritize humancentered factors to enhance their effectiveness in real-world applications.
+4.2 Practical implications
+Overall, this research offers several practical insights for developers and designers tasked with harnessing the potential of this emerging chatbot trend in recruitment [1]. Practitioners should carefully consider enhancing user engagement through conversational interfaces that prioritize simplicity and avoid overwhelming users, especially newcomers to the technology. Additionally, instilling trust and confidence in the recruitment process when employing these conversational systems should be a primary goal for designers and developers. To achieve this objective, chatbots could introduce themselves with statements that reassure users about the security of their personal information and sensitive data disclosure. Furthermore, they could emphasize the availability of real human assistance in case of any issues or failures during the interaction. While providing a useful service is essential, it is equally important for chatbots to align with users’ preferences and their accustomed methods of online job searching or hiring. This aligns with our thematic analysis,
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 977
+which revealed that a significant majority of respondents are motivated by the desire to autonomously personalize information or apply through traditional channels, such as a company’s website. This consideration gains particular relevance when targeting more promising user groups. Finally, it is worth noting that, in 62 out of 146 questionnaire responses, manually coded assessments resulted in different evaluations compared to the self-reported explicit scores. Although no evident directional pattern emerged from these shifts (i.e., participants equally shifted from strongly disagree to strongly agree or remained neutral), this phenomenon provides potential insights for practitioners. Given the increasing adoption of post-chat surveys by companies, which not only require users to rate their previous interactions (e.g., through star-rating systems) but also provide textual explanations, further studies are warranted to explore whether soliciting participant motivations for their responses can mitigate impulsive, emotionally driven feedback and facilitate more accurate and reasoned feedback collection on acceptance of chatbot technologies.
+4.3 Recommendations for enhancing recruitment chatbot acceptance and effectiveness
+Based on the extensive research and findings from this study on the Human-Centered Technology Acceptance Model (HC-TAM) in the context of recruitment chatbots, several key recommendations can be made to enhance the acceptance and effectiveness of such technologies. These recommendations are grounded in the study’s empirical findings and are aimed at developers, designers, and recruiters who are looking to implement and optimize recruitment chatbots in their practices.
+• Emphasize transparency and ethical concerns: Chatbots should be designed to make their operations and decisionmaking processes clear and understandable to users. Transparency in how the chatbot functions, how it arrives at decisions, and the rationale behind its actions builds trust and credibility. Additionally, addressing ethical concerns like fairness, non-discrimination, data privacy, and the ethical use of automated decision-making algorithms is crucial.
+• Focus on personalization: Chatbots should offer personalized experiences to meet the individual needs, preferences, and characteristics of each user. This can include tailored job recommendations or interview questions based on a candidate’s profile. Personalization enhances user engagement and satisfaction by making the interaction more relevant and user-centric.
+• Ensure efficiency in task execution: Chatbots need to streamline and optimize tasks related to job seeking and candidate hiring. This includes the effectiveness and
+speed with which the chatbot handles these tasks, contributing to a positive user experience and satisfaction. • Build and maintain trust: Trust is a critical component in accepting chatbots in recruitment. Users need to trust that the chatbot can effectively assist them in job-seeking or candidate-recruitment activities. Building trust involves ensuring the reliability and accuracy of the information provided by the chatbot.
+• User-centric design approach: The design and development of chatbots should be grounded in a human-centric approach, considering the preferences, experiences, and expectations of both job seekers and recruiters. This approach ensures that the technology aligns closely with the real needs and preferences of its users, enhancing its practical relevance and acceptability.
+• Regularly update and adapt chatbots: Chatbots should be regularly updated and adapted to meet evolving recruitment needs and trends. This includes updating their capabilities and features to align with the latest recruitment practices and user expectations.
+• Incorporate user feedback in design: Actively seek and incorporate user feedback in the chatbot design and development process. This involves engaging with both job seekers and recruiters to understand their experiences, challenges, and expectations from chatbots in recruitment.
+• Provide support and training: Offer adequate support and training to users to familiarize them with the chatbot’s functionalities and capabilities. This can help in reducing any resistance or apprehension toward using the technology, particularly for less digitally proficient users.
+By implementing these recommendations, organizations and technology developers can enhance the acceptance, usability, and effectiveness of recruitment chatbots, thereby contributing positively to the recruitment process and overall user experience.
+5 Limits and future research
+Although this study provides valuable insights into the determinants of ethical concerns regarding the use of chatbots for job searching and hiring, it is essential to acknowledge certain limitations. Firstly, the study’s sample primarily consists of younger job seekers, and the responses of older or less digitally proficient recruiters may yield different results. Additionally, although the study was conducted in a realistic and ecological setting, reflective of users’ typical professional choices, it should be noted that the research focuses on accepting chatbot usage rather than actual usage interactions. Future research endeavors may consider collecting usage and interaction data from real companies to ascertain
+123
+
+
+978 Personal and Ubiquitous Computing (2024) 28:961–984
+whether acceptance indeed translates into concrete behavioral patterns. Another potential limitation pertains to the simulated recruitment scenario utilized in the study. While this method has demonstrated effectiveness in previous online recruitment studies, future investigations could provide incentives that allow participants to complete chatbot interactions [58] genuinely. Furthermore, upcoming studies may contemplate the inclusion of additional constructs in the model, such as perceived risk, resistance toward the technology, or social presence. As gathered from our qualitative analysis, future research is poised to untie the complex dynamics between participants’ perceptions of the limited information accessible via chatbots (e.g., job reviews and characteristics) and their distrust concerning the authenticity of chatbot-mediated content. These seemingly contradictory issues raised by participants offer intriguing research opportunities. Understanding the pivotal factors for the acceptance and the augmentation of chatbots with additional job-related information, considering the perceived reliability and authenticity of such information, is an area ripe for exploration. In conclusion, drawing from the key themes identified. In our brief qualitative analysis, there is a pressing need for further investigation into how to: (a) position chatbots as complementary tools throughout the entirety of the recruitment and job searching process; (b) ensure that chatbots leverage the strengths of human-human interaction to enhance the application and hiring flow within already automated recruitment, without necessarily replacing human interactions; (c) define specific contexts and roles where the limited information presented within typical conversational interfaces does not hinder users’ intentions to apply or hire.
+Appendix A
+A.1 Phase 1: an interview protocol
+An interview protocol We are conducting a study on the effectiveness of a human-centered chatbot that aims to help job seekers find employment and assist recruiters in finding potential candidates. Our goal is to create a conversational chatbot design that is according to human-centered principles. We are interested in your experience and insights about job searching and recruitment, and we believe that your feedback will be valuable in improving the chatbot’s performance. During this interview, we will be asking you questions about your past experiences with job searching and recruitment, as well as your thoughts on how a chatbot could help you in these areas. Your participation in this study is greatly appreciated and will help us improve the job searching and recruitment experience for everyone involved.
+With your permission, I will audiotape and take notes during the interview. The recording is to accurately record the information you provide and will be used for transcription purposes only. If the results of this study are published or presented, individual names and other personally identifiable information will not be used The estimated time of this interview is 30 min. Is there something you would like to ask about before we begin?
+Questions (general discussion) Background
+1. Can you tell me about your experience as a recruiter, and your current status (how’s work going on)? 2. Did you face challenges during the recruitment process? 3. What are the most important features of the recruitment platform you are using?
+(a) Are there some features that the platform you are currently using that you need but are not provided?
+A.1.1 Focused research questions
+Research question 1: how do recruitment chatbots impact the job seeker and recruiter experience?
+1. Have you ever used a chatbot or virtual assistant for recruitment?
+(a) Yes: can you describe your experience? Yes: have you ever encountered any issues with chatbots or virtual assistants in other areas of your life? If so, what were they? (b) No: do you think that a chatbot or virtual assistant designed specifically for recruitment would be useful?
+2. What characteristics would you look for in a chatbot or virtual assistant designed for recruitment (job searching)? 3. How do you think recruitment chatbots impact the recruiter experience, including workload, efficiency, and communication with candidates? 4. Can you share any examples of how recruitment chatbots have improved or hindered the recruiter experience in your organization or others with whom you are familiar?
+Research question 2: do recruiters (job seekers) accept the support of conversational recruitment chatbots to improve their experience?
+1. Do you think that conversational recruitment chatbots could eventually replace human recruiters, or do you see them more as a complement to existing recruitment processes?
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 979
+2. What do you think the future holds for conversational recruitment chatbots, and how do you see them evolving in the coming years? Using HCAI Chatbot:
+(a) Do you think you would like to use Our Chatbot like we want to design? (b) What do you find important for using this Chatbot? (c) What experience would you expect? (d) Is there something you would like to add?
+Thank you for participating in this interview and sharing your insights. Your responses will help me better understand how recruitment chatbots impact the job seeker and recruiter experience and how human-centered design principles can be incorporated into their development to improve their effectiveness and user satisfaction. If you have any additional thoughts or suggestions, please feel free to share them with me.
+Appendix B: Phase 2: an interview protocol
+Introduction: Thank you for participating in our study. Your insights are incredibly valuable in shaping the development of a human-centered chatbot for job searching and recruitment. Based on previous interviews, we’ve refined our questions to better understand your experiences and preferences. Your candid responses will greatly contribute to improving the overall recruitment process. Consent and recording: As before, we will be recording the interview for transcription purposes only, and your privacy will be respected. If you have any concerns, please feel free to let me know. Estimated time: This interview is expected to take around 30 min, and your time is sincerely appreciated. General discussion Let’s start with a brief discussion about your general thoughts on the current state of job searching and recruitment. Any initial reflections or observations Background questions:
+1. Can you tell me about your experience as a recruiter/ Job seeker and how things are currently going for you?
+Based on your experience, have you noticed any recent trends or changes in the recruitment landscape? (Networking experiences)
+1. Did you face challenges during the recruitment process?
+(a) Could you share specific instances or types of challenges you encountered?
+2. Which platform do you usually use for job searching or hiring candidates? 3. Which are the most important features of that recruitment platform you are using?
+(a) Are there any features that you find crucial but are currently missing?
+B.1 Focused and updated research questions
+1. RQ1:How do recruitment chatbots impact the job seeker and recruiter experience? 2. Have you ever used a chatbot or virtual assistant for recruitment? (a) If yes, could you describe your experience? (b) Yes, have you faced any issues with chatbots in other areas of your life? (c) No: do you think that a chatbot virtual assistant or conversational Agent designed specifically for recruitment would be useful? 3. What characteristics would you look for in a chatbot or virtual assistant designed for recruitment? (a) Based on your experiences, are there specific traits or features you believe are essential in an effective recruitment chatbot? (b) Do you think personalization can affect your experience? (c) Like how personalization has impacted your experience with similar tools? 4. How do you think recruitment chatbots impact the recruiter experience, including workload, efficiency, and communication with candidates? (a) Can you share any examples from your own experiences or observations?
+Can you share examples of how recruitment chatbots have improved or hindered the recruiter experience?
+1. Specifically, have you seen instances where chatbots enhanced efficiency or, conversely, posed challenges in your organization or others you are familiar with?
+RQ 2: Do recruiters (job seekers) accept the support of conversational recruitment chatbots for improving their experience?
+1. Do you think conversational recruitment chatbots could eventually replace human recruiters, or do you see them more as a complement to existing processes? (a) Based on your perspective, how do you envision the balance between human recruiters and chatbots evolving? 2. What do you think the future holds for conversational
+123
+
+
+980 Personal and Ubiquitous Computing (2024) 28:961–984
+recruitment chatbots? (a) Considering your experiences, how do you foresee chatbots evolving in the coming years?
+B.2 Using HCAI chatbot
+Now, let’s shift our focus to the Human-Centered AI Chatbot. Do you think you would like to use our Chatbot as we want to design it?
+Based on your preferences and needs, what features or capabilities would be crucial for you in using this Chatbot? What feature or factor can make it more human-centric. What do you find important for using this Chatbot? How can the Chatbot best align with your expectations and needs?
+What experience would you expect from using this Chatbot?
+Is there something you would like to add?
+Any additional thoughts or suggestions based on your experiences that you would like us to consider in the development of this Chatbot? Overarching question: What, in your opinion, is the key factor that encourages users to accept a tool designed with a human-centric approach? In particular, what features or considerations should our designers and developers incorporate into the chatbot to enhance its acceptability? Closing: Thank you for sharing your valuable insights. Your input will significantly contribute to the refinement and improvement of our chatbot. If you have any further thoughts or suggestions after this interview, please feel free to share them with us. Your participation is immensely appreciated.
+Appendix C: Questionnaire phase 3
+Table 10 Questionnaire items
+and factor loadings Construct/Items Loading M(SD)
+Perceived ease of use (Davis 1989) [15] 5.51(.99)
+1. Is the interaction with the recruiting 0.839
+Is chatbot clear and comprehensible?
+2. Is it easy to remember how to easily 0.828
+interact with the Recruiting chatbot?
+3. Is it satisfactory to use the chatbot for online shopping? R∗ 0.479
+4. Is it frustrating to use the recruiting 0.887
+chatbot for job seeking or to recruit?
+5. Does the interaction require little effort? R∗ 0.473
+6. Does the interaction with the recruiting 0.791
+Does the chatbot require excessive mental effort?
+7. Is it easy to find the information you are 0.804
+looking for a recruitment chatbot?
+8. Do you think you could easily become skilled 0.908
+using the chatbot Job search / Candidate Hiring?
+Perceived Usefulness (Davis 1989) [15] 4.83(1.29)
+1. Using a recruiting chatbot improves my 0.907
+Job search / Candidate Hiring experience?
+2. Is the chatbot effective for recruitment? R∗ 0.516
+3. Using a recruiting chatbot in my job increases my productivity 0.828
+4. I find a recruiting chatbot to be useful in my 0.885
+Job search / Candidate Hiring experience
+Perceived ease of use (Davis 1989) [15] 5.51(.99)
+1. Is the interaction with the recruiting 0.839
+Is chatbot clear and comprehensible?
+2. Is it easy to remember how to easily 0.828
+interact with the Recruiting chatbot?
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 981
+Table 10 continued Construct/Items Loading M(SD)
+3. Is it satisfactory to use the chatbot for online shopping? R∗ 0.479
+4. Is it frustrating to use the recruiting 0.887
+chatbot for job seeking or to recruit?
+5. Does the interaction require little effort? R∗ 0.473
+6. Does the interaction with the recruiting 0.791
+Does the chatbot require excessive mental effort?
+7. Is it easy to find the information you are 0.804
+looking for a recruitment chatbot?
+8. Do you think you could easily become skilled 0.908
+using the chatbot Job search / Candidate Hiring?
+Perceived Usefulness (Davis 1989) [15] 4.83(1.29)
+1. Using a recruiting chatbot improves my 0.907
+Job search / Candidate Hiring experience?
+2. Is the chatbot effective for recruitment? R∗ 0.516
+3. Using a recruiting chatbot in my job increases my productivity 0.828
+4. I find a recruiting chatbot to be useful in my 0.885
+Job search / Candidate Hiring experience
+5. Recruitment chatbot provides support to the 0.926
+online shopping experience?
+6. Using a recruiting chatbot enhances my effectiveness 0.878
+in my Job search/Candidate Hiring experience
+7. Recruitment chatbot speed up the Job 0.927
+Search/Candidate Hiring experience? 0.924
+Transparency (Nilashi M et al. 2016) [50] 3.98(1.74)
+1. A recruiting chatbot makes its reasoning 0.924
+process clear to me
+2. It is apparent to me how the algorithm of a 0.917
+recruiting chatbot handles the data of incoming inquiries
+3. The recruiting chatbot handles the data of incoming inquiries 0.933
+Trust (Van Pinxteren et al. 2019) [51] 4.63(1.43)
+1. I feel like the chatbot has my best interest 0.896
+at heart during the recruitment process
+2. The chatbot provides accurate information about candidates 0.867
+the hiring process or jobs available and steps to apply
+3. I feel I can rely on the chatbot to execute recruitment tasks effectively 0.0807
+Efficiency (Teo T et al. 2011) [67] 3.93(1.56)
+1. The recruiting chatbot significantly streamlines the hiring process 0.955
+resulting in time and effort savings
+Using the chatbot keeps me engaged while applying or hiring. R∗ 0.446
+3. Using the recruiting chatbot enhances the overall 0.955
+the efficiency of the job search or candidate hiring
+4. The recruiting chatbot effectively handles tasks 0.947
+contributing to a faster and more efficient process
+123
+
+
+982 Personal and Ubiquitous Computing (2024) 28:961–984
+Table 10 continued Construct/Items Loading M(SD)
+Personalization (Cheng Y et al. 2020) [53] 4.64(1.45)
+1. The recruiting chatbot provides personalized responses 0.914
+based on individual preferences and needs
+2. Interactions with the recruiting chatbot are characterized 0.941
+by a noticeable level of personalization
+3. The recruiting chatbot adapts to unique job 0.906
+search or candidate hiring requirements
+4. The recruiting chatbot’s interactions reflect an adaptability 0.932
+to unique job search or candidate hiring requirements
+Ethical Concerns (Sekhar S et al. 2020) [54] 3.89(1.73)
+1. It is crucial for the recruitment chatbot to address biases 0.939
+and actively prevent discrimination in the hiring process
+2. I think recruitment chatbot design is important in actively preventing 0.938
+discrimination in the hiring process as an ethical priority
+Note: M(SD) stands for Mean (Standard Deviation). R = reversed items. * denotes items that were removed from Confirmatory Factor Analysis (CFA). This table synthesizes the constructs, items, their loadings, and the mean scores with standard deviations, offering a structured overview of the users’ acceptance of chatbots in the context of online shopping
+Acknowledgements The research of Sabina Akram is funded by PON Ricerca e Innovazione 2014–2020 FSE REACT-EU, Azione IV.4 “Dottorati e contratti di ricerca su tematiche dell’innovazione” CUP: H99J21010060001.The research of Paolo Buono and Rosa Lanzilotti is partially supported by the co-funding of the European Union - Next Generation EU: NRRP Initiative, Mission 4, Component 2, Investment 1.3 - Partnerships extended to universities, research centers, companies, and research D.D. MUR n. 341 del 15.03.2022 - Next Generation EU (PE0000013 - “Future Artificial Intelligence Research - FAIR” - CUP: H97G22000210007)
+Funding Open access funding provided by Università degli Studi di Bari Aldo Moro within the CRUI-CARE Agreement.
+Data availability The data supporting the findings of this study are available here.
+Declarations
+Conflict of interest The authors declare no competing interests.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecomm ons.org/licenses/by/4.0/.
+References
+1. Koivunen S, Ala-Luopa S, OlssonT Haapakorpi A (2022) The march of chatbots into recruitment: recruiters’ experiences, expectations, and design opportunities. Computer Supported Cooperative Work (CSCW) 31(3):487–516 2. Connerley ML (2014) Recruiter effects and recruitment outcomes. The Oxford handbook of recruitment 21–34 3. Arthur D (2012) Recruiting, Interviewing. Selecting & Orienting New Employees, AMACOM Div American Mgmt Assn 4. Vincent V (2019) 360 recruitment: A holistic recruitment process. Strateg HR Rev 18(3):128–132 5. Xu W, Gao Z, Dainoff M (2023) An hcai methodological framework: Putting it into action to enable human-centered ai. arXiv:2311.16027 6. Shneiderman B (2020) Human-centered artificial intelligence: Reliable, safe & trustworthy. International Journal of HumanComputer Interaction 36(6):495–504 7. Auernhammer J (2020) Human-centered ai: The role of humancentered design research in the development of ai 8. Akram S, Buono P, Lanzilotti R (2023) Recruitment chatbot acceptance in company practices: An elicitation study. In: Proceedings of the 15th Biannual Conference of the Italian SIGCHI Chapter, pp. 1–8 9. Andrés-Sánchez J, Gené-Albesa J (2023) Explaining policyholders’ chatbot acceptance with an unified technology acceptance and use of technology-based model. J Theor Appl Electron Commer Res 18(3):1217–1237 10. Skjuve M, Haugstveit IM, Følstad A, Brandtzaeg P (2019) Help! is my chatbot falling into the uncanny valley? an empirical study of user experience in human-chatbot interaction. Hum Technol 15(1):30–54 11. Taule T, Følstad A, Fostervold KI (2021) How can a chatbot support human resource management? exploring the operational interplay. In: International Workshop on Chatbot Research and Design, pp. 73–89. Springer
+123
+
+
+Personal and Ubiquitous Computing (2024) 28:961–984 983
+12. Venusamy K, Rajagopal NK, Yousoof M (2020) A study of human resources development through chatbots using artificial intelligence. In: 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS), pp. 94–99. IEEE 13. De Cremer D, Narayanan D, Deppeler A, Nagpal M, McGuire J (2022) The road to a human-centred digital society: Opportunities, challenges and responsibilities for humans in the age of machines. AI and Ethics 2(4):579–583 14. Shneiderman B (2016) The dangers of faulty, biased, or malicious algorithms requires independent oversight. Proc Natl Acad Sci 113(48):13538–13540 15. Davis FD (1989) Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS quarterly 319–340 16. Whittlestone J, Nyrup R, Alexandrova A, Cave S (2019) The role and limits of principles in ai ethics: Towards a focus on tensions. In: Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, pp. 195–200 17. Compton RL (2009) Effective Recruitment and Selection Practices. CCH Australia Limited 18. Rose SJ (2021) The growth of the office economy: Underrecognized sector in high-income economies. Crit Sociol 47(4–5):795805 19. Ruiner C, Wilkesmann M, Apitzsch B (2020) Staffing agencies in work relationships with independent contractors. Employee Relations: The International Journal 42(2):525–541 20. Maree M, Kmail AB, Belkhatir M (2019) Analysis and shortcomings of e-recruitment systems: Towards a semantics-based approach addressing knowledge incompleteness and limited domain coverage. J Inf Sci 45(6):713–735 21. Holm AB, Haahr L (2018) E-recruitment and selection. In: e-HRM, pp. 172–195. Routledge, 22. Schapper J (2001) A psychodynamic perspective of electronic selection and recruitment or does monster. com byte? 23. Xiaoyu R (2024) Efficient recruitment system and method based on on-line behavior data of user. Available at https://typeset.io/ papers/efficient-recruitment-system-and-method-based-on-online-33uqbex78n (Accessed: March 1, 2024) 24. Allal-Chérif O, Aranega AY, Sánchez RC (2021) Intelligent recruitment: How to identify, select, and retain talents from around the world using artificial intelligence. Technol Forecast Soc Chang 169:120822 25. Anitha K, Shanthi V (2021) A study on intervention of chatbots in recruitment. In: Innovations in Information and Communication Technologies (IICT-2020) Proceedings of International Conference on ICRIHE-2020, Delhi, India: IICT-2020, pp. 67–74. Springer 26. Suhaili SM, Salim N, Jambli MN (2021) Service chatbots: A systematic review. Expert Syst Appl 184:115461 27. Nawaz N, Gomes AM (2019) Artificial intelligence chatbots are new recruiters. IJACSA International Journal of Advanced Computer Science and Applications 10(9) 28. GS D et al (2020) Hr recruitment through chatbot-an innovative approach. The journal of contemporary issues in business and government 26(2):564–570 29. Swapna H, Arpana D (2021) Chatbots as a game changer in e-recruitment: An analysis of adaptation of chatbots. In: Next Generation of Internet of Things: Proceedings of ICNGIoT 2021, pp. 61–69. Springer 30. Braddy PW, Meade AW, Kroustalis CM (2006) Organizational recruitment website effects on viewers’ perceptions of organizational culture. J Bus Psychol 20:525–543 31. Chen JV, Le HT, Tran STT (2021) Understanding automated conversational agent as a decision aid: matching agent’s conversation with customer’s shopping task. Internet Res 31(4):1376–1404 32. Kuksenok K, Praß N (2019) Transparency in maintenance of recruitment chatbots. arXiv:1905.03640
+33. transparencymarketresearch (2023) Recruitment Chatbot Market Demand & Forecast by 2030. Available at https://www. transparencymarketresearch.com/recruitment-chatbot-market. html (Accessed: Nov. 20, 2023) 34. Davis FD (2023) A technology acceptance model for empirically testing new end-user information systems : theory and results. Available at https://dspace.mit.edu/handle/1721.1/15192 (Accessed: Dec.01, 2023.) 35. Wu K, Zhao Y, Zhu Q, Tan X, Zheng H (2011) A meta-analysis of the impact of trust on technology acceptance model: Investigation of moderating influence of subject and context type. Int J Inf Manage 31(6):572–581 36. Rafique H, Almagrabi AO, Shamim A, Anwar F, Bashir AK (2020) Investigating the acceptance of mobile library applications with an extended technology acceptance model (tam). Computers & Education 145:103732 37. Lunney A, Cunningham NR, Eastin MS (2016) Wearable fitness technology: A structural investigation into acceptance and perceived fitness outcomes. Comput Hum Behav 65:114–120 38. Liu Z, Shan J, Pigneur Y (2016) The role of personalized services and control: An empirical evaluation of privacy calculus and technology acceptance model in the mobile context. Journal of Information Privacy and Security 12(3):123–144 39. Kashive N, Powale L, Kashive K (2020) Understanding user perception toward artificial intelligence (ai) enabled e-learning. The International Journal of Information and Learning Technology 38(1):1–19 40. Shneiderman B (2021) Human-centered ai. Issues Sci Technol 37(2):56–61 41. DiCicco-Bloom B, Crabtree BF (2006) The qualitative research interview. Med Educ 40(4):314–321 42. Gioia DA, Corley KG, Hamilton AL (2013) Seeking qualitative rigor in inductive research: Notes on the gioia methodology. Organ Res Methods 16(1):15–31 43. Sotiriadou P, Brouwers J, Le TA (2014) Choosing a qualitative data analysis tool: A comparison of nvivo and leximancer. Annals of leisure research 17(2):218–234 44. Patton MQ (2014) Qualitative Research & Evaluation Methods: Integrating Theory and Practice. Sage publications 45. Aberdeen T (2013) Yin, rk (2009). case study research: Design and methods . thousand oaks, ca: Sage. The Canadian Journal of Action Research 14(1):69–71 46. Bonello M, Meehan B (2019) Transparency and coherence in a doctoral study case analysis: reflecting on the use of nvivo within a’framework’approach. The Qualitative Report 24(3):483–498 47. Corbin J et al (1990) Basics of qualitative research grounded theory procedures and techniques 48. Mayer RC, Davis JH, Schoorman FD (1995) An integrative model of organizational trust. Acad Manag Rev 20(3):709–734 49. Venkatesh V, Thong JY, Xu X (2012) Consumer acceptance and use of information technology: extending the unified theory of acceptance and use of technology. MIS quarterly 157–178 50. Nilashi M, Jannach D, Ibrahim O, Esfahani MD, Ahmadi H (2016) Recommendation quality, transparency, and website quality for trust-building in recommendation agents. Electron Commer Res Appl 19:70–84 51. Van Pinxteren MM, Wetzels RW, Rüger J, Pluymaekers M, Wetzels M (2019) Trust in humanoid robots: implications for services marketing. J Serv Mark 33(4):507–518 52. Tong A, Sainsbury P, Craig J (2007) Consolidated criteria for reporting qualitative research (coreq): a 32-item checklist for interviews and focus groups. Int J Qual Health Care 19(6):349–357 53. Cheng Y, Sharma S, Sharma P, Kulathunga K (2020) Role of personalization in continuous use intention of mobile news apps in india: Extending the utaut2 model. Information 11(1):33
+123
+
+
+984 Personal and Ubiquitous Computing (2024) 28:961–984
+54. Bhattacharyya SS, Verma S, Sampath G (2020) Ethical expectations and ethnocentric thinking: exploring the adequacy of technology acceptance model for millennial consumers on multisided platforms. International Journal of Ethics and Systems 36(4):465–489 55. Scherer KR (1972) Judging personality from voice: A crosscultural approach to an old issue in interpersonal perception 1. J Pers 40(2):191–210 56. Ramli NA, Latan H, Nartea GV (2018) Why should pls-sem be used rather than regression? evidence from the capital structure perspective. Recent advances in banking and finance, Partial least squares structural equation modeling, pp 171–209 57. Sarstedt M, Ringle CM, Hair JF (2021) Partial least squares structural equation modeling. In: Handbook of Market Research, pp. 587–632. Springer 58. Drebert J (2022) Acceptance of recruiting chatbots: an empirical study on the recruiters’ perspective 59. De Cicco R, Iacobucci S, Aquino A, Romana Alparone F, Palumbo R (2021) Understanding users’ acceptance of chatbots: an extended tam approach. In: International Workshop on Chatbot Research and Design, pp. 3–22. Springer 60. Saunders M, Lewis P, Thornhill A (2009) Research Methods for Business Students. Pearson education
+61. Fornell C, Bookstein FL (1982) Two structural equation models: Lisrel and pls applied to consumer exit-voice theory. J Mark Res 19(4):440–452 62. Hair JF Jr, Sarstedt M, Hopkins L, Kuppelwieser VG (2014) Partial least squares structural equation modeling (pls-sem): An emerging tool in business research. Eur Bus Rev 26(2):106–121 63. Rezaei S (2015) Segmenting consumer decision-making styles (cdms) toward marketing practice: A partial least squares (pls) path modeling approach. J Retail Consum Serv 22:1–15 64. Fishbein M, Ajzen I (1976) Misconceptions about the fishbein model: Reflections on a study by songer-nocks. J Exp Soc Psychol 12(6):579–584 65. Bughin J, Hazan E, Sree Ramaswamy P, DC W, Chu M et al (2017) Artificial intelligence the next digital frontier 66. Ahmed O (2023) Artificial intelligence in human resources 67. Teo T, Faruk Ursavas ̧ Ö, Bahçekapili E (2011) Efficiency of the technology acceptance model to explain pre-service teachers’ intention to use technology: A turkish study. Campus-Wide Information Systems 28(2):93–101
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+123
