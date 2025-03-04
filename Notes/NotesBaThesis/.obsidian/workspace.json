@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "a32a5a48a45b58fd",
+        "id": "e77f3d7696a972ff",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd93b4759371fcd",
+            "id": "a5e10eeb5273a17d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erhebung/01 Ang. Umfrage.md",
+                "file": "Erhebung/01 Ang. UTAUT2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fa1b2485218ee6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Erhebung/UEQ + UEQ-S.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fee11b09a8f3a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mock-Up/04 Jobbeschreibung mockup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e4858d0872efba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mock-Up/05 Unternehmen Mockup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Erhebung/01 Ang. Umfrage.md",
+                "file": "Mock-Up/05 Unternehmen Mockup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Erhebung/01 Ang. Umfrage.md",
+                "file": "Mock-Up/05 Unternehmen Mockup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Erhebung/01 Ang. Umfrage.md"
+                "file": "Mock-Up/05 Unternehmen Mockup.md"
               }
             }
           }
@@ -147,20 +184,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fd93b4759371fcd",
+  "active": "02e4858d0872efba",
   "lastOpenFiles": [
-    "Erhebung/03 Notizen Umfrage.md",
-    "Erhebung/01 Ang. Umfrage.md",
-    "Erhebung/02 Umfrage.md",
+    "Mock-Up/04 Jobbeschreibung mockup.md",
+    "Mock-Up/06 Brand Identity Mockup.md",
+    "Mock-Up/05 Unternehmen Mockup.md",
+    "Mock-Up/03 Chatbot.md",
+    "Mock-Up/01 Mock-Up.md",
+    "Mock-Up/02  CB Mögliche Lösungen.md",
+    "Erhebung/UEQ + UEQ-S.md",
+    "Erhebung/01 Ang. UTAUT2.md",
     "Erhebung/Technology Acceptance Models.md",
+    "Erhebung/03 Notizen UTAUT2 Uebersetzung.md",
+    "Erhebung/02 UTAUT2-G.md",
     "Papers/UTAUT2.md",
-    "Mock-Up/Mock-Up.md",
     "Arbeit/Struktur Bachelorarbeit.md",
     "Orga/02 - Zeitplan.md",
     "Orga/01 - Ziele und Projektplan.md",
-    "Mock-Up/Chatbot.md",
     "Mock-Up/Fragen Talentfokus.md",
-    "Mock-Up/Mögliche Lösungen.md",
     "Arbeit/Draft 1.md",
     "Arbeit/Offene Themen - Entscheidungen.md",
     "Erhebung/Hypothesen.md",
@@ -172,10 +213,6 @@
     "Papers/CBT mit Chatbot.md",
     "Papers/Cultivating Gratitude with a Chatbot.md",
     "Papers/Effects of perceived Gender and Anthromorphization of AI on linguistic Alignment.md",
-    "Papers/Einführung TAM.md",
-    "Papers/Papers.md",
-    "Papers/Purchase intentions in a chatbot environment - An examination of the effects of customer experience.md",
-    "Templates/Paper.md",
     "Pasted image 20240926151644.png",
     "Untitled.canvas",
     "Templates",

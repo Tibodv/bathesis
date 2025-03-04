@@ -25,7 +25,7 @@
 
 - [x] Zeitplan erstellen
 - [x] [[Exposé]] schreiben
-- [ ] [[Mock-Up]] erstellen & testen
+- [ ] [[01 Mock-Up]] erstellen & testen
 - [ ] Erhebung durchführen
 - [ ] Datenanalyse
 - [ ] Struktur Text planen

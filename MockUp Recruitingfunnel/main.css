@@ -1,13 +1,14 @@
 
 body {
-    font-family: 'Tahoma';
+    font-family: 'Tahoma', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f0f0eb;
 }
 
 .navbar {
     width: 100%;
-    background-color: #b22222; /* Firebrick red */
+    background-color: #000080; /* leichtes blau */
     padding: 30px 0; /* Adds some spacing vertically */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   }
@@ -26,6 +27,7 @@ body {
   /* Individual link items */
   .nav-links li {
     margin: 0 15px; /* Adds horizontal spacing between links */
+
   }
   
   /* Link styling */
@@ -33,10 +35,22 @@ body {
     text-decoration: none; /* Removes underline */
     color: white; /* White text for contrast */
     font-size: 1rem; /* Standard font size */
-    font-weight: 580;
+    font-weight: 600;
     padding: 5px 10px; /* Adds spacing around the text */
     border-radius: 5px; /* Smooths edges */
     transition: background-color 0.3s ease; /* Adds hover effect transition */
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-links .Uname {
+    text-decoration: none; /* Removes underline */
+    color: white; /* White text for contrast */
+    font-size: 1.3rem; /* Standard font size */
+    font-weight: 800;
+    padding: 5px 10px; /* Adds spacing around the text */
+    border-radius: 5px; /* Smooths edges */
+
   }
   
   /* Hover effect */
@@ -71,19 +85,18 @@ body {
   }
   
   .box { 
-    background-color: #ddd;
-    background-color: #f0f0f0; /* Light neutral background for boxes */
+    background-color: whitesmoke; /* Light neutral background for boxes */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   }
   
   .box h3{
-    color: #b22222;
+    color: #000080;
 
 
   }
   
   .box h2{
-    color: #b22222;
+    color: #000080; /*titel boxen*/
 
 
   }
@@ -93,32 +106,42 @@ body {
     grid-column: 1 / 3;
     text-align: center;
     padding: 3%;
-    background-color: #b22222; /* Firebrick red */
-    color: #fff; /* White text for contrast */
+    color: white;
+    background-color: #000080; /* leichtes blau */
+    color: #; /* White text for contrast */
+    border-radius: 15px;
+
   }
 
   .beschreibung {
     grid-column: 1 /3;
     padding: 3%;
+    border-radius: 15px;
+
   }
 
   .wirsuchen {
     grid-column: 1;
     padding: 3%;
+    border-radius: 15px;
   }
   
   .wirbieten {
     grid-column: 2;
     padding: 3%;
+    border-radius: 15px;
+
   }
   
   .chatbot {
     grid-column: 1 / 3;
     padding: 3%;
+    border-radius: 15px;
+
   }
   
   button {
-    background-color: #b22222; /* Firebrick red background */
+    background-color: #000080; /* Firebrick red background */
     color: #fff; /* White text */
     border: none;
     padding: 10px 20px;
