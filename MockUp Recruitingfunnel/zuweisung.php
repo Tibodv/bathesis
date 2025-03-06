@@ -8,9 +8,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Weiterleiten basierend auf der Bedingung
     if ($user_type === 'con1') {
-        header('Location: testUmfrage.html');
+        header('Location: mockupCb.html');
     } elseif ($user_type === 'con2') {
-        header('Location: testChatbase.html');
+        header('Location: mockupNoCb.html');
     } 
     exit;
 }
