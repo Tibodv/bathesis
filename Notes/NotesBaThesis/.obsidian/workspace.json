@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Chatbot/Chatbot Q&A.md",
+                "file": "Erhebung/04 Disclaimer CB.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Chatbot/Chatbot Q&A.md",
+                "file": "Erhebung/04 Disclaimer CB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Chatbot/Chatbot Q&A.md",
+                "file": "Erhebung/04 Disclaimer CB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Chatbot/Chatbot Q&A.md"
+                "file": "Erhebung/04 Disclaimer CB.md"
               }
             }
           }
@@ -210,8 +210,14 @@
   },
   "active": "c68d7c8fe062d0b5",
   "lastOpenFiles": [
-    "05 Chatbot/Chatbot.md",
+    "Erhebung/05 Disclaimer NoCB.md",
+    "Erhebung/07 Datenschutz NoCB.md",
+    "Erhebung/06 Datenschutz CB.md",
+    "Erhebung/04 Disclaimer CB.md",
+    "Erhebung/Technology Acceptance Models.md",
+    "Papers/UTAUT2.md",
     "05 Chatbot/Chatbot Q&A.md",
+    "05 Chatbot/Chatbot.md",
     "05 Chatbot",
     "04 Mock-Up/07 Disclaimer.md",
     "04 Mock-Up/05 Unternehmen Mockup.md",
@@ -221,10 +227,8 @@
     "04 Mock-Up/02  CB Mögliche Lösungen.md",
     "Erhebung/UEQ + UEQ-S.md",
     "Erhebung/01 Ang. UTAUT2.md",
-    "Erhebung/Technology Acceptance Models.md",
     "Erhebung/03 Notizen UTAUT2 Uebersetzung.md",
     "Erhebung/02 UTAUT2-G.md",
-    "Papers/UTAUT2.md",
     "01 Arbeit/Struktur Bachelorarbeit.md",
     "02 Orga/02 - Zeitplan.md",
     "02 Orga/01 - Ziele und Projektplan.md",
@@ -234,9 +238,6 @@
     "Erhebung/Hypothesen.md",
     "01 Arbeit",
     "02 Orga/Mögliche Themen.md",
-    "02 Orga/Exposé.md",
-    "02 Orga/Recherchieren.md",
-    "Papers/Factors for AI Acceptance.md",
     "Pasted image 20240926151644.png",
     "Untitled.canvas",
     "Templates",
