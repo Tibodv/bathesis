@@ -38,10 +38,10 @@ fclose($file);
 
 
 if ($randomChoice === 0){
-    header('Location: mockupCb.html');
+    header('Location: disclaimerCB.html');
 }
 elseif ($randomChoice === 1){
-    header('Location: mockupNoCb.html');
+    header('Location: disclaimerNoCB.html');
 
 }
 exit;

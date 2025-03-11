@@ -1,0 +1,325 @@
+Journal of Internet Banking and Commerce
+An open access Internet journal (http://www.arraydev.com/commerce/jibc/)
+Journal of Internet Banking and Commerce, April 2015, vol. 20, no. 1 (http://www.arraydev.com/commerce/jibc/)
+Elderly and Internet Banking: An Application of UTAUT2
+JORGE ARENAS-GAITÁN, PhD Postal Address: Department of Business Management and Marketing, University of Seville. Avda. Ramón y Cajal, 1, 41018 Seville, SPAIN
+Author's Personal/Organizational Website: http://admark.us.es Email: jarenas@us.es
+Jorge Arenas-Gaitán is associate professor in the Department of Business Administration and Marketing at the University of Seville (Spain). Research interests include the acceptance of new technologies, e-commerce and cross-cultural analysis. His work appears in several academic journals such as Social Science Computer Review, Computers & Education and Kybernetes among other.
+BEGOÑA PERAL-PERAL, PhD Postal Address: Department of Business Management and Marketing, University of Seville. Avda. Ramón y Cajal, 1, 41018 Seville, SPAIN
+Author's Personal/Organizational Website: http://admark.us.es Email: bperal@us.es
+Begoña Peral-Peral is associate professor in the Department of Business Administration and Marketing at the University of Seville (Spain). Her research interests include the acceptance of new technologies, e-commerce, elderly and consumer behavior. Her work has been published in Social Science Computer Review, Computers & Education and Revista de Economía Aplicada.
+MARIA ANGELES RAMÓN-JERÓNIMO, PhD Postal Address: Department of Business Administration and Marketing, Pablo de Olavide University. Ctra. de Utrera, km. 1 41013, Seville, SPAIN Author's Personal/Organizational Website: www.upo.es Email: maramjer@upo.es
+Marıa A. Ramón-Jerónimo is an associate professor at Pablo de Olavide University, Spain. She participates in different research projects related to relationship marketing, innovation, strategy and international marketing, and results have been published in different journals such as the Journal of Academy of Marketing Science, Industrial
+
+
+JIBC April 2015, Vol. 20, No. 1 - 2 
+Management & Data Systems, and Journal of Business Research.
+Abstract
+The present study aims to explain Internet banking use by the elderly, applying the UTAUT2 approach (extension of Unified Theory of Acceptance and Use of Technology in the consumer context). A sample of 415 individuals over 55 years old has been analyzed. WarpPLS 3.0 was used for the measurement models analysis and the structural model analysis. The results show that the elderly’s people’s to accept Internet banking was significantly impacted by habit, performance expectancy, price value and effort expectancy, in this order of influence of strength. The actual behavior was influenced by behavior intention and habit. However, social influence, facilitating conditions and hedonic motivation did not play a salient role in affecting the actual adoption behavior of Internet banking. Gender was proposed as a moderator variable but the results did not support this role.
+Keywords: elderly; Internet banking; UTAUT2
+© Jorge Arenas-Gaitán, Begoña Peral-Peral, Maria Angeles Ramón-Jerónimo, 2015
+INTRODUCTION
+Internet banking (IB) has been one of the most successful (Al-Jabri and Sohail 2012) and profitable (Lee 2009; Yuen et al. 2010) B2C applications in e-commerce during the last decade. IB is a channel that allows consumers to perform a wide range of financial and non-financial services through a bank's website (Hoehle et al. 2012). Moreover, IB customers are the most interesting ones for banks (Pikkarainen et al. 2004), as they show a higher satisfaction, more positive word-of-mouth communications and the lowest intention to change to other financial institutions (Mols 1998). However, although the advantages of IB use are noticeable, only 40% of people between 16 and 74 years old used IB in Europe (28 countries) in 2012, while in Spain the percentage is just 32% (Eurostat 2013a). These percentages of use diminish to 24% and 15%, respectively, in the case of people who were 55-74 years old in 2012.
+Several studies have documented the growth of the grey market (Kohlbacher et al. 2014). For example, in 2012, 36.4% of the Spanish population was over 50 years old (Eurostat 2013b) with an attractive financial status (Moschis 2012). Although, retirement can decrease household income, the effect on the purchase power per member of the household is weak since children have by then usually moved away. Thus, mature consumers have a significant purchasing power but also a need for carefully managing their assets during their lifespan making the 55-plus segment extremely lucrative for financial service providers. In this line, Chen and Holsapple (2013) develop a full examination of the e-business-adoption area, focusing on 618 journal articles, published between 2006 and 2011. They find that the quantity of e-business adoption research about individual consumers is growing. However, they include very few references about e-business adoption for elder people (as Lam and Lee 2006; Pan and Jordan-Marsh 2010, both about Internet use).
+
+
+JIBC April 2015, Vol. 20, No. 1 - 3 
+To explain technology acceptance and use, there have been several theoretical models, developed from theories in psychology and sociology. In 2003, Venkatesh et al. review, compare and summarize eight prior theories/models of technology use: the Theory of Reasoned Action (TRA), the Technology Acceptance Model (TAM), the Motivational Model (MM), the Theory of Planned Behavior (TPB), the Model of PC utilization (MPCU), the Innovation Diffusion Theory (IDT), the Social Cognitive Theory (SCT) and the Expectation-Confirmation Theory (ECT). They propose the Unified Theory of Acceptance and Use of Technology (UTAUT; Venkatesh et al. 2003) identifying four key concepts: performance expectancy (PE), effort expectancy (EE), social influence (SI) and facilitating conditions (FC). Venkatesh et al, show how these constructs explain the use of technology. The UTAUT has been developed in organizational contexts and tested in longitudinal field studies of employee technology acceptance. In 2012, Venkatesh et al. updated their previous model adapting it to the consumer context. The UTAUT2 incorporated three new key variables: hedonic motivation (HM), price/value (PV) and habit (H), as concepts playing an important role in the use of new technologies by consumers.
+Our aim in this work is to analyze the acceptation and use of Internet Banking by the elderly following the UTAUT2 methodology. Three research lines converge in the present study: IB (Al-Qeisi 2009; Lee et al, 2010; Hoehle et al. 2012), the behavior of the elderly in the acceptation and use of information technologies (Eastman and Iyer 2004; Kim 2008; Ramón-Jerónimo et al. 2013) and the analysis of a consumer context applying the UTAUT2 model as a framework (Venkatesh et al. 2012).
+The main contribution of this work is to analyze the convergence of these three research lines. Although there are important works in each of them, we have not found significant studies which explain IB acceptation by the elderly using an approach which is specifically designed for analyzing the use of consumption technologies.
+To achieve the aim proposed, the work is structured as follows. In the first section the literature on the three main topics of the work: IB, the elderly and UTAUT (section 2) is described. The paper continues with the development of the hypotheses proposed (section 3), methodology (section 4) and results (section 5), finishing with the discussion (section 6), conclusions and limitations of the research (section 7).
+LITERATURE REVIEW
+Internet banking and the elderly
+Different research works (Ding et al. 2007; Howcroft et al. 2002; Karjaluoto et al. 2002; Mattila et al. 2003) find that there is a significant effect of multiple sociodemographic variables on the use of IB. Regarding age, Ainin et al. (2005) find a negative and significant relationship between age and IB adoption, probably because the elderly are more resistant to change and have a negative attitude toward using IB services (Laukkanen et al. 2007).
+An alternative approach could be the consideration of age as a moderator in the relationship between satisfaction with the offline channel and perceived usefulness, showing how the elderly are reluctant to accept IB (Falk et al. 2007). Previous results point to the idea that elderly people prefer to have face-to-face communication where
+
+
+JIBC April 2015, Vol. 20, No. 1 - 4 
+possible (Asmi and Ishaya 2012). Hill et al. (2008) for instance, show that for people over 50 years old, the relative advantage perceived of IB was weaker than the perception of e-mail, probably due to perceptions of risk and Internet security.
+In this line, Leppel and McCloskey (2011) find that mature respondents (50 and older) were more likely than young respondents to worry about providing financial and personal information, although having a college education increases the level of comfort that they feel when working with technology. Rock et al. (2010) show that older respondents in the USA were less likely to use the Internet as a source of financial information. However, the reasons for this were not security concerns: they preferred contact with bank workers due to websites being difficult or confusing. Confusing web pages and complex steps discouraged the adoption of online banking by people over the age of 65 and they blamed insufficient or nonexistent training on how to use the technology for IB (Mattila et. al. 2003).
+Age itself may not be the only explanation of the rejection of IB. Lichtenstein and Williamson (2006) showed that elderly Australians with low incomes reported that having a lack of awareness toward IB and its advantages, a lack of Internet access and Internet confidence, inadequate knowledge and support for use or the initial setting up procedure, a lack of trust, security and high perceived privacy risks were among the reasons for not using IB services. Sohail and Shanmugham (2004) find that age and the educational qualifications of electronic and conventional banking have no significant impact on e-banking adoption. Instead, they argued that accessibility to the Internet, awareness of e-banking and customers’ resistance to change are the main factors influencing the adoption. Also, Nayak et al. (2010) show that, for older adults aged 6088, and for more complex Internet activities, such as banking transactions gender (male), health status (good), perceived usefulness, and attitude were the significant factors.
+UTAUT and UTAUT 2
+Hoehle et al. (2012) perform a review of 247 peer-reviewed articles about e-banking adoption. They find that most works use models that were developed several decades ago, such as the Diffusion of innovations (DOI), Theory of reasoned action (TRA), Theory of planned behavior (TPB) and Technology acceptance model (TAM) (cf. AlQeisi 2009, for examples of articles about these models and IB). Although almost all studies included demographic variables such as age, gender, income, and education in models of consumers' behavior toward e-banking channels there was no convergent understanding of the ways in which these variables impact on the adoption of these channels. Hoehle et al (2012) show the need to use more current models and a clear alternative is UTAUT (Venkatesh et al. 2003).
+UTAUT integrates multiple models of user acceptance theory and therefore offers the most comprehensive model available at the moment. The UTAUT not only underscores the main determinants predicting the intention to adopt and actual adoption, but also allows researchers to analyze the contingencies from moderators that would amplify or constrain the effects of core determinants. UTAUT has been empirically tested and proven superior to other prevailing competing models (Venkatesh et al. 2003; Venkatesh and Zhang 2010). However, Williams et al. (2011) find that although a large number of studies have cited the original article of UTAUT, only 43 actually utilized the theory or its
+
+
+JIBC April 2015, Vol. 20, No. 1 - 5 
+constructs in their empirical research for examining IS/IT related issues. Venkatesh et al. (2012) find that most studies using UTAUT employed only a subset of the constructs, particularly by dropping the moderator.
+Some research works analyze IB via UTAUT-based models, such as Yeow et al. (2008), who study positive and negative factors influencing user acceptance of IB services in Australia and Abu-Shanab et al. (2010) in the case of Jordan. Other authors compare IB acceptation in different countries, such as Yuen et al. (2010) in the United States and Australia; Al-Qeisi (2009) in the United Kingdom and Jordan, and Im et al. (2011) in the USA and Korea.
+UTAUT has been developed in the organizational context where acceptance and use of a technology can be mandatory. Nevertheless, for consumers, there is not an organizational mandate and thus most consumer behaviors are completely voluntary. Chen and Holsapple (2013) indicate that research topics for e-business can follow different approaches for organizations and consumers. Accordingly, UTAUT2 is proposed as a useful model to understand consumer use of technologies in general. A key difference between UTAUT and UTAUT2 is that the behavior intention and the use relationship are moderated by the experience with technology. Moreover, individual characteristics moderate the effect of habit on the behavioral intention. Following Bagozzi (2007) and Venkatesh et al. (2007), Venkatesh et al. (2012) identify three key constructs which explain the consumer’s behavior in the use of technology: hedonic motivation, price value and habit, and they propose gender, age and experience as moderator variables. UTAUT2 models how habit directly affects use behavior (USE) and indirectly through behavioral intention (BI). Comparing results from UTAUT2 and UTAUT, Venkatesh et al. (2012) find out how the variance explained in both behavioral intention (74 percent) and technology use (52 percent) are substantial, compared to the baseline UTAUT that explained 56 percent and 40 percent of the variance in intention and use respectively.
+RESEARCH MODEL AND HYPOTHESES
+Research model
+Figure 1 shows the research model based on UTAUT2 and the hypotheses of this study.
+Performance Expectancy (PE)
+Effort Expectancy (EE)
+Social Influence (SI)
+Faciliting Conditions (FC)
+Price/Value (PV)
+Hedonic Motivation (HM)
+Habit (H)
+Behavioral Intention (BI)
+Use Behavior (USE)
+Gender
+H1
+H2
+H3
+H4
+H5
+H6
+H7
+H8
+H9
+H10
+H11
+
+
+JIBC April 2015, Vol. 20, No. 1 - 6 
+The research model aims to explain the acceptance of IB. UTAUT (Venkatesh et al. 2003) explain how USE, in this case IB, is explained by the intention to use it (BI), and by the facilitating conditions (FC) that make it possible. Simultaneously, the BI receives effects from the performance expectancy (PE), effort expectancy (EE), social influence (SI), and facilitating conditions (FC). In a more recent work, Venkatesh et al (2012) adapt the model to the technologies adopted by consumers incorporating three new variables: price/value (PV), hedonic motivation (HM) and habit (H). These variables act as antecedents of the BI. On the other hand, habit (H) directly affects the use of the technology under study (USE).
+Hypotheses
+In previous works, the UTAUT2 model has been applied to explain the acceptance of Internet Banking. In this section the hypotheses associated with this model are explained, considering previous literature about technology adoption, IB and elderly people.
+The main variable in the literature about technology acceptance is the BI. BI is the degree to which a person has formulated conscious plans to perform or not perform some specified future behavior (Davis 1989; Venkatesh et al. 2003; Venkatesh et al. 2012). According to UTAUT2, PE, EE, SI, FC, HM, PV and H are antecedents of BI.
+PE is the degree to which using a technology will provide benefits to individuals in performing certain activities. EE is defined as the degree of ease associated with an individual’s use of technology. SI (SI) is defined as the extent to which an individual perceives that people who are important to him/her believe that he/she should use a particular technology. FC is defined as the individual’s perceptions of the resources and support available to perform behavior (Venkatesh, et al. 2003; Venkatesh, et al. 2012). PE, EE, SI and FC affect BI in adopting IB (Cheng et al. 2008; Cheng et al, 2009; Im et al. 2011; Martins et al, 2014; Yeoh and Chan, 2011; Yu, 2012; Yuen et al 2010).
+HM is defined as the fun or pleasure derived from using a technology (Venkatesh, et al., 2012). Some studies indicate that HM affects BI intention toward adopting technologies by consumers, such as e-learning (Lewis et al. 2013; Raman and Don, 2013), ecommerce (Escobar-Rodríguez and Carvajal-Trujillo, 2013), mobile shopping services (Yang 2010; Yang and Forney 2012) or the travel advice web (Chong and Ngai 2013).
+Venkatesh et al. (2012) define price/value as the individuals’ cognitive trade-off between the perceived benefits of the applications and the monetary cost for using them. Price/value affects BI toward adopting IB (Yu, 2012), as well as other technologies, such as e-learning (Lewis et al, 2013; Raman and Don 2013), e-commerce (EscobarRodríguez and Carvajal-Trujillo 2013), the travel advice web (Chong and Ngai 2013) or the use of 3G technology (Mardikyan et al. 2012) or smartphones (Pan et al. 2014).
+Finally, the literature indicates that habit, defined as the extent to which people tend to perform behaviors automatically because of learning (Venkatesh et al. 2012), affects BI toward consumer technology use context, such as e-learning (Lewis et al. 2013; Raman and Don 2013), e-commerce (Escobar-Rodríguez and Carvajal-Trujillo 2013), the travel advice web (Chong and Ngai, 2013) or the use continuance intention of Twitter (Barnes
+
+
+JIBC April 2015, Vol. 20, No. 1 - 7 
+and Böhringer 2011).
+In consequence, based on the literature mentioned above and considering the importance of the segment of the elderly for IB, we propose the following hypotheses.
+H1. Performance expectancy is positively related to behavioral intention in the adoption of Internet Banking by the elderly. H2. Effort expectancy is positively related to behavioral intention in the adoption of Internet Banking by the elderly. H3. Social influence is positively related to behavioral intention in the adoption of Internet Banking by the elderly H4. Facilitating conditions are positively related to behavioral intention in the adoption of Internet Banking by the elderly. H5. Hedonic motivation is positively related to behavioral intention in the adoption of Internet Banking by the elderly. H6. Price value is positively related to behavioral intention in the adoption of Internet Banking by the elderly. H7. Habit is positively related to behavioral intention in the adoption of Internet Banking by the elderly.
+The aim of the UTAUT2 model is to explain the use of a new technology, in this case, IB. Use behavior is defined as the frequency of information technology usage (Venkatesh et al. 2003; Venkatesh et al. 2012). Previous studies provide support for the idea that behavioral intention and facilitating conditions (Chen and Chan, 2014; Im et al. 2011; Martins et al 2014; Yu 2012) explain use behavior in adopting IB.
+The incorporation of the variable habit in a consumer technology use context (Venkatesh, et al. 2012) for the UTAUT (Limayem et al. 2007) indicates that habit affects use behavior in the adoption for this context, such as e-learning (Lewis et al, 2013; Raman and Don, 2013) e-commerce (Escobar-Rodríguez and Carvajal-Trujillo 2013) or the travel advice web (Chong and Ngai 2013). Considering this we propose:
+H8. Behavioral intention is positively related to use behavior in the adoption of Internet Banking by the elderly. H9. Facilitating conditions are positively related to use behavior in the adoption of Internet Banking by the elderly. H10. Habit is positively related to use behavior in the adoption of Internet Banking by the elderly.
+In addition, we will investigate the moderating effects proposed in UTAUT2. Specifically, we propose to explore the moderating effect of gender in the adoption of IB by the elderly (Yu 2012; Martins et al, 2014).
+H11: Gender moderates Internet Banking adoption by the elderly
+We have not considered age as a moderator given that our analysis is carried out on people over 55 in such a way that there is little dispersion with regard to age. Likewise, the other two moderator variables (age and experience) proposed in the UTAUT2 have not been used because the context which we analyze is completely voluntary and as this
+
+
+JIBC April 2015, Vol. 20, No. 1 - 8 
+study is longitudinal, it is incapable of capturing increasing levels of user experience at different time periods.
+METHODOLOGY
+Survey
+Data were collected through a survey during the months of November and December 2012 using students over 55 years old enrolled in the “Experiential Classroom” initiative in a University in the south of Spain. To eliminate possible ambiguities in the questionnaire, it was piloted using seven older adult volunteers. After some minor changes in the questionnaire, data were collected during class time, and thanks to the help of class representatives. 536 questionnaires were completed by students. After removing the incomplete cases and outliers, 474 valid responses were obtained (88.4% response rate). The number of valid surveys was 474; 62.5% were women. The average age was 63.6. Most of them had secondary studies - 54.2% - and university studies 36.1% - and most of them considered that they were in a socioeconomical middle class 80.2%.
+Measurement
+The measurement scales applied have been tested in prior research. Specifically, the scales proposed by Venkatesh et al. (2012) have been adapted to measure the UTAUT2 constructs for Internet banking. For the PV, we use the scale proposed by Lockett and Littler (1997) and used by Patsiotis et al. (2012). We believe that this scale gathers the PV idea better for the case of IB. A formative scale was used to measure USE. To do so, we adopted the scale set out for IB by Patsiotis et al. (2012) which includes 10 services. The items are reported in Table 1.
+All items were anchored on a 7-point Likert scale (1 = strongly disagree; 7 = strongly agree) except for socio-demographic and other variables related to computer use and the Internet.
+Statistical Tools
+The Partial Least Squares (PLS) path model approach to Structural Equation Modeling (SEM) was applied to test the research question (Chin 1998). The choice of PLS was justified by two aspects: First, compared to covariance structure analysis, PLS can accommodate both reflective and formative scales easily. Second, PLS does not require any prior distributional assumptions and a relatively small sample size is acceptable (Chin et al. 2003). Specifically, WarpPLS 3.0 (Kock 2011) was used for the measurement models analysis and the structural model analysis.
+RESULTS
+To assess the constructs’ measurement properties, we conducted confirmatory factor analysis (CFA) using PLS. Based on the CFA results, we analyzed convergent validity, discriminant validity, and the reliability of all the multiple-item scales, following the guidelines from the prior literature (e.g., Fornell and Larcker 1981). The measurement properties are reported in Table 1 and Table 2.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 9 
+Table 1: Reliability and Validity Reflective Variables Variable All Men Women Performance Expectancy (Venkatesh et al. 2012)
+All: AVE:0.872 CR:0.953 CA:0.926 Men: AVE:0.857 CR:0.947 CA:0.917 Women: AVE: 0.800 CR: 0.923 CA: 0.875
+I find internet banking useful in my daily life. 0.920 0.912 0.859 Using internet banking helps me accomplish things more quickly
+0.949 0.944 0.913
+Using internet banking increases my productivity. 0.932 0.921 0.910 Effort Expectancy (Venkatesh et al. 2012)
+All: AVE:0.827 CR:0.950 CA:0.929 Men: AVE:0.805 CR:0.943 CA:0.918 Women: AVE: 0.757 CR: 0.925 CA: 0.891
+Learning how to use internet banking is easy for me. 0.918 0.902 0.872 My interaction with internet banking is clear and understandable.
+0.934 0.902 0.881
+I find internet banking easy to use. 0.953 0.951 0.935 It is easy for me to become skillful at using internet banking.
+0.827 0.806 0.785
+Social Influence
+(Venkatesh et al. 2012)
+All: AVE: 0.923 CR:0.973 CA:0.958 Men: AVE:0.925 CR:0.974 CA:0.959 Women: AVE:0.905 CR:0.966 CA:0.948
+People who are important to me think that I should use Internet banking
+0.955 0.957 0.944
+People who influence my behavior think that I should use internet banking.
+0.964 0.969 0.966
+People whose opinions I value prefer that I use Internet banking
+0.964 0.958 0.944
+Facilitating Conditions (Venkatesh et al. 2012)
+All: AVE: 0.724 CR:0.912 CA:0.870 Men: AVE:0.739 CR:0.919 CA:0.881 Women: AVE:0.693 CR:0.900 CA:0.852
+I have the resources necessary to use Internet banking.
+0.875 0.855 0.786
+I have the knowledge necessary to use Internet banking.
+0.900 0.889 0.853
+Internet banking is compatible with other technologies I use.
+0.902 0.889 0.865
+I can get help from others when I have difficulties using Internet banking.
+0.712 0.783 0.824
+Hedonic Motivation (Venkatesh et al. 2012)
+All: AVE: 0.948 CR:0.982 CA:0.972 Men: AVE:0.950 CR:0.983 CA:0.973 Women: AVE:0.918 CR:0.971 CA:0.955
+Using Internet banking is fun. 0.973 0.974 0.970 Using Internet banking is enjoyable. 0.984 0.985 0.977 Using Internet banking is very entertaining. 0.964 0.965 0.926 Habit
+(Venkatesh et al. 2012)
+All: AVE: 0.730 CR: 0.890 CA:0.814 Men: AVE:0.724 CR:0.887 CA:0.809 Women: AVE:0.731 CR:0.891 CA:0.815
+The use of Internet banking has become a habit for me.
+0.871 0.865 0.891
+I am addicted to using Internet banking. 0.821 0.826 0.810 I must use Internet banking. 0.869 0.861 0.862 Price/Value (Lockett and
+All: AVE: 0.588 CR: 0.809 CA: 0.643 Men: AVE:0.576 CR:0.800 CA:0.621 Women: AVE:0.600 CR:0.817 CA:0.660
+
+
+JIBC April 2015, Vol. 20, No. 1 - 10 
+Littler 1997) To the best of my knowledge, there are no bank charges for Internet banking services.
+0.677 0.631 0.672
+I think that Internet banking services offer better credit terms compared to those of branches.
+0.866 0.880 0.878
+I would purchase or rent any computer-based equipment only for the purpose of Internet banking.
+0.746 0.745 0.761
+Behavior Intention
+(Venkatesh et al. 2012)
+All: AVE: 0.924 CR: 0.973 CA:0.959 Men: AVE:0.918 CR:0.971 CA:0.955 Women: AVE:0.893 CR:0.962 CA:0.940
+I intend to continue using Internet banking in the future.
+0.952 0.954 0.934
+I will always try to use Internet banking in my daily life.
+0.967 0.965 0.970
+I plan to continue to use Internet banking frequently. 0.965 0.955 0.931
+Table 2: Reliability and Validity Formative Variables All Men Women Use AVE: n.a. CR: n.a. CA: n.a. Weight s
+VIF Weights VIF Weigh ts
+VIF
+(Patsiotis et al. 2012)
+Check the balance of my accounts
+0.114 1.763 0.106 1.695 0.112 1.763
+Transfer funds between accounts
+0.143 3.182 0.140 3.002 0.146 3.768
+Make payments (credit card, telephone and electricity bills, other payments)
+0.129 1.858 0.131 1.975 0.138 2.223
+Transfer funds from my account to another person’s account
+0.145 3.111 0.141 3.011 0.159 4.927
+Get information on my investment portfolio (shares, mutual funds)
+0.131 2.042 0.125 1.784 0.146 2.987
+Trade shares and check the status of my order
+0.137 2.099 0.137 2.268 0.145 2.320
+Get information on different types of loans
+0.141 2.436 0.139 2.454 0.138 2.213
+Get an update on my existing financing loan(s)
+0.140 2.612 0.137 2.452 0.140 2.919
+Apply for a financial service 0.140 2.477 0.137 2.392 0.106 1.841 Contact my bank to answer a question
+0.131 1.913 0.137 2.157 0.132 1.991
+n.a.= Not analyzable
+Reliability was assessed in terms of composite reliability and Cronbach’s Alpha, which measure the degree to which items are free from random error and therefore yield consistent results. Composite reliabilities in our measurement model ranged from 0.809 to 0.982 (see Table 1 and Table 2), Cronbach’s Alpha ranged from 0.643 to 0.959. In both cases the scores are near or above the recommended cutoff of 0.70 (Fornell and Larcker 1981; Nunnally and Bernstein 1994).
+Convergent validity was assessed in terms of factor loadings and average variance extracted (AVE). Convergent validity requires a factor loading greater than 0.70 and an
+
+
+JIBC April 2015, Vol. 20, No. 1 - 11 
+AVE not less than 0.50 (Fornell and Larcker 1981). As shown in Table 1, the AVEs ranged from 0.588 to 0.948 suggesting adequate convergent validity.
+Discriminant validity was assessed by comparing the AVE of each individual construct with variances shared between this individual construct and all the other constructs. A higher AVE of the individual construct than shared variances suggests discriminant validity (Fornell and Larcker 1981). Table 3 shows the inter-construct correlations off the diagonal of the matrix. Comparing all of the correlations and square roots of AVEs shown on the diagonal, the results indicated adequate discriminant validity.
+Table 3: Discriminant validity
+PEX EEX SI FC PV HED HAB BI USE
+PEX
+0.926
+/0.895 0.664 0.351 0.559 0.391 0.495 0.534 0.498 0.23
+EEX 0.769
+0.897
+/0.87 0.399 0.707 0.428 0.53 0.624 0.491 0.277
+SI 0.392 0.386
+0.962
+/0.951 0.428 0.416 0.299 0.31 0.379 0.28
+FC 0.692 0.817 0.395
+0.86
+/0.833 0.422 0.579 0.633 0.415 0.241
+PV 0.458 0.461 0.456 0.461
+0.759
+/0.775 0.388 0.462 0.411 0.352
+HED 0.633 0.65 0.399 0.639 0.467
+0.975
+/0.958 0.632 0.365 0.224
+HAB 0.665 0.647 0.388 0.634 0.496 0.703
+0.851
+/0.855 0.474 0.296
+BI 0.643 0.621 0.365 0.554 0.535 0.557 0.607
+0.958 /0.945 0.66
+USE 0.375 0.394 0.383 0.326 0.407 0.39 0.51 0.579 n.a. Women above the diagonal; men below it. In the diagonal: first men and then women. Square roots of average variances extracted (AVEs) shown on the diagonal.
+Structural model
+The assessment of the structural model involves estimating the path loadings and the R2 values. The path loadings indicate the strengths of the relationships between the independent variables and the dependent variable, while the R2 values measure the predictive power of the structural models. Interpreted as multiple regression results, the R2 indicates the amount of variance explained by the exogenous variables. Using a bootstrapping technique, we calculated path loadings and t-statistics for hypothesized relationships. The WarpPLS 3.0 software allows us to analyze the linear and non-linear relationships between the latent variables. In this case the best results are obtained via the Warp3 algorithm. This is a non-linear algorithm with a shape similar to an S-curve (Kock 2011). The results are shown in Figure 2.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 12 
+PE
+EE
+SI
+FC
+PV
+HM
+H
+BI 0.623
+USE 0.386
+n.s.
+n.s.
+H10: 0.236***
+H8: 0.465***
+n.s. No Significative, **p<0.05 ; ***p<0.001 Figure 2: Structural Model
+Our model has a relatively good prediction power. The model explained 38.6% of USE of Internet, 62.3% of intention to use (BI). WarpPLS also computes several model fit indices: average path coefficients (APC), average R squared (ARS) and average variance inflation factors (AVIF). A model is robust when p<0.05 for APC and ARS and when AVIF <5 (Kock 2011). Their values are the following: APC = 0.168, p<0.001; ARS = 0.505, p<0.001; and AVIF = 2.433.
+The results provide support for H1, H2, H5, H7, H8 and H10 and, contrary to expectations, hypotheses H3, H4, H6, and H9 are not supported.
+Regarding gender, H11, the differences in the intensity of the relations between the constructs were calculated (Table 4) according to the recommendations of Chin (2000) and Satterthwaite (1946). However, we have not detected significant differences between any of the subsamples. That is to say, there are not significant differences between men and women in the calculation of the path coefficients. Thus, the moderating effect of gender, H11, is not shown.
+Table 4: Path Coefficients and Multi-group Analysis
+Total N=474 Women N= 296 Men N=178 Chin Satterthwaite
+Path P Value Path P Value Path P Value TValue P Value T Value P Value
+PE->BI 0.234 <0.001 0.25 <0.001 0.231 <0.001 0.2722 0.7856 0.3294 0.742
+EE->BI 0.197 <0.001 0.173 <0.001 0.202 <0.001 -0.4155 0.678 -0.5027 0.6154
+SI->BI -0.002 0.483 0.044 0.183 -0.001 0.482 0.6447 0.5159 0.78 0.4358
+FC->BI 0.002 0.482 0.054 0.13 0.001 0.493 0.7593 0.4481 0.9187 0.3587
+
+
+JIBC April 2015, Vol. 20, No. 1 - 13 
+HM->BI 0.003 0.476 0.031 0.261 0.009 0.388 0.3152 0.7528 0.3814 0.7031
+PV->BI 0.210 <0.001 0.203 <0.001 0.212 <0.001 -0.1289 0.8975 -0.156 0.8761
+H->BI 0.299 <0.001 0.285 <0.001 0.284 <0.001 0.0143 0.9886 0.0173 0.9862
+BI->USE 0.465 <0.001 0.455 <0.001 0.465 <0.001 -0.1433 0.8861 -0.1733 0.8625
+FC->USE 0.034 0.168 0.082 0.044 0.037 0.125 0.6447 0.5195 0.78 0.4358
+H->USE 0.236 <0.001 0.293 <0.001 0.238 <0.001 0.7879 0.4311 0.9534 0.3409
+DISCUSSION
+The aim of our work - to analyze the acceptation and use of IB (Internal Banking) technology by the elderly following the UTAUT2 methodology - has been achieved. We would like to comment upon various significant aspects of the results.
+Firstly, the choice of UTAUT2 as a theoretical framework for the study was due to two of the three variables added to the UTAUT being significantly related to behavior intention (BI) and technology use (USE). This supports the improvement of the initial model with the new contributions of the UTAUT2. Resulting from the application of the UTAUT baseline model (Venkatesh et al. 2003), the variance of BI and USE explained in the model is 53% and 36% (respectively), in an analysis of information technology implementation in an organization context. In our case, for a consumption technology, such as IB, the variance explained in BI is 62.3% and USE is 38.6%, close to the values found by Venkatesh et al. (2012).
+Secondly, statistically significant relationships have been found in six of the ten antecedents proposed by Venkatesh et al. (2012) for UTAUT2. More specifically, we find four significant antecedents of BI. Among them, habit (H) is a main antecedent, an aspect that coincides with Venkatesh et al. (2012) in the context of mobile Internet technology. Other significant antecedents are, in order of importance, Performed Expectancy (PE), Price Value (PV) and Effort Expextancy (EE). Both Venkatesh et al. (2012) and Venkatesh et al. (2003) found stronger relationships with BI regarding PE than EE. However, these research works were developed in the context of mobile Internet technology and introducing a new technology in the work place. Likewise, Yu (2012) finds a strong and significant relation between PE and BI, but not between EE and BI, in the area of mobile banking. In the IB context, Van der Heijden (2004) demonstrates that perceived utility would be more important when the technology was more job-related or utilitarian. When a technology is utilitarian, the user considers usefulness more important than ease of use.
+However, Yeoh and Chan (2011) and Im et al. (2011) find stronger relationships between EE and BI with than with PE. We believe that these differences in these two research works may be due to cultural differences, as these works were carried out with samples from Kuala Lumpur, Korea and the USA, as well as with the type of samples used (respondents aged 21 to 50 and college students, office workers, undergraduate and part-time MBA students, respectively). On the other hand, with respect to USE, its main antecedent is BI, followed by habit. These results also coincide with Venkatesh et al. (2012). For the case of IB as a whole, habit is one of the key constructs and explains USE directly and indirectly through BI.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 14 
+Yet there are relationships that have not found support in our research. Firstly, the results of our study indicate that social influence (SI) does not significantly influence BI. The same result was found by Venkatesh et al. (2003) studying the models analyzed for the creating of the UTAUT, as none of the constructs proposed by the different models for SI are significant in voluntary contexts, although they are in mandatory contexts. They suggest that the probability of people fulfilling the expectations of others is greater in the case of their being able to reward or penalize behavior.
+Thus, SI is only important in mandatory situations and especially in the initial stages of the experience (Taylor and Todd 1995), when the opinions of the individual are relatively imprecise. Likewise, Karahanna and Straub (1999) argue that inexperienced potential system adopters are influenced by social norms more than current experienced users are. Social pressure decreases over time (Venkatesh and Morris 2000) when the experience increases and supplies instrumental bases other than those that are social for the intention of use of the technology.
+Alqeisi (2009) argues that users may depend on their own beliefs rather than on the opinions of others, or that they may use their direct experience with a system to form their intentions or perceptions of usefulness (Venkatesh and Davis 2000; Venkatesh et al. 2003).
+In the same way, Asmi and Ishaya (2012), analyzing behavior towards IB by the 55-65 age segment, find that social norms in the form of ‘peer influence’ are a variable of less influence than the impact of attitude in defining the behavior of elderly people in the UK. On the other hand, Yuen et al. (2010) analyze the factors that affect their acceptation in developed countries and countries that are in the process of development, based on the UTAUT, and also find that SI does not influence BI in either type of countries. The explanation given is that friends and family do not have a significant influence on the decision of adopting IB, as users tend to access alone for security reasons. Moreover, other ICTs have an important social effect due to some of the applications becoming more useful when there are more users, and users trying to encourage people who they know to adopt the applications (Chong, 2013). This social effect or trend sign does not exist in IB.
+Secondly, the results of our study indicate that Facilitating Conditions (FC) do not significantly influence BI. Venkatesh et al. (2003: 453-454) show that the support infrastructure is a key concept within the FC construct and its effects are captured within EE. That is to say, if EE is not present in the model, it can be expected that FC will be predictive of intention. However, if PE and EE are present in the model, FC becomes non-significant for BI.
+Likewise, as with Yuen et al. (2010) and Martins et al. (2014), our results do not confirm the relation between FC and USE. Venkatesh et al. (2003) find within the work environment that the effect of FC on USE was only significant when the effect of age and experience was analyzed, as this gave more value to receiving help and assistance in their tasks. However, in the consumer environment, Venkatesh et al. (2012) find that FC dependence is of great importance for elderly women in earlier stages of using technologies because they stress the reduction of the effort of learning required when using a new ICT. Nevertheless, the experience with IB makes people confident about
+
+
+JIBC April 2015, Vol. 20, No. 1 - 15 
+their command of computer skills and thus they may not be influenced by FC (Shih and Fang 2004). It is also to be expected that IB is designed for general users and therefore most consumers can access it easily. The resources, knowledge, compatibility and ability to get help from others have a less prominent role in technologies such as mcommerce (Chong 2013) or IB. In Alqeisi (2009), website quality (technical quality, general content quality, special content, and appearance quality) replaced the FC construct in the original UTAUT model for IB, due to its use being investigated under discretionary conditions and thus the website quality dimension replaced the technological resources. These results show the direct path hypothesized between website quality perceptions and IB use being supported in the UK model, but not in the Jordanian model.
+Thirdly, our results do not demonstrate the effect of hedonic motivation (HM) on BI. In the case of a technology in which utilitarian and hedonic benefits exist, both will be important determinants of its use, but if the technology is more oriented toward the hedonic value, this will have a greater impact on the intention of adopting it (Van der Heijden 2004). The search for novelty and innovation can be added to HM when using an ICT. However, when the experience increases, the attractiveness of the novelty which contributes to HM can diminish and the consumers will use the ICT with more practical intentions (Venkatesh et al. 2012). In the IB environment, system characteristics are considered of most importance, specifically the functional features of the bank website (Ndubisi and Sinti 2006). The focus of the banks’ website is currently restricted to the utilitarian aspects of the web services (Alqeisi 2009).
+Finally, the moderator effect of gender, contrary to expectations, was not shown in our results. Venkatesh et al. (2003) and Pan and Jordan- Marsh (2010) point out that gender differences in ICTs can disappear as women are fully integrated into the labor environment. If individuals are actual users with prior computer and Internet knowledge, the non-moderating effects of gender confirm the conceptualization that gender differences tend to disappear under discretionary conditions and with increased experience (Alqeisi 2009; Morris et al. 2005; Venkatesh et al. 2003). Venkatesh et al. (2012), when analyzing the UTAUT2 model with moderators, find that gender alone is not significant. When using gender and age together they do find that constructs such as PE, FC and PV are significant for BI.
+Business Implications
+There are some recommendations for the development of IB by the public at large. For example, Lichtenstein and Williamson (2006) proposed: (1) inform consumers about the features, advantages and benefits of Internet banking, (2) offer internet training for people with low internet self-efficacy, (3) continue to improve security and privacy concerns, (4) improve the banks ́ public image, (5) consider the possibility of using technology-enabled and personal services, and (6) offer simple and improved support for set up procedures. We think that these recommendations are still desirable at present, for all types of customers.
+In the case of the elderly, banks may confront wide efforts to lead elderly users to their Internet services. Internet is in most cases considered by this segment as being irrelevant to their daily lives and voluntarily avoided (Pan and Jordan-Marsh, 2010). In addition, some other elderly users perceive barriers to computer use (Wagner et al.,
+
+
+JIBC April 2015, Vol. 20, No. 1 - 16 
+2010). Banks should emphasize the convenience that Internet banking can provide to the elderly, such as having to go to the bank ́s branches or avoiding long queues. Similarly, this fact makes the adaption of the Webpages necessary in terms of design, in order for them to be a friendly and easier environment to operate in. Website design should be very simple and should improve the clarity, visibility and navigability for customers to be able to easily operate. If banks segment the market, they can focus on the elderly’s needs and preferences. In this line, it seems reasonable to consider that the success of IB could be in the personalization of services to attract the segment of the elderly.
+Finally, regarding our results, we would like to offer some suggestions to practitioners. The results point out that habit (H) has a direct effect on IB use and H limits the strength of the relationship between behavior intention and the elderly’s IB use. To increase their habitual use, the resistance of older adults to a change in their way of accessing services can be achieved by reducing the perceived risk in the purchase (Lichtenstein and Williamson, 2006; Martins et al. 2014; Tai and Ku, 2013; Yu, 2012). Likewise, to properly communicate the advantages from use and promote a continuous Internet use, providers can offer discounts, gifts, contests or add other services, such as cultural offers, trips etc., which are positively valued by elderly.
+As an effect of a greater use, PE and EE would be increased. With respect to the effect of PE on BI, banks should underscore the usefulness of IB services. Possible improvements of PE could come from incorporating new applications which offer users value added. For example, to connect specific family finance management applications with the information available in their bank accounts. This type of applications would provide the user with a greater productivity, offering a fast and useful value added service.
+Regarding EE, a bank must be interested in their customers perceiving that online activities in their financial decisions are easy and that a minimum of experience leads them to be highly confident in their use of these tools. A way of doing so could be via improvements in the web design, seeking the optimization of its usability and aesthetics (Sanchez-Franco and Martín-Velicia, 2011), especially in the case of the elderly, who are digital natives and who have physical and motor constraints.
+Regarding price value, banks should, due to its influence on behavior intention (BI), remove any kind of doubts about there being a higher price or commissions being charged for using IB. Banks should emphasize cost savings, such online banking as reducing transaction costs sing. On the contrary, they should stress the idea of the system being free, as well as implementing better conditions for online customers whenever possible.
+CONCLUSIONS, LIMITATIONS AND FURTHER RESEARCH
+IB offers advantages for the elderly: 24 hour access, versatility, independence and the possibility of overcoming the physical barriers of age in accessing services. Elderly people are a growing segment today and present different characteristics from the rest of the population (more free time, greater freedom in their economic and financial
+
+
+JIBC April 2015, Vol. 20, No. 1 - 17 
+decisions and less use of Internet and other ICTs). In this market, banks need to better understand the new type of relationship that the use of Internet generates and how the elderly accept and use this system. According to the results obtained, habit is a key element in IB. Given the importance of habit for use, as well as behavior intention, it would be interesting to go more deeply into the antecedents of this construct.
+This work must be considered as a first step in the understanding of grey IB. The difficulty of collecting data from the elderly led us to those members of the population that were at our disposal - our sample has been gathered without considering a probabilistic approach. Although the sample is diverse and the proportion of sociodemographics present in the population is consistent with the distribution of the sample used, a convenience sample must be understood as a first approach which calls for a more thorough analysis of this group.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 18 
+REFERENCES
+AbuShanab, E., Pearson, J., Setterstrom, A., (2010). Internet banking and customers’ acceptance in Jordan: the unified model ́s perspective. Communications of the Association for Information Systems 26, article 23. Ainin, S., Lim, C.H., Wee, A., (2005). Prospects and challenges of e-banking in Malaysia. The Electronic Journal of Information Systems in Developing Countries 22, 1, 1-11. Al-Qeisi, K.I., (2009). Analyzing the use of UTAUT model in explaining an online behaviour: Internet banking adoption. Brunel Business School Theses Marketing. Al-Jabri, I.M., Sohail, M.S., (2012). Mobile Banking Adoption: Application of Diffusion of Innovation Theory. Journal of Electronic Commerce Research 13, 4, 379-391. Asmi, F., Ishaya, T., (2012). Understanding the behavior of the elderly towards Internet Banking in the UK. SOTICS 2012: The Second International Conference on Social Eco-Informatics, 100-106. Bagozzi, R. P., (2007). The legacy of the Technology Acceptance Model and a proposal for a paradigm shift. Journal of the AIS 8, 4, 244-254. Retrieved June, 2014, from http://aisel.aisnet.org/jais/vol8/iss4/12 Barnes, S.J., Böhringer, M., (2011). Modeling use continuance behaviour in microblogging services: The case of Twitter. Journal of Computer Information Systems 51, 4, 1-10. Chen, K., Chan, A.H.S., (2014). Predictors of gerontechnology acceptance by older Hong Kong Chinese. Technovation 34, 2, 126–135. http://dx.doi.org/10.1016/j.technovation.2013.09.010 Chen, L., Holsapple, C.W., (2013). E-business adoption research: State of the art. Journal of Electronic Commerce Research 14, 3, 261-286. Cheng, D., Liu, G., Qian, Ch., Song Y-F. (2008). Customer acceptance of internet banking: Integrating trust and quality with UTAUT model. In proceeding of Service Operations and Logistics, and Informatics,IEEE/SOLI 2008. IEEE International Conference on, Volume: 1. http://dx.doi.org/10.1109/soli.2008.4686425 Cheng, D., Liu, G., Qian, Ch., Song Y-F, (2009). User acceptance of internet banking: an extension of the UTAUT model with trust and quality constructs. International Journal of Services Operations and Informatics 4, 4, 378- 393. http://dx.doi.org/10.1504/ijsoi.2009.029186 Chin, W. W., (2000). Frequently Asked Questions- Partial Least Squares & PLS-Graph2. Retrieved July, 2014, from http://disc-nt.cba.uh.edu/chin/plsfaq.htm. Chin, W. W., (1998). The partial least squares approach for structural equation modeling, in Marcoulides, G.A. (Ed.), Modern methods for business research. Lawrence Erlbaum Associates, London, pp.295–236. http://dx.doi.org/10.4324/9781410604385 Chin, W. W., Marcolin, B. L., Newsted, P. R., (2003). A partial least squares latent variable modeling approach for measuring interaction effects: Results from a Monte Carlo simulation study and an electronic-mail emotion/adoption study. Information Systems Research 4, 2, 189-217. http://dx.doi.org/10.1287/isre.14.2.189.16018 Chong, A.Y., (2013). Predicting m-commerce adoption determinants: A neural network approach. Expert Systems with Applications 40, 523-530. http://dx.doi.org/10.1016/j.eswa.2012.07.068 Chong, A.Y., Ngai, E.T.W., (2013). What influences travellers’ adoption of a location
+
+
+JIBC April 2015, Vol. 20, No. 1 - 19 
+based social media service for their travel planning? PACIS 2013 Proceedings, paper 210. Retrieved July, 2014, from http://aisel.aisnet.org/pacis2013/210 Davis, F. D., (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly 13, 319–339. http://dx.doi.org/10.2307/249008 Ding, X., Verma, R., Iqbal, Z., (2007). Self-service technology and online financial service choice. International Journal of Service Industry Management 18, 3, 24668. http://dx.doi.org/10.1108/09564230710751479 Eastman, J. K., Iyer, R., (2004). The elderly’s uses and attitudes towards the Internet. Journal of Consumer Marketing 21, 208-220. http://dx.doi.org/10.1108/07363760410534759 Escobar-Rodríguez, T., Carvajal-Trujillo, E., (2013). Online drivers of consumer purchase of website airline tickets. Journal of Air Transport Management 32, 5864. http://dx.doi.org/10.1016/j.jairtraman.2013.06.018 Eurostat, (2013a). Individuals using the Internet for Internet banking. Retrieved May, 2014, from http://epp.eurostat.ec.europa.eu/tgm/refreshTableAction.do?tab=table&plugin=1 &pcode=tin00099&language=en Eurostart, (2013b). People for age group. Retrieved May, 2014, from http://epp.eurostat.ec.europa.eu/tgm/refreshTableAction.do?tab=table&plugin=1 &pcode=tps00010&language=en. Falk, T., Schepers, T., Hammerschmidt, M., Bauer, H.H., (2007). Identifying crosschannel dissynergies for multichannel service providers. Journal of Service Research 10, 2, 143-160. http://dx.doi.org/10.1177/1094670507306683 Fornell, C., Larcker, D., (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research 18, 1, 39-50. http://dx.doi.org/10.2307/3151312 Hill, R., Beynon-Davies, P., Williams, M.D., (2008). Older people and internet engagement. Acknowledging social moderators of internet adoption, access and use. Information Technology & People 21, 3, 244-266. http://dx.doi.org/10.1108/09593840810896019 Hoehle, H., Scomavacca, E., Huff, S., (2012). Three decades of research on consumer adoption and utilization of electronic banking channels: A literature analysis. Decision Support Systems 54, 122-132. http://dx.doi.org/10.1016/j.dss.2012.04.010 Howcroft, B., Hamilton, R., Hewer, P., (2002). Consumer attitude and the usage and adoption of home-based banking in the United Kingdom. International Journal of Bank Marketing 20, 3, 111-121. http://dx.doi.org/10.1108/02652320210424205 Im, I., Hong, S., Kang, M. S., (2011). An international comparison of technology adoption. Testing the UTAUT model. Information and Management 48, 1-8. http://dx.doi.org/10.1016/j.im.2010.09.001 Karahanna, E., Straub, D., (1999). The psychological origins of perceived usefulness and ease of use. Information and Management 35, 4, 237-250. http://dx.doi.org/10.1016/s0378-7206(98)00096-2 Karjaluoto, H., Mattila, M., Pento, T., (2002). Electronic banking in Finland: consumer beliefs and reactions to a new delivery channel. Journal of Financial Service Marketing 6, 4, 346-361. http://dx.doi.org/10.1057/palgrave.fsm.4770064 Kim, Y. S., (2008). Reviewing and critiquing computer learning and usage among older adults. Educational Gerontology 34, 709-735.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 20 
+http://dx.doi.org/10.1080/03601270802000576 Kock, N., (2011). Using WarpPLS in e-collaboration studies: Mediating effects, control and second order variables and algorithm choices. International Journal of eCollaboration 7, 3, 1-13. http://dx.doi.org/10.4018/jec.2011070101 Kohlbacher F., Herstatt, C., Levsen N., (2014). Golden opportunities for silver innovation: How demographic changes give rise to entrepreneurial opportunities to meet the needs of older people. Technovation, in Press, Corrected Proof, DOI: 10.1016/j.technovation.2014.05.002 Lam, J. C., Lee, M. K., (2006). Digital inclusiveness- Longitudinal study of Internet adoption by older adults. Journal of Management Information Systems 22, 4, 177-206. http://dx.doi.org/10.2753/mis0742-1222220407 Laukkanen, T., Sinkkonen, S., Kivijarvi M., Laukkanen P., (2007). Innovation resistance among mature consumers. Journal of Consumer Marketing 24, 7, 419-427. http://dx.doi.org/10.1108/07363760710834834 Lee, M.Ch., (2009). Factors influencing the adoption of internet banking: An integration of TAM and TPB with perceived risk and perceived benefit. Electronic Commerce Research and Applications 8, 130-141. http://dx.doi.org/10.1016/j.elerap.2008.11.006 Lee, K-W, Tsai, M-T., Lanting, M.C., (2010). From marketplace to marketspace: Investigating the consumer switch to online banking. Electronic Commerce Research and Applications 10, 115–125. http://doi.org/b3gmfj Leppel, K., McCloskey, D.W., (2011). A cross-generational examination of electronic commerce adoption. Journal of Consumer Marketing 28, 4, 261-268. http://dx.doi.org/10.1108/07363761111143150 Lewis, C. C., Fretwell, Ch., Ryan, J., Parham, J.B., (2013). Faculty use of established and emerging Technologies in Higher Education: A Unified Theory of Acceptance and Use of Technology Perspective. International Journal of Higher Education 2, 2, 22-34. http://dx.doi.org/10.5430/ijhe.v2n2p35 Lichtenstein, S., Williamson, K., 2006. Understanding consumer adoption of internet banking: An interpretive study in the Australian Banking context. Journal of Electronic Commerce Research 7, 2, 50-66.b Limayem, M., Hirt, S.G., Cheung, C.M.K., (2007). How habit limits the predictive power of intention: The case of information systems continuance. MIS Quarterly 31, 4, 705-737. Lockett, A., Littler, D., (1997). The adoption of direct banking services. Journal of Marketing Management 13, 8, 791-811. http://dx.doi.org/10.1080/0267257x.1997.9964512 Mardikyan, S.; Besiroglu, B., Uzmaya, G., (2012). Behavioral intention towards the use of 3G technology, Communications of the IBIMA, ID 622123, http://dx.doi.org/DOI: 10.5171/2012.622123. Martins, C., Oliveira, T., Popovic. A., (2014). Understanding the Internet banking adoption: A unified theory of acceptance and use of technology and perceived risk application. International Journal of Information Management 34, 1, 1-13. http://dx.doi.org/10.1016/j.ijinfomgt.2013.06.002 Mattila, M., Karjaluoto, H., Pento, T., (2003). Internet banking adoption among mature customers: Early majority or laggards? The Journal of Services Marketing 17, 4/5, 514-526. http://dx.doi.org/10.1108/08876040310486294 Mols, N.P., (1998). The Internet and the banks' strategic distribution channel decisions. International Journal of Bank Marketing 17, 6, 295-300.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 21 
+http://dx.doi.org/10.1108/10662249810231087 Morris, M., Venkatesh, V., Ackerman, P., (2005). Gender and age differences in employee decisions about new technology: An extension to the Theory of Planned Behavior. IEEE Transactions on Engineering Management 52, 1, 69-84. http://dx.doi.org/10.1109/tem.2004.839967 Moschis, G.P., (2012). Consumer behavior in later life: Current knowledge, issues, and new directions for research. Psychology & Marketing 29, 2, 57-75. http://dx.doi.org/10.1002/mar.20504 Nayak, L.U.S., Priest, L., White, A.P., (2010). An application of the Technology Acceptance Model to the level of Internet usage by older adults. Universal Access in the Information Society 9, 367–374. http://dx.doi.org/10.1007/s10209009-0178-8 Ndubisi, N., Sinti, Q., (2006). Consumer attitudes, system’s characteristics and internet banking adoption in Malaysia. Management Research News 29, 1/2, 16-27. http://dx.doi.org/10.1108/01409170610645411 Nunnally, J. C., Bernstein, I. H., 1994. Psychometric Theory, third ed. McGraw-Hill, New York. Pan, S., Jordan-Marsh, M., (2010). Internet use intention and adoption among Chinese older adults: From the expanded technology acceptance model perspective. Computers in Human Behavior 26, 5, 1111-1119. http://dx.doi.org/10.1016/j.chb.2010.03.015 Pan, L.Y., Chang, S.C., Sun, C.C., (2014). A three-stage model for smart phone use antecedents. Quality and Quantity 48, 2, 1107-1115. http://dx.doi.org/10.1007/s11135-012-9821-1 Patsiotis, A.G., Hughes, T., Webber, D.J., (2012). Adopters and non-adopters of internet banking: A segmentation study. International Journal of Bank Marketing 30, 1, 20-42. http://dx.doi.org/10.1108/02652321211195686 Pikkarainen, K., Karjaluoto, H., Pahnila, S., (2004). Consumer acceptance of online banking: an extension of the technology acceptance model. Internet Research: Electronic Networking, Applications and Policy 14, 3, 224-235. http://dx.doi.org/10.1108/10662240410542652 Raman, A., Don, Y., (2013). Preservice teachers' acceptance of learning management software: An Application of the UTAUT2 Model. International Education Studies 6, 7, 157-164. http://dx.doi.org/10.5539/ies.v6n7p157 Ramón-Jerónimo, M.A., Peral-Peral, B., Arenas-Gaitán, J., (2013). Elderly persons and internet use. Social Science Computer Review 2, 7, 389-403. http://dx.doi.org/10.1177/0894439312473421 Rock, W., Hira, T.K., Loibl, C., (2010). The use of the internet as a source of financial information by households in the United States: A National Survey. International Journal of Management 27, 3, 754-778. Sánchez-Franco, M.J., Martín-Velicia, F.A., (2011). The interaction effects of ego involvement on the relationships between aesthetics, usability and commitment: An application to electronic banking services and virtual travel communities. Online Information Review 35, 2, 194-216. http://dx.doi.org/10.1108/14684521111128005 Satterthwaite, F. E., (1946). An approximate distribution of estimates of variance component. Biometrics Bulletin 2, 110-114. http://dx.doi.org/10.2307/3002019 Shih, Y., Fang, K., (2004). The use of a decomposed theory of planned behavior to study Internet banking in Taiwan. Internet Research 14, 3, 213-223.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 22 
+http://dx.doi.org/10.1108/10662240410542643 Sohail, M, Shanmugham, B., (2004). E-banking and customers’ preferences in Malaysia: An empirical investigation. Information Sciences, Informatics and Computer Science: An International Journal 150, 207-217. http://dx.doi.org/10.1016/s00200255(02)00378-x. Tai, Y.M., Ku, Y.C., (2013). Will stock investors use mobile stock trading? A benefit-risk assessment based on a modified UTAUT model. Journal of Electronic Commerce Research 14, 1, 67- 84. Taylor, S., Todd, P., (1995). Assessing IT usage: The role of prior experience. MIS Quarterly 19, 4, 561-570. http://dx.doi.org/10.2307/249633 Van der Heijden, H., (2004). User acceptance of hedonic information systems. MIS Quarterly 28, 4, 695-703. Venkatesh, V., Zhang, X., 2010. Unified Theory of Acceptance and Use of Technology: U.S. Vs. China. Journal of Global Information Technology Management 13, 1, 527. http://dx.doi.org/10.1080/1097198x.2010.10856507 Venkatesh, V., Davis, F. D., (2000). A theoretical extension of the technology acceptance model: Four longitudinal field studies. Management Science 46, 2, 186-204. http://dx.doi.org/10.1287/mnsc.46.2.186.11926 Venkatesh, V., Morris, M. G., (2000). Why don’t men ever stop to ask for directions? Gender, social influence, and their role in technology acceptance and usage behavior. MIS Quarterly 24, 115-139. http://dx.doi.org/10.2307/3250981 Venkatesh, V., Davis, F. D., Morris, M. G., (2007). Dead or Alive? The developmental, trajectory and future of technology adoption research. Journal of the AIS 8, 4, 268-286. Venkatesh, V., Morris, M. G., Davis, G. B., Davis, F. D., (2003). User acceptance of information technology: Toward a unified view. MIS Quarterly 27, 3, 425-478. Venkatesh, V., Thong, J.Y.L., Xu, X., (2012). Consumer acceptance and use of information technology: Extending the Unified Theory of Acceptance and Use of Technology. MIS Quarterly 36, 1, 157-178. Wagner, N., Hassanein, K., Head, M., (2010). Computer use by older adults: A multidisciplinary review. Computers in Human Behavior 26, 870–882. http://dx.doi.org/10.1016/j.chb.2010.03.029 Williams, M. D., Rana, N. P., Dwivedi, Y. K., Lal, B., (2011). Is UTAUT really used or just cited for the sake of it? A systematic review of citations of UTAUT’s originating article, in Proceedings of ECIS. Yang, K. Forney, J.C., (2013). The moderating role of consumer technology anxiety in mobile shopping adoption: differential effects of facilitating conditions and social influences. Journal of Electronic Commerce Research 14, 4, 334-347. Yang, K., (2010). Determinants of US consumer mobile shopping services adoption: implications for designing mobile shopping services. Journal of Consumer Marketing 27, 3, 262-270. http://dx.doi.org/10.1108/07363761011038338 Yeoh, S.F., Chan, Y.F., (2011). Internet Banking adoption in Kuala Lumpur: An Application of UTAUT Model. International Journal of Business and Management 6, 4, 161-167. http://dx.doi.org/10.5539/ijbm.v6n4p161 Yeow, P. H. P., Yuen, Y. Y., Tong, D. Y. K., Lim, N., (2008). User acceptance of online banking service in Australia. Communications of the IBIMA 1, 22, 191-197. Yu, C.S., (2012). Factors affecting individuals to adopt mobile banking: empirical evidence from the UTAUT model. Journal of Electronic Commerce Research 13, 2, 104-121.
+
+
+JIBC April 2015, Vol. 20, No. 1 - 23 
+Yuen Y.Y., Yeow P.H.P., Lim N., Saylani N., (2010). Internet banking adoption: Comparing developed and developing countries. The Journal of Computer Information Systems 51, 1, 52-61. Zhou, T., Lu, Y., Wang, B., (2010). Integrating TTF and UTAUT to explain mobile banking user adoption. Computers in Human Behavior 26, 760-767. http://dx.doi.org/10.1016/j.chb.2010.01.013
