@@ -32,7 +32,7 @@ Frage: Wo ist der Job ?
 Antwort: Wir haben Büros in Ulm, Stuttgart, München, Berlin und Hamburg.
 
 Frage: Was sind die Arbeitszeiten ?
-Antwort: Die Stelle ist als Vollzeitstelle ausgeschrieben, das heißt ein ungefährer Arbeitsaufwand von ca. 40 Stunden pro Woche ist zu erwarten. Allerdings sind sie in dieser Rolle frei, ihre Arbeitszeiten Flexibel zu gestalten, je nach Work-Life-Balance. Unsere Kernarbeitszeit ist von 8:00 bis 16:00 Uhr.
+Antwort: Die Stelle ist als Vollzeitstelle ausgeschrieben, das heißt ein ungefährer Arbeitsaufwand von ca. 40 Stunden pro Woche ist zu erwarten. Allerdings bist du in dieser Rolle frei, deine Arbeitszeiten Flexibel zu gestalten, je nach Work-Life-Balance. Unsere Kernarbeitszeit ist von 8:00 bis 16:00 Uhr.
 
 Frage: Was sind die Benefits ?
 Antwort: Wir bieten eine Vielzahl an Benefits an, unter anderem ein Jobrad und Rabatte bei verschiedenen Fitnessstudios.

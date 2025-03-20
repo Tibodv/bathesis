@@ -7,6 +7,17 @@ Wenn ich in der Zukunft aktiv nach einer neuen beruflichen Herausforderung suche
 Angenommen, ich stünde vor der Entscheidung, mich beruflich zu verändern, könnte ich mir vorstellen, mich aufgrund der Darstellung dieser Website für eine Stelle bei diesem Unternehmen zu bewerben.
 
 Sollte ich irgendwann auf Jobsuche gehen, würde mich das Angebot und die Präsentation auf dieser Website dazu anregen, eine Bewerbung bei diesem Unternehmen in Erwägung zu ziehen.
+-> nicht mehr konjunktiv, weil der Text darüber schon in den Konjunktiv geht.
+
+Wenn ich in der Zukunft aktiv nach einer neuen beruflichen Herausforderung suche, werde ich mich bei diesem Unternehmen bewerben.
+
+Aufgrund der Darstellung auf dieser Webseite würde ich mich bei diesem Unternehmen bewerben.
+
+Mich regt das Angebot und die Präsentation auf dieser Website dazu an, eine Bewerbung bei diesem Unternehmen in Erwägung zu ziehen.
+
+
+
+
 
 ---
 Use Behavior

@@ -1,0 +1,3 @@
+- Größte Blöcke definieren
+- Dann die informell und schnell aufschreiben
+- 
