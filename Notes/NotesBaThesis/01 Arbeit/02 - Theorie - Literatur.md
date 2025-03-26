@@ -128,7 +128,7 @@ Use Behavior kann ich aus Datenschutzgründen nicht pro Einzelperson nachstellen
 
 
 ---
-#### Schwächen UTAUT2
+#### Bewertung UTAUT2
 
 Überlappung von Konstrukten
 (kann anscheinend zu Multikolinearität führen, was ist das ?)
@@ -144,6 +144,8 @@ Chatbots sind unterschiedlich, daher ist meine Studie nicht zwingend replizierba
 Übersetzungsvalidität nicht geprüft 
 
 `Ich glaube die letzten beiden Punkte gehören in Methode oder Diskussion tbh`
+
+UTAUT2 Funktioniert auf allen ebenen, auf denen man eine Theorie/Methode bewerten kann, außer "Parsimony" - "Sparsamkeit" -> zu viele Fragen
 
 
 ---

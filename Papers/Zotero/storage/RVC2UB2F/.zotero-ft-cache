@@ -1,0 +1,888 @@
+Skip to main content
+
+ORIGINAL RESEARCH article
+
+Front. Psychol. , 18 October 2022
+
+Sec. Organizational Psychology
+
+Volume 13 - 2022 | https://doi.org/10.3389/fpsyg.2022.993935
+
+This article is part of the Research Topic
+Innovative Behavior in Entrepreneurship: Analyzing New Perspectives and Challenges
+View all 16 articles
+
+Application and extension of the UTAUT2 model for determining behavioral intention factors in use of the artificial intelligence virtual assistants
+María García de Blanes SebastiánJosé Ramón Sarmiento GuedeArta Antonovica*
+Business Economics, Rey Juan Carlos University, Madrid, Spain
+
+Virtual Assistants, also known as conversational artificial intelligence, are transforming the reality around us. These virtual assistants have challenged our daily lives by assisting us in the different dimensions of our lives, such as health, entertainment, home, and education, among others. The main purpose of this study is to develop and empirically test a model to predict factors that affect users' behavioral intentions when they use intelligent virtual assistants. As a theoretical basis for investigating behavioral intention of using virtual assistants from the consumers' perspective, researchers employed the extended Unified Theory of Acceptance and Use of Technology (UTAUT2). For this research paper, seven variables were analyzed: performance expectancy, effort expectancy, facilitating conditions, social influence, hedonic motivation, habit, and price/value. In order to improve consumer behavior prediction, three additional factors were included in the study: perceived privacy risk, trust, and personal innovativeness. Researchers carried out an online survey with 304 responses. The obtained sample was analyzed with Structural Equation Modeling (SEM) through IBM SPSS V. 27.0 and AMOS V 27.0. The main study results reveal that factors, such as habit, trust, and personal innovation, have a significant impact on the adoption of virtual assistants. However, on the other side, performance expectancy, effort expectancy, facilitating conditions, social influence, hedonic motivation, price/value, and perceived privacy risk were not significant factors in the users' intention to adopt this service. This research paper examines the effect of personal innovation, security, and trust variables in relation to the use of virtual assistants. It contributes to a more holistic understanding of the adoption of these intelligent devices and tries to fill the knowledge gap on this topic, as it is an emerging technology. This investigation also provides relevant information on how to successfully implement these technologies.
+
+Introduction
+
+The most recent developments around digital technologies open new possibilities in the Human-to-machine interaction (Dix, 2017). Virtual assistants (VAs) are remarkable for their functionalities by providing close to real conversations with humans using interfaces, and by representing a human-like image that simulates social skills recreating personable qualities that interact with humans via imitation. Some human abilities that are commonly recreated or represented as communicative traits include speech recognition, feedback loop, and interacting with the tool of the exchange in a conversation (Cassell, 2000). Some known VAs in everyday activities, Alexa, Siri, Cortana, and Bixby, complete essential tasks: starting phone calls, reporting weather, processing math and calculations, playing music lists, and many more (Chattaraman et al., 2019; Robinson et al., 2019). Artificial Intelligence (AI) is providing the tools for VAs to offer advanced voice interfaces, and to allow users to carry an interaction via internet connection by using real speech. These VA platforms are integrated in consumer devices via smartphones and tablets, as well as via platforms for home entertainment, incorporating speakers, bots, and messenger platforms (Guzman, 2019). Workplace environment interfaces can include: functions via chatbots, graphic design, speech recognition, media publishing, video editing, and accounting, etc., and can be found in VAs. The most recent dissemination from devices powered by AI and integrated business software into market technology will provide a bottom line 4.2 billion devices, which is estimated to double in number to 8.4 billion in 2024 (Statista, 2022).
+
+In this context, scholars in the Information Technologies area have created a framework of the UTAUT2 theory (Venkatesh et al., 2012), where any empirical information and collected data can be studied to apply in different fields with varying angles within the technology realm (Venkatesh et al., 2016). This approach, and growing interest in VAs, provides field research to understand factors that lead to VAs adoption. This growing interest on studying factors from a consumer decision-making side creates a number of rationales that allow for insightful predictions within the adoption segment (Yang and Lee, 2019; Hasan et al., 2021; Pitardi and Marriott, 2021). It seems that there are not enough studies framing the factors that are influencing, or directly or indirectly changing, everyday needs and expectations in order to evolve according to users' needs. This became apparent mainly after many changes drastically affected our standard of living and interactions, as those that occurred in Spain during and after the last global pandemic caused by COVID-19.
+
+The model UTAUT2 is the base framework, with an emphasis on Perceived Privacy Risk and Perceived Trust as constructs taken into consideration. As a result, the theoretical model is improved by adding Personal Innovation to the seminal notions developed by Dinev and Hart (2006) for an integrated framework. The following research questions and objectives lead the study.
+
+Research questions:
+
+- What are the factors impacting behavioral intention in the process of use for VAs?
+
+- What degree of trust, perceived privacy risk, and personal innovation can be measured from VA usage?
+
+Objectives:
+
+- To explore the factors included in the model UTAUT2 directly impacting user behavior around VAs.
+
+- To add rationales from the model UTAUT2 impacting user behavior around VAs.
+
+- To evaluate the model of behavioral user intention aligned with empirical data in correlation with guiding variables.
+
+- To establish a preliminary guideline from intention to usage for plausible advances around this area.
+
+The study is presented in 6 sections. Section 1 is the Introduction. Section 2 sets a Theoretical framework, before introducing the hypothesis linked to relevant variables from the theories applied in Section 3, Selected variables for the study. Next, Section 4, Methodology, sets research standards, including methods, data collection, and data analysis. In Section 5 presents results and discussion. In Section 6, Conclusions and implocations are explained, prior to Section 7, Limitations and future research which provides the scope and closing remarks.
+
+Theoretical framework
+Virtual assistants
+
+The use of artificial intelligence is being developed in line with the improvement of technology and tasks relating to AI implementations (Saad et al., 2017; Yang and Lee, 2019; Lopatovska et al., 2021). AI implementation in VA consumer devices, also called voice assisted tools, revolves around integrated data in IoT applications. These communicate with users, via speech, text, facial recognition, and gestures (Laranjo et al., 2018) to allow user interaction via natural language (Stieglitz et al., 2018). These devices are designed to provide a similar-to-human environment, having improved voice activated technology from the previous generation of devices; and due to the additional learning capability from input for a better performance, this technology has advanced a step further in its potential for personalization (Bawack et al., 2021; Vimalkumar et al., 2021). In general, the latest generation of voice assisted devices offers better-quality tools for services providing added space for personalization with regard to previous interactions (McLean and Osei-Frimpong, 2019; Pantano and Pizzi, 2020). Accordingly, digital adaptations in voice assisted devices extend on the expectation for performance and productivity in the workplace, so their link to hedonic pleasure and utility derived from usage has an impact on the balance that its users attain in their personal lives (Mishra et al., 2021; Jain et al., 2022). Popular personal assistant devices in the present-day marketplace, such as, Siri, Alexa, Cortana, and Bixby, are integrating common every day-use devices in consumer technology, such as speakers, autonomous vehicles and mobile devices, by integrating voice recognition into AI, so users interact with smartphones from a creative, novel, and more immediate interface. In recent years, VAs with integrated AI functionalities have been a leading trend in consumer technology due to the potential benefits derived from personalization, both in the workplace and in the home, and for the ease of use and added capabilities, which, in turn, create a positive feeling around VAs (Moriuchi, 2019).
+
+UTAUT2
+
+The analysis of factors in technology adoption are core to research studies in the field for a great number of authors. The UTAUT model was derived via an evolved model from at least eight developments from different fields of study, pinning down technological change and adoption: Innovation Diffusion Theory IDT (Rogers, 1961); Theory of Reasoned Action TRA (Ajzen and Fishbein, 1980); Theory of Planned Behavior TPB (Ajzen, 1991); Social Cognitive Theory SCT (Bandura, 1986); Technology Acceptance Model TAM (Davis, 1989); Model of PC Utilization MPCU (Thompson et al., 1991); Motivational Model MM (Davis et al., 1992); C-TAM; Combined TAM-TPB (Taylor and Todd, 1995). The main value of this model arises from bringing a historic light in technology use by working around a set of constructs; that is, concepts that encapsulate what is central to the effects of technology use from a user's intention perspective (Yu, 2012). The UTAUT model centered on four constructs: Performance Expectancy, Effort Expectancy, Social Influence, and Facilitating Conditions with moderating demographic inputs: gender, age, level of expertise (experience), and perceived usefulness (Venkatesh et al., 2003). From these eight variables, a wrapping theory with their activated items from constructs, are presented in Table 1.
+
+Table 1
+
+Table 1. Core constructs of UTAUT.
+
+With UTAUT's underlying theoretical context, Venkatesh et al. (2012) provided a seminal framework to focus on the consumer viewpoint for an extended version UTAUT2, which aggregated three factors for considerations: Hedonic Motivation, Price/value, and Habit. This allows for a predictive capability built-into the model that substantially increases its potential for estimating user adoption up to 74% (Venkatesh et al., 2016). The applicable dimension of the theoretical approach had been well-established as a general framework within the technology industry. The large number of studies produced are evidence of a model that is fruitful for analysis in the new technologies' adoption areas and within innovative approaches, and as part of varying cultural and social contexts, gives us an enhanced framework for adoption (Šumak and Šorgo, 2016). Some fields of practical application and user, behavioral, and standard approach are often used for virtual classroom and learning (Dizon, 2021); banking and finances (Khan and Rabbani, 2021), and ecommerce (Biduski et al., 2020).
+
+Scientific research regarding virtual assistants
+
+Many studies have approached user intention, as well as the factors for adoption in VA. Lu et al. (2021) focused on the context of Tourism and Hospitality from a defined consumer approach for long term integration of AI and robotics into common transactions around services for hotels, restaurants, airlines, and retail shop networks. From the analysis of lever factors, the variables that are rated as directly correlated to adoption, are: PE, Intrinsic Motivation, (ergonomics), Social Influence, Facilitating Conditions, and Emotions. Related to Tourism and Hospitality, the travel segment inspired another study focusing on devices for Intelligent Travel Assistants as these relate to eight variables impacting adoption, which are: ease of use, trust, enjoyment, design, usefulness, quality, safety, and empathy. External factors are showing an overall influence, such as, usage, trust, hedonic motivation, and design, to be followed by utility, quality, and empathy. In the institutional context and within organizations, the approach to study technology and VA adoption is taken from a task-oriented, work-environment approach. Some of the factors determining how satisfactory work conditions for a person can be, stem from technology use, as it is impacting productivity and level of tasks completion (Marikyan et al., 2022). In this context, the results point at Performance Expectancy, Perceived Enjoyment, Social Presence, and Trust, as positive factors directly impacting productivity and commitment from workers. Research conducted by McLean and Osei-Frimpong (2019), combined the theoretical underpinnings of Uses and Gratifications Theory (U&GT) with technological theories to obtain a clearer understanding of user motivations in their intent and use of voice assistants around the home. This research establishes a moderating role for the Perceived Privacy Risks that can diminish and negatively influence the use of voice assistants in the home. The results indicate the importance of the benefits that these devices grant us, since it will motivate the use of a voice assistant at home. Yang and Lee (2019) explain the intent and use of VA devices through Perceived Utility, Perceived Enjoyment, and product design-related, ergonomic, features. The results show that the Perceived Usefulness and Enjoyment have a significant impact on users' intention. From a hedonic value perspective, the content quality, which is also a functional attribute of VA devices, as well as visual appeal, positively affect Perceived Enjoyment.
+
+UTAUT 2 has been used in diverse fields from widespread contexts. Vimalkumar et al. (2021) analyzed the factors that motivate people to use voice assistants for the home, adding other variables to the original set: Perceived Privacy concerns, Perceived Privacy Risk, and Perceived Trust. In the Kessler and Martin (2017) research, they identify the perceptions and determinants of potential future users linking to VA technology by adding the variables Data Security, Compatibility, and Relationship with the device to the framework model. Kalinić et al. (2019) analyzes the disposition of customers to use smart speakers for online purchases, adding the Perceived Risk variable to the model (Malarvizhi et al., 2022). Almahri et al. (2020) examines the factors that can deter or facilitate the acceptance and use of chatbots by university/college students in post-secondary education. Gansser and Reich (2021) analyzes factors influencing the use of VAs in a daily life environment in three segments of mobility, home, and health, adding the variables wellbeing and health, convenience, comfort, sustainability, safety and security, and Personal Innovation. Schmitz et al. (2022) investigated patients' intention in order to take advantage of virtual medical appointments by adding Perceived Security, and Perceived Product Advantage to the user intention model of variable analysis.
+
+Selected variables for the study
+Performance expectancy
+
+The PE has been defined as “the degree to which the use of a technology will provide benefits to consumers in carrying out certain activities” (Venkatesh et al., 2003, p. 447). Therefore, it denotes the degree to which an individual perceives that virtual assistant can facilitate greater performance and productivity. Being a relatively recent technology, one foreseeable barrier was set at the possibility of visualizing potential for added tasks within the VA platform. The effect of this variable, on the attitude toward the use of technology, has been well-documented in previous literature on virtual assistants (Cyr et al., 2007; Hassanein and Head, 2007; Moriuchi, 2019; Ye et al., 2020). From this perspective, PE reflects the extrinsic degree of motivation or the expected result of the use. Previous research has seen this variable for its influence on the adoption of VA (McLean and Osei-Frimpong, 2019; Wagner et al., 2019; Koon et al., 2020; Vimalkumar et al., 2021). Therefore, based on this, the following hypothesis is proposed:
+
+H1: PE positively and directly influences user's intention to use VA.
+
+Effort expectancy
+
+EE is “the degree of ease associated with using the system” (Venkatesh et al., 2003, p. 450). In context it refers to the perceived ease in VAs usage. This factor is considered a fundamental predictor of technology adoption in research settings (Wirtz et al., 2019). When interacting with AI-based VAs, EE will appear to be implicit in most cases, being a barrier if they are not provided to the level expected by consumers (Wirtz et al., 2018, 2019) or require a high effort, since VAs have to allow consumers to execute tasks with minimal effort (McLean and Osei-Frimpong, 2019). The objective is therefore to have users achieve a positive perception regarding the “degree of ease” (Venkatesh et al., 2012), Previously it has been shown that confidence in one's own abilities to deal with technical systems has a significant influence, directly impacting the intention to use them (Fridin and Belokopytov, 2014). Previous research has studied this variable to understand its influence on VAs' adoption (Chopra, 2019; Zaharia and Würfel, 2020; Mishra et al., 2021; Moriuchi et al., 2021). Therefore, based on this it is hypothesized that:
+
+H2: EE positively and directly influences user's intention to use VA.
+
+Social influence
+
+SI is “the extent to which consumers perceive their significant others (like family and friends) believe they should use a particular technology” (Venkatesh et al., 2003, p. 451). In the context of the study, it is the degree to which an individual believes that important people support their use of VAs for their daily tasks. The SI based variable models an individual's beliefs and behavior through the interactional mechanisms of compliance, internalization, and identification (Moriuchi, 2021). Previous studies have provided empirical support that evidences the impact of SI on the use of technology in different contexts (Moriuchi, 2021). They have also studied this variable to examine its influence on the adoption of VAs (Chopra, 2019; Zaharia and Würfel, 2020; Mishra et al., 2021; Moriuchi et al., 2021). In this context our proposed hypothesis is the following:
+
+H3: SI positively and directly influences user's intention to use VA.
+
+Facilitating conditions
+
+Facilitating conditions are “consumers' perceptions of the resources and support available to perform a behavior” (Venkatesh et al., 2003, p, 453). Underlying this perception, there is the idea of acceptance; an information system depends on a preliminary assessment of one's own ability to master the new technology (Wong et al., 2020). Users need to perceive the presence of a solid support infrastructure that facilitates the learning and usage of the technology, so the usefulness of a technological device will be executed under the premise that facilitating conditions are actively working on a given environment (Canziani and MacSween, 2021). This scenario is particularly true in the context of AI-based technology, whether for individual or organizational use; it is necessary to have infrastructure that facilitates use (Grover et al., 2020). Vimalkumar et al. (2021) confirmed the positive influence of facilitating conditions on consumer adoption of digital voice assistants. In addition, previous research analyzed FC from the standpoint of influence on adoption, specifically, VAs (Gunasinghe et al., 2020; O'Connell et al., 2021; Al Shamsi et al., 2022) where the findings point at confirming the presence of this variable, thus:
+
+H4: FC positively and directly influences user's intention to use VA.
+
+Hedonic motivation
+
+HM is “the fun element, joy, or pleasure derived from the use of a particular technology without any specific additional benefit” (Venkatesh et al., 2012, pp. 157–178). Some authors state that HM is a key factor in consumer behavior (Holbrook and Hirschman, 1982), and that aspect linked to the fun and pleasure derived from usage, can be seen as crucial when evaluating, in advance, acceptance and technology use (Childers et al., 2001; Brown and Venkatesh, 2005). The greater the fun and pleasure elements anticipated from the use of a technology, the more likely consumers are to accept it. Understanding hedonic motivation for technology use relies on the assumption that arousal inherently makes people excited and more willing to accept and use something new—a natural tendency to initiate actions, that makes individuals, joyful, positive, and helpful. Previous research has analyzed this variable in experiences and VA adoption (Gunasinghe et al., 2020; O'Connell et al., 2021; Al Shamsi et al., 2022), and it has established that:
+
+H5: HM positively and directly influences user's intention to use VA.
+
+Price/value
+
+PV has been defined as “consumers' cognitive trade-off between the perceived benefits of apps and the cost of using them” (Venkatesh et al., 2012, pp. 157–178). Therefore, PV is a measure of the net benefit obtained by using a technology. In fact, people are always out to maximize net profit. This implies that, if the adoption and use of technology generate positive gains, individuals will accept the cost of it. Previous studies have confirmed the effect that price/value has on technology adoption, a process that is enhancing in itself, and as such, provides a positive feeling and impact on users (Moorthy et al., 2019; Palau-Saumell et al., 2019). In addition, the studies confirm that price/value and behavioral intention are closely related in positively improving intentional behavior and adoption due to the novel perception that it increases satisfaction (Moorthy et al., 2019; Palau-Saumell et al., 2019). Based on this variable and similar experiences in technology adoption for VAs (Ashfaq et al., 2021; Ling et al., 2021; Twum et al., 2021), the general conception is toward seeing:
+
+H6: PV positively and directly influences user's intention to use VA.
+
+Habit
+
+The HB is “the extent to which individuals tend to perform behaviors automatically due to learning” (Venkatesh et al., 2012, p. 157–178). As a consequence of repeated performance, when people internalize habits, they may not think about, realize, or evaluate the reasons for their actions (Mittal, 1988; Ouellette and Wood, 1998). In the context of VAs based on machine learning, habit allows the formation of a symbiotic relationship between the user and the technology (Jacucci et al., 2014). Hence, habit is not only an explanation of daily routines (Yen and Wu, 2016), but also an important factor that will determine the degree of user engagement with this type of technology (Perez-Vega et al., 2021). Previous research has analyzed this variable to study its influence on the adoption of VA (Kessler and Martin, 2017; Gunasinghe et al., 2020; Twum et al., 2021). Therefore, based on this the following hypothesis is suggested:
+
+H7: HB positively and directly influences user's intention to use VA.
+
+Perceived privacy risk
+
+Perceived Privacy Risk indicates the degree of perceived certainty of consumers that their personal information is shared with an information system (Lee et al., 2021). Therefore, privacy implies not being subjected to unwanted intrusions (Merriam-Webster and Springfield, 2005), such as wiretapping, the exploitation of security vulnerabilities and user identity theft (Chung et al., 2017). VAs cause a growing concern about privacy and security that are impediments to their use and adoption (Saura et al., 2021; Vimalkumar et al., 2021). Since VAs need to collect sensitive and private data for proper operation, security issues are raised for, and this fact entails a barrier to, their full adoption (Pitardi and Marriott, 2021). Previous research has examined how privacy concerns influence consumer responses in a variety of settings (Pizzi and Scarpi, 2020). These studies provide evidence that privacy concerns can act as an inhibitor (Nepomuceno et al., 2014). Thus, based on previous research and following its impact on adoption around VAs, our hypothesis is the following:
+
+H8: Perceived Privacy Risk negatively and directly influences user's intention to use VA.
+
+Trust
+
+Trust is generally conceived as a multidimensional concept that reflects perceptions of competence, integrity, and benevolence of another entity (Mayer et al., 1995). TR has been recognized as a key influencer of human-machine interactions (McLean et al., 2020). It builds on your perception of trustworthiness, which is enhanced by having faith in your interactions (Hengstler et al., 2016). TR is one of the most important elements to overcoming uncertainty (Yang and Lee, 2019). When technology is emerging, users often feel uncertain due to a lack of information. However, when users have a pre-existing feeling of trust toward a specific technology, a brand, or rely on referrals, this uncertainty can be eliminated. TR has been extensively researched in the VA field (Kuberkar and Singhal, 2020; Pitardi and Marriott, 2021; Vimalkumar et al., 2021). Previous research on TR highlights the role of technical features of websites and technology, such as ease of navigation, visuals, and ease of search, as signals that convey trustworthiness (Corritore et al., 2003). Prior research has analyzed this variable to study its influence on the adoption of VA (Kasilingam, 2020). Therefore, based on this our hypothesis is the following:
+
+H9: TR positively and directly influences user's intention to use VA.
+
+Personal innovativeness
+
+This is the area of adaptation to technology with a higher interest from a behavioral intention standpoint—for individuals to display a high degree of adoption of new products within a set user-base or a specific community (Juaneda-Ayensa et al., 2016; Getnet et al., 2019). In the area of VA adoption, innovation is measured in terms of function, hedonic motivation, and cognitive motivation. The effect of such variables toward adoption in VA has been studied in previous research to present a thesis for positive rate with an effect on adoption. Previous research recognizes this variable for its influence on the adoption of VA (Kasilingam, 2020; Hasan et al., 2021; Winkler, 2021). In this context, the last hypothesis is:
+
+H10: PI positively and directly influences user's intention to use VA.
+
+Figure 1 presents the developed research model.
+
+Figure 1
+
+Figure 1. The research model.
+
+Methodology
+Plan-design for data
+
+The developed questionnaire for an effective market survey consists of two parts: (1) the instrument proposed by Venkatesh et al. (2012) to the context of Virtual Assistants with 24 questions that measure the 7 constructs of the UTAUT2; and (2) the questions of scholarly articles were adapted with 12 questions that measure the three factors added to the model. In addition, sociodemographic information is collected for contrasting data (Tables 2, 3). The 5-point Likert scale method is used, ranging from 1 (totally disagree) to 5 (totally agree). This scale avoids cognitive biases and the confusion of the respondents. In addition, it provides quality data, and it is recommended by researchers (Revilla et al., 2014). The structural equation model (SEM) was used for the analysis of the results, since it allows testing all the relationships between the observed and latent variables simultaneously, by combining multiple regression with factor analysis and provides general adjustment statistics (Iacobucci, 2010). In addition, it is capable of considering the measurement error with the observed variables (Hair et al., 2006).
+
+Table 2
+
+Table 2. Variables for analysis.
+
+Table 3
+
+Table 3. Survey questions.
+
+Data collection
+
+After completing the pilot test to clarify phrasing and eliminate items that were not identifiable in the questionnaire, the empirical data was obtained from the questionnaire and executed through a Google form that was distributed online and in person, via door-to-door survey to individuals in post-secondary campuses and in other urban districts, by using a QR code; it was implemented during the first quarter of 2022. Non-probabilistic convenience sampling was used. Three hundred and six responses were obtained. A first descriptive analysis using IBM SPPS Statistics 27 examined the data for missing pieces of information, uncommitted responses, outliers, and for data leveling. There were no missing data in the set. Thus, in Table 4 a descriptive sociodemographic data of the sample is presented.
+
+Table 4
+
+Table 4. Survey feature profile.
+
+Data analysis
+Modeling analysis: Framework
+
+Prior to the estimation analysis of the models the Mardia coefficient was calculated, which showed the multivariate non-normality of the data obtained, since it should not exceed the value 70. The results show a Kurtosis = 221.443 and a critical region = 29.693; however, considering that the skewness coefficients were <3 and the kurtosis coefficients <10, the maximum likelihood procedure was continued. A confirmatory factor analysis CFA test was performed using SPSS 27 and AMOS 27 tools to verify the measurement model by examining convergent validity, discriminant validity, and internal consistency of the constructs. To estimate convergent validity, the following were measured: the reliability of the measurement item (factor load), the reliability of each construct CR, and the average variance extracted AVE (Anderson and Gerbing, 1988). The values of the standardized factor loadings ranged between 0.588 and 0.933, which is higher than the required value of 0.50 (Gefen et al., 2000). Meanwhile, the composite reliability values demonstrated internal consistency of the latent constructs with values above the threshold of 0.70 (Heinzl et al., 2011). Finally, the values of the average variance extracted AVE, which are a measure of the variation explained by the latent variable to the random measurement error, ranged between 0.557 for performance expectation and 0.81 for social influence, above the lower stipulated limit of 0.50 (Fornell and Larcker, 1981). Therefore, all the predictors in this study, as can be seen in Table 5, are highly reliable, and the convergent validity results suggest that the latent constructs are good within the observed variables, since they are correlated with each other within the bottom-line model.
+
+Table 5
+
+Table 5. Results for the measurement model.
+
+For the evaluation of discriminant validity, Heterotrait-Monotrait (Henseler et al., 2015) is used as an estimator of the correlation between two latent variables. According to this indicator, the coefficients must be below 0.90, in all cases they offered levels below 0.90, as can be seen in Table 6, which confirms the discriminant validity of all the latent used variables. For this, the construct measured items were required and they did not interlink with other concepts.
+
+Table 6
+
+Table 6. Ratio heterotrait-monotrait.
+
+The general fit of the measurement model (Figure 2) to assess quality was performed through the evaluation of four goodness-of-fit indicators: the divided chi-square fit index PCMIN/DF, comparative goodness-of-fit index CFI, root of the residual root mean square of approximation RMSEA, and p of Close Fit (PCLOSE). The measurement model is considered sufficiently adjusted when these measurements are <3, ≥0.95, ≥0.90, ≤0.06 (Hair et al., 2006). The results: (PCMIN/DF 2.154, CFI 0.896, RMSA 0.050). This confirms that the measurement model has a high goodness of fit to (level) the data.
+
+Figure 2
+
+Figure 2. Measurement model.
+
+Structural model assessment
+Data set sample validation
+
+With the aim of validating the adequacy of samples collected, Hoelter's N critical index was applied with a significance level of 0.05, equivalent to 95% confidence (Hoelter, 1983; Bollen and Liang, 1988). The appropriate threshold for a good fit is 200, and values below 75 are considered unacceptable (75 ≤ value < 200; acceptable ≥ 200) (Wan, 2002; Garson, 2014). The size of the sample with 230 questionnaires is acceptable, since the Holter analysis concluded that the minimum size necessary for the sample would have been 117 questionnaires for a 95% reliability.
+
+Framework-model analysis
+
+Four common measures of model fit were used to assess the overall goodness of fit of the model. The results of the proposed research model showed an adequate fit: (PCMIN/DF 2.154, CFI 0.896, RMSA 0.050). The next step in evaluating the structural model (Figure 3) is to measure the explanatory power of the dependent variable measured as R-squared R2. This is used as a measure of the explanatory power of the model ensemble and describes how much of the dependent variable is explained by the independent variables in the model. R2 values range from 0 to 1. Values closer to 1 are indicative of more significant explanatory power, and values >0.9 are indicative of model overfitting that could cause inaccurate results. Behavioral user intention was found to have an R2 of 0.898, indicating that 89.8% of the variable was explained by the independent variables in the model. That is, the model elucidated an 89.8% for measuring the behavioral intention in the realm of VAs.
+
+Figure 3
+
+Figure 3. Final structural-model.
+
+One final step entails evaluating the chain relation in the cause linking constructs via the structural model (Hair et al., 2010). The relation between independent variables and dependable prove a median, average beta coefficient (β), the statistics T and the value of p. The SEM results in Table 7 display the guidelines H7, H9, H10, as significant, vs. habit, trust and personal innovation as being significantly correlated with user intention in VA's. Also, we consider habit (β = 0.408, p < 0.001) a good predictor, being followed by trust (β = 0.291, p < 0.001), and in last place, lowered score for personal innovativeness (β = 0.267, p < 0.001). The guidelines H1, H2, H3, H4, H5, H6, and H8, performance expectancy (β = 0,136, p > 0.1), effort expectancy (β = −0.141, p > 0.1), social influence (β = −0.008, p > 0.1), facilitating conditions (β = 0.170, p > 0.1), hedonic motivation (β = 0.049, p > 0.1), price/value (β = −0,76, p > 0.1) and perceived privacy risk (β = 0.002, p > 0.1) user intent does not represent a meaningful thrust in the context of a Spanish VAs user-base.
+
+Table 7
+
+Table 7. Results.
+
+Results and discussion
+
+What are the factors impacting users' intention and VAs usage? The model framework UTAUT2 establishes an empirical base for several constructs and suggests that behavioral user intention responds to habit, trust, and personal innovation. The model assigns 89.8% of predictability to user intention. From the model analysis it is established that PE (H1), doesn't impact intention of usage. Despite a number of studies pointing at PE and benefit perceived in VAs toward higher adoption rate (Fan et al., 2022) for providing a pleasurable experience (Tsay and Patterson, 2018), that in turn will add to intention of use and to adoption rates (Almaiah et al., 2019), for the present case scenario didn't show a significant impact toward an increase in user perception or an improved expectation for performance. This bottom line is backed up by the referenced studies (Khalid et al., 2021; Pitchay et al., 2021). From a user skill consideration of VAs usage and adoption, most participants in the 52% spectrum were millennials and digital natives, so, functioning and display of simple commands, searches, and chat natural to the interface did not require any upgrades for the users' technical knowledge (Melián-González et al., 2021). Thus, this factor is irrelevant to EE by minimizing setting up and action-tasks specific to VA usage. Ease of use as a non-relevant factor has been established in several studies (Wirtz et al., 2018, 2019; Zarouali et al., 2018; Balakrishnan and Dwivedi, 2021; Lv et al., 2021; Aw et al., 2022; Moussawi et al., 2022).
+
+Aligned with ease-of-use factors arising from SI, we can take into account that colleagues and close individuals provide a referential standard from a common core belief and a similar mindset toward technology adoption. For the geographical scope of the study, Spain's population without wider access to technology will not have an impact in usage. Presence on apps and smart platforms of VAs, such as Alexa, Siri, and Cortana, extends to 16.9% of the total population in Spain (Survey in TIC Hogares, 2020). For use of VAs, specific targets show a 9.4% frequent use, several times a day, while a 6.1% use them once a day (Statista, 2022). This low rate of penetration clearly links to a lower degree of influence within a network, as shown by previous research (Hu et al., 2019).
+
+FC (H4) did not affect usage or behavioral intent, considering that individuals have the necessary skill and ability in order to use VAs without additional technical support. Then, facilitating conditions are not essential contributing causes used to deter or favor user intention as shown in scholarly research (Alalwan et al., 2017), bearing in mind that ease of use specific to assistant devices does not imply a need for structural support to install the platform or to use the application.
+
+VA adoption is not impacted by a hedonic motivation, seeing that the most common tasks, searches, and easy questions, are accessible via these assistants to most Spanish users according to an AIMC Study (2021). The distribution of tasks in this category presents the areas of interactions that are most common—searches/questions, weather/traffic report, music streaming and internet radio, alerts, calendar reminders, to-do-lists, call display, newscasts, messaging, central control for home appliances, shopping/online orders/meal delivery providers—a landscape of everyday applications that aligns with previous research (Laumer et al., 2019; McLean and Osei-Frimpong, 2019; McLean et al., 2021).
+
+Price/value (H6) is not a significant factor due to an added advantage originating in zero cost for installation and from the perception of affordability to access technology assisting devices, such as, central speakers.
+
+Contrary to price/value as it relates to ease of use, habit (H7) has a significant effect over intention of use in the VAs segment. As part of social psychology, habits include learned actions, mnemonic rules, and repetition of sequences from experiences in the same way specific actions create a consistent, recurrent, and pattern in results (Verplanken and Faes, 1999). Therefore, an automated action will be completed with the expectation of a known incentive. The more an action yields a specific result, associated to a benefit, the more this link forms between action and reward, thus carrying a behavior over time and without added effort (Lally and Gardner, 2013). From this perspective, the younger generation, having breath from a digital environment where they depend on mobile devices and apps for most of their everyday tasks, are inherently competent and naturally fall in the path of automation when using VAs. By integrating the string of tasks listed as simple access to assistants, these devices become integrated, as well as contributing to the development of digital skills of VA (Kessler and Martin, 2017; Gunasinghe et al., 2020). This positive influence stands against other scholars' analysis with negative findings around the impact of HB in usage (He et al., 2022).
+
+Our framework and data analysis supported that privacy risks (H9) do not impact user intention. In the VAs' area, the risks associated with security and privacy are aligned with third-party access to unauthorized, restricted information bands, and consequent data-breaches around personal information in the system (Han and Yang, 2018). One added benefit of a VA is listening to and storing requests; however, the security layer provides a perception risk in a manner that is not entangled with “trustworthiness” or “authorized access.” Additionally, the compilation of personal information entrusted into the privacy of the system would not add a layer of risk when the service provider stores information according to set standards for security. This could be detrimental to the overall factors impacting adoption, but it is not a barrier in the use of an assistant device; the added risk is powerful among perceived situation or potential risks, but it isn't perceived or felt as such by users during their interactions who relied on the ease of use and its practicality.
+
+This gap existing between the will to shield or share data is measured by trust. Trust (H9) changes toward the service and the provider of a platform. The service provided is established between individuals at the time of performing a task when the expectation is placed on the system responding to the present interaction and communicating the results fast and efficiently, in a reliable manner. On one hand, trust in the service provider links to credibility and established reputation. Some technology platforms providing service access to servers are Amazon, Google, and Apple—companies with a long-known trajectory and degree of trust that will eliminate initial user resistance toward enrolling in one of these service provider platforms. On the other hand, lack of trust will yield a lower adoption rate in the specific segment of VAs, due to underlying risks to privacy and trust, conducive to technology distrust (Cho et al., 2020; Zierau et al., 2020); accordingly, design of interface should be sensitive to this layer of risk and trust (Cho et al., 2020; Chen et al., 2021). Consistent with this line of thought, trust is a known factor in studies for user acceptance of VAs (Kuberkar and Singhal, 2020; Pitardi and Marriott, 2021; Vimalkumar et al., 2021).
+
+Personal innovation influences behavioral intention, and for many researchers working in this variable, it is most promising in arising technologies, since leading into a role within a known process will cause an evolution into more immediate acceptance than other individuals that are lacking involvement with new technologies. This assertion reinforces the belief that innovative people are capable of remaining optimistic and positive when confronted with new technology developments (Dabholkar and Bagozzi, 2002). This is consistent with preliminary standards confirming PI as having a high degree of influence in a user's intention (Kasilingam, 2020).
+
+Conclusions and implications
+
+After the pandemic COVID-19 virus, many geographical areas showed an increase in VAs usage. There are few studies for reference after the global health crisis, and this model for analysis and study aims at filling this gap in the research of factors influencing introduction of new devices for virtual assistants. From a quantitative standpoint, there is a new methodology showing user intention around VAs' use and adoption in Spain. An underlying factor contributing to this context, arose from previous studies; based on AI introduction and a wide, all encompassing approach, to technology adoption (Wirtz et al., 2018, 2019); these changes have widened the scope in the theory and framework for analysis, to apply new filters for assessment of trust, privacy risk, and personal innovation in VAs. The information provided toward personal user experience can provide guidance for any development in the technological areas of health, business, home smart-systems (energy, security), and personalized bots-assistant companion. Considering that expanded use of the VA in these varied facets from industry to household, involve a massive potential for growth, this theoretical contribution and data analysis brings new light into personal innovation as a seminal variable for an integrated framework, with a focus on the interdependency of technology use and its context, limited to a national framework, the Spanish territory.
+
+The above considerations are relative to the degree of technology development, skill, and competence around technology use as well as individual perceptions on the new applications (Alalwan et al., 2018). For the time-period framework, narrowed down to the years of global pandemic and defined by a health regulated environment, the study contributes data foreshadowing the novel role of consumer devices within a Spanish demographic, targeting device usage in diverse areas of daily life, from entertainment and home assistance to deliveries (Guzman, 2019). A second aspect under consideration is the effect of technology innovations as part of a context sensitive to added security and perceived risks; whether these devices make life easy without an added cost to privacy is a variable that opens a holistic sense into understanding the use of VAs as this field is evolving along AI. Personal innovation gains an edge for an integrated framework with essential notions established from behavioral intention. This notion is proposed by Dinev and Hart (2006) and proves to be productive in creating a cohesive base for analysis in line with a set of variables. In the area of VAs, personal innovation creates a filter valuable to system designers and business developers working in Vas as a means for retrofitting from clients, and to account for adoption with, an in-depth outlook into systems for prospecting of features and improvement processes (Kabra et al., 2017; Khalilzadeh et al., 2017). This is a valuable lesson obtained from the survey: it is important to have a customer centric approach, a user focus, along with a reputation for trustworthiness and low risk in bringing new features and generating innovations for an overall positive adoption rate. The information arising from the results represents a practical contribution looking forward into systems design and for businesses working in VA platforms. The data contrasted with an aligned set of variables will not only bring main factors that are relevant to user design to the discussion, but also highlight the need to integrate new features for increased trust, low risk, and greater innovation around digital assistants.
+
+Limitations and future research
+
+There are some limitations of the present study even after reaching our set of objectives. Mainly, the results should be taken with caution for the limited scope of demographic data and only applied to the Spanish population. The same guidelines for ten factors of users' intention, can be extended for a cross-sectional approach to other geographical areas. Also, a cross-sectional study can be developed—an analytical approach from variables representing a synchronic set of standards for the data compiled in a specific timeframe—involving subjects and survey respondents' opinion evolution over time. Thus, results of the present analysis show that, indeed, trust leads to adoption, whereas privacy risk does not. Even though these factors are not new for studying users' adoption of the technological devices and smart technology, the context of application of the two factors leads researchers to open new paths for studies of continued use of VAs.
+
+Finally, it could be appropriate to integrate new factors to the scope of variables and set of constructs, such as ergonomics, for dismantling an embedded bias around physical characteristics and their relation to mind processes, as these link to non-humans (for a technological viewpoint) with the aim of adding a layer of humanization to the process. This tendency to provide an animal form is known as anthropomorphism, which in turn, results in additional trust and satisfaction from a user, and even security, offering a more nuanced base for filtering of a subjective process. Prospective areas of development may bring a new insight on the link from intention to usage. Also, it may consider including other moderating variables for a study, such as gender, age, experience, and needs/desirable outcomes from use.
+
+Data availability statement
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+Ethics statement
+
+Ethical review and approval was not required for the study on human participants in accordance with the local legislation and institutional requirements. Written informed consent from the patients/participants or patients/participants legal guardian/next of kin was not required to participate in this study in accordance with the national legislation and the institutional requirements.
+
+Author contributions
+
+MG: hypothesis proposal, data analysis, and manuscript preparation. JS: data collection. AA: manuscript revision. All authors contributed to the article and approved the submitted version.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher's note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+
+ Agarwal, R., and Prasad, J. (1998). A conceptual and operational definition of personal innovativeness in the domain of information technology. Inf. Syst. Res. 9, 204–215. doi: 10.1287/isre.9.2.204
+
+CrossRef Full Text | Google Scholar
+
+ AIMC Study (2021). Association for Media Research. Available online at: https://www.aimc.es/informacion-y-formacion/aimc-informa/aimc-informa-2021/ (accessed June 14, 2022).
+
+ Ajzen, I. (1991). The theory of planned behavior. Organ. Behav. Hum. Decis. Process. 50, 179–211. doi: 10.1016/0749-5978(91)90020-T
+
+CrossRef Full Text | Google Scholar
+
+ Ajzen, I., and Fishbein, M. (1980). Understanding Attitudes and Predicting Social Behavior. Englewood Cliffs, NJ: Prentice-Hall.
+
+ Al Shamsi, J. H., Al-Emran, M., and Shaalan, K. (2022). Understanding key drivers affecting students' use of artificial intelligence-based voice assistants. Educ. Inf. Technol. 27, 8071–8091. doi: 10.1007/s10639-022-10947-3
+
+CrossRef Full Text | Google Scholar
+
+ Alalwan, A. A., Baabdullah, A. M., Rana, N. P., Tamilmani, K., and Dwivedi, Y. K. (2018). Examining adoption of mobile internet in Saudi Arabia: Extending TAM with perceived enjoyment, innovativeness and trust. Technol. Soc. 55, 100–110. doi: 10.1016/j.techsoc.2018.06.007
+
+CrossRef Full Text | Google Scholar
+
+ Alalwan, A. A., Rana, N. P., Dwivedi, Y. K., and Algharabat, R. (2017). Social media in marketing: a review and analysis of the existing literature. Telemat. Inform. 34, 1177–1190. doi: 10.1016/j.tele.2017.05.008
+
+CrossRef Full Text | Google Scholar
+
+ Almahri, F. A. J., Bell, D., and Merhi, M. (2020). “Understanding student acceptance and use of chatbots in the United Kingdom universities: a structural equation modelling approach,” in 2020 6th International Conference on Information Management (ICIM) (London: IEEE), 284–288. doi: 10.1109/ICIM49319.2020.244712
+
+CrossRef Full Text | Google Scholar
+
+ Almaiah, M. A., Alamri, M. M., and Al-Rahmi, W. (2019). Applying the UTAUT model to explain the students' acceptance of mobile learning system in higher education. IEEE Access 7, 174673–174686. doi: 10.1109/ACCESS.2019.2957206
+
+CrossRef Full Text | Google Scholar
+
+ Anderson, J. C., and Gerbing, D. W. (1988). Structural equation modeling in practice: a review and recommended two-step approach. Psychol. Bull. 103, 411. doi: 10.1037/0033-2909.103.3.411
+
+CrossRef Full Text | Google Scholar
+
+ Ashfaq, M., Yun, J., and Yu, S. (2021). My smart speaker is cool! Perceived coolness, perceived values, and users' attitude toward smart speakers. Int. J. Hum. Comp. Interact. 37, 560–573. doi: 10.1080/10447318.2020.1841404
+
+CrossRef Full Text | Google Scholar
+
+ Aw, E. C. X., Tan, G. W. H., Cham, T. H., Raman, R., and Ooi, K. B. (2022). Alexa, what's on my shopping list? Transforming customer experience with digital voice assistants. Technol. Forecast. Soc. Change 180, 121711. doi: 10.1016/j.techfore.2022.121711
+
+CrossRef Full Text | Google Scholar
+
+ Balakrishnan, J., and Dwivedi, Y. K. (2021). Conversational commerce: entering the next stage of AI-powered digital assistants. Ann. Operat. Res. 1–35. doi: 10.1007/s10479-021-04049-5
+
+CrossRef Full Text | Google Scholar
+
+ Bandura, A. (1986). Social Foundations of Thought and Action: A Cognitive Social Theory. New York, NY: Pretince Hall.
+
+ Bawack, R. E., Wamba, S. F., and Carillo, K. D. A. (2021). Exploring the role of personality, trust, and privacy in customer experience performance during voice shopping: evidence from SEM and fuzzy set qualitative comparative analysis. Int. J. Inf. Manage. 58, 102309. doi: 10.1016/j.ijinfomgt.2021.102309
+
+CrossRef Full Text | Google Scholar
+
+ Biduski, D., Bellei, E. A., Rodriguez, J. P. M., Zaina, L. A. M., and De Marchi, A. C. B. (2020). Assessing long-term user experience on a mobile health application through an in-app embedded conversation-based questionnaire. Comput. Hum. Behav. 104, 106169. doi: 10.1016/j.chb.2019.106169
+
+CrossRef Full Text | Google Scholar
+
+ Bollen, K. A., and Liang, J. (1988). Some properties of Hoelter's CN. Sociol. Methods Res. 16, 492–503. doi: 10.1177/0049124188016004003
+
+CrossRef Full Text | Google Scholar
+
+ Brown, S. A., and Venkatesh, V. (2005). Model of adoption of technology in households: a baseline model test and extension incorporating household life cycle. MIS Q. 399–426. doi: 10.2307/25148690
+
+CrossRef Full Text | Google Scholar
+
+ Canziani, B., and MacSween, S. (2021). Consumer acceptance of voice-activated smart home devices for product information seeking and online ordering. Comput. Human Behav. 119, 106714. doi: 10.1016/j.chb.2021.106714
+
+CrossRef Full Text | Google Scholar
+
+ Cassell, J. (2000). “Nudge nudge wink wink: elements of face-to-face conversation for embodied conversational agents,” in Embodied Conversational Agents, ed J. Cassell (Cambridge, MA: MIT Press), 1–27. doi: 10.7551/mitpress/2697.003.0002
+
+CrossRef Full Text | Google Scholar
+
+ Chattaraman, V., Kwon, W. S., Gilbert, J. E., and Ross, K. (2019). Should AI-Based, conversational digital assistants employ social-or task-oriented interaction style? A task-competency and reciprocity perspective for older adults. Comp. Hum. Behav. 90, 315–330. doi: 10.1016/j.chb.2018.08.048
+
+CrossRef Full Text | Google Scholar
+
+ Chen, L., Rashidin, M. S., Song, F., Wang, Y., Javed, S., and Wang, J. (2021). Determinants of consumer's purchase intention on fresh E-Commerce Platform: Perspective of UTAUT model. SAGE Open 11, 21582440211027875. doi: 10.1177/21582440211027875
+
+CrossRef Full Text | Google Scholar
+
+ Childers, T. L., Carr, C. L., Peck, J., and Carson, S. (2001). Hedonic and utilitarian motivations for online retail shopping behavior. J. Retail. 77, 511–535. doi: 10.1016/S0022-4359(01)00056-2
+
+CrossRef Full Text | Google Scholar
+
+ Cho, E., Sundar, S. S., Abdullah, S., and Motalebi, N. (2020). “Will deleting history make Alexa more trustworthy? Effects of privacy and content customization on user experience of smart speakers,” in Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (Honolulu, HI), 1–13. doi: 10.1145/3313831.3376551
+
+CrossRef Full Text | Google Scholar
+
+ Chopra, K. (2019). Indian shopper motivation to use artificial intelligence: generating Vroom's expectancy theory of motivation using grounded theory approach. Int. J. Retail Distribut. Manage. 47. doi: 10.1108/IJRDM-11-2018-0251
+
+CrossRef Full Text | Google Scholar
+
+ Chung, H., Park, J., and Lee, S. (2017). Digital forensic approaches for Amazon Alexa ecosystem. Digit. Invest. 22, S15–S25. doi: 10.1016/j.diin.2017.06.010
+
+CrossRef Full Text | Google Scholar
+
+ Corritore, C. L., Kracher, B., and Wiedenbeck, S. (2003). On-line trust: concepts, evolving themes, a model. Int. J. Hum. Comput. Stud. 58, 737–758. doi: 10.1016/S1071-5819(03)00041-7
+
+CrossRef Full Text | Google Scholar
+
+ Cyr, D., Hassanein, K., Head, M., and Ivanov, A. (2007). The role of social presence in establishing loyalty in e-service environments. Interact. Comput. 19, 43–56. doi: 10.1016/j.intcom.2006.07.010
+
+CrossRef Full Text | Google Scholar
+
+ Dabholkar, P. A., and Bagozzi, R. P. (2002). An attitudinal model of technology-based self-service: moderating effects of consumer traits and situational factors. J. Acad. Market. Sci. 30, 184–201. doi: 10.1177/0092070302303001
+
+CrossRef Full Text | Google Scholar
+
+ Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Q. 13, 319–340. doi: 10.2307/249008
+
+CrossRef Full Text | Google Scholar
+
+ Davis, F. D., Bagozzi, R. P., and Warshaw, P. R. (1992). Extrinsic and intrinsic motivation to use computers in the workplace. J. Appl. Soc. Psychol. 22, 1111–1132. doi: 10.1111/j.1559-1816.1992.tb00945.x
+
+CrossRef Full Text | Google Scholar
+
+ Dinev, T., and Hart, P. (2006). An extended privacy calculus model for e-commerce transactions. Inform. Syst. Res. 17, 61–80. doi: 10.1287/isre.1060.0080
+
+CrossRef Full Text | Google Scholar
+
+ Dix, A. (2017). Human–computer interaction, foundations and new paradigms. J. Vis. Lang. Comp. 42, 122–134. doi: 10.1016/j.jvlc.2016.04.001
+
+CrossRef Full Text | Google Scholar
+
+ Dizon, G. (2021). Affordances and constraints of intelligent personal assistants for second-language learning. RELC J. 00336882211020548. doi: 10.1177/00336882211020548
+
+CrossRef Full Text | Google Scholar
+
+ Fan, X., Jiang, X., and Deng, N. (2022). Immersive technology: a meta-analysis of augmented/virtual reality applications and their impact on tourism experience. Tour. Manage. 91, 104534. doi: 10.1016/j.tourman.2022.104534
+
+CrossRef Full Text | Google Scholar
+
+ Featherman, M. S., and Pavlou, P. A. (2003). Predicting e-services adoption: a perceived risk facets perspective. Int. J. Hum. Comput. Stud. 59, 451–474. doi: 10.1016/S1071-5819(03)00111-3
+
+CrossRef Full Text | Google Scholar
+
+ Fornell, C., and Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. J. Mark. Res. 18, 39–50. doi: 10.1177/002224378101800104
+
+CrossRef Full Text | Google Scholar
+
+ Fridin, M., and Belokopytov, M. (2014). Acceptance of socially assistive humanoid robot by preschool and elementary school teachers. Comput. Hum. Behav. 33, 23–31. doi: 10.1016/j.chb.2013.12.016
+
+CrossRef Full Text | Google Scholar
+
+ Gansser, O. A., and Reich, C. S. (2021). A new acceptance model for artificial intelligence with extensions to UTAUT2: an empirical study in three segments of application. Technol. Soc. 65, 101535. doi: 10.1016/j.techsoc.2021.101535
+
+CrossRef Full Text | Google Scholar
+
+ Garson, G. D. (2014). Two-Stage Least Squares Regression. Asheboro, NC: Statistical Associates Publishing.
+
+Google Scholar
+
+ Gefen, D., Straub, D., and Boudreau, M. C. (2000). Structural equation modeling and regression: Guidelines for research practice. Commun. Assoc. Inform. Syst. 4, 7. doi: 10.17705/1CAIS.00407
+
+CrossRef Full Text | Google Scholar
+
+ Getnet, B., Alebachew, M., and Ageze, M. (2019). “Research on pre-harvest technologies for rice production in Ethiopia,” in Advances in Rice Research and Development in Ethiopia eds T. Tadesse, M. Atnaf, D. Alemu, T. Tadesse, and K. Shiratori (Addis Ababa: Ethiopian Institute of Agricultural Research), 177.
+
+Google Scholar
+
+ Grover, T., Rowan, K., Suh, J., McDuff, D., and Czerwinski, M. (2020). “Design and evaluation of intelligent agent prototypes for assistance with focus and productivity at work,” in Proceedings of the 25th International Conference on Intelligent User Interfaces (New York, NY: Association for Computing Machinery), 390–400. doi: 10.1145/3377325.3377507
+
+CrossRef Full Text | Google Scholar
+
+ Gunasinghe, A., Hamid, J. A., Khatibi, A., and Azam, S. F. (2020). The viability of UTAUT-3 in understanding the lecturer's acceptance and use of virtual learning environments. Int. J. Technol. Enhanc. Learn. 12, 458–481. doi: 10.1504/IJTEL.2020.110056
+
+CrossRef Full Text | Google Scholar
+
+ Guzman, A. L. (2019). Voices in and of the machine: source orientation toward mobile virtual assistants. Comput. Human Behav. 90, 343–350. doi: 10.1016/j.chb.2018.08.009
+
+CrossRef Full Text | Google Scholar
+
+ Hair, J. F., Black, W. C., Babin, B. J., Anderson, R. E., and Tatham, R. L. (2006). Multivariate Data Analysis, 6th Edn. New Jersey, NJ: Pearson Prentice Hall.
+
+Google Scholar
+
+ Hair, J. F., Ortinau, D. J., and Harrison, D. E. (2010). Essentials of Marketing Research, Vol. 2. New York, NY: McGraw-Hill/Irwin.
+
+Google Scholar
+
+ Han, S., and Yang, H. (2018). Understanding adoption of intelligent personal assistants: a parasocial relationship perspective. Indust. Manage. Data Syst. 118. doi: 10.1108/IMDS-05-2017-0214
+
+CrossRef Full Text | Google Scholar
+
+ Hasan, R., Shams, R., and Rahman, M. (2021). Consumer trust and perceived risk for voice-controlled artificial intelligence: the case of Siri. J. Bus. Res. 131, 591–597. doi: 10.1016/j.jbusres.2020.12.012
+
+CrossRef Full Text | Google Scholar
+
+ Hassanein, K., and Head, M. (2007). Manipulating perceived social presence through the web interface and its impact on attitude towards online shopping. Int. J. Hum. Comput. Stud. 65, 689–708. doi: 10.1016/j.ijhcs.2006.11.018
+
+CrossRef Full Text | Google Scholar
+
+ He, T., Jazizadeh, F., and Arpan, L. (2022). AI-powered virtual assistants nudging occupants for energy saving: proactive smart speakers for HVAC control. Build. Res. Inform. 50, 394–409. doi: 10.1080/09613218.2021.2012119
+
+CrossRef Full Text | Google Scholar
+
+ Heinzl, A., Buxmann, P., Wendt, O., and Weitzel, T (Eds.). (2011). Theory-Guided Modeling and Empiricism in Information Systems Research. Berlin: Springer Science & Business Media. doi: 10.1007/978-3-7908-2781-1
+
+CrossRef Full Text | Google Scholar
+
+ Hengstler, M., Enkel, E., and Duelli, S. (2016). Applied artificial intelligence and trust—the case of autonomous vehicles and medical assistance devices. Technol. Forecast. Soc. Change 105, 105–120. doi: 10.1016/j.techfore.2015.12.014
+
+CrossRef Full Text | Google Scholar
+
+ Henseler, J., Ringle, C. M., and Sarstedt, M. (2015). A new criterion for assessing discriminant validity in variance-based structural equation modeling. J. Acad. Market. Sci. 43, 115–135. doi: 10.1007/s11747-014-0403-8
+
+CrossRef Full Text | Google Scholar
+
+ Hoelter, J. W. (1983). The analysis of covariance structures: goodness-of-fit indices. Sociol. Methods Res. 11, 325–344. doi: 10.1177/0049124183011003003
+
+CrossRef Full Text | Google Scholar
+
+ Holbrook, M. B., and Hirschman, E. C. (1982). The experiential aspects of consumption: consumer fantasies, feelings, and fun. J. Consum. Res. 9, 132–140. doi: 10.1086/208906
+
+CrossRef Full Text | Google Scholar
+
+ Iacobucci, D. (2010). Structural equations modeling: fit indices, sample size, and advanced topics. J. Consum. Psychol. 20, 90–98. doi: 10.1016/j.jcps.2009.09.003
+
+CrossRef Full Text | Google Scholar
+
+ Jacucci, G., Spagnolli, A., Freeman, J., and Gamberini, L. (2014). “Symbiotic interaction: a critical definition and comparison to other human-computer paradigms,” in International Workshop on Symbiotic Interaction (Cham: Springer), 3–20. doi: 10.1007/978-3-319-13500-7_1
+
+CrossRef Full Text | Google Scholar
+
+ Jain, S., Basu, S., Dwivedi, Y. K., and Kaur, S. (2022). Interactive voice assistants–does brand credibility assuage privacy risks?. J. Bus. Res. 139, 701–717. doi: 10.1016/j.jbusres.2021.10.007
+
+CrossRef Full Text | Google Scholar
+
+ Juaneda-Ayensa, E., Mosquera, A., and Sierra Murillo, Y. (2016). Omnichannel customer behavior: key drivers of technology acceptance and use and their effects on purchase intention. Front. Psychol. 7, 1117. doi: 10.3389/fpsyg.2016.01117
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Kabra, G., Ramesh, A., Akhtar, P., and Dash, M. K. (2017). Understanding behavioural intention to use information technology: Insights from humanitarian practitioners. Telemat. Inform. 34, 1250–1261. doi: 10.1016/j.tele.2017.05.010
+
+CrossRef Full Text | Google Scholar
+
+ Kalinić, Z., Marinković, V., Djordjevic, A., and Liebana-Cabanillas, F. (2019). What drives customer satisfaction and word of mouth in mobile commerce services? A UTAUT2-based analytical approach. J. Enterprise Inform. Manage. 33. doi: 10.1108/JEIM-05-2019-0136
+
+CrossRef Full Text | Google Scholar
+
+ Kasilingam, D. L. (2020). Understanding the attitude and intention to use smartphone chatbots for shopping. Technol. Soc. 62, 101280. doi: 10.1016/j.techsoc.2020.101280
+
+CrossRef Full Text | Google Scholar
+
+ Kessler, S. K., and Martin, M. (2017). How do potential users perceive the adoption of new technologies within the field of artificial intelligence and internet-of-things? A revision of the UTAUT 2 model using voice assistant. [Master's thesis], University of Lund, Lund (Sweden).
+
+Google Scholar
+
+ Khalid, B., Chaveesuk, S., and Chaiyasoonthorn, W. (2021). MOOCs adoption in higher education: a management perspective. Polish J. Manage. Stud. 23, 239–256. doi: 10.17512/pjms.2021.23.1.15
+
+CrossRef Full Text | Google Scholar
+
+ Khalilzadeh, J., Ozturk, A. B., and Bilgihan, A. (2017). Security-related factors in extended UTAUT model for NFC based mobile payment in the restaurant industry. Comput. Hum. Behav. 70, 460–474. doi: 10.1016/j.chb.2017.01.001
+
+CrossRef Full Text | Google Scholar
+
+ Khan, S., and Rabbani, M. R. (2021). Artificial intelligence and NLP-based chatbot for islamic banking and finance. Int. J. Inform. Retriev. Res. 11, 65–77. doi: 10.4018/IJIRR.2021070105
+
+CrossRef Full Text | Google Scholar
+
+ Koon, L. M., McGlynn, S. A., Blocker, K. A., and Rogers, W. A. (2020). Perceptions of digital assistants from early adopters aged 55+. Ergon. Des. 28, 16–23. doi: 10.1177/1064804619842501
+
+CrossRef Full Text | Google Scholar
+
+ Kuberkar, S., and Singhal, T. K. (2020). Factors influencing adoption intention of ai powered chatbot for public transport services within a Smart City. Int. J. Emerg. Technol. Learn. 11, 948–958.
+
+Google Scholar
+
+ Lally, P., and Gardner, B. (2013). Promoting habit formation. Health Psychol. Rev. 7, S137–S158. doi: 10.1080/17437199.2011.603640
+
+CrossRef Full Text | Google Scholar
+
+ Laranjo, L., Dunn, A. G., Tong, H. L., Kocaballi, A. B., Chen, J., Bashir, R., et al. (2018). Conversational agents in healthcare: a systematic review. J. Am. Med. Inform. Assoc. 25, 1248–1258. doi: 10.1093/jamia/ocy072
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Laumer, S., Maier, C., and Gubler, F. (2019). “Chatbot acceptance in healthcare: explaining user adoption of conversational agents for disease diagnosis,” in Proceedings of the 27th European Conference on Information Systems (ECIS). Stockholm: AISeL.
+
+Google Scholar
+
+ Lee, L. H., Kumar, A., Braud, T., and Hui, P. (2021). “Theophany: multimodal speech augmentation in instantaneous privacy channels,” in Proceedings of the 29th ACM International Conference on Multimedia (New York, NY), 2056–2064.
+
+Google Scholar
+
+ Ling, H. C., Chen, H. R., Ho, K. K., and Hsiao, K. L. (2021). Exploring the factors affecting customers' intention to purchase a smart speaker. J. Retail. Consum. Serv. 59, 102331. doi: 10.1016/j.jretconser.2020.102331
+
+CrossRef Full Text | Google Scholar
+
+ Lopatovska, I., Korshakova, E., Brown, D., Li, Y., Min, J., Pasiak, A., et al. (2021). “User perceptions of an intelligent personal assistant's personality: the role of interaction context,” in Proceedings of the 2021 Conference on Human Information Interaction and Retrieval (New York, NY), 15–25. doi: 10.1145/3406522.3446018
+
+CrossRef Full Text | Google Scholar
+
+ Lu, Y., Hu, P., and Gong, Y. (2019). “Speaking vs. listening: balance AI conversation attributes for better voice marketing,” Extended Abstract, Version: September 9, 2019.
+
+Google Scholar
+
+ Lu, Y., Hu, Q., Pan, Z., Gong, Y., and Yang, Z. (2021). Can AI artifacts influence human cognition? The effects of artificial autonomy in intelligent personal assistants. Int. J. Inform. Manage. 56, 102250. doi: 10.1016/j.ijinfomgt.2020.102250
+
+CrossRef Full Text | Google Scholar
+
+ Lu, Y., Yang, S., Chau, P. Y., and Cao, Y. (2011). Dynamics between the trust transfer process and intention to use mobile payment services: a cross-environment perspective. Inform. Manage. 48, 393–403. doi: 10.1016/j.im.2011.09.006
+
+CrossRef Full Text | Google Scholar
+
+ Lv, X., Liu, Y., Luo, J., Liu, Y., and Li, C. (2021). Does a cute artificial intelligence assistant soften the blow? The impact of cuteness on customer tolerance of assistant service failure. Ann. Tour. Res. 87, 103114. doi: 10.1016/j.annals.2020.103114
+
+CrossRef Full Text | Google Scholar
+
+ Malarvizhi, C. A., Al Mamun, A., Jayashree, S., Naznen, F., and Abir, T. (2022). Predicting the intention and adoption of near field communication mobile payment. Front. Psychol. 13, 870793. doi: 10.3389/fpsyg.2022.870793
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Marikyan, D., Papagiannidis, S., Rana, O. F., Ranjan, R., and Morgan, G. (2022). “Alexa, let's talk about my productivity”: the impact of digital assistants on work productivity. J. Bus. Res. 142, 572–584. doi: 10.1016/j.jbusres.2022.01.015
+
+CrossRef Full Text | Google Scholar
+
+ Mayer, R. C., Davis, J. H., and Schoorman, F. D. (1995). An integrative model of organizational trust. Acad. Manage. Rev. 20, 709–734. doi: 10.2307/258792
+
+CrossRef Full Text | Google Scholar
+
+ McLean, G., and Osei-Frimpong, K. (2019). Hey Alexa… examine the variables influencing the use of artificial intelligent in-home voice assistants. Comput. Hum. Behav. 99, 28–37. doi: 10.1016/j.chb.2019.05.009
+
+CrossRef Full Text | Google Scholar
+
+ McLean, G., Osei-Frimpong, K., and Barhorst, J. (2021). Alexa, do voice assistants influence consumer brand engagement?–Examining the role of AI powered voice assistants in influencing consumer brand engagement. J. Bus. Res. 124, 312–328. doi: 10.1016/j.jbusres.2020.11.045
+
+CrossRef Full Text | Google Scholar
+
+ McLean, G., Osei-Frimpong, K., Wilson, A., and Pitardi, V. (2020). How live chat assistants drive travel consumers' attitudes, trust and purchase intentions: the role of human touch. Int. J. Contemp. Hosp. Manage. 32. doi: 10.1108/IJCHM-07-2019-0605
+
+CrossRef Full Text | Google Scholar
+
+ Melián-González, S., Gutiérrez-Taño, D., and Bulchand-Gidumal, J. (2021). Predicting the intentions to use chatbots for travel and tourism. Curr. Issues Tour. 24, 192–210. doi: 10.1080/13683500.2019.1706457
+
+CrossRef Full Text | Google Scholar
+
+ Merriam-Webster, M. W. D., and Springfield, M. (2005). Merriam-Webster. Available online at: https://www.merriam-webster.com/ (accessed April 25, 2022).
+
+Google Scholar
+
+ Mishra, A., Shukla, A., and Sharma, S. K. (2021). Psychological determinants of users' adoption and word-of-mouth recommendations of smart voice assistants. Int. J. Inf. Manage. 67, 102413. doi: 10.1016/j.ijinfomgt.2021.102413
+
+CrossRef Full Text | Google Scholar
+
+ Mittal, B. (1988). The role of affective choice mode in the consumer purchase of expressive products. J. Econ. Psychol. 9, 499–524. doi: 10.1016/0167-4870(88)90016-5
+
+CrossRef Full Text | Google Scholar
+
+ Moorthy, K., Chun T'ing, L., Ming, K. S., Ping, C. C., Ping, L. Y., Joe, L. Q., et al. (2019). Behavioral intention to adopt digital library by the undergraduates. Int. Inform. Lib. Rev. 51, 128–144. doi: 10.1080/10572317.2018.1463049
+
+CrossRef Full Text | Google Scholar
+
+ Moriuchi, E. (2019). Okay, Google!: an empirical study on voice assistants on consumer engagement and loyalty. Psychol. Market. 36, 489–501. doi: 10.1002/mar.21192
+
+CrossRef Full Text | Google Scholar
+
+ Moriuchi, E. (2021). An empirical study on anthropomorphism and engagement with disembodied AIs and consumers' re-use behavior. Psychol. Market. 38, 21–42. doi: 10.1002/mar.21407
+
+CrossRef Full Text | Google Scholar
+
+ Moriuchi, E., Landers, V. M., Colton, D., and Hair, N. (2021). Engagement with chatbots versus augmented reality interactive technology in e-commerce. J. Strat. Market. 29, 375–389. doi: 10.1080/0965254X.2020.1740766
+
+CrossRef Full Text | Google Scholar
+
+ Moussawi, S., Koufaris, M., and Benbunan-Fich, R. (2022). The role of user perceptions of intelligence, anthropomorphism, and self-extension on continuance of use of personal intelligent agents. Euro. J. Inform. Syst. 1–22. doi: 10.1080/0960085X.2021.2018365
+
+CrossRef Full Text | Google Scholar
+
+ Nepomuceno, M. V., Laroche, M., and Richard, M. O. (2014). How to reduce perceived risk when buying online: the interactions between intangibility, product knowledge, brand familiarity, privacy and security concerns. J. Retail. Consum. Serv. 21, 619–629. doi: 10.1016/j.jretconser.2013.11.006
+
+CrossRef Full Text | Google Scholar
+
+ O'Connell, C., Quinn, K., Marquez, D., Chin, J., Muramatsu, N., Leiser, S., et al. (2021). “Accommodating communication with conversational agents: examining the perceptions and behaviors of older adults when using voice assistant technology,” AoIR Selected Papers of Internet Research. doi: 10.5210/spir.v2021i0.12221
+
+CrossRef Full Text | Google Scholar
+
+ Ouellette, J. A., and Wood, W. (1998). Habit and intention in everyday life: the multiple processes by which past behavior predicts future behavior. Psychol. Bull. 124, 54. doi: 10.1037/0033-2909.124.1.54
+
+CrossRef Full Text | Google Scholar
+
+ Palau-Saumell, R., Forgas-Coll, S., Sánchez-García, J., and Robres, E. (2019). User acceptance of mobile apps for restaurants: an expanded and extended UTAUT-2. Sustainability 11, 1210. doi: 10.3390/su11041210
+
+CrossRef Full Text | Google Scholar
+
+ Pantano, E., and Pizzi, G. (2020). Forecasting artificial intelligence on online customer assistance: evidence from chatbot patents analysis. J. Retail. Consum. Serv. 55, 102096. doi: 10.1016/j.jretconser.2020.102096
+
+CrossRef Full Text | Google Scholar
+
+ Perez-Vega, R., Kaartemo, V., Lages, C. R., Razavi, N. B., and Männistö, J. (2021). Reshaping the contexts of online customer engagement behavior via artificial intelligence: a conceptual framework. J. Bus. Res. 129, 902–910. doi: 10.1016/j.jbusres.2020.11.002
+
+CrossRef Full Text | Google Scholar
+
+ Pitardi, V., and Marriott, H. R. (2021). Alexa, she's not human but… unveiling the drivers of consumers' trust in voice-based artificial intelligence. Psychol. Market. 38, 626–642. doi: 10.1002/mar.21457
+
+CrossRef Full Text | Google Scholar
+
+ Pitchay, A. A., Ganesan, Y., Zulkifli, N. S., and Khaliq, A. (2021). Determinants of customers' intention to use online food delivery application through smartphone in Malaysia. Br. Food J. 124, 732–753. doi: 10.1108/BFJ-01-2021-0075
+
+CrossRef Full Text | Google Scholar
+
+ Pizzi, G., and Scarpi, D. (2020). Privacy threats with retail technologies: a consumer perspective. J. Retail. Consum. Serv. 56, 102160. doi: 10.1016/j.jretconser.2020.102160
+
+CrossRef Full Text | Google Scholar
+
+ Revilla, M. A., Saris, W. E., and Krosnick, J. A. (2014). Choosing the number of categories in agree–disagree scales. Sociol. Methods Res. 43, 73–97. doi: 10.1177/0049124113509605
+
+CrossRef Full Text | Google Scholar
+
+ Robinson, E. L., Shalini, S., Levins, T., Lane, K., Park, G., and Skubic, M. (2019). “Development and comparison of customized voice-assistant systems for independent living older adults” in International Conference on Human-Computer Interaction (Cham: Springer), 464–479. doi: 10.1007/978-3-030-22015-0_36
+
+CrossRef Full Text | Google Scholar
+
+ Rogers, E. M. (1961). Bibliography on the diffusion of innovations. Internet Things 13, 100344.
+
+Google Scholar
+
+ Saad, U., Afzal, U., El-Issawi, A., and Eid, M. (2017). A model to measure QoE for virtual personal assistant. Multimed. Tools Appl. 76, 12517–12537. doi: 10.1007/s11042-016-3650-5
+
+CrossRef Full Text | Google Scholar
+
+ Saura, J. R., Ribeiro-Soriano, D., and Palacios-Marqués, D. (2021). Evaluating security and privacy issues of social networks based information systems in Industry 4.0. Enterprise Inform. Syst. 16, 1–17. doi: 10.1080/17517575.2021.1913765
+
+CrossRef Full Text | Google Scholar
+
+ Schmitz, A., Díaz-Martín, A. M., and Guillén, M. J. Y. (2022). Modifying UTAUT2 for a cross-country comparison of telemedicine adoption. Comput. Hum. Behav. 130, 107183. doi: 10.1016/j.chb.2022.107183
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Statista (2022). Uso de Asistentes Virtuales De Voz en España en 2020. Available online at: https://bit.ly/3xrWy7f (accessed April 5, 2022).
+
+Google Scholar
+
+ Stieglitz, S., Mirbabaie, M., Ross, B., and Neuberger, C. (2018). Social media analytics–challenges in topic discovery, data collection, and data preparation. Int. J. Inf. Manage. 39, 156–168. doi: 10.1016/j.ijinfomgt.2017.12.002
+
+CrossRef Full Text | Google Scholar
+
+ Šumak, B., and Šorgo, A. (2016). The acceptance and use of interactive whiteboards among teachers: differences in UTAUT determinants between pre-and post-adopters. Comput. Hum. Behav. 64, 602–620. doi: 10.1016/j.chb.2016.07.037
+
+CrossRef Full Text | Google Scholar
+
+ Survey in TIC Hogares (2020). Encuesta Continua de Hogares (ECH). Survey in TIC Hogares. Available online at: ine.es (accessed April 1, 2022).
+
+Google Scholar
+
+ Taylor, S., and Todd, P. (1995). Decomposition and crossover effects in the theory of planned behavior: a study of consumer adoption intentions. Int. J. Res. Market. 12, 137–155. doi: 10.1016/0167-8116(94)00019-K
+
+CrossRef Full Text | Google Scholar
+
+ Thakur, R., and Srivastava, M. (2014). Adoption readiness, personal innovativeness, perceived risk and usage intention across customer groups for mobile payment services in India. Internet Res. 24. doi: 10.1108/IntR-12-2012-0244
+
+CrossRef Full Text | Google Scholar
+
+ Thompson, R. L., Higgins, C. A., and Howell, J. M. (1991). Personal computing: toward a conceptual model of utilization. MIS Q. 125–143. doi: 10.2307/249443
+
+CrossRef Full Text | Google Scholar
+
+ Tsay, D., and Patterson, C. (2018). From machine learning to artificial intelligence applications in cardiac care: real-world examples in improving imaging and patient access. Circulation 138, 2569–2575. doi: 10.1161/CIRCULATIONAHA.118.031734
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Twum, K. K., Ofori, D., Keney, G., and Korang-Yeboah, B. (2021). Using the UTAUT, personal innovativeness and perceived financial cost to examine student's intention to use E-learning. J. Sci. Technol. Policy Manage. 13, 713–737. doi: 10.1108/JSTPM-12-2020-0168
+
+CrossRef Full Text | Google Scholar
+
+ Venkatesh, V., Morris, M. G., Davis, G. B., and Davis, F. D. (2003). User acceptance of information technology: toward a unified view. MIS Q. 27, 425–478. doi: 10.2307/30036540
+
+CrossRef Full Text | Google Scholar
+
+ Venkatesh, V., Thong, J. Y., and Xu, X. (2012). Consumer acceptance and use of information technology: extending the unified theory of acceptance and use of technology. MIS Q. 36, 157–178. doi: 10.2307/41410412
+
+CrossRef Full Text | Google Scholar
+
+ Venkatesh, V., Thong, J. Y., and Xu, X. (2016). Unified theory of acceptance and use of technology: a synthesis and the road ahead. J. Assoc. Inform. Syst. 17, 328–376. doi: 10.17705/1jais.00428
+
+CrossRef Full Text | Google Scholar
+
+ Verplanken, B., and Faes, S. (1999). Good intentions, bad habits, and effects of forming implementation intentions on healthy eating. Euro. J. Soc. Psychol. 29, 591–604. doi: 10.1002/(SICI)1099-0992(199908/09)29:5/6<591::AID-EJSP948>3.0.CO;2-H
+
+CrossRef Full Text | Google Scholar
+
+ Vimalkumar, M., Sharma, S. K., Singh, J. B., and Dwivedi, Y. K. (2021). ‘Okay google, what about my privacy?': user's privacy perceptions and acceptance of voice based digital assistants. Comput. Human Behav. 120, 106763. doi: 10.1016/j.chb.2021.106763
+
+CrossRef Full Text | Google Scholar
+
+ Wagner, P., Beskow, J., Betz, S., Edlund, J., Gustafson, J., Eje Henter, G., et al. (2019). “Speech synthesis evaluation—state-of-the-art assessment and suggestion for a novel research program,” in Proceedings of the 10th Speech Synthesis Workshop (SSW10). Available online at: https://pub.uni-bielefeld.de/record/2936378 (accessed April 25, 2022).
+
+Google Scholar
+
+ Wan, C. S. (2002). The web sites of international tourist hotels and tour wholesalers in Taiwan. Tour. Manage. 23, 155–160. doi: 10.1016/S0261-5177(01)00048-6
+
+CrossRef Full Text | Google Scholar
+
+ Winkler, D. A. (2021). Use of artificial intelligence and machine learning for discovery of drugs for neglected tropical diseases. Front. Chem. 9, 614073. doi: 10.3389/fchem.2021.614073
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Wirtz, B. W., Weyerer, J. C., and Geyer, C. (2019). Artificial intelligence and the public sector—applications and challenges. Int. J. Public Admin. 42, 596–615. doi: 10.1080/01900692.2018.1498103
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Wirtz, J., Patterson, P. G., Kunz, W. H., Gruber, T., Lu, V. N., Paluch, S., et al. (2018). Brave new world: service robots in the frontline. J. Serv. Manag. 29. doi: 10.1108/JOSM-04-2018-0119
+
+CrossRef Full Text | Google Scholar
+
+ Wong, L. W., Leong, L. Y., Hew, J. J., Tan, G. W. H., and Ooi, K. B. (2020). Time to seize the digital evolution: adoption of blockchain in operations and supply chain management among Malaysian SMEs. Int. J. Inf. Manage. 52, 101997. doi: 10.1016/j.ijinfomgt.2019.08.005
+
+CrossRef Full Text | Google Scholar
+
+ Yang, H., and Lee, H. (2019). Understanding user behavior of virtual personal assistant devices. Inform. Syst. e-Bus. Manage. 17, 65–87. doi: 10.1007/s10257-018-0375-1
+
+CrossRef Full Text | Google Scholar
+
+ Ye, J., Zheng, J., and Yi, F. (2020). A study on users' willingness to accept mobility as a service based on UTAUT model. Technol. Forecast. Soc. Change 157, 120066. doi: 10.1016/j.techfore.2020.120066
+
+CrossRef Full Text | Google Scholar
+
+ Yen, Y. S., and Wu, F. S. (2016). Predicting the adoption of mobile financial services: The impacts of perceived mobility and personal habit. Comput. Human Behav. 65, 31–42. doi: 10.1016/j.chb.2016.08.017
+
+CrossRef Full Text | Google Scholar
+
+ Yu, C. S. (2012). Factors affecting individuals to adopt mobile banking: empirical evidence from the UTAUT model. J. Electro. Comm. Res. 13, 104.
+
+Google Scholar
+
+ Zaharia, S., and Würfel, M. (2020). “Voice commerce-studying the acceptance of smart speakers,” in International Conference on Human Interaction and Emerging Technologies (Cham: Springer), 449–454. doi: 10.1007/978-3-030-55307-4_68
+
+CrossRef Full Text | Google Scholar
+
+ Zarouali, B., Van den Broeck, E., Walrave, M., and Poels, K. (2018). Predicting consumer responses to a chatbot on Facebook. Cyberpsychol. Behav. Soc. Netw. 21, 491–497. doi: 10.1089/cyber.2017.0518
+
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ Zierau, N., Wambsganss, T., Janson, A., Schöbel, S., and Leimeister, J. M. (2020). “The anatomy of user experience with conversational agents: a taxonomy and propositions of service clues,” in International Conference on Information Systems (ICIS) (Hyderabad).
+
+Google Scholar
+
+Keywords: virtual assistants, UTAUT2, users' behavioral intentions, technology implementation, artificial intelligence
+
+Citation: García de Blanes Sebastián M, Sarmiento Guede JR and Antonovica A (2022) Application and extension of the UTAUT2 model for determining behavioral intention factors in use of the artificial intelligence virtual assistants. Front. Psychol. 13:993935. doi: 10.3389/fpsyg.2022.993935
+
+Received: 14 July 2022; Accepted: 09 August 2022;
+Published: 18 October 2022.
+
+Edited by:
+
+Daniel Palacios-Marqués, Universitat Politècnica de València, Spain
+
+Reviewed by:
+
+Marisol B. Correia, University of Algarve, Portugal
+Nelson Silva DeMatos, University of Algarve, Portugal
+
+Copyright © 2022 García de Blanes Sebastián, Sarmiento Guede and Antonovica. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+*Correspondence: Arta Antonovica, arta.antonovica@urjc.es
+
+Disclaimer: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.
+
+Download article
+18,2K
+Total views
+5,5K
+Downloads
+57
+Citations
+View article impact
+Similar articles
+
+ORIGINAL RESEARCH
+
+Published on 03 Aug 2018
+
+Gender Inequality in Household Chores and Work-Family Conflict
+Javier CerratoEva Cifre
+Frontiers in Psychology
+doi 10.3389/fpsyg.2018.01330
+850,585 views
+292 citations
+
+ORIGINAL RESEARCH
+
+Published on 13 Dec 2021
+
+Impact of Pricing and Product Information on Consumer Buying Behavior With Customer Satisfaction in a Mediating Role
+Huiliang ZhaoXuemei YaoZhenghong LiuQin Yang
+Frontiers in Psychology
+doi 10.3389/fpsyg.2021.720151
+392,841 views
+74 citations
+
+ORIGINAL RESEARCH
+
+Published on 17 Jan 2022
+
+Role of Social Media Marketing Activities in Influencing Customer Intentions: A Perspective of a New Emerging Era
+Khalid JamilLiu DunnanRana Faizan GulMuhammad Usman ShehzadSyed Hussain Mustafa GillaniFazal Hussain Awan
+Frontiers in Psychology
+doi 10.3389/fpsyg.2021.808525
+385,690 views
+122 citations
+
+ORIGINAL RESEARCH
+
+Published on 11 Mar 2022
+
+Service Quality and Customer Satisfaction in the Post Pandemic World: A Study of Saudi Auto Care Industry
+Sotirios ZygiarisZahid HameedMubarak Ayidh AlsubaieShafiq Ur Rehman
+Frontiers in Psychology
+doi 10.3389/fpsyg.2022.842141
+279,489 views
+62 citations
+Guidelines
+Author guidelines
+Editor guidelines
+Policies and publication ethics
+Fee policy
+Explore
+Articles
+Research Topics
+Journals
+How we publish
+Outreach
+Frontiers Forum
+Frontiers Policy Labs
+Frontiers for Young Minds
+Frontiers Planet Prize
+Connect
+Help center
+Emails and alerts
+Contact us
+Submit
+Career opportunities
+Follow us
+© 2025 Frontiers Media S.A. All rights reserved
+Privacy policy
+|
+Terms and conditions

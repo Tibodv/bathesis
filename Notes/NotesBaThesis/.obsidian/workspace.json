@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01 Arbeit/00 - recherchieren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b20b26011b3a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 Arbeit/02 - Theorie - Literatur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82f4f818a6d2637a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/UTAUT2 & KI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,17 +183,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f30da00bf51f223",
+  "active": "c7b20b26011b3a40",
   "lastOpenFiles": [
     "01 Arbeit/00 - recherchieren.md",
     "01 Arbeit/02 - Theorie - Literatur.md",
+    "Papers/UTAUT2 & KI.md",
+    "Erhebung/Whatsapp mit Bitte um Teilnahme.md",
+    "01 Arbeit/Hypothesenformulierung.md",
     "01 Arbeit/01 - Einführung.md",
     "Untitled.canvas",
     "01 Arbeit/03 - Methode.md",
     "01 Arbeit/Struktur Arbeit.md",
     "01 Arbeit/Schreiben - Meta.md",
     "01 Arbeit/Offene Themen - Entscheidungen.md",
-    "Erhebung/Whatsapp mit Bitte um Teilnahme.md",
     "Erhebung/05 Disclaimer NoCB.md",
     "Erhebung/04 Disclaimer CB.md",
     "05 Chatbot/Chatbot Q&A.md",
@@ -187,7 +213,6 @@
     "05 Chatbot/Chatbot.md",
     "05 Chatbot",
     "04 Mock-Up/06 Brand Identity Mockup.md",
-    "04 Mock-Up/01 Mock-Up.md",
     "01 Arbeit",
     "Pasted image 20240926151644.png",
     "Templates",

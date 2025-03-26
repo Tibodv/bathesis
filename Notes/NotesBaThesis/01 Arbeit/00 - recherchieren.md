@@ -23,4 +23,17 @@
 | Warum UTAUT2?                  | Übersicht über Gütekriterien                                                    |          |                |
 |                                | UTAUT2 selber (venkatesh)                                                       |          |                |
 |                                | Stellen in UTAUT2 zu Validität der Messmethode                                  |          |                |
+|                                | Gibt es eine Review von UTAUT2 ?                                                |          |                |
+| Bewertung UTAUT2               | Wie gut ist U2 ?                                                                | kinda    | Tamilmani 21   |
 |                                |                                                                                 |          |                |
+|                                |                                                                                 |          |                |
+|                                |                                                                                 |          |                |
+|                                |                                                                                 |          |                |
+| UTAUT2 mit KI                  |                                                                                 |          |                |
+|                                |                                                                                 |          |                |
+|                                |                                                                                 |          |                |
+|                                |                                                                                 |          |                |
+| UEQ-S                          |                                                                                 |          |                |
+
+
+Power Analysis

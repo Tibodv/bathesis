@@ -1,0 +1,916 @@
+Skip to main content
+Skip to article
+View PDF
+Download full issue
+Technology in Society
+Volume 65, May 2021, 101535
+A new acceptance model for artificial intelligence with extensions to UTAUT2: An empirical study in three segments of application
+Author links open overlay panel
+Oliver Alexander Gansser
+,
+Christina Stefanie Reich
+Show more
+Share
+Cite
+https://doi.org/10.1016/j.techsoc.2021.101535
+Get rights and content
+Under a Creative Commons license
+Open access
+Highlights
+•
+New research model for measuring the acceptance of products with artificial intelligence.
+•
+Research within three segments of everyday life: mobility, household, and health.
+•
+Sample in three research areas with more than 7000 respondents each.
+•
+Extended the UTAUT2 model by five additional influencing factors.
+Abstract
+More and more products in everyday life are using artificial intelligence (AI). The purpose of this research is to investigate influence factors in an acceptance model on behavioral intention and use behavior for products containing AI in an everyday life environment. Using PLS-Analysis, this study analyzes additional influence factors to the UTAUT2 model in the three application segments mobility, household, and health, using a sample of 21,841 respondents. Except for safety security, all additional factors to the UTAUT2 model play a relevant role in explaining behavioral intention and use behavior of products containing AI. This study answers the applicability of an established acceptance model for products that incorporate AI, extended by five additional influencing factors.
+Previous
+Next
+Keywords
+Artificial intelligenceTechnology acceptanceConsumer behaviorUser acceptanceStructural equation model
+1. Introduction
+Artificial intelligence (AI) is increasingly finding its way into many segments of people's lives. AI is intended to simplify people's lives and support them in a variety of situations. The study examines which influencing factors play a role in the behavioral intention and use behavior of products containing or using AI. An established approach in research on the acceptance of new technologies is the Technology Acceptance Model (TAM). Many studies use this basic model of acceptance and or extensions (TAM2, TAM3, UTAUT, and UTAUT2) for studies on the intention to act or use and the use behavior of new technologies. Few studies exist that use these theories for the behavioral intention to use products that explicitly incorporate AI. These include studies on autonomous driving [[1], [2], [3]]. Numerous studies exist that examine products containing or could contain AI, but AI is not the object of study in terms of intent to use. For example, wearable fitness and health technology [[4], [5], [6], [7], [8]] or individual application areas such as smart home [9,10], container transportation [11], banking [[12], [13], [14], [15]], NFC smartphone [16], e-shopping [17,18]. No acceptance model has AI as an object of study for behavioral intention and use behavior. Therefore, we set up a new acceptance model that takes AI in everyday products as its object of investigation. For this purpose, we use the UTAUT2 (Unified Theory of Acceptance and Use of Technology) as a basis and extend it with additional factors. In our hypothesis derivation, we justify why these additional factors must be included, especially in connection with products containing AI. For segment-independent validity, we examine everyday applications in three completely different segments of life (mobility, household, and health). We ignore factors that moderate the relationship between attitudes and behavior. Instead, we derive from many theories why certain factors affect performance expectancy, behavioral intention, and indirectly actual use. Our intention is not to test UTAUT2. Therefore, our research question is: What are the most influential drivers on the behavioral intention and use behavior on products containing AI, regardless of the segment of the application?
+The object of this study is to investigate influence factors in an acceptance model on behavioral intention and use behavior for products containing AI in an everyday life environment. First, we explain why we use the UTAUT2 model as the basis for our measurement. We extend this basic model for our model based on literature by the factors health, convenience comfort, sustainability, safety security, and personal innovativeness. We derive theory-based hypotheses for all impact variables in the model with respect to our object of study. Next, we demonstrate our research methodology, including data collection and sampling, as well as the construct measures of our research model. We then calculate our path analysis to estimate our model and test the corresponding hypotheses. By applying partial least squares (PLS) path modeling, we simultaneously estimate our predictors' ordinary least squares regressions. Finally, we discuss the theoretical and managerial implications of our research.
+2. Theory and hypothesis development
+When research is concerned with investigating the behavioral intention and use behavior of new technologies, the literature predominantly uses the Unified Theory of Acceptance and Use of Technology (UTAUT) and the underlying Technology Acceptance Model (TAM) by Davis [19,20]. Since the original UTAUT has more to do with the acceptance of technologies in the direct working environment, we prefer the UTAUT2 by Venkatesh et al. [21]. In current market research, this model represents the extension of the UTAUT model by further factors (price value, habit and hedonic motivation), which makes it possible to investigate the acceptance of new technologies, especially in the private environment or with a more consumer-oriented context ([21]; p. 158).
+The UTAUT2 examines the effects of performance expectancy, effort expectancy, social influence, facilitating conditions, hedonic motivation, price value, and habit on behavioral intention as a meditative variable and, finally, usage behavior in terms of actual usage. Usage behavior always refers to respondents' reported behavior ([21]; p. 178). We assume facilitating conditions can only be answered with sufficient experience. Venkatesh et al. [22] find that facilitating condition only matters for older people at late stages of experience. Moreover, it can be argued that some previous research has found that facilitating conditions are not predictors of intention in the presence of performance expectancy and effort expectancy constructs [23,24]. Since we include the two constructs, performance expectancy and effort expectancy, we omit the facilitated condition construct in our model. In addition to the influencing variables from the UTAUT2 model, factors should be included from smart home research such as health, convenience comfort, sustainability, safety security, and personal innovativeness in the IT area, analogous to Baudier et al. [25] and Chen and Chang [26].
+For products containing AI there are numerous fields of application in different industries [27,28]. Our focus in investigating the research question is on applications and application segments in everyday non-industrial use. We investigate which influencing factors play a role in the behavioral intention and the use behavior. Our focus in the investigation of the research question, which influencing factors play a role in the intention of use and the use behavior, we put on applications and fields of application that could occur in humans' everyday perception. In our opinion, this is the case for applications in the mobility, household, and health segments. People who live in households have to move from A to B and pay more or less attention to their health.
+Moreover, it is stated by Davenport et al. [28] that the impact of AI varies among industries. The highest impact is expected in industries such as consumer packaged goods, retail, banking, and travel. These industries involve frequent contact with large numbers of customers and produce large quantities of customer transactions and customer attribute data. This data can be further expanded by data from external sources such as social media. This is where AI can analyze this kind of data and make personalized recommendations even in real-time to the customer, for example, regarding additional products or the optimal price [29]. Furthermore, Davenport et al. [28] point out that in comparison, there will be fewer consequences when choosing a film than when steering a car.
+The three segments under consideration in our investigation will be used to examine whether the acceptance of products with AI can differ in the individual areas of life due to different consequences. Previous studies have shown that tasks with high consequences are classified as more dangerous, especially for conservative users [30].
+New technologies often change customer behavior [31,32]. We assume that products containing AI do so because they are perceived as new technology. We propose three research topics related to the intended use and use behavior. These are mobility, household, and health. In this section, we explain and justify the theoretical backgrounds of the independent variables. We refer to as predictors of the behavioral intention and use behavior of products containing AI in the three segments studied. A theoretical explanation of independent variables on dependent variables is required to establish a suitable model for answering our research question. The considered independent variables on behavioral intention are 1) health, 2) convenience comfort, 3) sustainability, 4) performance expectancy, 5) safety security, 6) personal innovativeness, 7) effort expectancy, 8) social influence, 9) price value, 10) hedonic motivation 11) habit and 12) behavioral intention. The final dependent variable (use behavior) represents the concrete applications of products containing AI in the different application segments.
+2.1. Health
+Following Chen and Chang [26], a study of the Konrad Adenauer Foundation [33] also shows that for respondents, health is the most important aspect of life, followed by family and partnership. According to Rauch [34], one-third of the German population already says that they live health-consciously and are prepared to accept high costs. Even 85% of the respondents say that they are interested in information about healthy eating and a healthy lifestyle. They see health as private investment in their happiness [34]. From this, it can be deduced that the health-promoting aspect of a product containing AI has a positive influence on the performance expectancy and thus on the behavioral intention and use behavior. Whereas, Longoni et al. [35] observed that customers' reservations about intelligent medical devices are due to the perception that products or services with AI cannot identify and relate to customers' unique characteristics. The study by Lee and Lee [6] deals with the acceptance of portable health devices. It is argued that individuals who have more interest in health also have a higher behavioral intention to use such portable health devices, as they are considered helpful to maintain or improve their health ([6]; p. 158). This is confirmed by the study's result, which shows a significant positive influence of the user's interest in health on the intended use considered in the study 6.
+Zhang et al. [8] investigate the acceptance of portable technologies in the health sector. Health attitudes are taken into account concerning the Health Belief Model [36,37]. This model considers decision-making in the health-environment about individual health behavior, such as attitudes towards screening or the search for suitable treatment methods. Based on this, Zhang et al. [8] assume that a person's probability of adopting new portable technology in the health sector increases, depending on how much the person sees their health at risk. However, it also depends on how high the effectiveness of the proposed health behavior is assessed. This also applies to products containing AI.
+Since health is an increasingly important part of all segments of life, the health-promoting aspect can play an essential role in accepting products containing AI. The result of the study by Zhang et al. [8] can support this by a significant, positive influence of health awareness on the perceived benefit in the female sample. Besides, the study conducted by Li, Ma, Chan, and Man [7] shows a significant negative impact on a person's state of health and acceptance of the use of portable technologies by adults 60 years and older. This also indirectly points to a positive link between new technology's health aspect and its performance expectancy. In summary, it can be said that health-promoting aspects can positively influence the performance expectancy of products containing AI. We deduce the following hypothesis:
+
+H1
+
+The higher the expected health aspect of products containing AI, the higher the performance expectancy.
+2.2. Convenience comfort
+According to Baudier et al. [25], convenience and comfort can be seen as another aspect that can also contribute to the acceptance of products containing AI by enabling the user to have a more convenient and comfortable everyday life and thus appear practicable. The study by Mert et al. [38] shows that participants have a positive attitude towards intelligent devices if they expect them to make their lives more comfortable and their housework less time-consuming ([38]; p. 17). The study by Guillen-Gamez and Mayorga-Fernandez [39] shows that the physical attractiveness of wearables, which includes the comfort dimension, has a positive connection to behavioral intention also to feelings and emotions when using them ([39]; p. 4).
+Therefore, it can be concluded that products or services that make life easier and therefore more comfortable seem useful to the user. We deduce the following hypothesis:
+
+H2
+
+The higher the convenience comfort of products containing AI, the higher the performance expectancy.
+2.3. Sustainability
+The strong media presence of topics such as climate change or global warming increases awareness of sustainable action in all segments of life. PwC sees AI as the Fourth Industrial Revolution engine, but the willingness to contribute to sustainability in society is also growing in the private sphere. This goes hand in hand with cost savings, energy savings or raw material savings [40,41].
+Park, Hwang, Ko, Kim [42] investigate the acceptance of a home energy management system. The result shows a significant result regarding the impact of environmental responsibility on the usefulness. They refer to the study by Averdung and Wagenfuehrer [43], which states that people who have a strong interest in protecting and improving the environment and consider sustainability to be important are more open to environmentally friendly technologies and consider them to be very useful [43].
+Stern [44] deals with the research question of whether new technologies that save money both for the consumer and the operator are accepted by the consumer as soon as they are aware of their usefulness ([44]; p. 1224). This is not the case, however, as the process of changing behavior is much more complex. It is argued that the customer perceives energy saving as an environmental responsibility because it positively impacts the environment. This is perceived as useful, even if the personal monetary advantage is not taken into account ([44]; p. 1229).
+This assumption is in line with the study results by Mert, Suschek-Berger, and Tritthart [38]. Their respondents are asked whether they would accept the new technology for financial or environmental reasons or both. It turns out that a mixture of both has the greatest resonance. The fact that not only the financial aspect plays a role additionally supports the assumption that respondents have environmental awareness and also want to contribute to its protection. The authors state that the ecological aspect did not outweigh the financial aspect but that it is a welcome side effect that positively affects the acceptance of the new products or technologies ([38]; p. 30). We deduce the following hypothesis:
+
+H3
+
+The greater the sustainability of products containing AI, the greater the performance expectancy.
+2.4. Performance expectancy
+Another construct that explains the behavioral intention in UTAUT/UTAUT2 is the performance expectancy [21,22]. It is also used in TAM/TAM2/TAM3 [19,20,24,45], where it is referred to as performance expectancy. In this way, we also refer to it in this study. This is defined as the degree to which a person believes that using a new product or technology contributes to better performance in the application ([22]; p. 447). Furthermore, according to Venkatesh et al. [22], there are several similar constructs from earlier studies that also belong to usefulness.
+Davis et al. [46] refer to motivation theory, through which they explain the use and understanding of new technologies. They assume that it is necessary to offer the user a certain goal (extrinsic motivation) from the outside, the achievement of which can be reached by carrying out a certain action, but which is not directly related to this activity ([46]; p. 1112). In the figurative sense, this could mean that these could be instrumentalized to achieve the user goals better and more easily concerning the application of products or technologies with AI.
+Similarly, the Model of PC utilization by Thompson et al. [47] mentions technologies that individuals use because they are supposed to improve their work performance (job-fit) ([47]; p. 129). Moore and Benbasat [48] also describe performance expectations as the relative advantage of innovation over its ancestor ([48]; p. 195) in the adapted Innovation Diffusion Theory. We derive the following hypothesis from this:
+
+H4
+
+The higher the performance expectancy of products containing AI, the higher the behavioral intention.
+2.5. Safety security
+Besides the benefit of a new product, the associated risk in the form of safety concerns of the user when using the product represents an important component for the behavioral intention and use behavior, especially in the area of products containing AI. Hubert et al. [49] state that in this context, users may be concerned not only about the loss of control over personal data or the illegal access of third parties to the system but also about the system is defective and not functioning as intended. Therefore, security concerns are an important factor in the behavioral intention and use behavior of products containing AI. This is supported by the perceived risk theory [50,51], which states that the perceived impact of unwanted consequences and the subjectively perceived probability of the unwanted consequence is relevant to the user. Since when results are more consequential, the perception of risk increases [52]. Chao and Lin [11] support this in particular for cases where data security is the issue. Users often fear that data will be passed on. The study shows that if users perceive the use and processing of data as secure, this has a significant positive effect on the intended use ([11]; pp. 70–71). In the study by Curran and Meuter [12], the behavioral intention is put before the attitude to use. The term risk is used here to describe the probability of certain behavior results and the resulting danger for the user, and the extent of the negative consequences [53]. It is assumed that the user tries to minimize the risk of temporal, financial, social, and psychological losses in his purchase decision [54].
+In the service context, reference is made to Murray [55]. Here, users try to collect as much information as possible to minimize the risk of the purchase's negative consequences. Users mainly rely on their own experience when necessary ([55]; p. 105). Overall, Curran and Meuter [12] conclude that it depends on the technology whether the perceived risk is a substantial influencing factor for self-service technologies. A significant negative influence of the perceived risk was found in online banking, but not in the two other self-service technologies considered, ATM or telephone banking. They also refer to the study by Eastin [56], which shows that users' security concerns also play a major role in the acceptance of e-commerce services such as online shopping, banking, facilities, and internet services ([56]; p. 254). The results of the study also showed differences depending on the e-commerce channel considered. Thus, significant negative influences can be measured in online banking and online investments ([56]; p. 259).
+Ooi and Tan [14] address the acceptance of smartphone credit cards with NFC technology. They include the study results by Cheong et al. [10], which show that the perceived risk in the use of mobile services has a significant impact on usage attitudes. The results of the study by Tan et al. [15], in turn, show no significant influence of the perceived risk on the intended use. Dimitriadis and Kyrezis [13] see the increasing importance of data protection and security for customers as a major obstacle to introducing e-channels and online transactions. However, the study results show no significant effects of perceived transaction security or data protection on the users' behavioral intention to bank by phone or online.
+Another thing that must be considered in this context is the privacy-personalization paradox [57]. The customer is confronted with the need to assess his security concerns against personal advantages such as personalized offers and recommendations. Another obstacle besides the fear of losing one's own data is that customers have reservations about products with AI depending on intelligence level [58]. When it comes to automating standard or rule-based processes, people have fewer reservations. However, when it comes to applications that require context awareness, a form of intelligence that requires machines and algorithms to learn and thus go beyond original programming, many customers have great concerns. Gray [59] justifies this by saying that customers trust products with AI less because it is assumed that products with AI do not feel in the sense that they lack the affective ability or empathy required to perform such tasks [30] and thus apply much higher standards to them. The more a task involves intuition, affect, or subjectivity, the more uncomfortable the customers feel [60]. This, in turn, has a negative effect on the behavioral intention to use a product. However, safety security plays an important role, especially in introducing products and services that contain new technologies that are mostly unknown to the user. Especially with AI, data processing plays a central role, which is why a high risk in the sense of security concerns of users can be a major obstacle concerning the behavioral intention and use behavior. We derive the following hypothesis from this:
+
+H5
+
+The higher the perceived safety security concerns of products containing AI, the lower the behavioral intention.
+2.6. Personal innovativeness
+Personal innovativeness is based on the research of Agarwal and Prasad [61]. They conclude that there are people who “adopt IT innovations earlier than others” (Agarwal and Prasad [61]; p. 205) and therefore play an important role in the introduction of new technologies. This is especially important for products or services with AI. A certain curiosity and willingness to experiment are essential for people to even think about using a new product or technology. Ahn et al. [62] investigated sustainable households using smart technology and showed that sustainable innovativeness has a positive, significant influence on the behavioral intention on the considered sustainable household technologies. Schweitzer and van den Hende [63] investigate the intention to adopt smart autonomous products. This also takes into account the personal innovativeness concerning perceived disempowerment. This is referred to as the feeling that AI plays an important role in autonomous products or services. Users perceive innovation as a loss of control and autonomy and thus restricting the freedom to choose or act ([63]; p. 831). Based on numerous studies, people with higher personal innovativeness are open to changes, more willing to take the risk to adopt a new product and collect more information about technical products.
+Moreover, it is assumed that these people own more technical products and consider them more useful than individuals with less personal innovativeness. The higher interaction with the examined products strengthens the positive attitude towards them and leads to higher personal innovativeness in trusting these products. This trust gives them the feeling that the new product will work well, and therefore they are more willing to accept a new technological product. Overall, they show a positive attitude. This is particularly important in the case of products or services with AI, as a certain curiosity and joy in experimenting are essential so that people can even think about using a new product or technology. We derive the following hypothesis from this:
+
+H6
+
+The greater the personal innovativeness towards products containing AI, the greater the behavioral intention.
+2.7. Effort expectancy
+To explain the behavioral intention, effort expectancy is one of the influencing variables considered in UTAUT/UTAUT2 [21,22]. The models TAM/TAM2/TAM3 [19,20,24,45] also refer to this factor as perceived ease of use. In this context, it should be noted that perceived ease of use in TAM and effort expectancy in UTAUT is oppositely formulated influencing variables that measure the same content. The positive influence of the perceived ease of use can thus be explained by the fact that new technology is used, especially when it appears to be effortless ([20]; p. 985). Venkatesh et al. [22] argue against it that the use of the opposing construct effort expectancy makes more sense, especially at the beginning of the use of a new product or a new technology when first obstacles have to be overcome ([22]; p. 450).
+Furthermore, according to Venkatesh et al. [22], the construct effort expectancy is also used by Thompson et al. [47] in the model of PC-Utilization, where it appears as complexity about how difficult it is perceived to understand and use a system ([47]; p. 128). Based on the Innovation Diffusion Theory by Rogers [64], Moore and Benbasat [48] developed and validated a model with constructs for individual technology acceptance [65]. Here, too, a construct of ease of use is used, which measures how difficult it is to use innovation ([48]; p. 195). This reinforces the assumption that a reduction in the effort also positively affects the intended use of products containing AI.
+For this reason, for the study carried out here, the construct effort expectancy, according to Venkatesh et al. [22], is chosen since currently, products or technologies with AI are still primarily perceived as very new or even unknown to the user. Consequently, it seems more reasonable than to measure the perceived ease of use of new products or technologies since only new products with a low utilization barrier are considered to be integrated into everyday life. We derive the following hypothesis from this:
+
+H7
+
+The higher the effort expectancy to use products containing AI, the higher the intention of use.
+2.8. Social influence
+The construct of social influence is based on the Theory of Reasoned Action [66], which is called the subjective norm and is also used in TAM2 [24], the Theory of Planned Behavior [67], the decomposed Theory of Planned Behavior [23], and the combined model of TAM and Theory of Planned Behavior [68]. Social Influence is perceived as the extent to which people who are important to the user think they should use the new product or technology ([22]; p. 451).
+The model of PC-Utilization [47] considers a similar construct with social factors, based on the Theory of Human Behavior of Triandis [69]. On the one hand, the internalization of the subjective culture of the reference group of Thompson et al. [47] is mentioned, and on the other hand, the interpersonal agreements that a person has made with others in certain social situations. According to Venkatesh et al. [22], a factor similar to social influence is the image factor that appears in the Innovation Diffusion Theory based on Rogers (1995) and adapted by Moore and Benbasat [48]. This theory is concerned with the perception of how the use of innovation can improve the image or position in the social system. Following Venkatesh et al. [22] and Venkatesh et al. [21], we derive the following hypothesis from this:
+
+H8
+
+The greater the social influence on products containing AI, the stronger the behavioral intention.
+2.9. Price value
+Another component added to UTAUT 2 [21] is price value. In contrast to the use of technology in the workplace, users in the private environment have to bear the costs of new products or technologies themselves. The Model of Adoption of Technology in Households (MATH) by Brown and Venkatesh [70] deals with the acceptance of PCs for home use and finds that the costs have a significant negative influence on the intended use.
+Furthermore, according to Venkatesh et al. 2012 [21], the factor price value is seen as a supplement to the factor effort expectancy because it deals more with the investment of time and effort concerning the acceptance and use of new technologies. Thus the consumer context is better taken into account by the price value. If the advantages of using a product outweigh the monetary costs of the product, then a positive price value is assumed [21]. We derive the following hypothesis from this:
+
+H9
+
+The more valuable the price of a product containing AI is judged, the greater is the behavioral intention.
+2.10. Hedonic motivation
+The initial UTAUT contains only extrinsically motivating factors and places a strong focus on the utility value, which is represented by the construct of performance expectancy in the sense of utility, which also represents the strongest influencing factor for the intention to use in the UTAUT [22]. According to Venkatesh et al. [21], this extrinsic motivation component is supplemented by the intrinsic component hedonic motivation in UTAUT2. Hedonic motivation is understood as an intrinsic addition from the perspective of Motivation Theory ([21]; p. 160, [71]; p. 271). Brown and Venkatesh [70] show that this is an important factor in technology acceptance and use in the consumer context. Thus, higher hedonic motivation of a customer for new technologies, such as AI in everyday products, leads to higher behavioral intention of the user, which in turn favors usage behavior. We derive the following hypothesis from this:
+
+H10
+
+The more hedonic motivation associated with products containing AI, the higher the behavioral intention them.
+2.11. Habit
+The influence of habit on the behavioral intention is based on UTAUT 2 [21]. The authors state that the original UTAUT lacks the intentional aspect, in the sense of purposefulness, as a key factor to explain behavior. For this purpose, habit based on Kim and Malhotra [72] and Limayem et al. [73] is seen in a context of use rather than acceptance to be able to predict the use of technology ([21]; p. 161).
+According to Limayem et al. [73], habit is defined as the extent to which people automatically perform behaviors due to learning in the sense of experience ([21]; pp. 161–162). From the perspective of instant activating, which is also consistent with the Theory of Planned Behavior [67], it is assumed that repetitive behavior can cause settings and intentions to be anchored that can be activated by triggers [74]. When these are activated, they automatically lead to behavior without conscious mental activity [75]. This means that a stronger habit leads to a stored intention, which in turn influences actual behavior. Habit thus directly influences behavioral intention and use behavior ([21]; p. 158). We derive the following hypothesis from this:
+
+H11a
+
+The more it is a habit to use products containing AI, the higher the behavioral intention.
+
+H11b
+
+The more it is a habit to use products containing AI, the higher the use behavior.
+2.12. Behavioral intention
+In both the TAM [19,20] and the UTAUT/UTAUT2 [21,22], the use behavior is regarded as the target variable. The TAM refers specifically to the actual system usage, which in UTAUT/UTAUT2 is interpreted more broadly as use behavior. A behavioral intention precedes the use behavior goes back to the Theory of Reasoned Action [66]. It is established that the execution of a certain behavior depends on the strength of a person's behavioral intention. This behavioral intention is explained in the Theorie of Reasoned Action by the subjective norm and the attitude toward behavior. The subjective norm finds attention in our model through social influence. The attitude towards behavior is not considered here analogous to the UTAUT [22] since the influence on the intended use is not unambiguous.
+According to Venkatesh et al. [22] numerous studies show, that the attitude towards behavior construct has no significant influence on behavior intention ([22]; p. 455). For example, the C-TAM-TPB (Combined Technology Acceptance Model and Theory of Planned Behavior) [68], the Model of PC Utilization (MPCU) [47], and the Social Cognition Theory [76] are named. On the other hand, Venkatesh et al. [22] names other studies where the attitude construct showed a significant influence on behavioral intention. These studies are the Theory of Reasoned Action [66], the Theory of Planned Behavior [67], and the Motivational Model applied by Davis et al. [46]. Due to inconsistency in these studies, we do not consider the construct attitude towards behavior. Overall, strong support for the thesis that behavioral intention is strongly related to use behavior can also be found in Sheppard et al. [77]. Here, a meta-analysis was performed with 87 separate studies with a total sample of n = 11,566 examining the relationship of behavioral intention and actual behavior based on the Theory of Reasoned Action ([66], [77]; p. 336). Which for this reason is also assumed for the study carried out here. We derive the following hypothesis from this:
+
+H12
+
+The stronger the behavioral intention, the higher the use behavior
+Based on our literature review and the hypotheses derived from it, our research model is shown in Fig. 1. As shown in Fig. 1, the research model is built based on the hypothesis development. The model consists of the eight basic factors of the UTAUT2 model (performance expectancy, effort expectancy, social influence, price value, hedonic motivation, habit, behavioral intention, and use behavior) and five factors extended by us for the AI context (health, convenience comfort, sustainability, safety security, and personal innovativeness). The model shows that behavioral intention and habit influence use behavior. Performance expectancy, safety security, personal innovativeness, effort expectancy, social influence, price value, hedonic motivation, and habit influence behavioral intention. Besides, health, convenience, comfort, and sustainability influence performance expectancy for products containing AI.
+Download: Download high-res image (357KB)
+Download: Download full-size image
+
+Fig. 1. Research model for measuring the acceptance of products with artificial intelligence.
+
+3. Research methods
+3.1. Data collection and sampling
+This study will focus on three common segments of application in which products containing AI may be used. These are mobility, household, and health. For each segment, we used an individual questionnaire (in total, three questionnaires: mobility, household, and health). The segments and the queried applications were determined according to a recent study by Hecker et al. [27].
+The three questionnaires' content was as follows: At the beginning, regardless of the segment surveyed, the participants were asked whether they had ever heard of the term AI and what is meant by AI. Regardless of the answers, the respondents were presented with a general definition of AI by the interviewers, to have a clear idea of what AI is and encompasses. Participants were first presented with the six applications per segment to break down the interaction level to everyday applications for AI-containing products.
+Because there is no single definition of AI in the literature and AI is an abstract and multifaceted concept, an expert survey was conducted before the study. We selected seven business informatics experts and Big Data from a pool of approximately 500 full-time professors at FOM. The task for the experts was to create a simple definition that could be understood by study participants. We used the feedback from the experts to create an understandable and uniform definition. This definition was accepted by all experts and read as follows: AI is the imitation of human behavior (ability to think, solve problems, learn, correct oneself, etc.) by computer systems.
+1,940 students from FOM University of Applied Science as the largest university in Germany, interviewed 21,841 respondents nationwide in personal face-to-face interviews from 04-01–2019 to 05-31-2019. Students are participants in 28 courses on scientific work. Within the curriculum of the courses, detailed interview training was held by the teachers. The students also received extensive accompanying material for conducting face-to-face interviews. These training activities were carried out to avoid response tendencies that reside in the interviewer's personality. Each student who participated in the lecture was instructed to conduct a maximum of 12 face-to-face interviews in the field phase of more than 8 weeks. All interviewers were previously trained in face-to-face interviews. The interviews were conducted using a standardized questionnaire. For the quoting of the sample characteristics, a quota plan was used, with the distribution of the characteristics of gender, age group, and the three application segments of the products containing AI. Each respondent was asked about only one application segment. The quota schedule contained five equally weighted age groups in years (17–27, 28 to 38, 39 to 49, 50 to 60, and 61 and older). Within each age group, 12 interviews had to be conducted. Two interviews per segment (mobility, household, and health) for men and women, respectively. Of the 21,841 respondents, 92.1% were able to say that they had heard the term AI before and that they know what is meant by AI. 121 people did not answer this question. In the segment of mobility, 7,260 respondents were interviewed, in the segment of household 7,261, and in the segment of health 7,320.
+3.2. Measure development
+The research model's constructs for measuring the acceptance of products containing AI were recorded using multiple item sets. All constructs were selected after extensive literature research and evaluation of the reliability and validity of the items. The measures of behavioral intention were adopted from Shin [78], referring to Davis [20] and Shin [79], Performance expectancy, effort expectancy, social influence, price value, hedonic motivation, and habit were adapted from Venkatesh et al. [21]. Hedonic motivation was extended by one item from Shuhaibera and Masha [9]. The measures of health, convenience, comfort, sustainability, and personal innovativeness were adopted from Baudiera et al. [25]. Safety security was measured with items from Shuhaiber and Masha [9]. Except for use behavior, all our constructs were measured using reflective measurement models. Each set of observed variables (and their deviations and covariances) can be classified as manifestations of the underlying constructs [80]. All reflective constructs with their items are shown in Appendix A.
+For the use behavior, a formative measure with six product applications each was queried as shown in Table 1 following Venkatesh et al. [21]. For every segment (mobility, household, and health) individually, six items were developed, according to the study by Hecker et al. [27]. For mobility, we consider the use behavior of assisted driving (e.g., recognition of road signs, lane assistant), autonomous driving (without driver intervention), infotainment and navigation systems, detection of driver condition (e.g., fatigue detection), traffic control/smart city (e.g., traffic light control), and predictive maintenance. For household, we consider use behavior of cleaning robot (household/garden), shopping assistant/kitchen assistant (appliances), intelligent facility management/smart home, smartwatch, voice Assistant “Alexa,” and shopping assistants/customer service on the Internet (intelligent chats, chatbots). For the health segment, we consider the use behavior of intelligent personal assistants (e.g., robots for people in need), care robots (e.g., semi-autonomous lifts for the pick-up and transportation of people), health & fitness tracker (Smart Watch), intelligent devices in the hospital, assisted living (Emphatic assistance in the living environment), and diagnosis and therapy counseling.
+
+Table 1. Items, weights, and bootstrapping results of the formative construct use behavior.
+
+Measurement of use behavior for each area of life	Original	.025	.975
+Items for mobility
+Assisted driving (e.g., recognition of road signs, lane assistant)	.414*	.362	.466
+Autonomous driving (without driver intervention)	-.030	-.076	.015
+Infotainment and navigation systems	.647*	.604	.688
+Detection of driver condition (e.g., fatigue detection)	.083*	.033	.132
+Traffic control/Smart City (e.g., traffic light control)	.096*	.049	.142
+Predictive maintenance	.028	-.021	.075
+Items for household
+Cleaning robot (household/garden)	.274*	.229	.319
+Shopping assistant/Kitchen assistant (appliances)	.202*	.156	.246
+Intelligent facility management/Smart home	.253*	.206	.299
+Smartwatch	.253*	.210	.295
+Voice assistant “Alexa"	.360*	.315	.406
+Shopping assistants/customer service on the internet (intelligent chats, chatbots)	.052*	.010	.092
+Items for health
+Intelligent personal assistants (e.g., robots for people in need)	.044	-.031	.119
+Care robots (e.g., semi-autonomous lifts for the pick-up and transportation of people)	-.029	-.111	.054
+Health & Fitness tracker (smart watch)	.780*	.738	.817
+Intelligent devices in the hospital	-.009	-.092	.073
+Assisted living (emphatic assistance in the living environment)	.257*	.192	.321
+Diagnosis and therapy counseling	.242*	.162	.318
+Notes. *p-value < .05; .025 and .975 are the upper and lower limit of the 95% confidence interval, all parameters are obtained based on 5000 bootstrapping samples.
+A uniform seven-level Likert scale was chosen to measure the items. All items of the reflective models (Appendix A) could be answered on a response scale from 1 = “disagree at all” to 7 = “fully agree”. With the values in between, the respondents could grade their judgment accordingly. The use behavior was measured following Venkatesh et al. [21] with the request to indicate how often the indicated six applications are used in everyday life (Table 1). The responses are segment-specific as described above and were measured on a seven-level Likert scale from 1 = never to 7 = several times a day. Here, too, the respondents were able to gradate their judgment accordingly with the values in between.
+4. Results
+As can be seen from the research framework in Fig. 1, this is a relatively complex model with direct and indirect relationships between exogenous and endogenous constructs. To examine the hypotheses regarding their validity and reliability in the three application segments, we have decided to perform an analysis in R with the package plspm [81]. In addition to the complexity of the present model, there are other reasons for PLS analysis. For example, normally distributed data do not necessarily have to be available, and there are less stringent requirements for measurement models that are formative [82]. First of all, it should be noted that we calculate the underlying structural equation model separately for all three segments (mobility, household, and health). All three models are equally structured with ten exogenous constructs (health, convenience comfort, sustainability, safety security, personal innovativeness, effort expectancy, social influence, price value, hedonic motivation, and habit) and three endogenous constructs (performance expectancy, behavioral intention, and use behavior). Since the use behavior of products was measured as a formative construct with different applications in the three segments, also the wording of the reflective measurements were adapted to the context, it does not make sense to perform a multi-group analysis in which first a global model is calculated and then compare the path coefficients of the three models. For this reason, we analyze the underlying research model separately for each application segment. Since we want to establish a general model independent of the application segment, we also do not expect large deviations of the path coefficients between the application segments in this respect.
+4.1. Common method bias
+There may always be a common method bias in survey studies leading to inflation or deflation of the interrelations between the constructs to be analyzed. However, there are some important approaches to eliminate or reduce the main causes of common method bias [83,84]. Thus, we have collected the data anonymously, without personal data, and communicated this as well. The anonymity of the interviewees reduced the fears of the interviewees when answering the questions. We have also adapted the questions and the respective context and checked their comprehensibility and validity using previous pre-tests with persons with sufficient experience. We avoided asking duplicate questions to confuse the respondents as little as possible.
+Furthermore, we performed a confirmatory factor analysis based on a single factor test to evaluate the degree of the common method bias [83]. First, we perform a factor analysis based on 12- factor models per segment with all reflective constructs. We then compare the adjustment indices with the results of the single factor models of each segment. To avoid the common method bias, the quality criteria of the 12-factor models should always be better than those of the single-factor models.
+The results show that the adjustment indices for the 12-factor models for the segments look like this:
+•
+Mobility: Chi2/d.f. = 15.581, p < .001, NFI = 0.950, NNFI = 0.947, RMR = 0.139, CFI = 0.953, GFI = 0.911, AGFI = 0.894 and RMSEA = 0.046.
+•
+Houshold: Chi 2/d.f. = 17.982, p < .001, NFI = 0.948, NNFI = 0.944, RMR = 0.137, CFI = 0.951, GFI = 0.896, AGFI = 0.877 and RMSEA = 0.050.
+•
+Health: Chi 2/d.f. = 15.375, p < .001, NFI = 0.951, NNFI = 0.948, RMR = 0.120, CFI = 0.954, GFI = 0.915, AGFI = 0.900 and RMSEA = 0.046.
+The adjustment indices for the single-factor models for the segments look like this:
+•
+Mobility: Chi 2/d.f. = 129.982, p < .001, NFI = 0.544 NNFI = 0.524, RMR = 0.131, CFI = 0.546, GFI = 0.491, AGFI = 0.442 and RMSEA = 0.137.
+•
+Houshold: Chi 2/d.f. = 137.794, p < .001, NFI = 0.562, NNFI = 0.543, RMR = 0.334, CFI = 0.564, GFI = 0.478, AGFI = 0.427 and RMSEA = 0.141.
+•
+Health: Chi 2/d.f. = 135.833, p < .001, NFI = 0.526, NNFI = 0.505, RMR = 0.323, CFI = 0.528, GFI = 0.472, AGFI = 0.421 and RMSEA = 0.140.
+The chi-square test rejected the equivalence of the two models in each segment. Besides, the model fit of the single-factor models was much worse than that of the 12-factor models, suggesting that there is minimal evidence of common method bias in this study. Further, we note that the validity criteria of the 12-factor model all threshold values for an acceptable model fit. Furthermore, we performed the single-factor test by Harman [85]. This approach shows that the variance of current methods is negligible. The single-factor test uses an explorative factor analysis without rotation, where all variables load on a single factor [83]. The newly introduced common latent factor explains 37% of the variance for mobility, 40% for household, and 36% for health, which is each less than 50% of the variance, indicating no serious distortion of the common method.
+4.2. Evaluation of the measurement models
+For examining the reflective constructs, we inspect the unidimensionality of the constructs, the loadings of the items on the constructs, and their communality and the cross-loadings [81]. We only inspect the weights for the formative constructs and their significant influence on the construct (Table 1). The unidimensionality of the 12 reflective constructs can be evaluated with Cronbach's alpha, Dillon-Goldstein's rho (better known as composite reliability), and the correlation matrix's eigenvalues of the indicators. As shown in Table 2, the alpha values of Cronbach for all constructs in the three application segments are at least 0.8 and thus far above the required value of 0.7, which means that the reliability of construct measurement is confirmed with a high average inter-variable correlation. As a rule of thumb, a construct is considered one-dimensional if the Dillon-Goldstein's rho is greater than 0.7 [86]. This is the case here for all constructs with a minimum value of 0.901 (mobility), 0.916 (household), and 0.901 (health). Thus, the indicators explain very well the latent variable in their blocks. If a block is unidimensional, then the first eigenvalue should be much larger than 1, while the second eigenvalue should be smaller than 1. These conditions are also fulfilled in all three application segments so that we can assume that the measurement is based on unidimensional constructs in any case. Our analysis only has indicators to measure latent variables with loadings greater than 0.7 (Appendix A). To see if they are acceptable, we use the communalities as squared loadings in a second column. Since these represent the strength of the variability explained by a latent variable, we can conclude that the indicators we use in the three segments all capture more than 50% of the variability through their latent construct. In our data, all indicators load on another construct at least 0.2 lower than on the own construct it intends to measure. Due to the larger cross-loadings-matrix for the three segments, we do not provide a tabular representation here. All in all, we can assume an extremely reliable and valid measurement for the 12 reflective constructs. There were conceptual reasons for measuring the use behavior construct as a formative measurement. Since we asked six different everyday applications for their use behavior in each of the three application segments, we cannot assume that these indicators correlate with each other. For the indicators' collinearity diagnosis, we have checked the variance inflation factors of all items of all segments and found that all values are close to 1; therefore, there is no multicollinearity. For this reason, we evaluate these measures differently. Therefore, we compare the external weights of the individual indicators to determine which indicators contribute most effectively to the construct (Table 1). We do not consider eliminating an indicator, as no multicollinearity can be demonstrated across the six indicators in any application segment.
+
+Table 2. Unidimensionality of reflective constructs.
+
+Construct	Mobility	Household	Health
+α	rho	eig.1st	eig.2nd	α	rho	eig.1st	eig.2nd	α	rho	eig.1st	eig.2nd
+Health	.915	.937	3.754	.560	.920	.941	3.805	.557	.930	.947	3.910	.438
+Convenience comfort	.904	.929	3.618	.473	.907	.931	3.649	.503	.911	.933	3.684	.449
+Sustainability	.857	.904	2.805	.492	.883	.919	2.960	.438	.862	.901	3.237	.670
+Performance expectancy	.875	.914	2.909	.466	.892	.925	3.023	.413	.881	.918	2.951	.495
+Safety security	.943	.959	3.415	.313	.960	.971	3.577	.200	.958	.969	3.551	.223
+Personal innovativeness	.895	.935	2.483	.350	.900	.938	2.504	.337	.890	.932	2.461	.359
+Effort expectancy	.929	.949	3.298	.300	.931	.951	3.318	.292	.921	.944	3.237	.325
+Social influence	.884	.928	2.437	.385	.900	.938	2.504	.336	.900	.938	2.503	.337
+Price value	.834	.901	2.255	.483	.861	.916	2.350	.424	.848	.908	2.301	.447
+Hedonic motivation	.953	.966	3.511	.258	.952	.965	3.494	.269	.945	.961	3.437	.308
+Habit	.912	.944	2.549	.257	.917	.948	2.574	.237	.856	.904	2.816	.637
+Behavioral intention	.919	.949	2.583	.323	.936	.959	2.660	.262	.910	.944	2.545	.327
+Notes. α = Cronbach's alpha, roh = Dillon-Goldstein's rho, eig. = eigenvalues.
+To assess discriminant validity, we test whether the AVE values' square roots are higher than the off-diagonal elements in the corresponding rows and columns. The results of the discriminant validity of all three segments of life presented in Appendix B indicate that all constructs in the proposed model were sufficient [87]. Regarding cross-loadings, each indicator loads highest on the construct it is intended to measure [82].
+4.3. Evaluation of the structural model
+In addition to the regression equations' path coefficients, we evaluate the quality of the structural model using the quality metric R2. To validate our results, we performed a bootstrapping with 5000 resamples per segment. Fig. 2 contains the path coefficients of the research model, the effect size, and the R2 for all three segments of life. The bootstrapping results of R2 are shown in Table 3, including the 95% confidence intervals. Since we have an extraordinarily large sample of 21,841 participants, this leads to small confidence intervals and thus to a more precise estimate of sample characteristics and higher power [88]. Due to the large sample size, we additionally calculate the effect size with cohens f2, according to which 0.02 suggests weak, 0.15 moderate, and 0.35 strong effects [82]. The effect size cannot be reported in PLSPM. Therefore, we have calculated the effect sizes manually with the rounded R squares.
+Download: Download high-res image (514KB)
+Download: Download full-size image
+
+Fig. 2. Results of the path analysis of the research model for mobility (M0), household (HH), and health (HA) with path coefficients, effect sizes in parentheses, and R2.
+
+Table 3. R-squares with bootstrapping results.
+
+Construct	Mobility	Household	Health
+Original	.025	.975	Original	.025	.975	Original	.025	.975
+Performance expectancy	.466*	.446	.486	.509*	.490	.528	.473*	.453	.492
+Behavioral intention	.653*	.639	.667	.718*	.706	.730	.583*	.567	.599
+Use behavior	.235*	.213	.248	.289*	.270	.305	.158*	.129	.160
+Notes. *p-value < .05; .025 and .975 are the upper and lower limit of the 95% confidence interval, all parameters are obtained based on 5000 bootstrapping samples.
+Eleven of the thirteen path coefficients are significant across all three segments (mobility, household, and health) to the 5% level. The influence factor price value did not show any significant effects across all three segments examined. The influencing factor safety security showed no significant influence only in the segment of health. To assess all variables' impact on use behavior, we summarize the direct, indirect, and total impacts of all relational paths for the research model (Appendix C).
+The support of H1, H2, and H3 indicates that all three influence factors have a significant positive effect on performance expectancy. The results in Fig. 2 show us that in the segments of mobility (β2 = 0.437) and household (β2 = 0.483), convenience comfort has a much stronger influence on performance expectancy than health and sustainability. These are the only two effects with moderate effect sizes. All other effect on performance expectancy show weak effects. This is not the case in the health segment, where health has the strongest influence on performance expectancy (β2 = 0.344). The mediation variable performance expectancy on the behavioral intention has almost equal significant effects in all segments (mobility: γ4 = 0.280, household: γ4 = 0.323, health: γ4 = 0.252), so we can keep H4 for all three segments. Here, too, we have weak effect sizes. If we look at the remaining direct effects on behavioral intention, we see a very different picture. H5 (safety security has a negative effect on behavioral intention) can only be supported by our data for the mobility segment (β5 = −0.021) and the household segment (β5 = −0.035). Although the values are very small, they are nevertheless significant due to our very large sample. This also confirms the not even weak effect size. β5 is not significant for the health segment. Furthermore, the hypotheses H6 based on our data can also be maintained across all three segments. With β6 between 0.132 and 0.195, personal innovation has a rather moderate influence and weak effect size on all three segments' behavioral intention. H7 can also be supported, even if the influence of effort expectancy with coefficients smaller than 0.1 is very small. Compared to the other two segments, the influence of mobility (β7 = 0.099) is still twice as large (household: β7 = 0.034, health: β7 = 0.052). Effect sizes are below 0.02. H8 can also be supported with significant influences from social influence on behavioral intention. Here we see a significant path coefficient of β8 = 0.146 in the health segment. In the other two segments, mobility (β8 = 0.093) and household (β8 = 0.078), the path coefficients are small (below 0.1) but significant with effect sizes below 0.02. The only hypothesis that we cannot maintain in any of the segments is hypothesis H9. Thus, we can state that there is no significant influence of price value on the behavioral intention, regardless of the segment of the application. Our data can again support the hypothesis H10, but the influence of hedonic motivation in all three segments is very small. The betas are all below 0.08 with effect sizes below 0.02. A strong significant direct influence on the behavioral intention has the influence factor habit (H11a) in all three segments (mobility: βa11 = 0.304, household: βa11 = 0.286, and health: βa11 = 0.298). The effect sizes are weak. Habit has also relevant direct effects (H11b) on use behavior (mobility: βb11 = 0.117, household: βb11 = 0.068, and health: βb11 = 0.173) with effect sizes below 0.02. Since behavioral intention is a meditative variable and finally measures the influence on use behavior with hypothesis H12, our results show that this hypothesis can be maintained for all three segments with strong significant influences (mobility: γ12 = 0.392, household: γ12 = 0.483, health: γ12 = 0.259) and weak effect sizes.
+We evaluate the structural model's predictive power in particular based on the R2 values of the endogenous constructs (Table 3). First, we state that the variance of performance expectancy (mobility: R2 = 0.466, household: R2 = 0.509, and health: R2 = 0.473) in all segments can be explained by more than 45% by the exogenous variables health, convenience comfort, and sustainability. As expected, the variance of behavioral intention can be explained with an even higher R2 in the segment mobility (R2 = 0.653), in the segment household (R2 = 0.718), and in the segment health (R2 = 0.583) by the influence of the meditating factor performance expectancy and all other exogenous constructs of the model. The lower R2 of use behavior (mobility: R2 = 0.235, household: R2 = 0.289, and health: R2 = 0.158) is because this target variable use behavior is explained in the model only by behavioral intention as mediating factor and habit (direct and indirect).
+5. Discussion
+Our interest is to explore the influencing factors on the behavioral intention and use behavior of products containing AI, regardless of the application segment. Here, we consider three different segments of life: mobility, household, and health. Since there are no studies for this constellation, we close this research gap with our study. For our new model, we use the UTAUT2 model by Venkatesh et al. [21] as a basis. We extend this base model in a theory-based manner to include, health, convenience comfort, sustainability, safety security, and personal innovativeness. We derive theory-based hypotheses for all the influencing variables in the model concerning our object of study. Based on structural equation modeling and a sample of 21,841 participants, our study shows that all newly added influencing variables, except for safety security in the health segment, are relevant drivers of behavioral intention for products containing AI. All new variables added to the UTAUT2 model, except for safety security, show weak or moderate effect sizes.
+5.1. Contribution to theory
+People receive benefits from products with AI, with the biggest focus on convenience comfort. Here, we see the strongest significant path coefficient on performance expectancy in mobility and household segments. Also, in the investigation of Baudiera et al. [25], convenience comfort proves to be the strongest predictor of performance expectancy, although formulated there in the opposite direction. Therefore, convenience comfort appears to be the key motivator within the segment mobility and household for using products with AI. Furthermore, this especially supports the utilitarian approach that is taken into account in UTAUT/UTAUT2, as products with AI can make decisions for the user based on collected information and data, making life easier and more comfortable. Only in the segment of health, the influence factor health represents the strongest significant influence on performance expectancy, which in the model of Baudiera et al. [25] represents the second strongest factor on performance expectancy overall. In agreement, health represents the second strongest significant factor in the household sector in the study carried out here. The health factor has a significant positive influence in all three segments of life and following the literature. We conclude that people expect to gain health benefits from products containing AI, possibly through the information that increases their health awareness and enables them to live healthier lives. Sustainability plays the smallest but still significant role in the segments of household and health, which was also revealed in the study by Baudier et al. [25] and Ahn et al. [62] where sustainability did not show a significant impact on the behavioral intention, probably because of the small sample size. Only in the segment of mobility, the influence of sustainability is slightly above the lowest influence factor health.
+In summary, it can be said that the three influencing variables, health, convenience comfort, and sustainability, represent valid predictive power for the performance expectancy over all three sectors mobility, household, and health and that the variable convenience comfort has the greatest influence in two of the three segments investigated in accordance with the literature. This may be since features such as assisted driving (significant weight: 0.414) or infotainment and navigation systems (significant weight: 0.647) already have a high degree of popularity among the population, especially in the segments of mobility, and that these services are therefore perceived as pleasant and helpful throughout. This is also reflected in the household sector. Here, too, products such as cleaning robots (significant weight: 0.274); voice assistants like Alexa (significant weight: 0.360), smart home (significant weights: 0.253), and smartwatch (significant weight: 0.253) are already widespread and well known in a large proportion of the population. The fact that sustainability has, in sum, a relatively low impact in all three segments is surprising since this issue seems omnipresent in all segments of life. This may be explained by the fact that sustainability is possibly not directly related to personal performance expectancy but is perceived by the population as an overriding goal. The measurements of the variables influencing performance expectancy show that there are segment-specific differences in performance expectancy as a mediator variable. Sustainability seems to play a subordinate role, although a significant influence can be observed in our model.
+With regard to behavioral intention, the results present habit as the most important significant predictive factor in the sector s mobility and health. This is in line with the UTAUT2 by Venkatesh et al. [21], where habit also showed the highest impact on behavioral intention and is perceived to play an important role in prediction use behavior. The same applies to the investigation conducted by Baudiera et al. [25], where habit also clearly showed the biggest significant impact on behavioral intention. It is argued that the more people use services or products with AI, the bigger the habit will become. Habit represents only the second strongest significant influence in the household segment. The strongest significant influence on the behavioral intention is performance expectancy for household, whereas, for mobility and health, it ranks second for the behavioral intention and also significant. This also applies to the study by Baudier et al. [25], where only two significant influences on behavioral intention were found with habit and performance expectancy (measured as effort expectancy). In the UTAUT2 [21], it showed a slightly lower but also significant impact than hedonic motivation. In the study conducted, hedonic motivation also significantly influences behavioral intention but shows for mobility, household, and health rather low path coefficients. Overall, higher significant values show for personal innovativeness in all three sectors mobility, household, and health. Personal innovativeness did not contribute significantly to the explanation of behavioral intention concerning the investigation of Baudier et al. [25]. The study does not give a clear picture of the effort expectancy. In all three segments, mobility, household, and health effort expectancy contribute significantly to behavioral intention, but the influences are quite small. This also applies to social influence in the segments of mobility and household. In the segment of health, the influence is considerably stronger. The only factor that did not show a significant impact in any of the three segments considered is price value. It was expected that the high price of products with AI might be an obstacle to behavioral intention, as they are often high-priced products. This was neither shown in this study nor in the study by Baudier et al. [25]. The only variable that shows a negative influence on behavioral intention is safety security. There is no significant negative impact in the health segment, but significant low path coefficients in the segment of mobility and household. The protection of personal data is not taken as seriously in the health segment as in the other two segments. Overall, the behavioral intention has a large influence on the use behavior in all three segments of mobility, household, and health, analogous to UTAUT2 [21].
+5.2. Managerial implications
+Suppose there is a way that consumers have a higher behavioral intention to use AI by implementing it in products. In that case, this is an essential aspect of the communication efforts of the suppliers. Only what the customer can perceive, he can also judge. Our results indicate that performance expectancy, convenience comfort, and habit, in particular, represent a crucial role concerning the intended use and the use behavior of products containing AI. This means that companies must set a value both in the communication and in the product development of products containing AI that the products at the end of the value chain create a noticeable benefit. More specifically, products containing AI must help customers get things done faster, increase productivity, and help them achieve things they care about. Marketing is challenged in a special way to ask the customer about the usefulness. The convenience comfort factor plays a special role here. Products containing AI have a high convenience value if they automatically control and check themselves, can be controlled by simple operation, have access to much information, proactively, and without human intervention help the user to make better decisions. Finally, our results show that the power of habit has the greatest impact on the behavioral intention of products containing AI. However, a habitual effect only occurs if many products containing AI, even if not obvious at first, and companies communicate this to the users. Fears of contact could be reduced over time. In all cases, customers should be proactively made aware of the benefits of products containing AI. Only in this way can fear of contact be reduced over time. Our study makes an important contribution to explaining the behavioral intention and use behavior of products containing AI. We have examined only the three segments of mobility, household, and health from the many areas of application we know. Therefore, it makes sense to investigate further areas with our new model. For example, in the energy industry, financial services or insurance, industrial production, consumer electronics, agriculture, logistics, marketing and new media, law/legal services, and security/defense.
+Author statement
+Oliver Gansser: Conceptualization, Methodology, Formal analysis, Investigation, Writing, Supervision. Christina Reich: Conceptualization, Methodology, Validation, Investigation, Writing, Visualization.
+Appendix A. Items for the reflective contructs, loadings and communalities
+Constructs with reflective measurement	Mobility	Household	Health
+Loading	Comm.	Loading	Comm.	Loading	Comm.
+Health (HE): A product in the MO/HH/HA that contains AI can …
+increase awareness of my health and well-being.	.853	.728	.862	.743	.875	.766
+provide me with information that helps me make better decisions about my health and well-being.	.902	.814	.908	.824	.911	.829
+give me more control over my health and well-being.	.905	.818	.909	.826	.911	.830
+increase my chances for a healthier lifestyle.	.901	.812	.907	.823	.903	.815
+improve my activity tracking when I use a wearable device.	.760	.577	.767	.588	.818	.669
+Convenience comfort (CC): It is convenient that products in the MO/HH/HA containing AI …
+automatically control and check themselves.	.839	.704	.855	.731	.853	.727
+can control any electrical device by a simple operation.	.881	.776	.884	.782	.880	.775
+can provide access to a lot of information.	.867	.753	.883	.780	.870	.757
+can help me proactively and without human intervention.	.855	.732	.853	.727	.859	.738
+can help me to make better decisions.	.808	.653	.792	.628	.828	.686
+Sustainability (SD): People who use products in the MO/HH/HA with AI …
+can manage waste better.	.823	.677	.822	.676	.814	.662
+can save resources.	.900	.810	.896	.802	.898	.806
+can achieve cost savings.	.779	.606	.849	.720	.824	.680
+know exactly how much resources they consume (time, duration, costs, quantity consumed …).	.841	.708	.872	.760	.817	.667
+Performance expectancy (PE)
+The use of products in the MO/HH/HA that contain AIs helps to get things done more quickly.	.831	.691	.881	.776	.838	.703
+The use of products in the MO/HH/HA that contain AIs increases productivity.	.859	.737	.841	.708	.882	.778
+The use of products in the MO/HH/HA that contain AIs increases the chances of achieving things that are important.	.876	.768	.887	.787	.864	.747
+I find products in the MO/HH/HA that contain AIs useful in everyday life.	.844	.712	.868	.753	.850	.723
+Safety security (SS)
+I am anxious about my personal data when using products in the MO/HH/HA that contain AIs.	.910	.827	.927	.859	.911	.831
+I am anxious about the data security of products in the MO/HH/HA that contain AIs.	.942	.887	.962	.925	.954	.909
+I have privacy concerns associated with products in the MO/HH/HA that contain AIs.	.893	.797	.936	.876	.940	.883
+I have security concerns associated with products in the MO/HH/HA that contain AIs.	.945	.894	.956	.914	.958	.918
+Personal innovativeness (PI)
+If I heard about new technology in the MO/HH/HA, I would look for ways to experiment with it.	.925	.856	.925	.856	.919	.845
+Among my peers, I am usually the first to try out new technologies in the MO/HH/HA.	.939	.881	.941	.886	.933	.870
+I like to experiment with new technologies in the MO/HH/HA.	.863	.745	.873	.761	.864	.746
+Effort expectancy (EE)
+The interaction/communication with products in the MO/HH/HA containing AIs is clear and understandable for me.	.904	.817	.904	.818	.889	.790
+I find products in the MO/HH/HA that contain AIs easy to use.	.885	.783	.890	.792	.880	.774
+For me, the use of products in the MO/HH/HA containing AIs is easy to learn.	.923	.851	.925	.856	.917	.841
+With products in the MO/HH/HA containing AIs, it is easy to do what I want to do.	.920	.847	.923	.852	.912	.831
+Social Influence (SI)
+People who influence my behavior think that I should use products in the MO/HH/HA that contain AIs.	.918	.844	.927	.858	.923	.852
+People who are important to me think that I should use products in the MO/HH/HA that contain AIs.	.925	.856	.933	.870	.933	.871
+People whose opinions I value prefer to use products in the MO/HH/HA that contain AIs.	.859	.737	.881	.776	.884	.781
+Price value (PV)
+Products in the MO/HH/HA that contain AI are a good value for money.	.797	.635	.830	.688	.823	.677
+Products in the MO/HH/HA containing AIs are reasonably priced.	.906	.821	.921	.848	.913	.833
+At the current price, products in the MO/HH/HA provide good value.	.886	.785	.900	.810	.887	.787
+Hedonic motivation (HM)
+The use of products in the MO/HH/HA containing AI would be fun.	.935	.874	.933	.871	.925	.855
+The use of products in the MO/HH/HA containing AI would give me pleasure.	.951	.905	.948	.899	.944	.892
+The use of products in the MO/HH/HA containing AIs would give me enjoyment.	.956	.914	.954	.909	.950	.903
+I feel excited about using products in the MO/HH/HA that contain AI.	.903	.816	.902	.814	.887	.787
+Habit (HT)
+The use of products in the MO/HH/HA that contain AI could become a habit for me.	.926	.857	.926	.858	.906	.821
+I could use products in the MO/HH/HA that contain AIs.	.910	.828	.920	.846	.885	.783
+Using products in the MO/HH/HA that contain AI could become natural to me.	.930	.864	.932	.869	.915	.837
+Behavioral intention (BI)
+In the future, I intend to use products in the MO/HH/HA that contain AIs.	.945	.893	.953	.908	.929	.863
+In the future, I intend to use products in the MO/HH/HA containing AIs on a regular basis.	.954	.910	.963	.928	.947	.897
+I will recommend others to use products in the MO/HH/HA that contain AIs.	.883	.780	.908	.824	.886	.785
+Notes. MO: Mobility segment, HH: Household segment, HA: Health segment, Comm. = Communality.
+Appendix B.
+
+Table B1. Means, standard deviations, and correlations of subsample mobility
+
+Variable	M	SD	1	2	3	4	5	6	7	8	9	10	11	12
+1. HE	3.58	1.52	.866											
+2. CC	4.37	1.45	.56	.851										
+3. SD	3.97	1.44	.53	.59	.837									
+4. PE	4.51	1.50	.51	.64	.53	.853								
+5. SS	4.48	1.78	.04	-.10	-.02	-.04	.923							
+6. PI	3.22	1.73	.42	.51	.41	.50	-.11	.910						
+7. EE	4.28	1.61	.36	.56	.40	.60	-.11	.57	.908					
+8. SI	3.63	1.60	.37	.39	.34	.43	-.03	.34	.33	.901				
+9. PV	3.03	1.28	.38	.42	.37	.40	-.11	.40	.41	.38	.864			
+10. HM	4.20	1.67	.46	.62	.46	.65	-.12	.61	.66	.44	.44	.937		
+11. HT	4.40	1.72	.47	.68	.49	.70	-.11	.59	.68	.43	.45	.73	.922	
+12. BI	4.05	1.82	.41	.57	.41	.70	-.10	.59	.63	.46	.42	.66	.74	.928
+13. UB	2.92	1.21	.25	.27	.22	.34	-.02	.35	.33	.26	.29	.32	.34	.43
+Notes. M and SD are used to represent mean and standard deviation, respectively. Diagonal elements are squared roots of AVEs.
+
+Table B2. Means, standard deviations, and correlations of subsample household
+
+Variable	M	SD	1	2	3	4	5	6	7	8	9	10	11	12
+1. HE	3.69	1.56	.872											
+2. CC	4.29	1.52	.66	.854										
+3. SD	3.80	1.51	.58	.58	.860									
+4. PE	4.24	1.59	.58	.68	.52	.869								
+5. SS	4.56	1.92	-.02	-.10	-.03	-.14	.945							
+6. PI	3.22	1.78	.48	.54	.41	.57	-.12	.913						
+7. EE	4.24	1.70	.44	.59	.40	.63	-.10	.58	.911					
+8. SI	3.39	1.67	.38	.39	.33	.46	-.08	.38	.31	.914				
+9. PV	2.95	1.33	.42	.45	.39	.48	-.16	.46	.44	.40	.884			
+10. HM	4.04	1.74	.55	.65	.48	.72	-.16	.65	.67	.45	.50	.935		
+11. HT	4.17	1.82	.57	.70	.47	.76	-.17	.65	.67	.44	.50	.76	.926	
+12. BI	3.68	1.88	.50	.60	.41	.77	-.17	.67	.62	.48	.49	.71	.78	.942
+13. UB	2.58	1.23	.35	.35	.26	.43	-.11	.49	.38	.33	.36	.42	.44	.53
+Notes. M and SD are used to represent mean and standard deviation, respectively. Diagonal elements are squared roots of AVEs.
+
+Table B3. Means, standard deviations, and correlations of subsample health.
+
+Variable	M	SD	1	2	3	4	5	6	7	8	9	10	11	12
+1. HE	4.46	1.51	.884											
+2. CC	4.36	1.46	.74	.858										
+3. SD	3.71	1.41	.54	.57	.839									
+4. PE	4.34	1.50	.63	.62	.51	.859								
+5. SS	4.39	1.91	-.02	-.08	.01	-.07	.941							
+6. PI	2.90	1.65	.43	.43	.42	.42	-.08	.906						
+7. EE	3.85	1.59	.50	.52	.40	.54	-.07	.52	.899					
+8. SI	3.12	1.62	.35	.33	.33	.37	-.02	.39	.32	.913				
+9. PV	2.92	1.30	.38	.39	.39	.38	-.07	.42	.44	.40	.875			
+10. HM	3.61	1.62	.55	.56	.47	.58	-.07	.60	.61	.47	.47	.927		
+11. HT	3.76	1.67	.65	.62	.48	.61	-.08	.58	.57	.48	.46	.69	.902	
+12. BI	3.40	1.71	.52	.49	.38	.62	-.08	.54	.52	.49	.41	.61	.69	.921
+13. UB	2.22	1.00	.18	.18	.17	.20	-.02	.31	.22	.26	.23	.25	.28	.33
+Notes. M and SD are used to represent mean and standard deviation, respectively. Diagonal elements are squared roots of AVEs.
+Appendix C. Effects analysis with bootstrapping results of paths
+Relation	Mobility	Household	Health
+Effects	95% CI	Effects	95% CI	Effects	95% CI
+Direct	Indirect	Total	Lower	Upper	Direct	Indirect	Total	Lower	Upper	Direct	Indirect	Total	Lower	Upper
+HE → PE	.173		.173*	.150	.196	.184		.184*	.158	.210	.344		.344*	.315	.374
+HE → BI		.049	.049*	.041	.056		.060	.060*	.050	.069		.087	.087*	.076	.098
+HE → UB		.019	.019*	.016	.022		.029	.029*	.024	.034		.022	.022*	.019	.026
+CC → PE	.437		.437*	.412	.462	.483		.483*	.458	.507	.271		.271*	.240	.301
+CC → BI		.122	.122*	.109	.136		.156	.156*	.142	.171		.068	.068*	.059	.078
+CC → UB		.048	.048*	.042	.054		.075	.075*	.067	.084		.018	.018*	.015	.021
+SD → PE	.181		.181*	.156	.205	.138		.138*	.115	.161	.169		.169*	.146	.193
+SD → BI		.051	.051*	.043	.059		.045	.045*	.037	.053		.043	.043*	.036	.050
+SD → UB		.020	.020*	.016	.024		.022	.022*	.018	.026		.011	.011*	.009	.013
+PE → BI	.280		.280*	.255	.305	.323		.323*	.299	.349	.252		.252*	.230	.275
+PE → UB		.110	.110*	.097	.123		.156	.156*	.141	.171		.0965	.065*	.056	.075
+SS → BI	-.021		-.021*	-.036	-.007	-.035		-.035*	-.048	-.023	-.012		-.012	-.028	.004
+SS → UB		-.008	-.008*	-.014	-.003		-.019	-.019*	-.026	-.012		-.004	-.004	-.011	.002
+PI → BI	.134		.134*	.112	.155	.195		.195*	.174	.216	.132		.132*	.110	.154
+PI → UB		.052	.052*	.043	.062		.094	.094*	.082	.106		.034	.034*	.027	.042
+EE → BI	.099		.099*	.076	.122	.034		.034*	.015	.054	.052		.052*	.029	.075
+EE → UB		.039	.039*	.029	.049		.017	.017*	.007	.026		.013	.013*	.007	.020
+SI → BI	.093		.093*	.075	.111	.078		.078*	.063	.094	.146		.146*	.126	.167
+SI → UB		.036	.036*	.029	.044		.038	.038*	.030	.046		.038	.038*	.031	.045
+PV → BI	.012		.012	-.004	.029	.015		.015	-.001	.032	.004		.004	-.016	.024
+PV → UB		.005	.005	-.002	.011		.007	.007	-.001	.016		.001	.001	-.004	.006
+HM → BI	.06		.060*	.034	.086	.063		.063*	.037	.088	.078		.078*	.050	.106
+HM → UB		.023	.023*	.013	.034		.030	.030*	.018	.042		.020	.020*	.013	.028
+HT → BI	.304		.304*	.277	.332	.286		.286*	.257	.313	.298		.298*	.270	.327
+HT → UB	.117	.119	.236*	.210	.263	.068	.138	.206*	.179	.234	.173	.077	.250*	.226	.276
+BI → UB	.392		.392*	.361	.422	.483		.483*	.452	.513	.259		.259*	.228	.289
+Notes. *p-value < .05; .025 and .975 are the upper and lower limit of the 95% confidence interval, all parameters are obtained based on 5000 bootstrapping samples.
+References
+[1]
+I. Panagiotopoulos, G. Dimitrakopoulos
+An empirical investigation on consumers' intentions towards autonomous driving
+Transport. Res. C Emerg. Technol., 95 (August) (2018), pp. 773-784, 10.1016/j.trc.2018.08.013
+View PDF
+View articleView in ScopusGoogle Scholar
+[2]
+N. Adnan, S. Md Nordin, M.A. bin Bahruddin, M. Ali
+How trust can drive forward the user acceptance to the technology? In-vehicle technology for autonomous vehicle
+Transport. Res. Pol. Pract., 118 (October) (2018), pp. 819-836, 10.1016/j.tra.2018.10.019
+View PDF
+View articleView in ScopusGoogle Scholar
+[3]
+N. Hutchins, L. Hook
+Technology acceptance model for safety critical autonomous transportation systems
+AIAA/IEEE Digital Avionic. Syst. Conf. Proceed. (2017), pp. 1-5, 10.1109/DASC.2017.8102010
+View at publisherGoogle Scholar
+[4]
+A.D. Beldad, S.M. Hegner
+Expanding the technology acceptance model with the inclusion of trust, social influence, and health valuation to determine the predictors of German users' willingness to continue using a fitness app: a structural equation modeling approach
+Int. J. Hum. Comput. Interact., 34 (9) (2018), pp. 882-893, 10.1080/10447318.2017.1403220
+View at publisher
+View in ScopusGoogle Scholar
+[5]
+A. Lunney, N.R. Cunningham, M.S. Eastin
+Wearable fitness technology: a structural investigation into acceptance and perceived fitness outcomes
+Comput. Hum. Behav., 65 (2016), pp. 114-120, 10.1016/j.chb.2016.08.007
+View PDF
+View articleView in ScopusGoogle Scholar
+[6]
+S.Y. Lee, K. Lee
+Factors that influence an individual’s intention to adopt a wearable healthcare device: the case of a wearable fitness tracker
+Technol. Forecast. Soc. Change, 129 (2018), pp. 154-163, 10.1016/j.techfore.2018.01.002
+View PDF
+View articleView in ScopusGoogle Scholar
+[7]
+J. Li, Q. Ma, A.H. Chan, S.S. Man
+Health monitoring through wearable technologies for older adults: smart wearables acceptance model
+Appl. Ergon., 75 (October 2018) (2019), pp. 162-169, 10.1016/j.apergo.2018.10.006
+View PDF
+View articleGoogle Scholar
+[8]
+M. Zhang, M. Luo, R. Nie, Y. Zhang
+Technical attributes, health attribute, consumer attributes and their roles in adoption intention of healthcare wearable technology
+Int. J. Med. Inf., 108 (2017), pp. 97-109, 10.1016/j.ijmedinf.2017.09.016
+View PDF
+View articleView in ScopusGoogle Scholar
+[9]
+A. Shuhaiber, I. Mashal
+Understanding users' acceptance of smart homes
+Technol. Soc. (2019), 10.1016/j.techsoc.2019.01.003
+(March 2018), 1–9
+View at publisherGoogle Scholar
+[10]
+S.N. Cheong, H.C. Ling, P.L. Teh
+Secure encrypted steganography graphical password scheme for near field communication smartphone access control system
+Expert Syst. Appl., 41 (7) (2014), pp. 3561-3568, 10.1016/j.eswa.2013.10.060
+View PDF
+View articleView in ScopusGoogle Scholar
+[11]
+S.L. Chao, P.S. Lin
+Critical factors affecting the adoption of container security service: the shippers' perspective
+Int. J. Prod. Econ., 122 (1) (2009), pp. 67-77, 10.1016/j.ijpe.2008.12.021
+View PDF
+View articleView in ScopusGoogle Scholar
+[12]
+J.M. Curran, M.L. Meuter
+Self-service technology adoption: comparing three technologies
+J. Serv. Market., 19 (2) (2005), pp. 103-113, 10.1108/08876040510591411
+View at publisherView in ScopusGoogle Scholar
+[13]
+S. Dimitriadis, N. Kyrezis
+Linking trust to use intention for technology-enabled bank channels: the role of trusting intentions
+Psychol. Market., 27 (8) (2010), pp. 799-820, 10.1002/mar.20358
+View at publisherView in ScopusGoogle Scholar
+[14]
+K.B. Ooi, G.W.H. Tan
+Mobile technology acceptance model: an investigation using mobile users to explore smartphone credit card
+Expert Syst. Appl., 59 (2016), pp. 33-46, 10.1016/j.eswa.2016.04.015
+View PDF
+View articleView in ScopusGoogle Scholar
+[15]
+G.W.H. Tan, K.B. Ooi, S.C. Chong, T.S. Hew
+NFC mobile credit card: the next frontier of mobile payment?
+Telematics Inf., 31 (2) (2014), pp. 292-307, 10.1016/j.tele.2013.06.002
+View PDF
+View articleView in ScopusGoogle Scholar
+[16]
+V. Dutot
+Factors influencing Near Field Communication (NFC) adoption: an extended TAM approach
+J. High Technol. Manag. Res., 26 (1) (2015), pp. 45-57, 10.1016/j.hitech.2015.04.005
+View PDF
+View articleView in ScopusGoogle Scholar
+[17]
+S. Ha, L. Stoel
+Consumer e-shopping acceptance: antecedents in a technology acceptance model
+J. Bus. Res., 62 (5) (2009), pp. 565-571, 10.1016/j.jbusres.2008.06.016
+View PDF
+View articleView in ScopusGoogle Scholar
+[18]
+L.R. Vijayasarathy
+Predicting consumer intentions to use on-line shopping: the case for an augmented technology acceptance model
+Inf. Manag., 41 (6) (2004), pp. 747-762, 10.1016/j.im.2003.08.011
+View PDF
+View articleView in ScopusGoogle Scholar
+[19]
+F.D. Davis
+A technology acceptance model for empirically testing new end-user information systems: theory and Results
+Doctoral Dissertation, Massachusetts Institute of Technology (1986)
+Google Scholar
+[20]
+F.D. Davis
+Perceived usefulness, perceived ease of use, and user acceptance of information technology
+MIS Q., 13 (3) (1989), p. 319, 10.2307/249008
+View at publisherView in ScopusGoogle Scholar
+[21]
+V. Venkatesh, J.Y.L. Thong, X. Xu
+Consumer acceptance and use of information technology: extending the unified theory of acceptance and use of technology
+MIS Q., 36 (1) (2012), pp. 157-178, 10.2307/41410412
+View at publisherView in ScopusGoogle Scholar
+[22]
+V. Venkatesh, M.G. Morris, G.B. Davis, F.D. Davis
+User acceptance of information technology: toward a unified view
+MIS Q., 27 (3) (2003), pp. 425-478, 10.2307/30036540
+View at publisherView in ScopusGoogle Scholar
+[23]
+S. Taylor, P. Todd
+Decomposition and crossover effects in the theory of planned behavior: a study of consumer adoption intentions
+Int. J. Res. Market., 12 (2) (1995), pp. 137-155, 10.1016/0167-8116(94)00019-K
+View PDF
+View articleView in ScopusGoogle Scholar
+[24]
+V. Venkatesh, F.D. Davis
+A theoretical extension of the technology acceptance model: four longitudinal field studies
+Manag. Sci., 46 (2) (2000), pp. 186-204, 10.1287/mnsc.46.2.186.11926
+View at publisherView in ScopusGoogle Scholar
+[25]
+P. Baudier, C. Ammi, M. Deboeuf-Rouchon
+Smart Home: Highly-Educated Students' Acceptance. Technological Forecasting and Social Change
+(2018), 10.1016/j.techfore.2018.06.043
+(June), 1–19
+View at publisherGoogle Scholar
+[26]
+S.Y. Chen, S.F. Chang
+A review of smart living space development in a cloud computing network environment
+Comp. Aid Design Appl., 6 (4) (2009), pp. 513-527, 10.3722/cadaps.2009.513-527
+View at publisherView in ScopusGoogle Scholar
+[27]
+D. Hecker, I. Döbel, A. Rauschert, V. Schmitz, A. Voss
+Zukunftsmarkt Künstliche Intelligenz. Potenziale und Anwendungen. Frauenhofer-Allianz Big Data
+(2017)
+Retrieved from
+http://publica.fraunhofer.de/dokumente/N-497661.html
+Google Scholar
+[28]
+T. Davenport, A. Guha, D. Grewal, T. Bressgott
+How artificial intelligence will change the future of marketing
+J. Acad. Market. Sci. (2019), 10.1007/s11747-019-00696-0
+View at publisher
+Google Scholar
+[29]
+N. Mehta, P. Detroja, A. Agashe
+Swipe to Unlock: the Primer on Technology and Business Strategy
+CreateSpace Independent Publishing Platform (2017)
+Google Scholar
+[30]
+N. Castelo, M.W. Bos, D.R. Lehmann
+Task-dependent algorithm aversion
+J. Market. Res., 56 (5) (2019), pp. 809-825, 10.1177/0022243719851788
+View at publisherView in ScopusGoogle Scholar
+[31]
+M. Giebelhausen, S.G. Robinson, N.J. Sirianni, M.K. Brady
+Touch versus tech: when technology functions as a barrier or a benefit to service encounters
+J. Market., 78 (4) (2014), pp. 113-124, 10.1509/jm.13.0056
+View at publisherView in ScopusGoogle Scholar
+[32]
+D.L. Hoffman, T.P. Novak
+Consumer and object experience in the Internet of things: an assemblage theory approach
+J. Consum. Res., 44 (6) (2018), pp. 1178-1204, 10.1093/jcr/ucx105
+View at publisherView in ScopusGoogle Scholar
+[33]
+S. Pokorny
+Gesundheit und Familie vor Arbeit und Einkommen – studie zum sozialen Aufstieg in Deutschland
+Analysen und Argumente, Konrad Adenauer Stiftung e.V. (2017)
+(247). Retrieved from
+https://www.kas.de/documents/252038/253252/7_dokument_dok_pdf_49017_1.pdf/128ce812-9ea5-2da5-05ec-382e33dea53a?version=1.0&t=1539649085975
+Google Scholar
+[34]
+C. Rauch
+Healthness: Gesundheit Wird Ganzheitlich. Zukunftsinstitut. Megatrend Dokumentation
+(2018)
+Retrieved from
+https://www.zukunftsinstitut.de/artikel/healthness-gesundheit-wird-ganzheitlich/
+Google Scholar
+[35]
+C. Longoni, A. Bonezzi, C.K. Morewedge
+Resistance to medical artificial intelligence
+J. Consum. Res., 46 (4) (2019), pp. 629-650, 10.1093/jcr/ucz013
+View at publisherView in ScopusGoogle Scholar
+[36]
+G.M. Hochbaum
+Public Participation in Medical Screening Programs: A Socio-Psychological Study
+Public Health Service Publication, Washington, DC (1958), p. 572
+US Government Printing Office. Retrieved from
+https://nysl.ptfs.com/data/Library1/104083.PDF
+Google Scholar
+[37]
+I.M. Rosenstock
+Why people use health services
+Milbank Mem. Fund. Q., 44 (3) (1966), p. 94, 10.2307/3348967
+View at publisherGoogle Scholar
+[38]
+W. Mert, J. Suschek-Berger, W. Tritthart
+Consumer Acceptance of Smart Appliances
+(2008)
+https://ec.europa.eu/energy/intelligent/projects/sites/iee-projects/files/projects/documents/smart-a_consumer_acceptance.pdf
+Google Scholar
+[39]
+F.D. Guillén-Gámez, M.J. Mayorga-Fernández
+Empirical study based on the perceptions of patients and relatives about the acceptance of wearable devices to improve their health and prevent possible diseases
+Mobile Inf. Syst. (2019), 10.1155/2019/4731048
+2019
+View at publisher
+Google Scholar
+[40]
+H. Fink
+Studie: Mit Künstlicher Intelligenz gegen den Klimawandel. PWC
+(2018)
+Retrieved from
+https://www.pwc.de/de/nachhaltigkeit/studie-mit-kuenstlicher-intelligenz-gegen-den-klimawandel.html
+Google Scholar
+[41]
+PwC
+Fourth Industrial Revolution for the Earth: Harnessing Artificial Intelligence for the Earth
+(2018)
+PwC. Retrieved from
+https://www.pwc.com/gx/en/sustainability/assets/ai-for-the-earth-jan-2018.pdf
+Google Scholar
+[42]
+E.S. Park, B.Y. Hwang, K. Ko, D. Kim
+Consumer acceptance analysis of the home energy management system
+Sustainability, 9 (12) (2017), 10.3390/su9122351
+View at publisherGoogle Scholar
+[43]
+A. Averdung, D. Wagenfuehrer
+Consumers' acceptance , adoption and behavioural intentions regarding environmentally sustainable innovations
+J. Bus. Manag. Econ., 2 (3) (2011), pp. 98-106
+Google Scholar
+[44]
+P.C. Stern
+What psychology knows about energy
+What Psychol. Knows Energy Conserv., 47 (10) (1992), pp. 1224-1232
+View in ScopusGoogle Scholar
+[45]
+V. Venkatesh, H. Bala
+Technology acceptance model 3 and a research agenda on interventions
+Decis. Sci. J., 39 (2) (2008), pp. 273-315, 10.1111/j.1540-5915.2008.00192.x
+Decision Sciences Institute, 39(2), 273–315
+View at publisherView in ScopusGoogle Scholar
+[46]
+F.D. Davis, R.P. Bagozzi, P.R. Warshaw
+Extrinsic and intrinsic motivation to use computers in the workplace
+J. Appl. Soc. Psychol., 22 (14) (1992), pp. 1111-1132, 10.1111/j.1559-1816.1992.tb00945.x
+View at publisherView in ScopusGoogle Scholar
+[47]
+R.L. Thompson, C.A. Higgins, J.M. Howell
+Personal computing: toward a conceptual model of utilization
+MIS Q., 15 (1) (1991), p. 125, 10.2307/249443
+View PDF
+View articleView in ScopusGoogle Scholar
+[48]
+G.C. Moore, I. Benbasat
+Development of an instrument to measure the perceptions of adopting an information technology innovation
+Inf. Syst. Res., 2 (3) (1991), pp. 192-222, 10.1287/isre.2.3.192
+View at publisherView in ScopusGoogle Scholar
+[49]
+M. Hubert, M. Blut, C. Brock, R. Wenjiao Zhang, V. Koch, R. Riedl
+The influence of acceptance and adoption drivers on smart home usage
+Eur. J. Market., 53 (6) (2019), pp. 1073-1098, 10.1108/EJM-12-2016-0794
+View at publisherView in ScopusGoogle Scholar
+[50]
+D.F. Cox, S.U. Rich
+Perceived risk and consumer decision-making: the case of telephone shopping
+J. Market. Res., 1 (4) (1964), p. 32, 10.2307/3150375
+View at publisherGoogle Scholar
+[51]
+D.F. Cox
+Risk handling in consumer behaviour
+D.F. Cox (Ed.), Risk Taking And Information Handling in Consumer Behavior (34-81), Harvard University Press, Boston, MA (1967)
+Google Scholar
+[52]
+J.R. Bettman
+Perceived risk and its components: a model and empirical test
+J. Market. Res., 10 (2) (1973), p. 184, 10.2307/3149824
+View at publisherView in ScopusGoogle Scholar
+[53]
+S.M. Cunningham
+The major dimension of perceived risk
+D.F. Cox (Ed.), Risk Taking And Information Handling in Consumer Behavior (82-108), Harvard University Press, Boston, MA (1967)
+Google Scholar
+[54]
+J.P. Peter, Sr Tarpey, L X
+A comparative analysis of three consumer decision strategies
+J. Consum. Res., 2 (1) (1975), p. 29, 10.1086/208613
+View at publisherGoogle Scholar
+[55]
+K.B. Murray
+A test of services marketing theory: consumer information acquisition activities
+J. Market., 55 (1) (1991), p. 10, 10.2307/1252200
+View at publisherGoogle Scholar
+[56]
+M.S. Eastin
+Diffusion of e-commerce: an analysis of the adoption of four e-commerce activities
+Telematics Inf., 19 (3) (2002), pp. 251-267, 10.1016/S0736-5853(01)00005-3
+View PDF
+View articleView in ScopusGoogle Scholar
+[57]
+E. Aguirre, D. Mahr, D. Grewal, K. de Ruyter, M. Wetzels
+Unraveling the personalization paradox: the effect of information collection and trust-building strategies on online advertisement effectiveness
+J. Retailing, 91 (1) (2015), pp. 34-49, 10.1016/j.jretai.2014.09.005
+View PDF
+View articleView in ScopusGoogle Scholar
+[58]
+T.H. Davenport, J. Kirby
+Just how smart are smart machines?
+MIT Sloan Manag. Rev. (2016)
+Google Scholar
+[59]
+K. Gray
+AI can Be a troublesome teammate
+Harv. Bus. Rev. (2017)
+Google Scholar
+[60]
+N. Castelo
+Blurring the Line between Human and Machine: Marketing Artificial Intelligence
+(2019), 10.7916/d8-k7vk-0s40
+Dissertation
+View at publisherGoogle Scholar
+[61]
+R. Agarwal, J. Prasad
+A conceptual and operational definition of personal innovativeness in the domain of information technology
+Inf. Syst. Res., 9 (2) (1998), pp. 204-215, 10.1287/isre.9.2.204
+View at publisherView in ScopusGoogle Scholar
+[62]
+M. Ahn, J. Kang, G. Hustvedt
+A model of sustainable household technology acceptance
+Int. J. Consum. Stud., 40 (1) (2016), pp. 83-91, 10.1111/ijcs.12217
+View at publisherView in ScopusGoogle Scholar
+[63]
+F. Schweitzer, E.A. Van den Hende
+To Be or not to Be in thrall to the march of smart products
+Psychol. Market. (2016), 10.1002/mar.20920
+View at publisher
+Google Scholar
+[64]
+E.M. Rogers, A. Singhal, M.M. Quinlan
+Diffusion of Innovations
+(third ed.), The Free Press (1983)
+Google Scholar
+[65]
+G.C. Moore, I. Benbasat
+Integrating Diffusion of Innovations and Theory of Reasoned Action models to predict utilization of information technology by end-users
+Diffus. Adopt. Inform. Technol., 57 (534) (1996), pp. 291-297, 10.1007/978-0-387-34982-4_10
+View at publisher
+Google Scholar
+[66]
+M. Fishbein, I. Ajzen
+Belief, Attitude, Intention and Behavior: an Introduction to Theory and Research
+Addison-Wesley, Reading, MA (1975)
+Google Scholar
+[67]
+I. Ajzen
+The theory of planned behavior
+Organ. Behav. Hum. Decis. Process., 50 (2) (1991), pp. 179-211, 10.1016/0749-5978(91)90020-T
+View PDF
+View articleView in ScopusGoogle Scholar
+[68]
+S. Taylor, P. Todd
+Assessing IT usage: the role of prior experience
+MIS Q., 19 (4) (1995), p. 561, 10.2307/249633
+View at publisherView in ScopusGoogle Scholar
+[69]
+H.C. Triandis
+Interpersonal Behavior
+Brooks/Cole, Monterey, CA (1977)
+Google Scholar
+[70]
+S.A. Brown, V. Venkatesh
+Model of adoption of technology in households: a baseline model test and extension incorporating household life cycle
+MIS Q., 29 (3) (2005), p. 399, 10.2307/25148690
+View at publisherView in ScopusGoogle Scholar
+[71]
+R.J. Vallerand
+Toward A hierarchical model of intrinsic and extrinsic motivation
+Adv. Exp. Soc. Psychol (1997), pp. 271-360, 10.1016/S0065-2601(08)60019-2
+View PDF
+View articleView in ScopusGoogle Scholar
+[72]
+S.S. Kim, N.K. Malhotra
+A longitudinal model of continued IS use: an integrative view of four mechanisms underlying postadoption phenomena
+Manag. Sci., 51 (5) (2005), pp. 741-755, 10.1287/mnsc.1040.0326
+View at publisherView in ScopusGoogle Scholar
+[73]
+M. Limayem, S.G. Hirt, C.M.K. Cheung
+How habit limits the predictive power of intention: the case of information systems continuance
+MIS Q., 31 (4) (2007), p. 705, 10.2307/25148817
+View at publisherView in ScopusGoogle Scholar
+[74]
+I. Ajzen, M. Fishbein
+Attitudes and the attitude-behavior relation: reasoned and automatic processes
+Eur. Rev. Soc. Psychol., 11 (1) (2000), pp. 1-33, 10.1080/14792779943000116
+View at publisherView in ScopusGoogle Scholar
+[75]
+R.H. Fazio
+Multiple processes by which attitudes guide behavior: the mode model as an integrative framework
+Adv. Exp. Soc. Psychol. (1990), pp. 75-109, 10.1016/S0065-2601(08)60318-4
+View PDF
+View articleView in ScopusGoogle Scholar
+[76]
+A. Bandura
+Social Foundations of Thought and Action : a Social Cognitive Theory
+Prentice Hall, Englewood Cliffs, NJ (1986)
+Google Scholar
+[77]
+B.H. Sheppard, J. Hartwick, P.R. Warshaw
+The theory of reasoned action: a meta-analysis of past research with recommendations for modifications and future research
+J. Consum. Res., 15 (3) (1988), p. 325, 10.1086/209170
+View at publisherGoogle Scholar
+[78]
+D.H. Shin, J. Jung, B.H. Chang
+The psychology behind QR codes: user experience perspective
+Comput. Hum. Behav., 28 (4) (2012), pp. 1417-1426, 10.1016/j.chb.2012.03.004
+View PDF
+View articleView in ScopusGoogle Scholar
+[79]
+D.H. Shin
+Towards an understanding of the consumer acceptance of mobile wallet
+Comput. Hum. Behav., 25 (6) (2009), pp. 1343-1354, 10.1016/j.chb.2009.06.001
+View PDF
+View articleView in ScopusGoogle Scholar
+[80]
+R.P. Bagozzi, Y. Yi
+On the evaluation of structural equation models
+J. Acad. Market. Sci., 16 (1) (1988), pp. 74-94, 10.1007/BF02723327
+View at publisherView in ScopusGoogle Scholar
+[81]
+G. Sanchez
+PLS Path Modeling with R
+Trowchez Editions, Berkeley (2013)
+http://www.gastonsanchez.com/PLS Path Modeling with R.pdf
+Google Scholar
+[82]
+J.F. Hair, M. Sarstedt, C.M. Ringle, J.A. Mena
+An assessment of the use of partial least squares structural equation modeling in marketing research
+J. Acad. Market. Sci., 40 (3) (2012), pp. 414-433, 10.1007/s11747-011-0261-6
+View at publisherView in ScopusGoogle Scholar
+[83]
+P.M. Podsakoff, S.B. MacKenzie, J.-Y. Lee, N.P. Podsakoff
+Common method biases in behavioral research: a critical review of the literature and recommended remedies
+J. Appl. Psychol., 88 (5) (2003), pp. 879-903, 10.1037/0021-9010.88.5.879
+View in ScopusGoogle Scholar
+[84]
+S.B. MacKenzie, P.M. Podsakoff, N.P. Podsakoff
+Construct measurement and validation procedures in MIS and behavioral research: integrating new and existing techniques
+MIS Q.: Manag. Inf. Syst., 35 (2) (2011), pp. 293-334, 10.2307/23044045
+View in ScopusGoogle Scholar
+[85]
+H.H. Harman
+Modern Factor Analysis
+(third ed.), University of Chicago Press, Chicago (1976)
+Google Scholar
+[86]
+W.W. Chin
+The partial least squares approach to structural equation modelling
+G.A. Marcoulides (Ed.), Modern Methods For Business Research (295–336), Lawrence Erlbaum, Mahwah, NJ (1998)
+Google Scholar
+[87]
+C. Fornell, D.F. Larcker
+Evaluating structural equation models with unobservable variables and measurement error
+J. Market. Res., 18 (1) (1981), p. 39, 10.2307/3151312
+Google Scholar
+[88]
+W. Reinartz, M. Haenlein, J. Henseler
+An empirical comparison of the efficacy of covariance-based and variance-based SEM
+Int. J. Res. Market., 26 (4) (2009), pp. 332-344, 10.1016/j.ijresmar.2009.08.001
+View PDF
+View articleView in ScopusGoogle Scholar
+Cited by (182)
+What factors contribute to the acceptance of artificial intelligence? A systematic review
+2023, Telematics and Informatics
+Show abstract
+Understanding the social sustainability of the Metaverse by integrating UTAUT2 and big five personality traits: A hybrid SEM-ANN approach
+2022, Technology in Society
+Citation Excerpt :
+
+PV refers to “consumers' cognitive trade-off between the perceived benefits of the applications and the monetary cost for using them” [21]. PV is found to have a significant impact on adopting various technologies [40–42]. For example, Hong et al. [43] found that PV was significantly associated with the continued intention to use smartwatches.
+
+Show abstract
+The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence
+2024, International Journal of Human-Computer Interaction
+ChatGPT and consumers: Benefits, Pitfalls and Future Research Agenda
+2023, International Journal of Consumer Studies
+Use of ChatGPT at University as a Tool for Complex Thinking: Students' Perceived Usefulness
+2023, Journal of New Approaches in Educational Research
+Assessing the Effects of the COVID-19 Pandemic on M-Commerce Adoption: An Adapted UTAUT2 Approach
+2022, Electronics (Switzerland)
+View all citing articles on Scopus
+Oliver Gansser is Deputy Director of the ifes Institute for Empirical Science and Statistics at the FOM University of Applied Sciences. He is a full-time professor of business administration, specialized in marketing, and a member of the board of Access Marketing Management (AMM) e.V. His research focuses on behavioral typologies, preference research, and communication research and consumer behavior as well as customer relationship management.
+Christina Reich is lecturer of quantitative methods at the FOM University of Applied Sciences and a research associate at the ifes Institute for Empirical Research & Statistics. She studied business education at the University of Konstanz (Dipl.-Hdl., 2011). After working for a management consultancy and agency as a junior consultant and project manager, she was a research assistant at the University of Applied Sciences Munich. She completed her doctorate in 2020 at the University of South Wales (UK) in the field of marketing and sales.
+© 2021 The Author(s). Published by Elsevier Ltd.
+About ScienceDirect
+Remote access
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+
+Cookies are used by this site.Cookie Settings
+
+All content on this site: Copyright © 2025 or its licensors and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
