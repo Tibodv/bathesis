@@ -16,7 +16,9 @@
                 "file": "01 Arbeit/01 - Einführung.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01 - Einführung"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "01 Arbeit/00 - recherchieren.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "00 - recherchieren"
             }
           },
           {
@@ -37,10 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Arbeit/02 - Theorie - Literatur.md",
+                "file": "01 Arbeit/03 - Methode.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "03 - Methode"
+            }
+          },
+          {
+            "id": "4f49c9ab90ee78ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auswertung/Mögliche Auswertungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mögliche Auswertungen"
+            }
+          },
+          {
+            "id": "b8700bb4ed481218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auswertung/Mögliche Auswertungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mögliche Auswertungen"
             }
           },
           {
@@ -52,11 +86,13 @@
                 "file": "Papers/UTAUT2 & KI.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "UTAUT2 & KI"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,8 +111,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +130,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -122,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Arbeit/02 - Theorie - Literatur.md",
+                "file": "Auswertung/Mögliche Auswertungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +173,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mögliche Auswertungen"
             }
           },
           {
@@ -139,10 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Arbeit/02 - Theorie - Literatur.md",
+                "file": "Auswertung/Mögliche Auswertungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mögliche Auswertungen"
             }
           },
           {
@@ -152,8 +199,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Arbeit/02 - Theorie - Literatur.md"
-              }
+                "file": "Auswertung/Mögliche Auswertungen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mögliche Auswertungen"
             }
           }
         ],
@@ -183,16 +239,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7b20b26011b3a40",
+  "active": "b8700bb4ed481218",
   "lastOpenFiles": [
-    "01 Arbeit/00 - recherchieren.md",
+    "Auswertung/UTAUT2 Columns.md",
+    "Auswertung/Mögliche Auswertungen.md",
+    "Erhebung/01 Ang. UTAUT2.md",
+    "Auswertung",
+    "01 Arbeit/03 - Methode.md",
     "01 Arbeit/02 - Theorie - Literatur.md",
+    "01 Arbeit/00 - recherchieren.md",
     "Papers/UTAUT2 & KI.md",
     "Erhebung/Whatsapp mit Bitte um Teilnahme.md",
     "01 Arbeit/Hypothesenformulierung.md",
     "01 Arbeit/01 - Einführung.md",
     "Untitled.canvas",
-    "01 Arbeit/03 - Methode.md",
     "01 Arbeit/Struktur Arbeit.md",
     "01 Arbeit/Schreiben - Meta.md",
     "01 Arbeit/Offene Themen - Entscheidungen.md",
@@ -209,10 +269,7 @@
     "Papers/UTAUT2.md",
     "04 Mock-Up/05 Unternehmen Mockup.md",
     "Erhebung/07 Datenschutz NoCB.md",
-    "Erhebung/06 Datenschutz CB.md",
-    "05 Chatbot/Chatbot.md",
     "05 Chatbot",
-    "04 Mock-Up/06 Brand Identity Mockup.md",
     "01 Arbeit",
     "Pasted image 20240926151644.png",
     "Templates",

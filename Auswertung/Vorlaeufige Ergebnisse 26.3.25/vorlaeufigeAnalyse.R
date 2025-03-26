@@ -74,6 +74,25 @@ dataKontroll$aint.SQ003. <- factor(dataKontroll$aint.SQ003.,
 dataKontroll$aint3_numeric <- as.numeric(dataKontroll$aint.SQ003.)
 
 
+#anderer ansatz, ausprobiert für utaut2
+
+library(dplyr)
+
+utaut2_cols <- c(names(data)[14:37])
+
+likert_levels <- c("Stimme überhaupt nicht zu", 
+                   "Stimme nicht zu",
+                   "Stimme nicht ganz zu", 
+                   "Weder noch", 
+                   "Stimme ein wenig zu", 
+                   "Stimme zu",
+                   "Stimme absolut zu")
+
+
+data <- data %>%
+  mutate(across(all_of(utaut2_cols), ~ as.numeric(factor(.x, levels = likert_levels, ordered = TRUE))))
+
+
 #mean aus den zahlen
 
 data$mean_response_aint <- rowMeans(data[, 45:47], na.rm = TRUE)
@@ -129,12 +148,50 @@ model_aintVsueqs <- lm(mean_response_aint ~ mean_response_ueqs * group, data = c
 summary(model)
 
 
+#mehr visualisierung
+
+library(ggplot2)
+
+ggplot(combinedData, aes(x = mean_response_ueqs, 
+                         y = mean_response_aint, 
+                         color = group)) +
+  geom_point() +                               # Plot raw data points
+  geom_smooth(method = "lm", se = TRUE) +       # Add regression lines with confidence bands
+  labs(title = "Application Intention vs. Website Quality",
+       x = "Website Quality",
+       y = "Application Intention")
+
+ggplot(combinedData, aes(x = mean_response_ueqs, y = mean_response_aint)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = TRUE) +
+  facet_wrap(~ group)
 
 
 
+#utaut2 mean über die einzelnen faktoren
+
+data$PE <- rowMeans(data[, c("PEGA.PE1GA.","PEGA.PE2GA.","PEGA.PE3GA.","PEGA.PE4GA.")], na.rm = TRUE)
+data$EE <- rowMeans(data[, c("EEGA.EEGA1.","EEGA.EEGA2.","EEGA.EEGA3.","EEGA.EEGA4.")], na.rm = TRUE)
+data$SI <- rowMeans(data[, c("SIGA.SIGA1.","SIGA.SIGA2.","SIGA.SIGA3.")], na.rm = TRUE)
+data$HM <- rowMeans(data[, c("HMGA.HMGA1.","HMGA.HMGA2.","HMGA.HMGA3." )], na.rm = TRUE)
+data$FC <- rowMeans(data[, c("FCGA.FCGA1.","FCGA.FCGA2.","FCGA.FCGA3.","FCGA.FCGA4.")], na.rm = TRUE)
+data$BI <- rowMeans(data[, c("BIGA.BIGA1.","BIGA.BIGA2.","BIGA.BIGA3.")], na.rm = TRUE)
+data$UB <- rowMeans(data[, c("UBGA.UBGA1.","UBGA.UBGA2.","UBGA.UBGA3.")], na.rm = TRUE)
+
+#u2 sem
+
+library(lavaan)
 
 
+library(lavaan)
 
+model <- '
+  
+  # Structural model
+  BI ~ PE + EE + SI + FC + HM
+'
+fit <- sem(model, data = data)
+summary(fit, fit.measures = TRUE)
 
 
 
