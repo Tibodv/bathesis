@@ -145,7 +145,7 @@ ggplot(combinedData, aes(x = mean_response_ueqs, y = mean_response_aint, color =
 #model interaction website quality und application intention
 
 model_aintVsueqs <- lm(mean_response_aint ~ mean_response_ueqs * group, data = combinedData)
-summary(model)
+summary(model_aintVsueqs)
 
 
 #mehr visualisierung
@@ -179,8 +179,29 @@ data$BI <- rowMeans(data[, c("BIGA.BIGA1.","BIGA.BIGA2.","BIGA.BIGA3.")], na.rm 
 data$UB <- rowMeans(data[, c("UBGA.UBGA1.","UBGA.UBGA2.","UBGA.UBGA3.")], na.rm = TRUE)
 
 #u2 sem
+#renaming for simplicity
 
-library(lavaan)
+data$age <- data$G03Q03
+data$gender <- data$G03Q04
+data$workingStatus <- data $G03Q05
+
+#interaction variables for age 
+
+data$PE_Age <- data$PE * data$age
+data$EE_Age <- data$EE * data$age
+data$SI_Age <- data$SI * data$age
+data$HM_Age <- data$HM * data$age
+data$FC_Age <- data$FC * data$age
+data$BI_Age <- data$BI * data$age
+
+#groupvariable gender workingstatus
+
+data$GenderWorking <- paste0(data$gender, "_", data$workingStatus)
+data$GenderWorking <- factor(data$GenderWorking)
+
+
+
+
 
 
 library(lavaan)
@@ -190,11 +211,26 @@ model <- '
   # Structural model
   BI ~ PE + EE + SI + FC + HM
 '
-fit <- sem(model, data = data)
+fit <- sem(model, data = data, group = "gender")
 summary(fit, fit.measures = TRUE)
 
+#visualisierung
+
+library(tidySEM)
+graph_sem(model = fit)
 
 
+
+model <- '
+  # Structural model using composite scores + Age + interaction terms
+  BI ~ PE + EE + SI + FC + HM + age 
+       + PE_Age + EE_Age + SI_Age + HM_Age + FC_Age + BI_Age
+  # etc. for other interaction terms
+'
+
+fit <- sem(model, data = data, group = "GenderWorking")
+summary(fit, fit.measures = TRUE)
+graph_sem(model = fit)
 
 
 
