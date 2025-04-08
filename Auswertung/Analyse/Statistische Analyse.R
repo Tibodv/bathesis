@@ -17,13 +17,15 @@
 
 # 0. Housekeeping  ----
 #working directory
-setwd("C:/Users/tiboa/Documents/BaThesis/Auswertung/Vorlaeufige Ergebnisse 7.4.25")
+#setwd("C:/Users/tiboa/Documents/BaThesis/Auswertung/Vorlaeufige Ergebnisse 7.4.25")
 #library import
 library(dplyr)
 library(ggplot2)
 library(lavaan)
-library(tidySEM)
+#library(tidySEM)
 library(psych)
+library(plspm)
+library(seminr)
 
 #Funktion zur Berechnung zentraler Kennzahlen
 
@@ -75,6 +77,16 @@ likert_cols <- c(names(combinedDF)[14:40])
 
 combinedDF <- combinedDF %>%
   mutate(across(all_of(likert_cols), ~ as.numeric(factor(.x, levels = likert_levels, ordered = TRUE))))
+
+#auch für experimental, weil der df später noch gebraucht wird
+likert_cols <- c(names(experimentalGruppe)[14:40])
+
+experimentalGruppe <- experimentalGruppe %>%
+  mutate(across(all_of(likert_cols), ~ as.numeric(factor(.x, levels = likert_levels, ordered = TRUE))))
+
+
+
+
 
 
 
@@ -203,12 +215,66 @@ print(cor_test_result)
 
 
 
-
-
-
-
-
 #8.  UTUAUT2 Analyse (PLS-SEM, vllt Multivariate Analyse, Modelqualitätskennzahlen)  --------
+
+# * monte carlo simulation für die optimale stichprobe bei 80% power ----
+
+
+# * Maximum Likelihood Estimation ----
+# Pfadmodell mit den berechneten Mittelwerten der UTAUT2 Konstrukte
+
+utaut2_path <- '
+  # Strukturmodell:
+  BI ~ PE + EE + SI + HM + FC
+  UB ~ BI
+'
+
+# Schätze das Modell basierend auf den beobachteten Mittelwerten
+fit_path <- sem(utaut2_path, data = combinedDF, estimator = "MLR")
+summary(fit_path, fit.measures = TRUE, standardized = TRUE)
+
+
+# * Partial Least Squares SEM ----
+
+
+# Beispiel für ein PLS-SEM-Modell mit seminr:
+# 1. Definiere die Messmodelle (outer model) für die latenten Variablen
+outer_model <- constructs(
+  composite("PE", multi_items("PE", 1:4)),
+  composite("EE", multi_items("EE", 1:4)),
+  composite("SI", multi_items("SI", 1:3)),
+  composite("HM", multi_items("HM", 1:3)),
+  composite("FC", multi_items("FC", 1:4)),
+  composite("BI", multi_items("BI", 1:3)),
+  composite("UB", multi_items("UB", 1:3))
+)
+
+# 2. Definiere das Strukturelle Modell (inner model)
+inner_model <- relationships(
+  paths(from = c("PE", "EE", "SI", "HM", "FC"), to = "BI"),
+  paths(from = "BI", to = "UB")
+)
+
+# 3. Schätze das Modell
+sem_model <- estimate_pls(
+  data = experimentalGruppe,
+  measurement_model = outer_model,
+  structural_model = inner_model,
+  #inner_weights = path_weighting_scheme("centroid")
+)
+
+# 4. Ergebnisse zusammenfassen
+summary(sem_model)
+
+
+
+
+
+
+
+
+
+
 #9. Regressionsanalyse UTAUT2 und Application Intention  -----------
 #10. Visualisierung  -------
 # * normalverteilung ueqs ----
