@@ -217,7 +217,7 @@ print(cor_test_result)
 
 #8.  UTUAUT2 Analyse (PLS-SEM, vllt Multivariate Analyse, Modelqualitätskennzahlen)  --------
 
-# * monte carlo simulation für die optimale stichprobe bei 80% power ----
+# * monte carlo simulation für die optimale stichprobe bei 80% power ?----
 
 
 # * Maximum Likelihood Estimation ----
@@ -266,20 +266,35 @@ sem_model <- estimate_pls(
 # 4. Ergebnisse zusammenfassen
 summary(sem_model)
 
+#bootstrapping für p-werte
+
+boot_pls <- bootstrap_model(
+  seminr_model = sem_model,
+  nboot = 1000
+)
 
 
-
-
-
-
-
-
-
-#9. Regressionsanalyse UTAUT2 und Application Intention  -----------
+#9. Regressionsanalyse UTAUT2 und Application Intention  ------
 #10. Visualisierung  -------
 # * normalverteilung ueqs ----
 ggplot(combinedDF, aes(sample=mean_response_ueqs)) +
   stat_qq() + stat_qq_line()
+
+
+
+
+
+# * Model ohne Bootstrapping (keine Signifikanzniveaus)
+plot(sem_model, title = "Model ohne Bootstrapping")
+
+
+# * Modell mit Bootstrapping
+plot(boot_pls, title = "Modell mit Bootstrapping")
+
+
+
+
+
 
 
 
