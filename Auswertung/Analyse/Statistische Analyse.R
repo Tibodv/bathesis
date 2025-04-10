@@ -17,7 +17,7 @@
 
 # 0. Housekeeping  ----
 #working directory
-#setwd("C:/Users/tiboa/Documents/BaThesis/Auswertung/Vorlaeufige Ergebnisse 7.4.25")
+setwd("C:/Users/tiboa/Documents/BaThesis/Auswertung/Vorlaeufige Ergebnisse 7.4.25")
 #library import
 library(dplyr)
 library(ggplot2)
@@ -259,7 +259,7 @@ inner_model <- relationships(
 sem_model <- estimate_pls(
   data = experimentalGruppe,
   measurement_model = outer_model,
-  structural_model = inner_model,
+  structural_model = inner_model
   #inner_weights = path_weighting_scheme("centroid")
 )
 
@@ -270,8 +270,23 @@ summary(sem_model)
 
 boot_pls <- bootstrap_model(
   seminr_model = sem_model,
-  nboot = 1000
+  nboot = 1000,
+  seed = NULL
 )
+
+
+boot_pls_2000 <- bootstrap_model(
+  seminr_model = sem_model,
+  nboot = 2000,
+  seed = NULL
+)
+
+boot_pls_4000 <- bootstrap_model(
+  seminr_model = sem_model,
+  nboot = 4000,
+  seed = NULL
+)
+
 
 
 #9. Regressionsanalyse UTAUT2 und Application Intention  ------
@@ -290,10 +305,10 @@ plot(sem_model, title = "Model ohne Bootstrapping")
 
 # * Modell mit Bootstrapping
 plot(boot_pls, title = "Modell mit Bootstrapping")
+plot(boot_pls_2000, title ="Boot 2k")
+plot(boot_pls_4000, title="4k")
 
-
-
-
+#alles ab 5k hat nicht mehr genug varianz in seed NULL
 
 
 
