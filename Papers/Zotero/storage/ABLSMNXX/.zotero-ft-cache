@@ -1,0 +1,136 @@
+Skip to main content
+Skip to article
+Access through your organization
+Purchase PDF
+Research Methods in Applied Linguistics
+Volume 1, Issue 3, December 2022, 100027
+Partial Least Squares Structural Equation Modeling (PLS-SEM) in second language and education research: Guidelines using an applied example
+Author links open overlay panel
+Joseph Hair a
+,
+Abdullah Alamer b c
+Show more
+Share
+Cite
+https://doi.org/10.1016/j.rmal.2022.100027
+Get rights and content
+Abstract
+Partial least squares structural equation modeling (PLS-SEM) is an alternative method to the historically more commonly used covariance-based SEM (CB-SEM) when analyzing the data using structural equation modeling (SEM). The article starts by introducing PLS-SEM to second language and education research, followed by a discussion of situations in which PLS-SEM should be the method of choice for structural equation modeling. It is argued that PLS-SEM is appropriate when complex models are analyzed, when prediction is the focus of the research – particularly out-of-sample prediction to support external validity, when data do not meet normal distribution assumptions, when formative constructs are included, and when higher-order constructs facilitate better understanding of theoretical models. The most up-to-date guidelines for applying PLS-SEM are provided, and step-by-step guidance is offered on how to apply the method using an R statistical package (i.e., SEMinR) that is available. An example is provided that shows how the results of PLS-SEM are interpreted and reported. We also make the data publicly available for readers to start learning PLS-SEM by replicating our findings. The paper concludes with important considerations for the utilization of SEM, especially PLS-SEM, in future L2 research.
+Introduction
+Structural equation modeling (SEM) is a very useful technique for evaluating complex theoretical relationships between multiple variables, especially when conducting social science and second language (L2) research. Two fundamental SEM methods have been proposed: covariance-based structural equation modeling (CB-SEM) and partial least squares structural equation modeling (PLS-SEM, also referred to as composite-based structural equation modeling). CB-SEM has been well-known in the L2 field for many years and is by far the most dominant statistical technique among researchers conducting SEM (Shao et al., 2022).
+PLS-SEM is being applied more often recently as more researchers have become aware of the method (Hair et al., 2019a; Hair et al., 2022a; Ringle et al., 2015; Sarstedt et al., 2020). PLS-SEM is a suitable alternative to CB-SEM in a number of situations that are common in L2 quantitative research, and thus may be a more appropriate method to use, as will be elaborated on later. The number of empirical studies using PLS-SEM in the language learning domain is still small, however, and to date, very few studies have opted to use this approach for executing SEM (Alamer, 2022b; Elahi Shrivan & Alamer, 2022; Law & Fong, 2020; Mohammadi et al., 2020). Although a plethora of publications in research fields other than language learning have addressed the use of PLS-SEM (particularly in marketing and information systems), there is no introductory paper explaining the features and key aspects of this method in the L2 and education research. Moreover, there is no illustrative example for the stages involved in assessing PLS-SEM results according to the most recent developments in the field.
+The question remains: Why should L2 and education researchers consider using the alternative structural equation modeling approach of PLS-SEM when an established approach of CB-SEM has been applied for the previous 40+ years to assess theoretical models? Answering this question is the primary objective of this article. The article begins by describing the two methods of structural equation modeling, explaining how the two approaches differ, and the procedure scholars can follow in deciding which of the methods is appropriate to achieve their research objective. To facilitate scholarly decision making, we provide established guidelines that clearly delineate how and when to use each method. To make this article more practical for application in the field, a step-by-step guide for evaluating PLS-SEM results is presented, using the free, open-source statistical package SEMinR. We explain the steps while assuming the reader already has basic knowledge of SEM and is seeking to understand the specific details of the more recently emerging PLS-SEM method. The empirical example we use is drawn from the L2 motivation literature (Alamer, 2021b, Alamer, 2022d; Elahi Shrivan & Alamer, 2022); therefore, it should be relevant for L2 researchers in general.
+There are two broad approaches to executing SEM. One approach is covariance-based SEM, popularized in the early 1980’s by Jöreskog (1970) and Jöreskog and Sorbom (1976). The other broad SEM approach is variance-based SEM (also called composite-based SEM). Among variance-based SEM, partial least squares structural equation modeling (PLS-SEM) is regarded as a fully developed and general approach (Hair et al., 2019a). The PLS-SEM approach most often applied in social sciences research is the one originally proposed by Wold (1982) and later popularized by Chin (1998) and more recently by Hair et al. (2011) and Ringle et al. (2015). Indeed, several researchers have noted that the PLS-SEM has attracted considerable attention in social sciences research in the last decade (Chin et al., 2020; Hair et al., 2022a; Hair et al., 2019a; Law & Fong, 2020; Sarstedt et al., 2014).
+The CB-SEM and PLS-SEM approaches were initially proposed around the same time (i.e., the 1960–70s), but virtually all social sciences applications of SEM were largely conducted through covariance-based SEM until the past decade. Numerous CB-SEM statistical software tools, such as AMOS, EQS, LISREL, Mplus, and SAS, among others, emerged in the 1980’s and 1990’s, and the method dominated the SEM field until around 2012. The software tools such as PLSgraph (Chin, 1994) and SmartPLS (Ringle et al., 2005, 2015), as well as the SEMinR free software package for R in particular, have enabled many more researchers to expand their methodological toolbox to pursue alternative research objectives that were restricted by the limitations of the CB-SEM approach.
+CB-SEM is primarily designed to test established theoretical frameworks, including both the measurement and structural models (e.g., examining whether theorized relationships are present in the data). This is achieved by comparing the estimated theoretical model (covariance matrix) with the observed covariance matrix (Hair et al., 2019a; Hair et al., 2022b). The focus, therefore, is on the explanation of the relationships between all the variables in the analysis (i.e., theory confirmation). An example of such approach is the flexibility of CB-SEM in theory testing by the applications of exploratory factor analysis (EFA), confirmatory factor analysis (CFA), and the most recently developed technique of exploratory structural equation modeling (ESEM) in the examination of the multidimensionality of a theoretical construct (Alamer, 2022c, 2021a; Alamer & Marsh, 2022; Shao et al., 2022).
+Another characteristic of CB-SEM is that the method is referred to as a factor-based approach that assumes a common factor model. That is, the covariances between the indicators are only the product of (caused by) the factor. The PLS-SEM method, in contrast, is a composite-based approach that uses total variance (common, specific, and error variance) and represents the construct as a linear combination of its indicators (Hair et al., 2022a; Hair & Sarstedt, 2021; Lohmöller, 1989; Sarstedt et al., 2016).
+Finally, CB-SEM solutions require more rigorous assumptions, including multivariate normality, and larger sample sizes with the maximum likelihood (ML) estimator. Although some estimators such as the robust maximum likelihood (referred to as MLM and MLR) can be used to account for the violation of multivariate normality in the CB-SEM (Kline, 2016; Shao et al., 2022), MLR is available as an option for only a few SEM packages; for example, it is not incorporated into Amos and EQS versions older than 6. Although estimators other than ML that take the nonnormality of the data into account are available (such as weighted least squares and diagonally weighted least squares), SEM literature largely favors ML over any other estimators because of its asymptotic unbiasedness and consistency in estimating the model fit indices (Kline, 2016). In contrast, the PLS estimator does not assume the normality of the data by default. Note that some researchers advocate for transforming the data when it does not satisfy the normality assumption in SEM applications. We do not recommend this procedure, however, as it may alter the interpretation of the variable (Hair et al., 2019). When SEM estimators that are robust to nonnormality are available, they should be prioritized.
+PLS-SEM is especially useful when the user's structural model objective is to predict and explain the target outcomes as obtained by the in-sample and out-of-sample metrics (Latan & Noonan, 2017; Shmueli et al., 2019; Hair et al., 2019a; Hair et al., 2022a; Hair & Sarstedt, 2021). PLS-SEM also obtains solutions with smaller sample sizes compared to CB-SEM. How is that possible, particularly compared to CB-SEM? PLS-SEM iterates back and forth multiple times optimizing first the measurement model and then the structural model, and back to the measurement model, and then again to the structural model, and so on, continuing until the ultimate objective of optimizing prediction, and not model fit, is achieved. In fact, the name “partial least squares” was derived from the “partial” approach to analyzing data, as compared to CB-SEM, which analyzes all the data simultaneously to obtain solutions and therefore requires considerably larger sample sizes. The ability to obtain solutions with smaller sample sizes is a result of this partial approach to analyzing the data. When possible, however, larger sample sizes should always be used to substantiate the ability to infer sample results to the relevant population (Alamer, 2022c; Hair et al., 2022b; Kock & Hadaya, 2018). Finally, some scholars have argued that CB-SEM is better than composite-based SEM methods since composite-based SEM methods supposedly do not account for measurement error (Ronkko et al., 2015). Nevertheless, Hair and Sarstedt (2021) have demonstrated that PLS-SEM does in fact account for measurement error.
+Applications of PLS-SEM have increased substantially in the social sciences in general, and several studies have made use of the potential of PLS-SEM in L2 and education research (e.g., Alamer, 2022b, 2022d; Elahi Shrivan & Alamer, 2022; Law & Fong, 2020). When deciding whether PLS-SEM is the appropriate method for the research, one should consider the following aspects (Hair et al., 2022a):
+•
+Objective. To maximize the explained variance in the outcome variable(s), including assessment of both in-sample and out-of-sample prediction. Thus, it is preferable when explanation plus prediction are the main objectives in the structural model (Shmueli et al., 2019).
+•
+Measurement model types. PLS-SEM easily handles formative constructs (referred to as composite)– constructs with arrows pointing from the observable variables without posing specific constraints on the model. In fact, we believe this is a key feature that might motivate L2 researchers to select PLS-SEM over CB-SEM. We elaborate on formative constructs in a later section.
+•
+Sample size. Although larger sample sizes are always preferred, compared to CB-SEM, PLS-SEM obtains results with smaller sample sizes and achieves high levels of statistical power (Hair et al., 2017). Notwithstanding, researchers should consult guidelines about sample size recommendations such as Kock and Hadaya (2018) and Hair et al. (2022a).
+•
+Distribution. PLS-SEM does not assume normally distributed data and is quite robust to skewness.
+•
+Model complexity. PLS-SEM is robust to quite complex models containing literally hundreds of observed variables and rarely faces convergence issues.
+•
+The mainstream PLS-SEM algorithm. It does not specify goodness-of-fit (model fit indices) as an assessment metric when obtaining structural model solutions. Instead, the investigator relies on a different set of indices, including construct reliability and validity, as well as in-sample and out-of-sample prediction indices.
+•
+Higher (e.g., second) order constructs (HOCs). The method can easily obtain solutions with as few as two lower (first) order constructs (LOCs). It also allows for LOCs to be formulated as formative for the HOC, which is not possible in CB-SEM without a compromise in model specification (Sarstedt et al., 2019).
+As noted above, there are several reasons to consider when determining whether to use PLS-SEM. Probably the most appealing characteristics of PLS-SEM in the L2 and education domain are: (i) the method does not require normally distributed data by default; (ii) it obtains solutions with smaller sample sizes compared to CB-SEM; and (iii) it easily incorporates formatively (composite) measured constructs. Specifically, (i) it is important to note that using non-normally distributed data with CB-SEM may result in inflated, thus biased, model parameters when the researcher incorrectly assumes the normality of non-normal data through the default ML estimation (see the discussion in an earlier section). In addition, (ii) in many situations, the focus of the L2 research is placed on understanding the characteristics of language teachers (or parents for education research), which we know from our experience, are limited in number as part of the sample compared to students. In such cases, PLS-SEM can be a suitable alternative that overcomes typical sample size limitations. Specifically, it is estimated that to obtain significant results (p < .05) for path coefficients ranging between .21 and .30, the user may be able to achieve this with a sample size aound 69 to 100, though larger sample size is typically favored (Hair et al., 2022a; Kock & Hadaya, 2018). Furthermore, (iii) language researchers often deal with formative constructs (composite) in which the items form the construct in linear combinations are not assumed to be highly correlated. For example, ‘language achievement’ as a construct usually consists of the four skills: listening, speaking, reading, and writing (among others). In such cases, the construct should not be specified as reflective (which is almost always specified this way in the field), but rather as formative. This is because the four language skills are not interchangeable and can be different at the learner level. For example, one learner could score high in writing but low in speaking. So, high correlations between the four skills are not feasible. In contrast, reflective constructs are those typically employed in CB-SEM such as in the CFA and ESEM applications in which the construct explains a set of observed variables and not the other way around. As such, a change in one item should not influence the overall meaning of the construct.
+The same observation can be made with higher-order factors in which the first-order factors may be better conceptualized as formative than reflective. For example, consider three specific language reading strategies that are hypothesized to belong to a global (higher order) reading strategy factor. The three types of reading strategies are theorized to function independently from each other, such that high correlations between them may not necessarily be observed (see, for example, the metacognitive reading strategies identified in Mokhtari and Reichard (2002)). In such cases, the three specific reading strategies should be specified formatively relative to their higher-order (global) factor. Hence, when constructs are more appropriately structured as higher order measurement models, as is true with the language achievement construct and reading strategies, an advantage of PLS-SEM is that postulating this type of construct is quite easily set up with PLS (Sarstedt et al., 2019). In contrast, examining this type of construct is much more challenging with CB-SEM since researchers will be confronted by identification issues with this type of formulation. Moreover, this difficulty can only be resolved by inserting additional model constraints to the global factor in the model (also called MIMIC model), which sometimes compromises the substantive theory. The ease of configuration of formatively measured constructs in PLS-SEM is a definite advantage since this type of construct is commonly encountered in L2 research but often inappropriately operationalized in empirical studies. See Fig. 1 for conceptual differences between the two types of constructs.
+In the language learning domain, research has started to make use of these key features of PLS-SEM. For instance, Sparks and Alamer (2022) have investigated the impact of L1 language skills on L2 achievement through different mediators. Achievement was measured through the four areas of reading, writing, speaking, and listening comprehension. The operationalization of achievement as a formative construct was not possible to be estimated through the CB-SEM in their structural model due to identification issues. Hence, selecting PLS-SEM was a suitable choice when formative constructs are involved. Another example can be taken from Alamer's (2022d) study as the research objective was to examine the predictive power of the autonomous single language interest (ASLI) of students’ L2 achievement after a whole academic year. ASLI postulates that L2 students who have one autonomous language interest during their study would be able to achieve learning the language more than students with lower ASLI. To fully examine the predictive capability of ASLI, a structural model was hypothesized by applying the PLS-SEM method to achieve prediction purpose. Through the analysis of the in-sample and out-of-sample assessments (explained in a later section) the author found that ASLI successfully predicted unseen scores on L2 achievement indicating good prediction power which supported the external validity of the research findings from a new perspective (Alamer, 2022d). Because the investigation followed a causal–predictive paradigm, PLS-SEM was seen as more appropriate than CB-SEM for such an objective.
+In our example, 213 Saudi participants who learn English as an L2 in a public Saudi university participated in an online questionnaire. All students, male and female, speak Arabic as their mother tongue, and their ages were between 18 to 26 (Mage = 20.3). The measures of the study are based on a 5-point Likert-type response format ranging from 1 (strongly disagree) to 5 (strongly agree), and full details can be obtained from Appendix B.
+To contextualize our example, Fig. 2 presents a hypothetical theoretical model based on the L2 motivation literature. The literature indicates two constructs, consistency of interest (CI) and perseverance of effort (PE), are the main components of the grit theory (Duckworth et al., 2007) and are theoretically positively associated with language outcomes (Elahi Shirvan & Alamer, 2022). At the same time, research has illustrated the limited predictive power of the two constructs for language related outcomes which may be due to the lack of understanding of the CI and PE antecedents (Alamer, 2022d). For example, recognizing the ways in which CI and PE can be sustained and enhanced among L2 students can be a fruitful endeavor to obtain better understanding of the psychological processes (Alamer, 2021b). A proposed possibility to fill this knowledge gap is the assessment of L2 students’ basic psychological needs of autonomy, competence, and relatedness (Ryan & Deci, 2017) in which the literature highlights their role as a basis for sustaining autonomous motivation, adaptive functioning, and improved learning effort (Alamer, 2022a, 2022c; Alamer & Lee, 2019), even during difficult times such as the COVID-19 pandemic (Alamer, 2022b, Alamer & Al Sultan, 2022). It is important, therefore, to evaluate the extent to which the BPN operate as antecedents of CI and PE, which, in turn, lead to increased language achievement.
+First, the basic psychological needs of autonomy, competence, and relatedness, are postulated as exogenous latent variables. Next, grit, which consists of CI and PE are postulated as endogenous constructs and mediators for the basic psychological needs (readers are referred to Alamer (2021b), and Elahi Shirvan and Alamer (2022) for greater details). Lastly, students’ achievement is postulated as an endogenous composite variable and is also the outcome in the model. See Appendix B for the scale items for the basic psychological needs as well as L2 grit. Fig. 2 illustrates additional details on the specific relationships. The order of the constructs should be determined based on the available literature. Specifically, research in language learning shows that BPN are seen as the basis of a learner's motivational orientation (Alamer, 2022a; Alamer & Almulhim, 2021; Noels et al., 2000; Noels, 2013; Oga-Baldwin et al., 2017).
+Note: constructs represented in hexagon denote formative constructs (composite).
+Access through your organization
+
+Check access to the full text by signing in through your organization.
+
+Access through your organization
+Section snippets
+Steps for conducting PLS-SEM through SEMinR using the empirical example
+Structural equation modeling, particularly PLS-SEM, is an increasingly popular analytical method. The R programming language is the language of choice for many researchers. R is a free, open-source software that enables users to write and execute code to analyze data. We use the SEMinR package for PLS-SEM (Ray et al., 2020; Hair et al., 2022b) to execute the empirical example in this article. Note that in the PLS literature measurement models are often referred to as the “outer” model while the 
+The results of the study example
+The detailed results of the analysis of the example study are shown in Appendix A. Starting with the outer model, except for item ‘CI6’, all items appear to be statistically significant and sufficiently large in size (i.e., CI6 loading was .58, p < .001). We retain this item because removing it reduces the AVE and reliability measures. Since the factor loadings of the items are above .70, with only one exception, we can assess indicator reliability. Cronbach's (α) and CR were all above .70 and
+Summary and tips for reporting the results
+There are similarities and differences between PLS-SEM and the commonly used CB-SEM method. Researchers should first postulate their structural models based on the existing literature. Solutions can then be obtained with PLS-SEM by performing two essential steps: (i) assessing the outer model's validity and reliability, and (ii) assessing the inner model's predictive power. An additional recommended step to consider is (iii) examining competing models. In this paper, we have described these
+Recommendations and conclusions
+PLS-SEM is a useful approach to estimating structural models in L2 and education research. Considering its features and the research situations that suit its objectives, such as analyzing complex theoretical models, handling non-normal data, achieving statistical power with smaller sample sizes, and focusing on the model's predictive capability, the method can be an attractive, quite useful alternative to its counterpart, CB-SEM. In fact, PLS-SEM is increasingly applied in social sciences
+Declaration of Competing Interest
+The authors declare that there is no conflict of Interest involved in the study.
+References (55)
+A. Alamer
+Exploratory structural equation modeling (ESEM) and bifactor ESEM for construct validation purposes: Guidelines and applied example
+Research Methods in Applied Linguistics
+(2022)
+A. Alamer
+Having a single language interest autonomously predicts L2 achievement: Addressing the predictive validity of L2 grit
+System
+(2022)
+A. Alamer et al.
+A motivational process model explaining L2 Saudi students’ achievement of English
+System
+(2019)
+L. Law et al.
+Applying partial least squares structural equation modeling (PLS-SEM) in an investigation of undergraduate students’ learning transfer of academic English
+Journal of English for Academic Purposes
+(2020)
+E. Rigdon
+rethinking partial least squares path modeling: in praise of simple methods
+Long Range Planning
+(2012)
+M. Ronkko et al.
+On the adoption of partial least squares in psychological research: Caveat emptor
+Personality and Individual Differences
+(2015)
+M. Sarstedt et al.
+How to specify, estimate, and validate higher-order constructs in PLS-SEM
+Australasian Marketing Journal (AMJ)
+(2019)
+M. Sarstedt et al.
+Partial least squares structural equation modeling (PLS-SEM): A useful tool for family business researchers
+Journal of Family Business Strategy
+(2014)
+G. Shmueli et al.
+The elephant in the room: Predictive performance of PLS models
+Journal of Business Research
+(2016)
+A. Alamer
+Basic psychological needs, motivational orientations, effort, and vocabulary knowledge: A comprehensive model
+Studies in Second Language Acquisition
+(2022)
+View more references
+Cited by (675)
+The role of environmental regulation and green human capital towards sustainable development: The mediating role of green innovation and industry upgradation
+2023, Journal of Cleaner Production
+Show abstract
+Impact of artificial intelligence on human loss in decision making, laziness and safety in education
+2023, Humanities and Social Sciences Communications
+Show abstract
+Testing a model of EFL teachers’ work engagement: the roles of teachers’ professional identity, L2 grit, and foreign language teaching enjoyment
+2024, IRAL - International Review of Applied Linguistics in Language Teaching
+Tourist loyalty in the metaverse: the role of immersive tourism experience and cognitive perceptions
+2024, Tourism Review
+Understanding Behavioral Intention to Use of Air Quality Monitoring Solutions with Emphasis on Technology Readiness
+2024, International Journal of Human-Computer Interaction
+Factors Influencing Learner Attitudes Towards ChatGPT-Assisted Language Learning in Higher Education
+2024, International Journal of Human-Computer Interaction
+View all citing articles on Scopus
+View full text
+© 2022 Elsevier Ltd. All rights reserved.
+About ScienceDirect
+Remote access
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+
+Cookies are used by this site.Cookie Settings
+
+All content on this site: Copyright © 2025 or its licensors and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.

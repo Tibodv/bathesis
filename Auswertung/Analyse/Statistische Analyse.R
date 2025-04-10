@@ -1,4 +1,4 @@
-#Statistische Analyse für BA - Tibo de Vries - R Version: 4.4.2
+#Statistische Analyse für BA - Tibo de Vries - R Version: 4.4.3
 #Struktur ----
 #(0. Housekeeping)
 #1.  Datenimport
@@ -17,8 +17,8 @@
 
 # 0. Housekeeping  ----
 #working directory
-setwd("C:/Users/tiboa/Documents/BaThesis/Auswertung/Vorlaeufige Ergebnisse 7.4.25")
-#library import
+#setwd("C:/Users/tiboa/Documents/BaThesis/Auswertung/Vorlaeufige Ergebnisse 7.4.25")
+#library import -> !! raus nehmen, was ich dann doch nicht genutzt habe! -> ist das perf. techn. relevant ?
 library(dplyr)
 library(ggplot2)
 library(lavaan)
@@ -26,6 +26,8 @@ library(lavaan)
 library(psych)
 library(plspm)
 library(seminr)
+library(sjPlot)
+
 
 #Funktion zur Berechnung zentraler Kennzahlen
 
@@ -45,8 +47,8 @@ descriptive_stats <- function(x) {
 
 #1. Datenimport ------
 
-experimentalGruppe <- read.csv("ExperimentalGruppe_7.4.25.csv", stringsAsFactors = FALSE)
-kontrollGruppe <- read.csv("KontrollGruppe_7.4.25.csv", stringsAsFactors = FALSE)
+experimentalGruppe <- read.csv("experimentalGruppe_10.4.25_FINAL.csv", stringsAsFactors = FALSE)
+kontrollGruppe <- read.csv("kontrollGruppe_10.4.25_FINAL.csv", stringsAsFactors = FALSE)
 
 #Kombinierter DF
 experimentalGruppe$gruppe <- "experimental"
@@ -124,6 +126,7 @@ sdAlter <- sd(combinedDF$alter, na.rm = TRUE)
 
 summaryGeschlecht <- table(combinedDF$geschlecht)
 
+#berufsstand
 
 
 
@@ -193,10 +196,20 @@ t_test_result <- t.test(mean_response_ueqs ~ gruppe, data = combinedDF)
 cat("T-Test Ergebnisse für UEQ-S:\n")
 print(t_test_result)
 
-# 7.2 Vergleich der Varianzen zwischen den Gruppen (F-Test)
-var_test_result <- var.test(mean_response_ueqs ~ gruppe, data = combinedDF)
+# 7.2 Vergleich der UEQ-S Varianzen zwischen den Gruppen (F-Test)
+var_test_result_UEQS <- var.test(mean_response_ueqs ~ gruppe, data = combinedDF)
 cat("\nVarianzenvergleich (F-Test):\n")
-print(var_test_result)
+print(var_test_result_UEQS)
+
+#Vergleich der Aint Varianzen zwischen den Gruppen (F-Test)
+
+
+var_test_result_Aint <- var.test(mean_response_aint ~ gruppe, data = combinedDF)
+cat("\nVarianzenvergleich (F-Test):\n")
+print(var_test_result_Aint)
+
+
+
 
 # 7.3 Überprüfung der Normalverteilung in beiden Gruppen
 # Shapiro-Wilk-Test für die Experimentalgruppe
@@ -222,6 +235,9 @@ print(cor_test_result)
 
 # * Maximum Likelihood Estimation ----
 # Pfadmodell mit den berechneten Mittelwerten der UTAUT2 Konstrukte
+
+#Variablen in experimentalGruppe leichter zu tippen machen:
+names(experimentalGruppe) <- c("id","submitdate","lastpage","startlanguage","seed","UEQS1.SQ001.","UEQS1.SQ002.","UEQS1.SQ003.","UEQS1.SQ004.","UEQS1.SQ005.","UEQS1.SQ006.","UEQS1.SQ007.","UEQS1.SQ008.","PE1","PE2","PE3","PE4","EE1","EE2","EE3","EE4","SI1","SI2","SI3","HM1","HM2","HM3","FC1","FC2","FC3","FC4","BI1","BI2","BI3","UB1","UB2","UB3","aint.SQ001.","aint.SQ002.","aint.SQ003.","G03Q03","G03Q04","G03Q05","gruppe")
 
 utaut2_path <- '
   # Strukturmodell:
@@ -287,9 +303,22 @@ boot_pls_4000 <- bootstrap_model(
   seed = NULL
 )
 
+#alles ab 5k hat nicht mehr genug varianz in seed NULL
 
 
-#9. Regressionsanalyse UTAUT2 und Application Intention  ------
+#9. Regressionsanalysen ------
+
+#Aint lineare regression mit allen aint
+model_reg_U2_Aint <- lm(mean_response_aint ~ PE + EE + SI + HM + FC + BI + UB, data = combinedDF)
+
+#UEQ-S vs aint
+
+#aint ttest
+t.test(mean_response_aint ~ gruppe, data = combinedDF)
+#p von 0,6 ... ups
+
+#ueq-s ttest
+t.test(mean_response_ueqs ~ gruppe, data = combinedDF)
 #10. Visualisierung  -------
 # * normalverteilung ueqs ----
 ggplot(combinedDF, aes(sample=mean_response_ueqs)) +
@@ -308,8 +337,9 @@ plot(boot_pls, title = "Modell mit Bootstrapping")
 plot(boot_pls_2000, title ="Boot 2k")
 plot(boot_pls_4000, title="4k")
 
-#alles ab 5k hat nicht mehr genug varianz in seed NULL
 
+#U2 Variablen mit Aint
+plot_model(model_reg_U2_Aint, type = "est", show.values = TRUE, value.offset = .3)
 
 
 
