@@ -27,7 +27,7 @@ library(psych)
 library(plspm)
 library(seminr)
 library(sjPlot)
-
+library(car)
 
 #Funktion zur Berechnung zentraler Kennzahlen
 
@@ -110,6 +110,15 @@ combinedDF$UB <- rowMeans(combinedDF[, 35:37])
 # * AINT Mittelwert  ----
 combinedDF$mean_response_aint <- rowMeans(combinedDF[,38:40], na.rm = TRUE)
 
+#aint skaliert, um zu sehen, was dann passiert:
+combinedDF$mean_response_aint_centered <- combinedDF$mean_response_aint - mean(combinedDF$mean_response_aint)
+# Z-Transformation
+
+combinedDF$mean_response_aint_z <- as.vector(
+  scale(combinedDF$mean_response_aint, center = TRUE, scale = TRUE)
+)
+
+
 #4.  Analyse der Stichprobe  ----------
 
 # * Anzahl  ------
@@ -151,6 +160,16 @@ for (var in utaut_vars) {
 shapiro_result <- shapiro.test(combinedDF$mean_response_ueqs)
 cat("\nShapiro-Wilk-Test für mean_response_ueqs:\n")
 print(shapiro_result)
+
+
+# Normalitätstest für Aint
+shapiro_result_aint <- shapiro.test(combinedDF$mean_response_aint)
+cat("\nShapiro-Wilk-Test für mean_response_ueqs:\n")
+print(shapiro_result_aint)
+
+#da nicht normal -> levene test zur varianzhomogenität
+leveneTest(mean_response_aint ~ gruppe, data = combinedDF)
+
 
 
 #6.  Reliabilitätsanalyse -> Cronbachs Alpha für beide Konstrukte  --------
@@ -201,12 +220,13 @@ var_test_result_UEQS <- var.test(mean_response_ueqs ~ gruppe, data = combinedDF)
 cat("\nVarianzenvergleich (F-Test):\n")
 print(var_test_result_UEQS)
 
-#Vergleich der Aint Varianzen zwischen den Gruppen (F-Test)
-
+#Vergleich der Aint Varianzen zwischen den Gruppen (F-Test) -> !!geht eigentlich nicht, da aint nicht normalverteilt ist
+#-> sowohl t als auch f-test nehmen normalität an, auch wenn welchs f test anscheinend "robust" gegen non-normalität ist.
 
 var_test_result_Aint <- var.test(mean_response_aint ~ gruppe, data = combinedDF)
 cat("\nVarianzenvergleich (F-Test):\n")
 print(var_test_result_Aint)
+
 
 
 
@@ -323,6 +343,26 @@ t.test(mean_response_ueqs ~ gruppe, data = combinedDF)
 # * normalverteilung ueqs ----
 ggplot(combinedDF, aes(sample=mean_response_ueqs)) +
   stat_qq() + stat_qq_line()
+#verteilung aint
+ggplot(combinedDF, aes(x=mean_response_aint)) + geom_histogram(binwidth=.5)
+
+ggplot(combinedDF, aes(x = mean_response_aint)) +
+  geom_density(fill = "steelblue", alpha = 0.5) +
+  facet_wrap(~ gruppe) +
+  labs(title = "Verteilung von mean_response_aint nach Gruppe",
+       x = "mean_response_aint", 
+       y = "Häufigkeit") +
+  theme_minimal()
+
+#verteilung z transformiert
+
+ggplot(combinedDF, aes(x = mean_response_aint_z)) +
+  geom_density(fill = "steelblue", alpha = 0.5) +
+  facet_wrap(~ gruppe) +
+  labs(title = "Verteilung von mean_response_aint nach Gruppe centered",
+       x = "mean_response_aint", 
+       y = "Häufigkeit") +
+  theme_minimal()
 
 
 
@@ -335,7 +375,7 @@ plot(sem_model, title = "Model ohne Bootstrapping")
 # * Modell mit Bootstrapping
 plot(boot_pls, title = "Modell mit Bootstrapping")
 plot(boot_pls_2000, title ="Boot 2k")
-plot(boot_pls_4000, title="4k")
+plot(boot_pls_4000)
 
 
 #U2 Variablen mit Aint
